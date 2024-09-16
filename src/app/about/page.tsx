@@ -1,7 +1,7 @@
 function AboutPage() {
   return (
-    <div className="container mx-auto space-y-20">
-      <h1>About</h1>
+    <div className="container mx-auto space-y-20 flex-grow">
+      <h1 className="text-center text-2xl font-extrabold m-10">About</h1>
       <p>This is the about page</p>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate
