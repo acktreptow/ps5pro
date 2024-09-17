@@ -36,6 +36,18 @@
     "fps": "60fps"
   },
   {
+    "name": "Dragon's Dogma 2",
+    "id": "DD2",
+    "genre": "Action RPG",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "March 22, 2024",
+    "metacritic": 86,
+    "pssr": true,
+    "resolution": "1080p",
+    "fps": "30fps"
+  },
+  {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
     "genre": "Action-Adventure",
