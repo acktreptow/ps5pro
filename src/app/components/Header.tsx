@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function Header() {
   return (
     <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex items-center justify-between text-2xl p-10">
@@ -6,7 +8,7 @@ function Header() {
       </div>
       <div>
         <ul className="flex space-x-10">
-          <li>About</li>
+          <Link href="/about">About</Link>
           <li>Games List</li>
           <li>Hardware Comparison</li>
         </ul>
