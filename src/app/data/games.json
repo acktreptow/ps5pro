@@ -24,6 +24,18 @@
     "fps": "60fps"
   },
   {
+    "name": "Demon's Souls",
+    "id": "DS",
+    "genre": "Soulsborne",
+    "developer": "Bluepoint Games",
+    "psStudios": true,
+    "release": "November 12, 2020",
+    "metacritic": 92,
+    "pssr": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
     "genre": "Action-Adventure",
