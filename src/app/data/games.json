@@ -12,6 +12,18 @@
     "fps": "60fps"
   },
   {
+    "name": "Assassin's Creed: Shadows",
+    "id": "AC: Shadows",
+    "genre": "Action RPG",
+    "developer": "Ubisoft Quebec",
+    "psStudios": false,
+    "release": "November 15, 2024",
+    "metacritic": "N/A",
+    "pssr": false,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
     "genre": "Action-Adventure",
