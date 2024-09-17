@@ -48,6 +48,18 @@
     "fps": "30fps"
   },
   {
+    "name": "Final Fantasy 7 Rebirth",
+    "id": "FF7 Rebirth",
+    "genre": "JRPG",
+    "developer": "Square Enix Creative Business Unit I",
+    "psStudios": false,
+    "release": "February 29, 2024",
+    "metacritic": 92,
+    "pssr": true,
+    "resolution": "1800p",
+    "fps": "60fps"
+  },
+  {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
     "genre": "Action-Adventure",
