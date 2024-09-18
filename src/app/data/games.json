@@ -70,5 +70,17 @@
     "pssr": true,
     "resolution": "1440p - 1800p",
     "fps": "30fps - 60fps"
+  },
+  {
+    "name": "Gran Turismo 7",
+    "id": "GT7",
+    "genre": "Racing",
+    "developer": "Polyphony Digital",
+    "psStudios": true,
+    "release": "March 4, 2022",
+    "metacritic": 87,
+    "pssr": true,
+    "resolution": "1180p - 4k",
+    "fps": "60fps"
   }
 ]
