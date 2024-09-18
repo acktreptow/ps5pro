@@ -156,6 +156,19 @@
     "fps": "120fps"
   },
   {
+    "name": "The Last of Us Part I",
+    "id": "TLOU",
+    "genre": "Action-Adventure",
+    "developer": "Naughty Dog",
+    "psStudios": true,
+    "release": "September 2, 2024",
+    "metacritic": 89,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p - 1800p",
+    "fps": "30fps - 60fps"
+  },
+  {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
     "genre": "Action-Adventure",
