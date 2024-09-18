@@ -82,5 +82,17 @@
     "pssr": true,
     "resolution": "1180p - 4k",
     "fps": "60fps"
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "id": "Hogwarts",
+    "genre": "Action RPG",
+    "developer": "Avalanche Software",
+    "psStudios": false,
+    "release": "February 7, 2023",
+    "metacritic": 84,
+    "pssr": true,
+    "resolution": "1800p",
+    "fps": "30fps"
   }
 ]
