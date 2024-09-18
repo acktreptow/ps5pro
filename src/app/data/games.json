@@ -130,5 +130,17 @@
     "pssr": true,
     "resolution": "1440p",
     "fps": "60fps"
+  },
+  {
+    "name": "The Crew Motorfest",
+    "id": "The Crew 3",
+    "genre": "Racing",
+    "developer": "Ubisoft Ivory Tower",
+    "psStudios": false,
+    "release": "September 14, 2023",
+    "metacritic": 76,
+    "pssr": true,
+    "resolution": "4k",
+    "fps": "60fps"
   }
 ]
