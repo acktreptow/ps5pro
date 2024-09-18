@@ -106,5 +106,17 @@
     "pssr": false,
     "resolution": "4K",
     "fps": "60fps"
+  },
+  {
+    "name": "Marvel's Spider-Man 2",
+    "id": "Spider-Man 2",
+    "genre": "Action-Adventure",
+    "developer": "Insomniac Games",
+    "psStudios": true,
+    "release": "October 28, 2023",
+    "metacritic": 90,
+    "pssr": true,
+    "resolution": "1800p",
+    "fps": "60fps"
   }
 ]
