@@ -130,6 +130,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Returnal",
+    "id": "Returnal",
+    "genre": "Third-Person Shooter Roguelike",
+    "developer": "Housemarque",
+    "psStudios": true,
+    "release": "April 30, 2021",
+    "metacritic": 86,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1800p",
+    "fps": "60fps"
+  },
+  {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
     "genre": "Racing",
