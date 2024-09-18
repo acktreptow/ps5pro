@@ -142,5 +142,17 @@
     "pssr": true,
     "resolution": "4k",
     "fps": "60fps"
+  },
+  {
+    "name": "The First Descendant",
+    "id": "First Descendant",
+    "genre": "Third-Person Shooter",
+    "developer": "Nexon",
+    "psStudios": false,
+    "release": "July 2, 2024",
+    "metacritic": 52,
+    "pssr": true,
+    "resolution": "4K",
+    "fps": "120fps"
   }
 ]
