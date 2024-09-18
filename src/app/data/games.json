@@ -180,5 +180,18 @@
     "rt": false,
     "resolution": "1440p - 1800p",
     "fps": "30fps - 60fps"
+  },
+  {
+    "name": "Until Dawn",
+    "id": "Until Dawn",
+    "genre": "Survival Horror Interactive Drama",
+    "developer": "Ballistic Moon",
+    "psStudios": true,
+    "release": "October 4, 2024",
+    "metacritic": 79,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "30fps"
   }
 ]
