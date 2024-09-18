@@ -118,5 +118,17 @@
     "pssr": true,
     "resolution": "1800p",
     "fps": "60fps"
+  },
+  {
+    "name": "Ratchet & Clank: Rift Apart",
+    "id": "Rift Apart",
+    "genre": "Platformer",
+    "developer": "Insomniac Games",
+    "psStudios": true,
+    "release": "June 11, 2021",
+    "metacritic": 88,
+    "pssr": true,
+    "resolution": "1440p",
+    "fps": "60fps"
   }
 ]
