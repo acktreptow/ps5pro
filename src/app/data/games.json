@@ -94,5 +94,17 @@
     "pssr": true,
     "resolution": "1800p",
     "fps": "30fps"
+  },
+  {
+    "name": "Horizon Forbidden West",
+    "id": "H:FW",
+    "genre": "Action RPG",
+    "developer": "Guerilla Games",
+    "psStudios": true,
+    "release": "February 18, 2022",
+    "metacritic": 88,
+    "pssr": false,
+    "resolution": "4K",
+    "fps": "60fps"
   }
 ]
