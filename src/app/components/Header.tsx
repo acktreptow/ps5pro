@@ -11,7 +11,7 @@ function Header() {
       <div>
         <ul className="flex space-x-10">
           <Link href="/about">About</Link>
-          <Link href="/games">Games List</Link>
+          <Link href="/gameslist">Games List</Link>
           <Link href="/hardware">Hardware Comparison</Link>
         </ul>
       </div>
