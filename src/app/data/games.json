@@ -156,6 +156,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Silent Hill 2",
+    "id": "SH2",
+    "genre": "Survival Horror",
+    "developer": "Bloober Team",
+    "psStudios": false,
+    "release": "October 8, 2024",
+    "metacritic": 84,
+    "pssr": true,
+    "rt": true,
+    "resolution": "1800p",
+    "fps": "60fps"
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "genre": "Action-Adventure",
