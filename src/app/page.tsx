@@ -3,10 +3,11 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import gamesData from "../app/data/games.json";
+import ps5Pro from "../../public/images/PS5-Pro.jpg";
 
 function Home() {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto flex-grow">
       <h1 className="text-6xl text-center py-10 font-bold">PS5 Pro</h1>
       <h2 className="text-4xl text-center py-10 font-semibold">
         Everything you need to know about the Pro versions of PS5 games
@@ -20,11 +21,12 @@ function Home() {
         </select>
         <button
           type="submit"
-          className="block mx-auto border font-semibold p-4 mb-8 "
+          className="block mx-auto border font-semibold p-4 mb-8"
         >
           Review Game Details
         </button>
       </form>
+      |<Image src={ps5Pro} alt="PS5 Pro" width={1000} className="mx-auto" />
     </div>
   );
 }
