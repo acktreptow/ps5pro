@@ -39,6 +39,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Call of Duty: Black Ops 6",
+    "id": "COD: BO6",
+    "genre": "First-Person Shooter",
+    "developer": "Treyarch (Multiplayer) & Raven Software (Singleplayer)",
+    "psStudios": false,
+    "release": "October 25, 2024",
+    "metacritic": 92,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "genre": "Soulsborne",
