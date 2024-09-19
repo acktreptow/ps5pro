@@ -16,6 +16,12 @@ function Home() {
             <option key={game.id}>{game.name}</option>
           ))}
         </select>
+        <button
+          type="submit"
+          className="block mx-auto border font-semibold p-4 mb-8 "
+        >
+          Review Game Details
+        </button>
       </form>
     </div>
   );
