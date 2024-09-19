@@ -26,6 +26,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Avatar: Frontiers of Pandora",
+    "id": "Avatar: FoP",
+    "genre": "Action-Adventure",
+    "developer": "Massive Entertainment",
+    "psStudios": false,
+    "release": "December 7, 2023",
+    "metacritic": 72,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "genre": "Soulsborne",
