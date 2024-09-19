@@ -143,6 +143,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Star Wars Outlaws",
+    "id": "SW: Outlaws",
+    "genre": "Action-Adventure",
+    "developer": "Massive Entertainment",
+    "psStudios": true,
+    "release": "August 30, 2024",
+    "metacritic": 76,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
     "genre": "Racing",
