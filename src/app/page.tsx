@@ -1,3 +1,9 @@
+"use client";
+import { useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
+import gamesData from "../data/games.json";
+
 function Home() {
   return (
     <div className="container mx-auto">
