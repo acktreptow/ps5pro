@@ -143,6 +143,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Final Fantasy 16",
+    "id": "FF16",
+    "genre": "JRPG",
+    "developer": "Square Enix Creative Business Unit III",
+    "psStudios": false,
+    "release": "June 22, 2023",
+    "metacritic": 87,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Gran Turismo 7",
     "id": "GT7",
     "genre": "Racing",
