@@ -104,6 +104,19 @@
     "fps": "30fps"
   },
   {
+    "name": "EA Sports FC 25",
+    "id": "Fifa 25",
+    "genre": "Sports",
+    "developer": "EA Vancouver",
+    "psStudios": false,
+    "release": "September 27, 2024",
+    "metacritic": 86,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
     "genre": "JRPG",
