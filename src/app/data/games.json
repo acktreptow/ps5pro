@@ -26,6 +26,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "genre": "Platformer",
+    "developer": "Team Asobi",
+    "psStudios": true,
+    "release": "September 6, 2024",
+    "metacritic": 94,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Avatar: Frontiers of Pandora",
     "id": "Avatar: FoP",
     "genre": "Action-Adventure",
