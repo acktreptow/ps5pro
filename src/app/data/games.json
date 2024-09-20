@@ -39,6 +39,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Black Myth Wukong",
+    "id": "Black Myth",
+    "genre": "Action role-playing",
+    "developer": "Game Science",
+    "psStudios": false,
+    "release": "August 20, 2024",
+    "metacritic": 75,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "40fps"
+  },
+  {
     "name": "Call of Duty: Black Ops 6",
     "id": "COD: BO6",
     "genre": "First-Person Shooter",
