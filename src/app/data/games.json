@@ -91,6 +91,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Dragon Age: The Veilguard",
+    "id": "Dragon Age 4",
+    "genre": "Action RPG",
+    "developer": "Bioware",
+    "psStudios": false,
+    "release": "October 31, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Dragon's Dogma 2",
     "id": "DD2",
     "genre": "Action RPG",
