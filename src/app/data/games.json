@@ -297,5 +297,18 @@
     "rt": false,
     "resolution": "4K",
     "fps": "30fps"
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "id": "Space Marine 2",
+    "genre": "Third-Person Shooter, hack and slash",
+    "developer": "Saber Interactive",
+    "psStudios": false,
+    "release": "September 9, 2024",
+    "metacritic": 82,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1800p",
+    "fps": "60fps"
   }
 ]
