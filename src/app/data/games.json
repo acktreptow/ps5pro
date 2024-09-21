@@ -299,6 +299,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Stellar Blade",
+    "id": "Stellar Blade",
+    "genre": "Action-Adventure",
+    "developer": "Shift Up",
+    "psStudios": true,
+    "release": "April 26, 2024",
+    "metacritic": 81,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
     "genre": "Racing",
