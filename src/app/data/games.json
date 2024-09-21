@@ -260,6 +260,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Rise of the Ronin",
+    "id": "RotR",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "psStudios": true,
+    "release": "March 22, 2024",
+    "metacritic": 76,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "Silent Hill 2",
     "id": "SH2",
     "genre": "Survival Horror",
