@@ -234,6 +234,19 @@
     "fps": "60fps"
   },
   {
+    "name": "MLB The Show 24",
+    "id": "MLB 24",
+    "genre": "Sports",
+    "developer": "San Diego Studio",
+    "psStudios": true,
+    "release": "March 19, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "genre": "Platformer",
