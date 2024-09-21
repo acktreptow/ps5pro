@@ -169,6 +169,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Hellldivers II",
+    "id": "Helldivers",
+    "genre": "Third-Person Shooter",
+    "developer": "Arrowhead Game Studios",
+    "psStudios": true,
+    "release": "February 8, 2024",
+    "metacritic": 82,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "Hogwarts Legacy",
     "id": "Hogwarts",
     "genre": "Action RPG",
