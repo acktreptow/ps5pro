@@ -78,6 +78,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Call of Duty: Modern Warfare 3",
+    "id": "COD: MW3",
+    "genre": "First-Person Shooter",
+    "developer": "Sledgehammer Games",
+    "psStudios": false,
+    "release": "November 10, 2023",
+    "metacritic": 56,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "genre": "Soulsborne",
