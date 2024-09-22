@@ -260,6 +260,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Resident Evil 4 Remake",
+    "id": "RE4",
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "March 24, 2023",
+    "metacritic": 88,
+    "pssr": true,
+    "rt": true,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "Third-Person Shooter Roguelike",
