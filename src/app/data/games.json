@@ -208,6 +208,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Immortals of Aveum",
+    "id": "IoA",
+    "genre": "First-Person Shooter",
+    "developer": "Ascendant Studios",
+    "psStudios": false,
+    "release": "August 22, 2023",
+    "metacritic": 69,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "genre": "Sports",
