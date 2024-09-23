@@ -260,6 +260,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Life is Strange: Double Exposure",
+    "id": "LiS: DE",
+    "genre": "Adventure Interactive Drama",
+    "developer": "Deck Nine",
+    "psStudios": false,
+    "release": "October 29, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "genre": "Sports",
