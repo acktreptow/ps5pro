@@ -182,6 +182,19 @@
     "fps": "60fps"
   },
   {
+    "name": "God of War Ragnarök",
+    "id": "GOW:R",
+    "genre": "Action-Adventure Hack and Slash",
+    "developer": "Santa Monica Studio",
+    "psStudios": true,
+    "release": "November 9, 2022",
+    "metacritic": 94,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "Gran Turismo 7",
     "id": "GT7",
     "genre": "Racing",
