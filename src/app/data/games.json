@@ -260,6 +260,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Lego Horizon Adventures",
+    "id": "Lego Horizon",
+    "genre": "Action-Adventure",
+    "developer": "Guerilla Games & Studio Gobo",
+    "psStudios": true,
+    "release": "Q4, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Life is Strange: Double Exposure",
     "id": "LiS: DE",
     "genre": "Adventure Interactive Drama",
