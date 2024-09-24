@@ -429,6 +429,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Tekken 8",
+    "id": "Tekken 8",
+    "genre": "Fighting",
+    "developer": "Bandai Namco Studios Arika",
+    "psStudios": false,
+    "release": "January 26, 2024",
+    "metacritic": 90,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
     "genre": "Racing",
