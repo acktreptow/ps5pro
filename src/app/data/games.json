@@ -403,6 +403,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Slitterhead",
+    "id": "Slitterhead",
+    "genre": "Survival Horror",
+    "developer": "Bokeh Game Studio",
+    "psStudios": false,
+    "release": "November 8, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "genre": "Action-Adventure",
