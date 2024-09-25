@@ -234,6 +234,19 @@
     "fps": "30fps"
   },
   {
+    "name": "Horizon Zero Dawn Remastered",
+    "id": "H:ZD",
+    "genre": "Action RPG",
+    "developer": "Guerilla Games",
+    "psStudios": true,
+    "release": "October 31, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Horizon Forbidden West",
     "id": "H:FW",
     "genre": "Action RPG",
