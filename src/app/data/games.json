@@ -312,6 +312,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Marvel's Spider-Man Remastered",
+    "id": "Spider-Man",
+    "genre": "Action-Adventure",
+    "developer": "Insomniac Games",
+    "psStudios": true,
+    "release": "November 12, 2020",
+    "metacritic": 87,
+    "pssr": true,
+    "rt": true,
+    "resolution": "1800p",
+    "fps": "60fps"
+  },
+  {
     "name": "Marvel's Spider-Man 2",
     "id": "Spider-Man 2",
     "genre": "Action-Adventure",
