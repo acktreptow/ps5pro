@@ -403,6 +403,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Resident Evil Village",
+    "id": "RE8",
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "March 7, 2021",
+    "metacritic": 84,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "Third-Person Shooter Roguelike",
