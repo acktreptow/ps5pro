@@ -351,6 +351,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Metal Gear Solid Delta",
+    "id": "MGS3 Remake",
+    "genre": "Tactical Espionage Action",
+    "developer": "Konami & Virtuos",
+    "psStudios": false,
+    "release": "N/A",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "MLB The Show 24",
     "id": "MLB 24",
     "genre": "Sports",
