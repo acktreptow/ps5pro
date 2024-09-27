@@ -351,6 +351,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Kayak VR Mirage",
+    "id": "Kayak VR",
+    "genre": "Simulation Driving/Racing",
+    "developer": "Better Than Life",
+    "psStudios": false,
+    "release": "February 22, 2023",
+    "metacritic": 73,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Lego Horizon Adventures",
     "id": "Lego Horizon",
     "genre": "Action-Adventure",
