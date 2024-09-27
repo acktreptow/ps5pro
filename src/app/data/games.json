@@ -468,7 +468,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Metal Gear Solid Delta",
+    "name": "Metal Gear Solid Delta: Snake Eater",
     "id": "MGS3 Remake",
     "genre": "Tactical Espionage Action",
     "developer": "Konami & Virtuos",
@@ -501,6 +501,19 @@
     "psStudios": false,
     "release": "September 19, 2023",
     "metacritic": 83,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
+    "name": "My Little Universe",
+    "id": "MLU",
+    "genre": "Adventure, Simulation",
+    "developer": "Saygames",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
     "pssr": true,
     "rt": false,
     "resolution": "4K",
