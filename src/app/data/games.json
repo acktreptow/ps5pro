@@ -104,6 +104,19 @@
     "fps": "120fps"
   },
   {
+    "name": "CyubeVR",
+    "id": "CyubeVR",
+    "genre": "Adventure",
+    "developer": "Stonebrick Studios",
+    "psStudios": false,
+    "release": "March 16, 2024",
+    "metacritic": "N/A",
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "genre": "Soulsborne",
