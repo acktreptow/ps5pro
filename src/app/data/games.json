@@ -156,6 +156,19 @@
     "fps": "60fps"
   },
   {
+    "name": "EA College Football 25",
+    "id": "College Football 25",
+    "genre": "Sports",
+    "developer": "EA Orlando",
+    "psStudios": false,
+    "release": "July 19, 2024",
+    "metacritic": 83,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "EA Sports FC 25",
     "id": "Fifa 25",
     "genre": "Sports",
