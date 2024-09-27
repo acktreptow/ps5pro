@@ -845,6 +845,19 @@
     "fps": "30fps"
   },
   {
+    "name": "Warframe",
+    "id": "Warframe",
+    "genre": "Action RPG, Third-Person Shooter",
+    "developer": "Digital Extremes",
+    "psStudios": false,
+    "release": "November 26, 2020",
+    "metacritic": 85,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Warhammer 40,000: Space Marine 2",
     "id": "Space Marine 2",
     "genre": "Third-Person Shooter, hack and slash",
