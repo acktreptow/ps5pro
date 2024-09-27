@@ -390,6 +390,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Like a Dragon: Pirate Yakuza in Horizon",
+    "id": "Pirate Yakuza",
+    "genre": "Action-Adventure",
+    "developer": "Ryu Ga Gotoku Studio",
+    "psStudios": false,
+    "release": "February 28, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "genre": "Sports",
