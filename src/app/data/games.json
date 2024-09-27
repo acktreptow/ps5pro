@@ -572,6 +572,19 @@
     "fps": "60fps"
   },
   {
+    "name": "[REDACTED]",
+    "id": "Redacted",
+    "genre": "Roguelite",
+    "developer": "Striking Distance Studios",
+    "psStudios": false,
+    "release": "October 28, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "Resident Evil 4 Remake",
     "id": "RE4",
     "genre": "Survival Horror",
