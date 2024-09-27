@@ -364,6 +364,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Lies of P",
+    "id": "LoP",
+    "genre": "Soulsborne",
+    "developer": "Newowiz Games & Round8 Studio",
+    "psStudios": false,
+    "release": "September 19, 2023",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Life is Strange: Double Exposure",
     "id": "LiS: DE",
     "genre": "Adventure Interactive Drama",
