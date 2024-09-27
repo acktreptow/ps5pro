@@ -845,6 +845,19 @@
     "fps": "30fps"
   },
   {
+    "name": "War Thunder",
+    "id": "War Thunder",
+    "genre": "Vehicular Combat MMO",
+    "developer": "Gaijin Entertainment",
+    "psStudios": false,
+    "release": "November 16, 2020",
+    "metacritic": "N/A",
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Warframe",
     "id": "Warframe",
     "genre": "Action RPG, Third-Person Shooter",
