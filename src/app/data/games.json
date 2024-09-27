@@ -546,6 +546,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Professional Baseball Spirits 2024-2025",
+    "id": "Pro Baseball 24",
+    "genre": "Sports",
+    "developer": "Konami",
+    "psStudios": false,
+    "release": "October 16, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "genre": "Platformer",
