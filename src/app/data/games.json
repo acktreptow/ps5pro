@@ -416,6 +416,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Marvel Rivals",
+    "id": "Marvel Rivals",
+    "genre": "Hero Shooter",
+    "developer": "NetEase Games",
+    "psStudios": false,
+    "release": "December 6, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Marvel's Spider-Man Remastered",
     "id": "Spider-Man",
     "genre": "Action-Adventure",
