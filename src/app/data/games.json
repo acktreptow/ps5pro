@@ -611,6 +611,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Retrieval",
+    "id": "Retrieval",
+    "genre": "Survival Horror Action-Adventure",
+    "developer": "333 Studios",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "Third-Person Shooter Roguelike",
