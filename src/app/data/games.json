@@ -143,6 +143,19 @@
     "fps": "30fps"
   },
   {
+    "name": "Dynasty Warriors: Origins",
+    "id": "DW: Origins",
+    "genre": "Musou",
+    "developer": "Koei Tecmo & Omega Force",
+    "psStudios": false,
+    "release": "January 17, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "EA Sports FC 25",
     "id": "Fifa 25",
     "genre": "Sports",
