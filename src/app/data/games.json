@@ -195,6 +195,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Enlisted",
+    "id": "Enlisted",
+    "genre": "Multiplayer FPS",
+    "developer": "Darkflow Software",
+    "psStudios": false,
+    "release": "March 2, 2021",
+    "metacritic": 70,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
     "genre": "JRPG",
