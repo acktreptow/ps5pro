@@ -520,6 +520,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Naraka: Bladepoint",
+    "id": "Naraka",
+    "genre": "Battle Royale",
+    "developer": "24 Entertainment",
+    "psStudios": false,
+    "release": "July 13, 2023",
+    "metacritic": 71,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "genre": "Platformer",
