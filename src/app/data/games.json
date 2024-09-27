@@ -689,6 +689,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Star Wars Jedi: Survivor",
+    "id": "SWJ: Survivor",
+    "genre": "Action-Adventure",
+    "developer": "Respawn Entertainment",
+    "psStudios": false,
+    "release": "April 28, 2023",
+    "metacritic": 85,
+    "pssr": true,
+    "rt": true,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "genre": "Action-Adventure",
