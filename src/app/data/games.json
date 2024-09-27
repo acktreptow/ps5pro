@@ -676,6 +676,19 @@
     "fps": "60fps"
   },
   {
+    "name": "SPINE - This is Gun Fu",
+    "id": "SPINE",
+    "genre": "Action",
+    "developer": "Nekki",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "genre": "Action-Adventure",
