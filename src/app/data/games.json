@@ -533,6 +533,19 @@
     "fps": "120fps"
   },
   {
+    "name": "No Man's Sky",
+    "id": "NMS",
+    "genre": "Action-Adventure Survival",
+    "developer": "Hello Games",
+    "psStudios": false,
+    "release": "August 9, 2016",
+    "metacritic": 71,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "genre": "Platformer",
