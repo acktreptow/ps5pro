@@ -182,6 +182,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Empire of the Ants",
+    "id": "EotA",
+    "genre": "Strategy",
+    "developer": "Tower Five",
+    "psStudios": false,
+    "release": "November 7, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
     "genre": "JRPG",
