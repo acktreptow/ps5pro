@@ -741,6 +741,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Test Drive Unlimited: Solar Crown",
+    "id": "TDU: Solar Crown",
+    "genre": "Racing",
+    "developer": "KT Racing",
+    "psStudios": false,
+    "release": "September 12, 2024",
+    "metacritic": 55,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "genre": "Survival Horror",
