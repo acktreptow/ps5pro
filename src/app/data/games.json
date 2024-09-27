@@ -520,6 +520,19 @@
     "fps": "60fps"
   },
   {
+    "name": "The Callisto Protocol",
+    "id": "Callisto Protocol",
+    "genre": "Survival Horror",
+    "developer": "Striking Distance Studios",
+    "psStudios": false,
+    "release": "December 2, 2022",
+    "metacritic": 69,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4k",
+    "fps": "60fps"
+  },
+  {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
     "genre": "Racing",
