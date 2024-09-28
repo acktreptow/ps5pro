@@ -2,15 +2,15 @@
   {
     "name": "A Plague Tale: Requiem",
     "id": "Plague Tale 2",
-    "genre": "Action-Adventure Stealth",
-    "developer": "Asoobo Studio",
+    "genre": "Action-Adventure, Stealth",
+    "developer": "Asobo Studio",
     "psStudios": false,
     "release": "October 18, 2022",
     "metacritic": 82,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
-    "resolution": "1440p",
-    "fps": "60fps"
+    "resolution": "TBA",
+    "fps": "TBA"
   },
   {
     "name": "Alan Wake 2",
@@ -22,8 +22,13 @@
     "metacritic": 89,
     "pssr": true,
     "rt": true,
-    "resolution": "1440p - 4k",
-    "fps": "60fps"
+    "rtTypes": "TBA",
+    "resolution": "4k",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4k 30fps with Ray Tracing",
+      "performance": "4K 60fps"
+    }
   },
   {
     "name": "Assassin's Creed: Shadows",
@@ -31,11 +36,12 @@
     "genre": "Action RPG",
     "developer": "Ubisoft Quebec",
     "psStudios": false,
-    "release": "November 15, 2024",
-    "metacritic": "N/A",
-    "pssr": false,
+    "release": "February 14, 2025",
+    "metacritic": 0,
+    "pssr": true,
     "rt": true,
-    "resolution": "1440p",
+    "rtTypes": "Ray-traced Global Illumination",
+    "resolution": "TBA",
     "fps": "60fps"
   },
   {
@@ -46,10 +52,10 @@
     "psStudios": true,
     "release": "September 6, 2024",
     "metacritic": 94,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "pssr": false,
+    "rt": false,
+    "resolution": "TBA",
+    "fps": "TBA"
   },
   {
     "name": "Avatar: Frontiers of Pandora",
@@ -59,10 +65,10 @@
     "psStudios": false,
     "release": "December 7, 2023",
     "metacritic": 72,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
-    "resolution": "4k",
-    "fps": "60fps"
+    "resolution": "TBA",
+    "fps": "TBA"
   },
   {
     "name": "Black Myth Wukong",
