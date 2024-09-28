@@ -689,6 +689,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Rogue Flight",
+    "id": "Rogue Flight",
+    "genre": "Survival Horror",
+    "developer": "Traunt Pixel",
+    "psStudios": false,
+    "release": "2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "1800p",
+    "fps": "60fps"
+  },
+  {
     "name": "Silent Hill 2",
     "id": "SH2",
     "genre": "Survival Horror",
