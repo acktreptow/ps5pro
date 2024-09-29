@@ -1,18 +1,5 @@
 [
   {
-    "name": "A Plague Tale: Requiem",
-    "id": "Plague Tale 2",
-    "genre": "Action-Adventure, Stealth",
-    "developer": "Asobo Studio",
-    "psStudios": false,
-    "release": "October 18, 2022",
-    "metacritic": 82,
-    "pssr": false,
-    "rt": false,
-    "resolution": "TBA",
-    "fps": "TBA"
-  },
-  {
     "name": "Alan Wake 2",
     "id": "AW2",
     "genre": "Survival Horror",
