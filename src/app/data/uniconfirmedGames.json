@@ -11,5 +11,70 @@
     "rt": false,
     "resolution": "TBA",
     "fps": "TBA"
+  },
+  {
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "genre": "Platformer",
+    "developer": "Team Asobi",
+    "psStudios": true,
+    "release": "September 6, 2024",
+    "metacritic": 94,
+    "pssr": false,
+    "rt": false,
+    "resolution": "TBA",
+    "fps": "TBA"
+  },
+  {
+    "name": "Avatar: Frontiers of Pandora",
+    "id": "Avatar: FoP",
+    "genre": "Action-Adventure",
+    "developer": "Massive Entertainment",
+    "psStudios": false,
+    "release": "December 7, 2023",
+    "metacritic": 72,
+    "pssr": false,
+    "rt": true,
+    "resolution": "TBA",
+    "fps": "TBA"
+  },
+  {
+    "name": "Black Myth Wukong",
+    "id": "Black Myth",
+    "genre": "Action role-playing",
+    "developer": "Game Science",
+    "psStudios": false,
+    "release": "August 20, 2024",
+    "metacritic": 75,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k",
+    "fps": "40fps"
+  },
+  {
+    "name": "Call of Duty: Black Ops 6",
+    "id": "COD: BO6",
+    "genre": "First-Person Shooter",
+    "developer": "Treyarch (Multiplayer) & Raven Software (Singleplayer)",
+    "psStudios": false,
+    "release": "October 25, 2024",
+    "metacritic": 92,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3",
+    "id": "COD: MW3",
+    "genre": "First-Person Shooter",
+    "developer": "Sledgehammer Games",
+    "psStudios": false,
+    "release": "November 10, 2023",
+    "metacritic": 56,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
   }
 ]
