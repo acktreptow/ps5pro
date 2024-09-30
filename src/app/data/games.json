@@ -201,19 +201,6 @@
     "fps": "120fps"
   },
   {
-    "name": "God of War Ragnarök",
-    "id": "GOW:R",
-    "genre": "Action-Adventure Hack and Slash",
-    "developer": "Santa Monica Studio",
-    "psStudios": true,
-    "release": "November 9, 2022",
-    "metacritic": 94,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
-  },
-  {
     "name": "Gran Turismo 7",
     "id": "GT7",
     "genre": "Racing",
@@ -224,19 +211,6 @@
     "pssr": true,
     "rt": true,
     "resolution": "1180p - 4k",
-    "fps": "60fps"
-  },
-  {
-    "name": "Hellldivers II",
-    "id": "Helldivers",
-    "genre": "Third-Person Shooter",
-    "developer": "Arrowhead Game Studios",
-    "psStudios": true,
-    "release": "February 8, 2024",
-    "metacritic": 82,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
     "fps": "60fps"
   },
   {
@@ -277,19 +251,6 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps"
-  },
-  {
-    "name": "Immortals of Aveum",
-    "id": "IoA",
-    "genre": "First-Person Shooter",
-    "developer": "Ascendant Studios",
-    "psStudios": false,
-    "release": "August 22, 2023",
-    "metacritic": 69,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
   },
   {
     "name": "Kayak VR Mirage",
