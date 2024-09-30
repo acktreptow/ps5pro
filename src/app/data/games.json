@@ -45,6 +45,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Dead Rising Deluxe Remaster",
+    "id": "Dead Rising 1",
+    "genre": "Action Adeventure",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "September 19, 2024",
+    "metacritic": 85,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "genre": "Soulsborne",
