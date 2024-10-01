@@ -799,6 +799,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Unreal Kingdoms",
+    "id": "Unreal Kingdoms",
+    "genre": "MMORPG",
+    "developer": "Cyber Apes Yacht Club",
+    "psStudios": false,
+    "release": "TBD",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "Until Dawn",
     "id": "Until Dawn",
     "genre": "Survival Horror Interactive Drama",
