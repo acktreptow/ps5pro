@@ -487,6 +487,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Outbreak: Shades of Horror Chromatic Split",
+    "id": "Outbreak",
+    "genre": "Survival Horror",
+    "developer": "Dead Drop Studios",
+    "psStudios": false,
+    "release": "October, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Professional Baseball Spirits 2024-2025",
     "id": "Pro Baseball 24",
     "genre": "Sports",
