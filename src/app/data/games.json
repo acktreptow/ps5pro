@@ -799,6 +799,19 @@
     "fps": "30fps - 60fps"
   },
   {
+    "name": "The Midnight Town Stories: Adam's Diary",
+    "id": "Midnight Tow Stories",
+    "genre": "Third-Person Shooter",
+    "developer": "Dark Ocean Games",
+    "psStudios": false,
+    "release": "September 29, 2023",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Towers of Aghasba",
     "id": "ToA",
     "genre": "Action Adeventure",
