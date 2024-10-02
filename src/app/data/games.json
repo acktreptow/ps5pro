@@ -201,19 +201,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Final Fantasy 16",
-    "id": "FF16",
-    "genre": "JRPG",
-    "developer": "Square Enix Creative Business Unit III",
-    "psStudios": false,
-    "release": "June 22, 2023",
-    "metacritic": 87,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
     "name": "Fortnite",
     "id": "Fortnite",
     "genre": "Battle Royale",
@@ -292,19 +279,6 @@
     "fps": "120fps"
   },
   {
-    "name": "Lego Horizon Adventures",
-    "id": "Lego Horizon",
-    "genre": "Action-Adventure",
-    "developer": "Guerilla Games & Studio Gobo",
-    "psStudios": true,
-    "release": "Q4, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
     "name": "Lies of P",
     "id": "LoP",
     "genre": "Soulsborne",
@@ -312,19 +286,6 @@
     "psStudios": false,
     "release": "September 19, 2023",
     "metacritic": 80,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
-    "name": "Life is Strange: Double Exposure",
-    "id": "LiS: DE",
-    "genre": "Adventure Interactive Drama",
-    "developer": "Deck Nine",
-    "psStudios": false,
-    "release": "October 29, 2024",
-    "metacritic": 0,
     "pssr": true,
     "rt": false,
     "resolution": "4K",
@@ -431,19 +392,6 @@
     "metacritic": 0,
     "pssr": true,
     "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
-    "name": "MLB The Show 24",
-    "id": "MLB 24",
-    "genre": "Sports",
-    "developer": "San Diego Studio",
-    "psStudios": true,
-    "release": "March 19, 2024",
-    "metacritic": 80,
-    "pssr": true,
-    "rt": true,
     "resolution": "4K",
     "fps": "60fps"
   },
@@ -591,19 +539,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Returnal",
-    "id": "Returnal",
-    "genre": "Third-Person Shooter Roguelike",
-    "developer": "Housemarque",
-    "psStudios": true,
-    "release": "April 30, 2021",
-    "metacritic": 86,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1800p",
-    "fps": "60fps"
-  },
-  {
     "name": "Rise of the Ronin",
     "id": "RotR",
     "genre": "Soulsborne",
@@ -627,32 +562,6 @@
     "pssr": true,
     "rt": true,
     "resolution": "1800p",
-    "fps": "60fps"
-  },
-  {
-    "name": "Silent Hill 2",
-    "id": "SH2",
-    "genre": "Survival Horror",
-    "developer": "Bloober Team",
-    "psStudios": false,
-    "release": "October 8, 2024",
-    "metacritic": 84,
-    "pssr": true,
-    "rt": true,
-    "resolution": "1800p",
-    "fps": "60fps"
-  },
-  {
-    "name": "Slitterhead",
-    "id": "Slitterhead",
-    "genre": "Survival Horror",
-    "developer": "Bokeh Game Studio",
-    "psStudios": false,
-    "release": "November 8, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
     "fps": "60fps"
   },
   {
@@ -705,19 +614,6 @@
     "pssr": true,
     "rt": false,
     "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
-    "name": "Tekken 8",
-    "id": "Tekken 8",
-    "genre": "Fighting",
-    "developer": "Bandai Namco Studios Arika",
-    "psStudios": false,
-    "release": "January 26, 2024",
-    "metacritic": 90,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
     "fps": "60fps"
   },
   {
@@ -851,19 +747,6 @@
     "fps": "30fps"
   },
   {
-    "name": "War Thunder",
-    "id": "War Thunder",
-    "genre": "Vehicular Combat MMO",
-    "developer": "Gaijin Entertainment",
-    "psStudios": false,
-    "release": "November 16, 2020",
-    "metacritic": "N/A",
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
     "name": "Warframe",
     "id": "Warframe",
     "genre": "Action RPG, Third-Person Shooter",
@@ -877,16 +760,16 @@
     "fps": "60fps"
   },
   {
-    "name": "Warhammer 40,000: Space Marine 2",
-    "id": "Space Marine 2",
-    "genre": "Third-Person Shooter, hack and slash",
-    "developer": "Saber Interactive",
+    "name": "War Thunder",
+    "id": "War Thunder",
+    "genre": "Vehicular Combat MMO",
+    "developer": "Gaijin Entertainment",
     "psStudios": false,
-    "release": "September 9, 2024",
-    "metacritic": 82,
+    "release": "November 16, 2020",
+    "metacritic": "N/A",
     "pssr": true,
     "rt": false,
-    "resolution": "1800p",
+    "resolution": "4K",
     "fps": "60fps"
   },
   {
