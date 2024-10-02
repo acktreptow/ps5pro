@@ -18,6 +18,19 @@
     }
   },
   {
+    "name": "Apex Legends",
+    "id": "Apex",
+    "genre": "Battle Royalem, Hero Shooter",
+    "developer": "Respawn Entertainment",
+    "psStudios": false,
+    "release": "March 29, 2022",
+    "metacritic": 89,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "120fps"
+  },
+  {
     "name": "Assassin's Creed: Shadows",
     "id": "AC: Shadows",
     "genre": "Action RPG",
