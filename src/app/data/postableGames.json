@@ -73,7 +73,7 @@
     "metacritic": 92,
     "pssr": true,
     "rt": false,
-    "resolution": "1800p",
+    "resolution": "1440p PSSR (likely)",
     "fps": "60fps"
   },
   {
@@ -86,8 +86,13 @@
     "metacritic": 87,
     "pssr": true,
     "rt": true,
-    "resolution": "1180p - 4k",
-    "fps": "60fps"
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K 60fps with in-game RT",
+      "performance": "8K 60fps with no RT"
+    }
   },
   {
     "name": "Hogwarts Legacy",
