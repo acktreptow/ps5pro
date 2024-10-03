@@ -232,6 +232,23 @@
     "fps": "60fps"
   },
   {
+    "name": "Star Wars Jedi: Survivor",
+    "id": "SWJ: Survivor",
+    "genre": "Action-Adventure",
+    "developer": "Respawn Entertainment",
+    "psStudios": false,
+    "release": "April 28, 2023",
+    "metacritic": 85,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K 30 with RTAO & RT reflections",
+      "performance": "1080p PSSR (likely) with RTAO & RT reflections"
+    }
+  },
+  {
     "name": "Stellar Blade",
     "id": "Stellar Blade",
     "genre": "Action-Adventure",
