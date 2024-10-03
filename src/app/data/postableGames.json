@@ -277,8 +277,12 @@
     "metacritic": 81,
     "pssr": true,
     "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "resolution": "1440p PSSR (likely)",
+    "fps": "50 - 80fps",
+    "modes": {
+      "fidelity": "4K 50fps",
+      "performance": "4K PSSR (likely) 80fps"
+    }
   },
   {
     "name": "The Crew Motorfest",
