@@ -156,7 +156,8 @@
     "metacritic": 87,
     "pssr": true,
     "rt": true,
-    "resolution": "1800p",
+    "rtTypes": "Ray-traced reflections, shadows & VFX",
+    "resolution": "4k PSSR",
     "fps": "60fps"
   },
   {
@@ -168,8 +169,8 @@
     "release": "October 28, 2023",
     "metacritic": 90,
     "pssr": true,
-    "rt": true,
-    "resolution": "1800p",
+    "rtTypes": "Ray-traced reflections, shadows & VFX",
+    "resolution": "4k PSSR",
     "fps": "60fps"
   },
   {
@@ -181,8 +182,8 @@
     "release": "November 12, 2020",
     "metacritic": 85,
     "pssr": true,
-    "rt": true,
-    "resolution": "1800p",
+    "rtTypes": "Ray-traced reflections, shadows & VFX",
+    "resolution": "4k PSSR",
     "fps": "60fps"
   },
   {
@@ -207,8 +208,8 @@
     "release": "June 11, 2021",
     "metacritic": 88,
     "pssr": true,
-    "rt": true,
-    "resolution": "1440p",
+    "rtTypes": "Ray-traced reflections, shadows & VFX",
+    "resolution": "4k PSSR",
     "fps": "60fps"
   },
   {
@@ -294,8 +295,9 @@
     "metacritic": 76,
     "pssr": true,
     "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "resolution": "4k PSSR",
+    "fps": "60fps",
+    "extraInfo": "More objects, decals, vegetation and crowds"
   },
   {
     "name": "The First Descendant",
