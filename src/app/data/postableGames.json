@@ -40,9 +40,14 @@
     "release": "October 31, 2024",
     "metacritic": 80,
     "pssr": true,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Ray-traced Ambient Occlusion",
     "resolution": "4K",
-    "fps": "60fps"
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "30fps with RTAO",
+      "performance": "60fps with RTAO"
+    }
   },
   {
     "name": "Dragon's Dogma 2",
