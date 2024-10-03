@@ -182,19 +182,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Mortal Kombat 1",
-    "id": "MK1",
-    "genre": "Fighting",
-    "developer": "NetherRealm Studios",
-    "psStudios": false,
-    "release": "September 19, 2023",
-    "metacritic": 83,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
     "name": "My Little Universe",
     "id": "MLU",
     "genre": "Adventure, Simulation",
