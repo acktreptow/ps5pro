@@ -249,8 +249,9 @@
     "release": "March 22, 2024",
     "metacritic": 76,
     "pssr": true,
-    "rt": false,
-    "resolution": "1440p",
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "1512p PSSR (likely)",
     "fps": "60fps"
   },
   {
