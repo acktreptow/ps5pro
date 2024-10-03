@@ -64,6 +64,20 @@
     "fps": "60fps"
   },
   {
+    "name": "Demon's Souls",
+    "id": "DS",
+    "genre": "Soulsborne",
+    "developer": "Bluepoint Games",
+    "psStudios": true,
+    "release": "November 12, 2020",
+    "metacritic": 92,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Improved shadows (still not RT)"
+  },
+  {
     "name": "Dragon's Dogma 2",
     "id": "DD2",
     "genre": "Action RPG",
