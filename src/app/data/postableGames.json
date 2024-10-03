@@ -222,7 +222,8 @@
     "metacritic": 88,
     "pssr": true,
     "rt": true,
-    "resolution": "1440p",
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4k PSSR (likely)",
     "fps": "60fps"
   },
   {
@@ -235,7 +236,8 @@
     "metacritic": 84,
     "pssr": true,
     "rt": true,
-    "resolution": "4K",
+    "rtTypes": "Ray-traced Global Illumination & reflections",
+    "resolution": "4k PSSR",
     "fps": "120fps"
   },
   {
