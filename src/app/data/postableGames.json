@@ -312,6 +312,7 @@
     "metacritic": 52,
     "pssr": true,
     "rt": true,
+    "rtTypes": "Ray-traced reflections and shadows",
     "resolution": "4K",
     "fps": "120fps"
   },
