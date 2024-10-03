@@ -104,8 +104,13 @@
     "metacritic": 84,
     "pssr": true,
     "rt": true,
-    "resolution": "1800p",
-    "fps": "30fps"
+    "rtTypes": "Ray-traced reflections & shadows",
+    "resolution": "1080p PSSR (likely)",
+    "fps": "30 - 60fps",
+    "modes": {
+      "fidelity": "4K 30fps with RT",
+      "performance": "8K 60fps with no RT"
+    }
   },
   {
     "name": "Horizon Zero Dawn Remastered",
