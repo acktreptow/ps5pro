@@ -91,19 +91,6 @@
     "fps": "60fps"
   },
   {
-    "name": "F1 24",
-    "id": "F1 24",
-    "genre": "Racing",
-    "developer": "Codemasters",
-    "psStudios": false,
-    "release": "May 31, 2024",
-    "metacritic": 72,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
-  },
-  {
     "name": "Fortnite",
     "id": "Fortnite",
     "genre": "Battle Royale",
