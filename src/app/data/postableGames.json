@@ -59,8 +59,9 @@
     "metacritic": 86,
     "pssr": true,
     "rt": true,
-    "resolution": "1080p",
-    "fps": "30fps"
+    "rtTypes": "Ray-traced Global Illumination",
+    "resolution": "1080p PSSR (likely)",
+    "fps": "60fps"
   },
   {
     "name": "Final Fantasy 7 Rebirth",
