@@ -26,6 +26,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Diablo IV",
+    "id": "Diablo 4",
+    "genre": "Action role-playing dungeon crawler",
+    "developer": "Blizzard Entertainment",
+    "psStudios": false,
+    "release": "June 2, 2023",
+    "metacritic": 88,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
     "genre": "Musou",
