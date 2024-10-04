@@ -2,7 +2,7 @@
   {
     "name": "Alan Wake 2",
     "id": "AW2",
-    "urlPath": "alanwake2",
+    "urlPath": "alan-wake-2",
     "genre": "Survival Horror",
     "developer": "Remedy Entertainment",
     "psStudios": false,
@@ -21,7 +21,7 @@
   {
     "name": "Assassin's Creed: Shadows",
     "id": "AC: Shadows",
-    "urlPath": "alanwake2",
+    "urlPath": "assassins-creed-shadows",
     "genre": "Action RPG",
     "developer": "Ubisoft Quebec",
     "psStudios": false,
@@ -36,7 +36,7 @@
   {
     "name": "Dragon Age: The Veilguard",
     "id": "Dragon Age 4",
-    "urlPath": "alanwake2",
+    "urlPath": "dragon-age-the-veilguard",
     "genre": "Action RPG",
     "developer": "Bioware",
     "psStudios": false,
@@ -55,7 +55,7 @@
   {
     "name": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
-    "urlPath": "alanwake2",
+    "urlPath": "dead-rising-deluxe-remaster",
     "genre": "Action Adventure",
     "developer": "Capcom",
     "psStudios": false,
@@ -70,7 +70,7 @@
   {
     "name": "Demon's Souls",
     "id": "DS",
-    "urlPath": "alanwake2",
+    "urlPath": "demons-souls",
     "genre": "Soulsborne",
     "developer": "Bluepoint Games",
     "psStudios": true,
@@ -85,7 +85,7 @@
   {
     "name": "Dragon's Dogma 2",
     "id": "DD2",
-    "urlPath": "alanwake2",
+    "urlPath": "dragons-dogma-2",
     "genre": "Action RPG",
     "developer": "Capcom",
     "psStudios": false,
@@ -100,7 +100,7 @@
   {
     "name": "F1 24",
     "id": "F1 24",
-    "urlPath": "alanwake2",
+    "urlPath": "f1-24",
     "genre": "Racing",
     "developer": "Codemasters",
     "psStudios": false,
@@ -120,7 +120,7 @@
   {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
-    "urlPath": "alanwake2",
+    "urlPath": "final-fantasy-7-rebirth",
     "genre": "JRPG",
     "developer": "Square Enix Creative Business Unit I",
     "psStudios": false,
@@ -134,7 +134,7 @@
   {
     "name": "Gran Turismo 7",
     "id": "GT7",
-    "urlPath": "alanwake2",
+    "urlPath": "gran-turismo-7",
     "genre": "Racing",
     "developer": "Polyphony Digital",
     "psStudios": true,
@@ -153,7 +153,7 @@
   {
     "name": "Hogwarts Legacy",
     "id": "Hogwarts",
-    "urlPath": "alanwake2",
+    "urlPath": "hogwarts-legacy",
     "genre": "Action RPG",
     "developer": "Avalanche Software",
     "psStudios": false,
@@ -172,7 +172,7 @@
   {
     "name": "Horizon Zero Dawn Remastered",
     "id": "H:ZD",
-    "urlPath": "alanwake2",
+    "urlPath": "horizon-zero-dawn-remastered",
     "genre": "Action RPG",
     "developer": "Guerilla Games",
     "psStudios": true,
@@ -190,7 +190,7 @@
   {
     "name": "Horizon Forbidden West",
     "id": "H:FW",
-    "urlPath": "alanwake2",
+    "urlPath": "horizon-forbidden-west",
     "genre": "Action RPG",
     "developer": "Guerilla Games",
     "psStudios": true,
@@ -208,7 +208,7 @@
   {
     "name": "Marvel's Spider-Man Remastered",
     "id": "Spider-Man",
-    "urlPath": "alanwake2",
+    "urlPath": "spider-man-remastered",
     "genre": "Action-Adventure",
     "developer": "Insomniac Games",
     "psStudios": true,
@@ -223,7 +223,7 @@
   {
     "name": "Marvel's Spider-Man 2",
     "id": "Spider-Man 2",
-    "urlPath": "alanwake2",
+    "urlPath": "spider-man-2",
     "genre": "Action-Adventure",
     "developer": "Insomniac Games",
     "psStudios": true,
@@ -237,7 +237,7 @@
   {
     "name": "Marvel's Spider-Man: Miles Morales",
     "id": "Spider-Man: MM",
-    "urlPath": "alanwake2",
+    "urlPath": "spider-man-miles-morales",
     "genre": "Action-Adventure",
     "developer": "Insomniac Games",
     "psStudios": true,
@@ -251,7 +251,7 @@
   {
     "name": "Metal Gear Solid Delta: Snake Eater",
     "id": "MGS3 Remake",
-    "urlPath": "alanwake2",
+    "urlPath": "metal-gear-delta-snake-eater",
     "genre": "Tactical Espionage Action",
     "developer": "Konami & Virtuos",
     "psStudios": false,
@@ -265,7 +265,7 @@
   {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
-    "urlPath": "alanwake2",
+    "urlPath": "ratchet-and-clank-rift-apart",
     "genre": "Platformer",
     "developer": "Insomniac Games",
     "psStudios": true,
@@ -279,7 +279,7 @@
   {
     "name": "Resident Evil 4 Remake",
     "id": "RE4",
-    "urlPath": "alanwake2",
+    "urlPath": "resident-evil-4-remake",
     "genre": "Survival Horror",
     "developer": "Capcom",
     "psStudios": false,
@@ -294,7 +294,7 @@
   {
     "name": "Resident Evil Village",
     "id": "RE8",
-    "urlPath": "alanwake2",
+    "urlPath": "resident-evil-village",
     "genre": "Survival Horror",
     "developer": "Capcom",
     "psStudios": false,
@@ -309,7 +309,7 @@
   {
     "name": "Rise of the Ronin",
     "id": "RotR",
-    "urlPath": "alanwake2",
+    "urlPath": "rise-of-the-ronin",
     "genre": "Soulsborne",
     "developer": "Team Ninja",
     "psStudios": true,
@@ -324,7 +324,7 @@
   {
     "name": "Star Wars Jedi: Survivor",
     "id": "SWJ: Survivor",
-    "urlPath": "alanwake2",
+    "urlPath": "star-wars-jedi-survivor",
     "genre": "Action-Adventure",
     "developer": "Respawn Entertainment",
     "psStudios": false,
@@ -342,7 +342,7 @@
   {
     "name": "Stellar Blade",
     "id": "Stellar Blade",
-    "urlPath": "alanwake2",
+    "urlPath": "stellar-blade",
     "genre": "Action-Adventure",
     "developer": "Shift Up",
     "psStudios": true,
@@ -360,7 +360,7 @@
   {
     "name": "The Crew Motorfest",
     "id": "The Crew 3",
-    "urlPath": "alanwake2",
+    "urlPath": "the-crew-motorfest",
     "genre": "Racing",
     "developer": "Ubisoft Ivory Tower",
     "psStudios": false,
@@ -375,7 +375,7 @@
   {
     "name": "The First Descendant",
     "id": "First Descendant",
-    "urlPath": "alanwake2",
+    "urlPath": "the-first-descendant",
     "genre": "Third-Person Shooter",
     "developer": "Nexon",
     "psStudios": false,
@@ -390,7 +390,7 @@
   {
     "name": "The Last of Us Part I",
     "id": "TLOU",
-    "urlPath": "alanwake2",
+    "urlPath": "the-last-of-us-part-1",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
     "psStudios": true,
@@ -408,7 +408,7 @@
   {
     "name": "The Last of Us Part II Remastered",
     "id": "TLOU2",
-    "urlPath": "alanwake2",
+    "urlPath": "the-last-of-us-part-2-remastered",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
     "psStudios": true,
