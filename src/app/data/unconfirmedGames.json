@@ -78,6 +78,19 @@
     "fps": "120fps"
   },
   {
+    "name": "Cyberpunk 2077",
+    "id": "Cyberpunk",
+    "genre": "First-Person Action RPG",
+    "developer": "CD Projekt Red",
+    "psStudios": false,
+    "release": "February 15, 2022",
+    "metacritic": 75,
+    "pssr": false,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Final Fantasy 16",
     "id": "FF16",
     "genre": "JRPG",
