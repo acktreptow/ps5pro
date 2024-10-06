@@ -39,6 +39,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Dwarf Journey",
+    "id": "Dwarf Journey",
+    "genre": "Action Adventure",
+    "developer": "Orube Game Studio",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
     "genre": "Musou",
