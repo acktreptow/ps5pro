@@ -208,6 +208,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Monster Hunter Wilds",
+    "id": "MH: Wilds",
+    "genre": "Third-Person Action RPG",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "February 27, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "My Little Universe",
     "id": "MLU",
     "genre": "Adventure, Simulation",
