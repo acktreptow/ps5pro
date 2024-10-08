@@ -117,6 +117,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Everspace 2",
+    "id": "Everspace 2",
+    "genre": "Action shooter",
+    "developer": "Rockfish Games",
+    "psStudios": false,
+    "release": "August 15, 2023",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": true,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Fortnite",
     "id": "Fortnite",
     "genre": "Battle Royale",
