@@ -130,6 +130,19 @@
     "fps": "120fps"
   },
   {
+    "name": "God of War: Ragnarok",
+    "id": "GOW:R",
+    "genre": "Action-Adventure",
+    "developer": "Sony Santa Monica",
+    "psStudios": true,
+    "release": "November 9, 2022",
+    "metacritic": 94,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Kayak VR Mirage",
     "id": "Kayak VR",
     "genre": "Simulation Driving/Racing",
