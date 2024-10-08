@@ -364,6 +364,19 @@
     "fps": "60fps"
   },
   {
+    "name": "Subside",
+    "id": "Subside",
+    "genre": "Underwater VR Simulation",
+    "developer": "A2D",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps"
+  },
+  {
     "name": "Test Drive Unlimited: Solar Crown",
     "id": "TDU: Solar Crown",
     "genre": "Racing",
