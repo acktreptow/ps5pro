@@ -2,15 +2,11 @@
   {
     "name": "Apex Legends",
     "id": "Apex",
-    "genre": "Battle Royalem, Hero Shooter",
+    "genre": "Battle Royale, Hero Shooter",
     "developer": "Respawn Entertainment",
     "psStudios": false,
     "release": "March 29, 2022",
-    "metacritic": 89,
-    "pssr": false,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 89
   },
   {
     "name": "CyubeVR",
@@ -19,11 +15,7 @@
     "developer": "Stonebrick Studios",
     "psStudios": false,
     "release": "March 16, 2024",
-    "metacritic": "N/A",
-    "pssr": false,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": "N/A"
   },
   {
     "name": "Diablo IV",
@@ -32,11 +24,7 @@
     "developer": "Blizzard Entertainment",
     "psStudios": false,
     "release": "June 2, 2023",
-    "metacritic": 88,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 88
   },
   {
     "name": "Dwarf Journey",
@@ -45,11 +33,7 @@
     "developer": "Orube Game Studio",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Dynasty Warriors: Origins",
@@ -58,11 +42,7 @@
     "developer": "Koei Tecmo & Omega Force",
     "psStudios": false,
     "release": "January 17, 2025",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "EA College Football 25",
@@ -71,11 +51,7 @@
     "developer": "EA Orlando",
     "psStudios": false,
     "release": "July 19, 2024",
-    "metacritic": 83,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 83
   },
   {
     "name": "EA Sports FC 25",
@@ -84,11 +60,7 @@
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "September 27, 2024",
-    "metacritic": 86,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 86
   },
   {
     "name": "Empire of the Ants",
@@ -97,11 +69,7 @@
     "developer": "Tower Five",
     "psStudios": false,
     "release": "November 7, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Enlisted",
@@ -110,11 +78,7 @@
     "developer": "Darkflow Software",
     "psStudios": false,
     "release": "March 2, 2021",
-    "metacritic": 70,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 70
   },
   {
     "name": "Everspace 2",
@@ -123,11 +87,7 @@
     "developer": "Rockfish Games",
     "psStudios": false,
     "release": "August 15, 2023",
-    "metacritic": 80,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 80
   },
   {
     "name": "Fortnite",
@@ -136,11 +96,7 @@
     "developer": "Epic Games",
     "psStudios": false,
     "release": "June 25, 2017",
-    "metacritic": 78,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 78
   },
   {
     "name": "God of War: Ragnarok",
@@ -149,11 +105,7 @@
     "developer": "Sony Santa Monica",
     "psStudios": true,
     "release": "November 9, 2022",
-    "metacritic": 94,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 94
   },
   {
     "name": "Kayak VR Mirage",
@@ -162,11 +114,7 @@
     "developer": "Better Than Life",
     "psStudios": false,
     "release": "February 22, 2023",
-    "metacritic": 73,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 73
   },
   {
     "name": "Lies of P",
@@ -175,11 +123,7 @@
     "developer": "Newowiz Games & Round8 Studio",
     "psStudios": false,
     "release": "September 19, 2023",
-    "metacritic": 80,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 80
   },
   {
     "name": "Like a Dragon: Pirate Yakuza in Horizon",
@@ -188,11 +132,7 @@
     "developer": "Ryu Ga Gotoku Studio",
     "psStudios": false,
     "release": "February 28, 2025",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Madden NFL 25",
@@ -201,11 +141,7 @@
     "developer": "EA Orlando",
     "psStudios": false,
     "release": "August 16, 2024",
-    "metacritic": 69,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 69
   },
   {
     "name": "Marvel Rivals",
@@ -214,11 +150,7 @@
     "developer": "NetEase Games",
     "psStudios": false,
     "release": "December 6, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 0
   },
   {
     "name": "Marvel's Wolverine",
@@ -227,11 +159,7 @@
     "developer": "Insomniac Games",
     "psStudios": true,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Monster Hunter Wilds",
@@ -240,11 +168,7 @@
     "developer": "Capcom",
     "psStudios": false,
     "release": "February 27, 2025",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "My Little Universe",
@@ -253,11 +177,7 @@
     "developer": "Saygames",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Naraka: Bladepoint",
@@ -266,11 +186,7 @@
     "developer": "24 Entertainment",
     "psStudios": false,
     "release": "July 13, 2023",
-    "metacritic": 71,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 71
   },
   {
     "name": "No Man's Sky",
@@ -279,11 +195,7 @@
     "developer": "Hello Games",
     "psStudios": false,
     "release": "August 9, 2016",
-    "metacritic": 71,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 71
   },
   {
     "name": "Outbreak: Shades of Horror Chromatic Split",
@@ -292,11 +204,7 @@
     "developer": "Dead Drop Studios",
     "psStudios": false,
     "release": "October, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Professional Baseball Spirits 2024-2025",
@@ -305,11 +213,7 @@
     "developer": "Konami",
     "psStudios": false,
     "release": "October 16, 2024",
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "[REDACTED]",
@@ -318,11 +222,7 @@
     "developer": "Striking Distance Studios",
     "psStudios": false,
     "release": "October 28, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Retrieval",
@@ -331,11 +231,7 @@
     "developer": "333 Studios",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Rogue Flight",
@@ -344,11 +240,7 @@
     "developer": "Traunt Pixel",
     "psStudios": false,
     "release": "2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "1800p",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "SPINE - This is Gun Fu",
@@ -357,11 +249,7 @@
     "developer": "Nekki",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Star Wars Outlaws",
@@ -370,11 +258,7 @@
     "developer": "Massive Entertainment",
     "psStudios": false,
     "release": "August 30, 2024",
-    "metacritic": 76,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1440p",
-    "fps": "60fps"
+    "metacritic": 76
   },
   {
     "name": "Subside",
@@ -383,11 +267,7 @@
     "developer": "A2D",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1440p",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Test Drive Unlimited: Solar Crown",
@@ -396,11 +276,7 @@
     "developer": "KT Racing",
     "psStudios": false,
     "release": "September 12, 2024",
-    "metacritic": 55,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 55
   },
   {
     "name": "The Callisto Protocol",
@@ -409,11 +285,7 @@
     "developer": "Striking Distance Studios",
     "psStudios": false,
     "release": "December 2, 2022",
-    "metacritic": 69,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 69
   },
   {
     "name": "The Midnight Town Stories: Adam's Diary",
@@ -422,11 +294,7 @@
     "developer": "Dark Ocean Games",
     "psStudios": false,
     "release": "September 29, 2023",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 0
   },
   {
     "name": "Towers of Aghasba",
@@ -435,11 +303,7 @@
     "developer": "Dreamlit",
     "psStudios": false,
     "release": "November, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1440p",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "EA Sports UFC 5",
@@ -448,11 +312,7 @@
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "October 27, 2023",
-    "metacritic": 78,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 78
   },
   {
     "name": "Unreal Kingdoms",
@@ -461,11 +321,7 @@
     "developer": "Cyber Apes Yacht Club",
     "psStudios": false,
     "release": "TBD",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1440p",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Until Dawn",
@@ -474,11 +330,7 @@
     "developer": "Ballistic Moon",
     "psStudios": true,
     "release": "October 4, 2024",
-    "metacritic": 79,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "30fps"
+    "metacritic": 79
   },
   {
     "name": "Warframe",
@@ -487,11 +339,7 @@
     "developer": "Digital Extremes",
     "psStudios": false,
     "release": "November 26, 2020",
-    "metacritic": 85,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 85
   },
   {
     "name": "War Thunder",
@@ -500,11 +348,7 @@
     "developer": "Gaijin Entertainment",
     "psStudios": false,
     "release": "November 16, 2020",
-    "metacritic": "N/A",
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": "N/A"
   },
   {
     "name": "World of Warships: Legends",
@@ -513,10 +357,6 @@
     "developer": "Wargaming",
     "psStudios": false,
     "release": "April 4, 2021",
-    "metacritic": "N/A",
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": "N/A"
   }
 ]
