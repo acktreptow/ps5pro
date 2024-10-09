@@ -1,5 +1,14 @@
 [
   {
+    "name": "[REDACTED]",
+    "id": "Redacted",
+    "genre": "Roguelite",
+    "developer": "Striking Distance Studios",
+    "psStudios": false,
+    "release": "October 28, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Apex Legends",
     "id": "Apex",
     "genre": "Battle Royale, Hero Shooter",
@@ -60,6 +69,15 @@
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "September 27, 2024",
+    "metacritic": 78
+  },
+  {
+    "name": "EA Sports UFC 5",
+    "id": "UFC 5",
+    "genre": "Sports, MMA",
+    "developer": "EA Vancouver",
+    "psStudios": false,
+    "release": "October 27, 2023",
     "metacritic": 78
   },
   {
@@ -216,15 +234,6 @@
     "metacritic": 0
   },
   {
-    "name": "[REDACTED]",
-    "id": "Redacted",
-    "genre": "Roguelite",
-    "developer": "Striking Distance Studios",
-    "psStudios": false,
-    "release": "October 28, 2024",
-    "metacritic": 0
-  },
-  {
     "name": "Retrieval",
     "id": "Retrieval",
     "genre": "Survival Horror, Action-Adventure",
@@ -304,15 +313,6 @@
     "psStudios": false,
     "release": "November, 2024",
     "metacritic": 0
-  },
-  {
-    "name": "EA Sports UFC 5",
-    "id": "UFC 5",
-    "genre": "Sports, MMA",
-    "developer": "EA Vancouver",
-    "psStudios": false,
-    "release": "October 27, 2023",
-    "metacritic": 78
   },
   {
     "name": "Unreal Kingdoms",
