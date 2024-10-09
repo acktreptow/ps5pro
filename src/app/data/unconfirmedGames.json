@@ -6,11 +6,7 @@
     "developer": "Asobo Studio",
     "psStudios": false,
     "release": "October 18, 2022",
-    "metacritic": 82,
-    "pssr": false,
-    "rt": false,
-    "resolution": "TBA",
-    "fps": "TBA"
+    "metacritic": 82
   },
   {
     "name": "Astro Bot",
@@ -19,11 +15,7 @@
     "developer": "Team Asobi",
     "psStudios": true,
     "release": "September 6, 2024",
-    "metacritic": 94,
-    "pssr": false,
-    "rt": false,
-    "resolution": "TBA",
-    "fps": "TBA"
+    "metacritic": 94
   },
   {
     "name": "Avatar: Frontiers of Pandora",
@@ -32,11 +24,7 @@
     "developer": "Massive Entertainment",
     "psStudios": false,
     "release": "December 7, 2023",
-    "metacritic": 72,
-    "pssr": false,
-    "rt": true,
-    "resolution": "TBA",
-    "fps": "TBA"
+    "metacritic": 72
   },
   {
     "name": "Black Myth Wukong",
@@ -45,11 +33,7 @@
     "developer": "Game Science",
     "psStudios": false,
     "release": "August 20, 2024",
-    "metacritic": 75,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "40fps"
+    "metacritic": 75
   },
   {
     "name": "Call of Duty: Black Ops 6",
@@ -58,11 +42,7 @@
     "developer": "Treyarch (Multiplayer) & Raven Software (Singleplayer)",
     "psStudios": false,
     "release": "October 25, 2024",
-    "metacritic": 92,
-    "pssr": false,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 92
   },
   {
     "name": "Call of Duty: Modern Warfare 3",
@@ -71,11 +51,7 @@
     "developer": "Sledgehammer Games",
     "psStudios": false,
     "release": "November 10, 2023",
-    "metacritic": 56,
-    "pssr": false,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 56
   },
   {
     "name": "Cyberpunk 2077",
@@ -84,11 +60,7 @@
     "developer": "CD Projekt Red",
     "psStudios": false,
     "release": "February 15, 2022",
-    "metacritic": 75,
-    "pssr": false,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 75
   },
   {
     "name": "Final Fantasy 16",
@@ -97,11 +69,7 @@
     "developer": "Square Enix Creative Business Unit III",
     "psStudios": false,
     "release": "June 22, 2023",
-    "metacritic": 87,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 87
   },
   {
     "name": "God of War Ragnarök",
@@ -110,11 +78,7 @@
     "developer": "Santa Monica Studio",
     "psStudios": true,
     "release": "November 9, 2022",
-    "metacritic": 94,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 94
   },
   {
     "name": "Hellldivers II",
@@ -123,11 +87,7 @@
     "developer": "Arrowhead Game Studios",
     "psStudios": true,
     "release": "February 8, 2024",
-    "metacritic": 82,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 82
   },
   {
     "name": "Immortals of Aveum",
@@ -136,11 +96,7 @@
     "developer": "Ascendant Studios",
     "psStudios": false,
     "release": "August 22, 2023",
-    "metacritic": 69,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps"
+    "metacritic": 69
   },
   {
     "name": "Lego Horizon Adventures",
@@ -149,11 +105,7 @@
     "developer": "Guerilla Games & Studio Gobo",
     "psStudios": true,
     "release": "Q4, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Life is Strange: Double Exposure",
@@ -162,11 +114,7 @@
     "developer": "Deck Nine",
     "psStudios": false,
     "release": "October 29, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Mortal Kombat 1",
@@ -175,11 +123,7 @@
     "developer": "NetherRealm Studios",
     "psStudios": false,
     "release": "September 19, 2023",
-    "metacritic": 83,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 83
   },
   {
     "name": "MLB The Show 24",
@@ -188,11 +132,7 @@
     "developer": "San Diego Studio",
     "psStudios": true,
     "release": "March 19, 2024",
-    "metacritic": 80,
-    "pssr": true,
-    "rt": true,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 80
   },
   {
     "name": "Returnal",
@@ -201,11 +141,7 @@
     "developer": "Housemarque",
     "psStudios": true,
     "release": "April 30, 2021",
-    "metacritic": 86,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1800p",
-    "fps": "60fps"
+    "metacritic": 86
   },
   {
     "name": "Silent Hill 2",
@@ -214,11 +150,7 @@
     "developer": "Bloober Team",
     "psStudios": false,
     "release": "October 8, 2024",
-    "metacritic": 84,
-    "pssr": true,
-    "rt": true,
-    "resolution": "1800p",
-    "fps": "60fps"
+    "metacritic": 84
   },
   {
     "name": "Slitterhead",
@@ -227,11 +159,7 @@
     "developer": "Bokeh Game Studio",
     "psStudios": false,
     "release": "November 8, 2024",
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps"
+    "metacritic": 0
   },
   {
     "name": "Tekken 8",
@@ -240,11 +168,7 @@
     "developer": "Bandai Namco Studios Arika",
     "psStudios": false,
     "release": "January 26, 2024",
-    "metacritic": 90,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4k",
-    "fps": "60fps"
+    "metacritic": 90
   },
   {
     "name": "Warhammer 40,000: Space Marine 2",
@@ -253,10 +177,6 @@
     "developer": "Saber Interactive",
     "psStudios": false,
     "release": "September 9, 2024",
-    "metacritic": 82,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1800p",
-    "fps": "60fps"
+    "metacritic": 82
   }
 ]
