@@ -20,7 +20,7 @@
   {
     "name": "Diablo IV",
     "id": "Diablo 4",
-    "genre": "Action role-playing dungeon crawler",
+    "genre": "Action Role-Playing Dungeon Crawler",
     "developer": "Blizzard Entertainment",
     "psStudios": false,
     "release": "June 2, 2023",
@@ -29,7 +29,7 @@
   {
     "name": "Dwarf Journey",
     "id": "Dwarf Journey",
-    "genre": "Action Adventure",
+    "genre": "Action-Adventure",
     "developer": "Orube Game Studio",
     "psStudios": false,
     "release": "TBA",
@@ -47,7 +47,7 @@
   {
     "name": "EA College Football 25",
     "id": "College Football 25",
-    "genre": "Sports",
+    "genre": "Sports, American Football",
     "developer": "EA Orlando",
     "psStudios": false,
     "release": "July 19, 2024",
@@ -56,11 +56,11 @@
   {
     "name": "EA Sports FC 25",
     "id": "Fifa 25",
-    "genre": "Sports",
+    "genre": "Sports, Football",
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "September 27, 2024",
-    "metacritic": 86
+    "metacritic": 78
   },
   {
     "name": "Empire of the Ants",
@@ -110,7 +110,7 @@
   {
     "name": "Kayak VR Mirage",
     "id": "Kayak VR",
-    "genre": "Simulation Driving/Racing",
+    "genre": "Simulation Driving, Racing",
     "developer": "Better Than Life",
     "psStudios": false,
     "release": "February 22, 2023",
@@ -137,11 +137,11 @@
   {
     "name": "Madden NFL 25",
     "id": "Madden 25",
-    "genre": "Sports",
+    "genre": "Sports, American Football",
     "developer": "EA Orlando",
     "psStudios": false,
     "release": "August 16, 2024",
-    "metacritic": 69
+    "metacritic": 70
   },
   {
     "name": "Marvel Rivals",
@@ -191,7 +191,7 @@
   {
     "name": "No Man's Sky",
     "id": "NMS",
-    "genre": "Action-Adventure Survival",
+    "genre": "Action-Adventure, Survival",
     "developer": "Hello Games",
     "psStudios": false,
     "release": "August 9, 2016",
@@ -203,13 +203,13 @@
     "genre": "Survival Horror",
     "developer": "Dead Drop Studios",
     "psStudios": false,
-    "release": "October, 2024",
+    "release": "October 2024",
     "metacritic": 0
   },
   {
     "name": "Professional Baseball Spirits 2024-2025",
     "id": "Pro Baseball 24",
-    "genre": "Sports",
+    "genre": "Sports, Baseball",
     "developer": "Konami",
     "psStudios": false,
     "release": "October 16, 2024",
@@ -227,7 +227,7 @@
   {
     "name": "Retrieval",
     "id": "Retrieval",
-    "genre": "Survival Horror Action-Adventure",
+    "genre": "Survival Horror, Action-Adventure",
     "developer": "333 Studios",
     "psStudios": false,
     "release": "TBA",
@@ -258,7 +258,7 @@
     "developer": "Massive Entertainment",
     "psStudios": false,
     "release": "August 30, 2024",
-    "metacritic": 76
+    "metacritic": 75
   },
   {
     "name": "Subside",
@@ -289,7 +289,7 @@
   },
   {
     "name": "The Midnight Town Stories: Adam's Diary",
-    "id": "Midnight Tow Stories",
+    "id": "Midnight Town Stories",
     "genre": "Third-Person Shooter",
     "developer": "Dark Ocean Games",
     "psStudios": false,
@@ -299,7 +299,7 @@
   {
     "name": "Towers of Aghasba",
     "id": "ToA",
-    "genre": "Action Adeventure",
+    "genre": "Action-Adventure",
     "developer": "Dreamlit",
     "psStudios": false,
     "release": "November, 2024",
@@ -308,7 +308,7 @@
   {
     "name": "EA Sports UFC 5",
     "id": "UFC 5",
-    "genre": "Fighting, Sports",
+    "genre": "Sports, MMA",
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "October 27, 2023",
@@ -326,11 +326,11 @@
   {
     "name": "Until Dawn",
     "id": "Until Dawn",
-    "genre": "Survival Horror Interactive Drama",
+    "genre": "Survival Horror, Interactive Drama",
     "developer": "Ballistic Moon",
     "psStudios": true,
     "release": "October 4, 2024",
-    "metacritic": 79
+    "metacritic": 72
   },
   {
     "name": "Warframe",
