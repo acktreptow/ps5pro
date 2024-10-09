@@ -1,7 +1,7 @@
 [
   {
     "name": "A Plague Tale: Requiem",
-    "id": "Plague Tale 2",
+    "id": "A Plague Tale 2",
     "genre": "Action-Adventure, Stealth",
     "developer": "Asobo Studio",
     "psStudios": false,
@@ -28,7 +28,7 @@
   },
   {
     "name": "Black Myth Wukong",
-    "id": "Black Myth",
+    "id": "BM: Wukong",
     "genre": "Action role-playing",
     "developer": "Game Science",
     "psStudios": false,
@@ -81,7 +81,7 @@
     "metacritic": 94
   },
   {
-    "name": "Hellldivers II",
+    "name": "Helldivers II",
     "id": "Helldivers",
     "genre": "Third-Person Shooter",
     "developer": "Arrowhead Game Studios",
@@ -104,7 +104,7 @@
     "genre": "Action-Adventure",
     "developer": "Guerilla Games & Studio Gobo",
     "psStudios": true,
-    "release": "Q4, 2024",
+    "release": "November 14, 2024",
     "metacritic": 0
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "MLB The Show 24",
     "id": "MLB 24",
-    "genre": "Sports",
+    "genre": "Sports, Baseball",
     "developer": "San Diego Studio",
     "psStudios": true,
     "release": "March 19, 2024",
@@ -137,7 +137,7 @@
   {
     "name": "Returnal",
     "id": "Returnal",
-    "genre": "Third-Person Shooter Roguelike",
+    "genre": "Third-Person Shooter, Roguelike",
     "developer": "Housemarque",
     "psStudios": true,
     "release": "April 30, 2021",
@@ -150,7 +150,7 @@
     "developer": "Bloober Team",
     "psStudios": false,
     "release": "October 8, 2024",
-    "metacritic": 84
+    "metacritic": 87
   },
   {
     "name": "Slitterhead",
@@ -173,7 +173,7 @@
   {
     "name": "Warhammer 40,000: Space Marine 2",
     "id": "Space Marine 2",
-    "genre": "Third-Person Shooter, hack and slash",
+    "genre": "Third-Person Shooter, Hack & Slash",
     "developer": "Saber Interactive",
     "psStudios": false,
     "release": "September 9, 2024",
