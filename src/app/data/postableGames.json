@@ -34,25 +34,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Dragon Age: The Veilguard",
-    "id": "Dragon Age 4",
-    "urlPath": "dragon-age-the-veilguard",
-    "genre": "Action RPG",
-    "developer": "Bioware",
-    "psStudios": false,
-    "release": "October 31, 2024",
-    "metacritic": 80,
-    "pssr": true,
-    "rt": true,
-    "rtTypes": "Ray-traced Ambient Occlusion",
-    "resolution": "4K",
-    "fps": "60fps",
-    "modes": {
-      "fidelity": "30fps with RTAO",
-      "performance": "60fps with RTAO"
-    }
-  },
-  {
     "name": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-deluxe-remaster",
@@ -81,6 +62,25 @@
     "resolution": "4K PSSR (likely)",
     "fps": "60fps",
     "extraInfo": "Improved shadows (still not RT)"
+  },
+  {
+    "name": "Dragon Age: The Veilguard",
+    "id": "Dragon Age 4",
+    "urlPath": "dragon-age-the-veilguard",
+    "genre": "Action RPG",
+    "developer": "Bioware",
+    "psStudios": false,
+    "release": "October 31, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced Ambient Occlusion",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "30fps with RTAO",
+      "performance": "60fps with RTAO"
+    }
   },
   {
     "name": "Dragon's Dogma 2",
@@ -221,20 +221,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Marvel's Spider-Man 2",
-    "id": "Spider-Man 2",
-    "urlPath": "spider-man-2",
-    "genre": "Action-Adventure",
-    "developer": "Insomniac Games",
-    "psStudios": true,
-    "release": "October 28, 2023",
-    "metacritic": 90,
-    "pssr": true,
-    "rtTypes": "Ray-traced reflections, shadows & VFX",
-    "resolution": "4k PSSR",
-    "fps": "60fps"
-  },
-  {
     "name": "Marvel's Spider-Man: Miles Morales",
     "id": "Spider-Man: MM",
     "urlPath": "spider-man-miles-morales",
@@ -243,6 +229,20 @@
     "psStudios": true,
     "release": "November 12, 2020",
     "metacritic": 85,
+    "pssr": true,
+    "rtTypes": "Ray-traced reflections, shadows & VFX",
+    "resolution": "4k PSSR",
+    "fps": "60fps"
+  },
+  {
+    "name": "Marvel's Spider-Man 2",
+    "id": "Spider-Man 2",
+    "urlPath": "spider-man-2",
+    "genre": "Action-Adventure",
+    "developer": "Insomniac Games",
+    "psStudios": true,
+    "release": "October 28, 2023",
+    "metacritic": 90,
     "pssr": true,
     "rtTypes": "Ray-traced reflections, shadows & VFX",
     "resolution": "4k PSSR",
@@ -277,21 +277,6 @@
     "fps": "60fps"
   },
   {
-    "name": "Resident Evil 4 Remake",
-    "id": "RE4",
-    "urlPath": "resident-evil-4-remake",
-    "genre": "Survival Horror",
-    "developer": "Capcom",
-    "psStudios": false,
-    "release": "March 24, 2023",
-    "metacritic": 88,
-    "pssr": true,
-    "rt": true,
-    "rtTypes": "Ray-traced reflections",
-    "resolution": "4k PSSR (likely)",
-    "fps": "60fps"
-  },
-  {
     "name": "Resident Evil Village",
     "id": "RE8",
     "urlPath": "resident-evil-village",
@@ -305,6 +290,21 @@
     "rtTypes": "Ray-traced Global Illumination & reflections",
     "resolution": "4k PSSR",
     "fps": "120fps"
+  },
+  {
+    "name": "Resident Evil 4 Remake",
+    "id": "RE4",
+    "urlPath": "resident-evil-4-remake",
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "March 24, 2023",
+    "metacritic": 88,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4k PSSR (likely)",
+    "fps": "60fps"
   },
   {
     "name": "Rise of the Ronin",
