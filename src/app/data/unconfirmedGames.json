@@ -135,6 +135,15 @@
     "metacritic": 80
   },
   {
+    "name": "NBA 2K25",
+    "id": "NBA 25",
+    "genre": "Sports, Basketball",
+    "developer": "Visual Concepts",
+    "psStudios": false,
+    "release": "September 6, 2024",
+    "metacritic": 79
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "Third-Person Shooter, Roguelike",
