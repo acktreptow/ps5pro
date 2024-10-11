@@ -144,6 +144,15 @@
     "metacritic": 79
   },
   {
+    "name": "NHL 25",
+    "id": "NHL 25",
+    "genre": "Sports, Ice Hockey",
+    "developer": "EA Vancouver",
+    "psStudios": false,
+    "release": "October 4, 2024",
+    "metacritic": 67
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "Third-Person Shooter, Roguelike",
