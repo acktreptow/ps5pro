@@ -1,4 +1,4 @@
-function Footer() {
+export const Footer = () => {
   return (
     <footer className="footer bg-gradient-to-b from-blue-700 to-playstation text-white text-center py-4 border-t-8 border-amber-300">
       <div className="font-semibold">
@@ -6,6 +6,4 @@ function Footer() {
       </div>
     </footer>
   );
-}
-
-export default Footer;
+};
