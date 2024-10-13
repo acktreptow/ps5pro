@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const Header = () => {
+export const Header = (): JSX.Element => {
   return (
     <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex items-center justify-between text-2xl p-10">
       <div>
@@ -10,9 +10,15 @@ export const Header = () => {
       </div>
       <div>
         <ul className="flex space-x-10">
-          <Link href="/about">About</Link>
-          <Link href="/gameslist">Games List</Link>
-          <Link href="/hardware">Hardware Comparison</Link>
+          <li>
+            <Link href="/about">About</Link>
+          </li>
+          <li>
+            <Link href="/gameslist">Games List</Link>
+          </li>
+          <li>
+            <Link href="/hardware">Hardware Comparison</Link>
+          </li>
         </ul>
       </div>
     </header>
