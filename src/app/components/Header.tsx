@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-function Header() {
+export const Header = () => {
   return (
     <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex items-center justify-between text-2xl p-10">
       <div>
@@ -17,6 +17,4 @@ function Header() {
       </div>
     </header>
   );
-}
-
-export default Header;
+};
