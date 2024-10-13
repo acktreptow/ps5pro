@@ -27,7 +27,7 @@ export const Header = (): JSX.Element => {
             <Link href="/gameslist">Games List</Link>
           </li>
           <li className="hover:text-slate-300 hover:underline">
-            <Link href="/hardware">PS5 vs PS5 Pro</Link>
+            <Link href="/ps5vsps5pro">PS5 vs PS5 Pro</Link>
           </li>
         </ul>
       </div>
