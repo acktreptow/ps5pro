@@ -1,11 +1,17 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export const Header = (): JSX.Element => {
   return (
-    <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex items-center justify-between text-2xl p-10">
+    <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex flex-col gap-8 items-center justify-between text-2xl py-8">
       <div>
         <Link href="/">
-          <h1>PS5 Pro</h1>
+          <Image
+            src="/images/ps5-pro-logo.jpg"
+            alt="PS5 Logo"
+            width={250}
+            height={50}
+          />
         </Link>
       </div>
       <div>
