@@ -1,4 +1,4 @@
-function HardwarePage() {
+function PS5vsPS5ProPage() {
   return (
     <div className="container mx-auto space-y-20 flex-grow">
       <h1 className="text-center text-2xl font-extrabold m-10">
@@ -36,4 +36,4 @@ function HardwarePage() {
   );
 }
 
-export default HardwarePage;
+export default PS5vsPS5ProPage;
