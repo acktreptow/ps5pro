@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const Header = (): JSX.Element => {
   return (
-    <header className="bg-gradient-to-b from-blue-700 to-playstation text-white uppercase flex flex-col gap-8 items-center justify-between text-2xl py-8">
+    <header className="text-slate-50 text-3xl py-8 uppercase font-semibold bg-gradient-to-b from-blue-700 to-playstation border-b-8 border-slate-900 flex flex-col gap-8 items-center">
       <div>
         <Link href="/">
           <Image
