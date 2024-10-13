@@ -11,12 +11,15 @@ export const Header = (): JSX.Element => {
             alt="PS5 Pro Logo"
             width={250}
             height={50}
-            className="rounded-lg"
+            className="rounded-lg border-2 border-slate-50"
           />
         </Link>
       </div>
       <div>
         <ul className="flex space-x-10">
+          <li className="hover:text-slate-300 hover:underline">
+            <Link href="/">Home</Link>
+          </li>
           <li className="hover:text-slate-300 hover:underline">
             <Link href="/about">About</Link>
           </li>
