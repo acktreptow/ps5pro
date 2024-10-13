@@ -1,4 +1,4 @@
-function PS5vsPS5ProPage() {
+const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto space-y-20 flex-grow">
       <h1 className="text-center text-2xl font-extrabold m-10">
@@ -34,6 +34,6 @@ function PS5vsPS5ProPage() {
       </p>
     </div>
   );
-}
+};
 
 export default PS5vsPS5ProPage;
