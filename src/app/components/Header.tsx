@@ -7,22 +7,23 @@ export const Header = (): JSX.Element => {
       <div>
         <Link href="/">
           <Image
-            src="/images/ps5-pro-logo.jpg"
-            alt="PS5 Logo"
+            src="/images/ps5-pro-logo.png"
+            alt="PS5 Pro Logo"
             width={250}
             height={50}
+            className="rounded-lg"
           />
         </Link>
       </div>
       <div>
         <ul className="flex space-x-10">
-          <li>
+          <li className="hover:text-slate-300 hover:underline">
             <Link href="/about">About</Link>
           </li>
-          <li>
+          <li className="hover:text-slate-300 hover:underline">
             <Link href="/gameslist">Games List</Link>
           </li>
-          <li>
+          <li className="hover:text-slate-300 hover:underline">
             <Link href="/hardware">Hardware Comparison</Link>
           </li>
         </ul>
