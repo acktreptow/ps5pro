@@ -12,10 +12,18 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5</h3>
             <p>GPU: Custom AMD RDNA 2 | 36 CUs up to 2.23 GHz | 10.28 TFLOPs</p>
+            <p>
+              CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
+              up to 3.5 GHz
+            </p>
           </div>
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
             <p>GPU: Custom AMD RDNA 3 | 60 CUs up to 2.23 GHz | 17.13 TFLOPs</p>
+            <p>
+              CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
+              up to 3.85 GHz
+            </p>
           </div>
         </div>
       </div>
