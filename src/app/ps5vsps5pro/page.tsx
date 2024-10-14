@@ -66,6 +66,23 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Introductory Price: $699 / €799 / £699 / ¥119,980</p>
           </div>
         </div>
+        <h2 className="text-slate-800 text-2xl font-bold mb-8">Improvements</h2>
+        <div>
+          <p>GPU:</p>
+          <p>CPU:</p>
+          <p>RAM: </p>
+          <p>Memory available for games: </p>
+          <p>Memory Interface/Bandwidth: </p>
+          <p>AI/Machine Learning: </p>
+          <p>Sound:</p>
+          <p>Storage: </p>
+          <p>Output: </p>
+          <p>WiFi: </p>
+          <p>
+            Introductory Price: Disc Model - $499 / €499 / £449 / ¥49,980 |
+            Digital Model - $399 / €399 / £359 / ¥39,980
+          </p>
+        </div>
       </div>
     </div>
   );
