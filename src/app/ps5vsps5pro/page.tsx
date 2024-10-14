@@ -4,7 +4,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
       <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
         PS5 Vs PS5 Pro
       </h1>
-      <div className="bg-slate-100 p-8 rounded shadow-lg">
+      <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
         <h2 className="text-slate-800 text-2xl font-bold mb-8">
           Specifications
         </h2>
@@ -68,7 +68,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         </div>
         <h2 className="text-slate-800 text-2xl font-bold mb-8">Improvements</h2>
         <div>
-          <p>GPU:</p>
+          <p>
+            GPU: 66.67% extra CUs with a real-world improvement of around 45%
+          </p>
           <p>CPU:</p>
           <p>RAM: </p>
           <p>Memory available for games: </p>
@@ -77,7 +79,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <p>Sound:</p>
           <p>Storage: </p>
           <p>Output: </p>
-          <p>WiFi: </p>
+          <p>WiFi: WiFi 6 to 7</p>
           <p>
             Introductory Price: Disc Model - $499 / €499 / £449 / ¥49,980 |
             Digital Model - $399 / €399 / £359 / ¥39,980
