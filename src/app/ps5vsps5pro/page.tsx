@@ -20,6 +20,10 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Memory available for games: 12.5 GB</p>
             <p>Memory Interface/Bandwidth: 256-bit / 448GB/s</p>
             <p>AI/Machine Learning: N/A</p>
+            <p>
+              Sound: Custom Tempest Engine 3D Audio | Dolby Atmos, 7.1 Surround
+              Sound & DTS:X (Blu-ray and UHD Blu-ray video) compatible
+            </p>
             <p>Storage: 825GB (1TB for Slim model) NVME SSD @ 5.5GB/s read</p>
             <p>Output: Up to 4K 120Hz | HDMI 2.1</p>
             <p>WiFi: WiFi 6</p>
@@ -50,6 +54,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               AI/Machine Learning Features: PSSR (PlayStation Spectral Super
               Resolution Upscaling) & 2-4x Ray-tracing.
             </p>
+            <p>Sound: Same as PS5, but 35% faster for improved soundscapes.</p>
             <p>Storage: 2TB NVME SSD @ 5.5GB/s read</p>
             <p>Output: Up to 4K 120Hz or 8K 60hz | HDMI 2.1</p>
             <p>WiFi: WiFi 7</p>
