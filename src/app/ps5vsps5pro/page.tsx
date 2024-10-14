@@ -16,6 +16,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
               up to 3.5 GHz
             </p>
+            <p>Storage: 825GB (1TB for Slim model) NVME SSD @ 5.5GB/s read</p>
+            <p>WiFi: WiFi 6</p>
           </div>
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
@@ -24,6 +26,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
               up to 3.85 GHz
             </p>
+            <p>Storage: 2TB NVME SSD @ 5.5GB/s read</p>
+            <p>WiFi: WiFi 7</p>
           </div>
         </div>
       </div>
