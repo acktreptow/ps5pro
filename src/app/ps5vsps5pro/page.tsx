@@ -27,7 +27,10 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Storage: 825GB (1TB for Slim model) NVME SSD @ 5.5GB/s read</p>
             <p>Output: Up to 4K 120Hz | HDMI 2.1</p>
             <p>WiFi: WiFi 6</p>
-            <p>Dimensions: H: 9.6cm | W: 35.8cm (Slim)</p>
+            <p>
+              Dimensions: H: 10.4cm / W: 39cm (Launch model) | H: 9.6cm / W:
+              35.8cm (Slim)
+            </p>
             <p>
               Launch Date: November 12, 2020 (NA/JP/AU) | November 19, 2020 (WW)
             </p>
@@ -58,7 +61,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Storage: 2TB NVME SSD @ 5.5GB/s read</p>
             <p>Output: Up to 4K 120Hz or 8K 60hz | HDMI 2.1</p>
             <p>WiFi: WiFi 7</p>
-            <p>Dimensions: H: 10.4cm | W: 35.8cm</p>
+            <p>Dimensions: H: 10.4cm / W: 35.8cm</p>
             <p>Launch Date: November 7, 2024 (WW)</p>
             <p>Introductory Price: $699 / €799 / £699 / ¥119,980</p>
           </div>
