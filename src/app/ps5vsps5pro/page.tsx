@@ -20,7 +20,12 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Memory available for games: 12.5 GB</p>
             <p>Storage: 825GB (1TB for Slim model) NVME SSD @ 5.5GB/s read</p>
             <p>Memory Interface/Bandwidth: 256-bit / 448GB/s</p>
+            <p>Output: Up to 4K 120Hz | HDMI 2.1</p>
             <p>WiFi: WiFi 6</p>
+            <p>Dimensions: H: 9.6cm | W: 35.8cm (Slim)</p>
+            <p>
+              Launch Date: November 12, 2020 (NA/JP/AU) | November 19, 2020 (WW)
+            </p>
           </div>
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
@@ -32,8 +37,11 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>RAM: 16GB GDDR6 memory @ 18 Gbps</p>
             <p>Memory available for games: 13.7 GB</p>
             <p>Memory Interface/Bandwidth: 256-bit / 576GB/s</p>
+            <p>Output: Up to 4K 120Hz or 8K 60hz | HDMI 2.1</p>
             <p>Storage: 2TB NVME SSD @ 5.5GB/s read</p>
             <p>WiFi: WiFi 7</p>
+            <p>Dimensions: H: 10.4cm | W: 35.8cm</p>
+            <p>Launch Date: November 7, 2024 (WW)</p>
           </div>
         </div>
       </div>
