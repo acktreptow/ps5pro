@@ -76,6 +76,19 @@ function AboutPage() {
           the time and resources needed to optimize their titles, thereby
           enhancing the overall gaming ecosystem.
         </p>
+        <h3 className="text-slate-800 text-xl font-bold mb-4">
+          5. Centralized Information Hub
+        </h3>
+        <p className="mb-8">
+          Currently, information about PS5 Pro upgrades may be scattered across
+          forums, news outlets, and patch notes, making it difficult for the
+          average player to stay up to date. A centralized website dedicated to
+          this purpose would serve as a one-stop shop, saving time and effort
+          for gamers who want quick, reliable information. The website will also
+          feature search filters, allowing users to easily find games that meet
+          their preferred criteria, such as games with 4K resolution, 60fps, or
+          ray tracing support.
+        </p>
       </div>
     </div>
   );
