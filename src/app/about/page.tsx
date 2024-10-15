@@ -64,6 +64,18 @@ function AboutPage() {
           flown under the radar or drive renewed enthusiasm for older games that
           have been upgraded to make the most of the PS5 Pros hardware.
         </p>
+        <h3 className="text-slate-800 text-xl font-bold mb-4">
+          4. Keeping Developers Accountable
+        </h3>
+        <p className="mb-8">
+          Having a public record of which games receive PS5 Pro upgrades and
+          what those upgrades entail would also help keep game developers
+          accountable. Players would be able to see which studios are making the
+          effort to improve their games for the latest hardware and which ones
+          are not. This transparency could encourage more developers to invest
+          the time and resources needed to optimize their titles, thereby
+          enhancing the overall gaming ecosystem.
+        </p>
       </div>
     </div>
   );
