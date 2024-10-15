@@ -8,7 +8,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
           Specifications
         </h2>
-        <div className="flex">
+        <div className="flex mb-8 gap-8">
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5</h3>
             <p>
@@ -33,6 +33,12 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">AI/Machine Learning:</span> N/A
+            </p>
+            <p>
+              <span className="font-semibold">
+                AI/Machine Learning Features:
+              </span>{" "}
+              N/A
             </p>
             <p>
               <span className="font-semibold">Sound:</span> Custom Tempest
