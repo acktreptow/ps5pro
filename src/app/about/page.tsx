@@ -51,6 +51,19 @@ function AboutPage() {
           and decide if they want to make an investment in a game or even in the
           PS5 Pro console itself.
         </p>
+        <h3 className="text-slate-800 text-xl font-bold mb-4">
+          3. Improved Game Discovery
+        </h3>
+        <p className="mb-8">
+          Not every gamer is deeply involved in following the latest news about
+          patches, updates, and hardware optimizations. Many may not even be
+          aware of which games have received PS5 Pro upgrades. A website that
+          categorizes and lists these enhancements would make it easier for
+          players to discover new or updated games that fully utilize the
+          consoles power. This could boost interest in titles that might have
+          flown under the radar or drive renewed enthusiasm for older games that
+          have been upgraded to make the most of the PS5 Pros hardware.
+        </p>
       </div>
     </div>
   );
