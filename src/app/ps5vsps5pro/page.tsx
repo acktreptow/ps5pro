@@ -9,7 +9,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           Specifications
         </h2>
         <div className="flex mb-8 gap-8">
-          <div>
+          <div className="w-1/2">
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5</h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 2 | 36
@@ -42,8 +42,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">Sound:</span> Custom Tempest
-              Engine 3D Audio | Dolby Atmos, 7.1 Surround Sound & DTS:X (Blu-ray
-              and UHD Blu-ray video) compatible
+              Engine 3D Audio | Dolby Atmos, 7.1 Surround Sound & DTS:X
+              compatible
             </p>
             <p>
               <span className="font-semibold">Storage:</span> 825GB (1TB for
@@ -65,12 +65,12 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               2020 (NA/JP/AU) | November 19, 2020 (WW)
             </p>
             <p>
-              <span className="font-semibold">Introductory Price:</span> Disc
-              Model - $499 / €499 / £449 / ¥49,980 | Digital Model - $399 / €399
-              / £359 / ¥39,980
+              <span className="font-semibold">Introductory Price:</span> Disc -
+              $499 / €499 / £449 / ¥49,980 | Digital - $399 / €399 / £359 /
+              ¥39,980
             </p>
           </div>
-          <div>
+          <div className="w-1/2">
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
@@ -100,8 +100,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               <span className="font-semibold">
                 AI/Machine Learning Features:
               </span>{" "}
-              PSSR (PlayStation Spectral Super Resolution Upscaling) & 2-4x
-              Ray-tracing.
+              PSSR (Upscaling) & 2-4x Ray-Tracing.
             </p>
             <p>
               <span className="font-semibold">Sound:</span> Same as PS5, but 35%
