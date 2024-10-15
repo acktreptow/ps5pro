@@ -1,42 +1,67 @@
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
-    <div className="container mx-auto flex-grow">
+    <div className="container mx-auto flex-grow text-slate-800">
       <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
         PS5 Vs PS5 Pro
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
-        <h2 className="text-slate-800 text-2xl font-bold mb-8">
+        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
           Specifications
         </h2>
-        <div className="flex justify-around">
+        <div className="flex">
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5</h3>
-            <p>GPU: Custom AMD RDNA 2 | 36 CUs up to 2.23 GHz | 10.28 TFLOPs</p>
             <p>
-              CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
-              up to 3.5 GHz
-            </p>
-            <p>RAM: 16GB GDDR6 memory @ 14 Gbps</p>
-            <p>Memory available for games: 12.5 GB</p>
-            <p>Memory Interface/Bandwidth: 256-bit / 448GB/s</p>
-            <p>AI/Machine Learning: N/A</p>
-            <p>
-              Sound: Custom Tempest Engine 3D Audio | Dolby Atmos, 7.1 Surround
-              Sound & DTS:X (Blu-ray and UHD Blu-ray video) compatible
-            </p>
-            <p>Storage: 825GB (1TB for Slim model) NVME SSD @ 5.5GB/s read</p>
-            <p>Output: Up to 4K 120Hz | HDMI 2.1</p>
-            <p>WiFi: WiFi 6</p>
-            <p>
-              Dimensions: H: 10.4cm / W: 39cm (Launch model) | H: 9.6cm / W:
-              35.8cm (Slim)
+              <span className="font-semibold">GPU:</span> Custom AMD RDNA 2 | 36
+              CUs up to 2.23 GHz | 10.28 TFLOPs
             </p>
             <p>
-              Launch Date: November 12, 2020 (NA/JP/AU) | November 19, 2020 (WW)
+              <span className="font-semibold">CPU:</span> Custom 8 core/16
+              thread AMD Ryzen Zen 2 | Variable frequency up to 3.5 GHz
             </p>
             <p>
-              Introductory Price: Disc Model - $499 / €499 / £449 / ¥49,980 |
-              Digital Model - $399 / €399 / £359 / ¥39,980
+              <span className="font-semibold">RAM:</span>16GB GDDR6 memory @ 14
+              Gbps
+            </p>
+            <p>
+              <span className="font-semibold">Memory available for games:</span>{" "}
+              12.5 GB
+            </p>
+            <p>
+              <span className="font-semibold">Memory Interface/Bandwidth:</span>{" "}
+              256-bit / 448GB/s
+            </p>
+            <p>
+              <span className="font-semibold">AI/Machine Learning:</span> N/A
+            </p>
+            <p>
+              <span className="font-semibold">Sound:</span> Custom Tempest
+              Engine 3D Audio | Dolby Atmos, 7.1 Surround Sound & DTS:X (Blu-ray
+              and UHD Blu-ray video) compatible
+            </p>
+            <p>
+              <span className="font-semibold">Storage:</span> 825GB (1TB for
+              Slim model) NVME SSD @ 5.5GB/s read
+            </p>
+            <p>
+              <span className="font-semibold">Output:</span> Up to 4K 120Hz |
+              HDMI 2.1
+            </p>
+            <p>
+              <span className="font-semibold">WiFi:</span> WiFi 6
+            </p>
+            <p>
+              <span className="font-semibold">Dimensions:</span> H: 10.4cm / W:
+              39cm (Launch model) | H: 9.6cm / W: 35.8cm (Slim)
+            </p>
+            <p>
+              <span className="font-semibold">Launch Date:</span> November 12,
+              2020 (NA/JP/AU) | November 19, 2020 (WW)
+            </p>
+            <p>
+              <span className="font-semibold">Introductory Price:</span> Disc
+              Model - $499 / €499 / £449 / ¥49,980 | Digital Model - $399 / €399
+              / £359 / ¥39,980
             </p>
           </div>
           <div>
@@ -66,7 +91,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <p>Introductory Price: $699 / €799 / £699 / ¥119,980</p>
           </div>
         </div>
-        <h2 className="text-slate-800 text-2xl font-bold mb-8">Improvements</h2>
+        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
+          Improvements
+        </h2>
         <div>
           <p>
             GPU: 66.67% extra CUs with a real-world improvement of around 45%
