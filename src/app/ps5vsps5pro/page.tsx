@@ -66,29 +66,64 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </div>
           <div>
             <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
-            <p>GPU: Custom AMD RDNA 3 | 60 CUs up to 2.23 GHz | 17.13 TFLOPs</p>
             <p>
-              CPU: Custom 8 core/16 thread AMD Ryzen Zen 2 | Variable frequency
-              up to 3.85 GHz
-            </p>
-            <p>RAM: 16GB GDDR6 memory @ 18 Gbps</p>
-            <p>Memory available for games: 13.7 GB</p>
-            <p>Memory Interface/Bandwidth: 256-bit / 576GB/s</p>
-            <p>
-              AI/Machine Learning: 300 TOPS of 8-bit computation / 67 TFLOPS of
-              16-bit floating point.
+              <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
+              CUs up to 2.23 GHz | 17.13 TFLOPs
             </p>
             <p>
-              AI/Machine Learning Features: PSSR (PlayStation Spectral Super
-              Resolution Upscaling) & 2-4x Ray-tracing.
+              <span className="font-semibold">CPU:</span> Custom 8 core/16
+              thread AMD Ryzen Zen 2 | Variable frequency up to 3.85 GHz
             </p>
-            <p>Sound: Same as PS5, but 35% faster for improved soundscapes.</p>
-            <p>Storage: 2TB NVME SSD @ 5.5GB/s read</p>
-            <p>Output: Up to 4K 120Hz or 8K 60hz | HDMI 2.1</p>
-            <p>WiFi: WiFi 7</p>
-            <p>Dimensions: H: 10.4cm / W: 35.8cm</p>
-            <p>Launch Date: November 7, 2024 (WW)</p>
-            <p>Introductory Price: $699 / €799 / £699 / ¥119,980</p>
+            <p>
+              <span className="font-semibold">RAM:</span> 16GB GDDR6 memory @ 18
+              Gbps
+            </p>
+            <p>
+              <span className="font-semibold">Memory available for games:</span>{" "}
+              13.7 GB
+            </p>
+            <p>
+              <span className="font-semibold">Memory Interface/Bandwidth:</span>{" "}
+              256-bit / 576GB/s
+            </p>
+            <p>
+              <span className="font-semibold">AI/Machine Learning:</span> 300
+              TOPS of 8-bit computation / 67 TFLOPS of 16-bit floating point.
+            </p>
+            <p>
+              <span className="font-semibold">
+                AI/Machine Learning Features:
+              </span>{" "}
+              PSSR (PlayStation Spectral Super Resolution Upscaling) & 2-4x
+              Ray-tracing.
+            </p>
+            <p>
+              <span className="font-semibold">Sound:</span> Same as PS5, but 35%
+              faster for improved soundscapes.
+            </p>
+            <p>
+              <span className="font-semibold">Storage:</span> 2TB NVME SSD @
+              5.5GB/s read
+            </p>
+            <p>
+              <span className="font-semibold">Output:</span> Up to 4K 120Hz or
+              8K 60hz | HDMI 2.1
+            </p>
+            <p>
+              <span className="font-semibold">WiFi:</span> WiFi 7
+            </p>
+            <p>
+              <span className="font-semibold">Dimensions:</span> H: 10.4cm / W:
+              35.8cm
+            </p>
+            <p>
+              <span className="font-semibold">Launch Date:</span> November 7,
+              2024 (WW)
+            </p>
+            <p>
+              <span className="font-semibold">Introductory Price:</span> $699 /
+              €799 / £699 / ¥119,980
+            </p>
           </div>
         </div>
         <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
