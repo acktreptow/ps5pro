@@ -1,7 +1,9 @@
 const GamesPage = (): JSX.Element => {
   return (
-    <div className="container mx-auto space-y-20 flex-grow">
-      <h1 className="text-center text-2xl font-extrabold m-10">Games List</h1>
+    <div className="container mx-auto flex-grow text-slate-800">
+      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
+        All PS5 Pro Enhanced Games
+      </h1>
     </div>
   );
 };
