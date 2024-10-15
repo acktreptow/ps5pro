@@ -10,7 +10,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         </h2>
         <div className="flex mb-8 gap-8">
           <div className="w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-8">PS5</h3>
+            <h3 className="text-slate-800 text-xl font-bold mb-4">PS5</h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 2 | 36
               CUs up to 2.23 GHz | 10.28 TFLOPs
@@ -41,9 +41,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               N/A
             </p>
             <p>
-              <span className="font-semibold">Sound:</span> Custom Tempest
-              Engine 3D Audio | Dolby Atmos, 7.1 Surround Sound & DTS:X
-              compatible
+              <span className="font-semibold">Sound:</span> Custom Tempest 3D
+              Audio | Dolby Atmos, 7.1 Surround Sound & DTS compatible
             </p>
             <p>
               <span className="font-semibold">Storage:</span> 825GB (1TB for
@@ -71,7 +70,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
           </div>
           <div className="w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-8">PS5 Pro</h3>
+            <h3 className="text-slate-800 text-xl font-bold mb-4">PS5 Pro</h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
               CUs up to 2.23 GHz | 17.13 TFLOPs
@@ -131,10 +130,10 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
           </div>
         </div>
-        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
-          Improvements
-        </h2>
         <div>
+          <h2 className="text-slate-800 text-2xl font-bold mb-4 underline">
+            Improvements
+          </h2>
           <p>
             <span className="font-semibold">GPU:</span> 66.67% extra CUs with a
             real-world improvement of around 45%
