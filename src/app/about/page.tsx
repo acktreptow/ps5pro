@@ -1,4 +1,4 @@
-function AboutPage() {
+const AboutPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
       <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
@@ -92,6 +92,6 @@ function AboutPage() {
       </div>
     </div>
   );
-}
+};
 
 export default AboutPage;
