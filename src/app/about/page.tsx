@@ -8,6 +8,14 @@ function AboutPage() {
         <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
           Why This Website Exists
         </h2>
+        <p>
+          A dedicated website that details all the PlayStation 5 Pro (PS5 Pro)
+          upgrades for each game would be an invaluable resource for both gamers
+          and industry professionals. As gaming technology continues to evolve,
+          players are increasingly looking for ways to optimize their
+          experience, and the launch of the PS5 Pro, with its enhanced hardware,
+          presents a significant opportunity to do just that. Here is why.
+        </p>
       </div>
     </div>
   );
