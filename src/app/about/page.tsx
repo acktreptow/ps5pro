@@ -1,7 +1,14 @@
 function AboutPage() {
   return (
-    <div className="container mx-auto flex-grow">
-      <h1 className="text-center text-2xl font-extrabold m-10">About</h1>
+    <div className="container mx-auto flex-grow text-slate-800">
+      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
+        About
+      </h1>
+      <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
+        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
+          Why This Website Exists
+        </h2>
+      </div>
     </div>
   );
 }
