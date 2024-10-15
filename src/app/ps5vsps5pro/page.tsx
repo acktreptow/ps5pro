@@ -131,26 +131,48 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         </h2>
         <div>
           <p>
-            GPU: 66.67% extra CUs with a real-world improvement of around 45%
+            <span className="font-semibold">GPU:</span> 66.67% extra CUs with a
+            real-world improvement of around 45%
           </p>
-          <p>CPU: 10% increase to max frequency</p>
-          <p>RAM: No increase to amount. 4Gbps / 28.57% increase</p>
-          <p>Memory available for games: 1.2GB / 9.6% increase </p>
-          <p>Memory Interface/Bandwidth: 128GB/s / 28.57% increase</p>
           <p>
-            AI/Machine Learning: 0 - 300 TOPS is a infinite percentage increase.
-            PSSR and 2-4x RT now possible.
+            <span className="font-semibold">CPU:</span> 10% increase to max
+            frequency
           </p>
-          <p>Sound: 35% faster</p>
           <p>
-            Storage: 1.175 TB / 142.42 % increase compared to launch model. 1 TB
-            / 100% increase to slim model.
+            <span className="font-semibold">RAM:</span> No increase to amount.
+            4Gbps / 28.57% increase
           </p>
-          <p>Output: 8K 60hz now possible</p>
-          <p>WiFi: WiFi 6 to 7</p>
           <p>
-            (Digital model used for like-for like comparison of price increase)
-            - $300 (75.19%) / €400 (100.75%) / £340 (94.63%) / ¥80,000 (200.05%)
+            <span className="font-semibold">Memory available for games:</span>{" "}
+            1.2GB / 9.6% increase{" "}
+          </p>
+          <p>
+            <span className="font-semibold">Memory Interface/Bandwidth:</span>{" "}
+            128GB/s / 28.57% increase
+          </p>
+          <p>
+            <span className="font-semibold">AI/Machine Learning:</span> 0 - 300
+            TOPS is a infinite percentage increase. PSSR and 2-4x RT now
+            possible.
+          </p>
+          <p>
+            <span className="font-semibold">Sound:</span> 35% faster
+          </p>
+          <p>
+            <span className="font-semibold">Storage:</span> 1.175 TB / 142.42 %
+            increase compared to launch model. 1 TB / 100% increase to slim
+            model.
+          </p>
+          <p>
+            <span className="font-semibold">Output:</span> 8K 60hz now possible
+          </p>
+          <p>
+            <span className="font-semibold">WiFi:</span> WiFi 6 to 7
+          </p>
+          <p>
+            <span className="font-semibold">Price increase: </span>(Digital
+            model used for like-for like comparison) - $300 (75.19%) / €400
+            (100.75%) / £340 (94.63%) / ¥80,000 (200.05%)
           </p>
         </div>
       </div>
