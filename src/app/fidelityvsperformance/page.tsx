@@ -18,6 +18,15 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>Does the game have an FOV slider?</li>
           <li>Does the game hold a steady 60fps?</li>
           <li>If not, does it at least stay above the VRR threshold?</li>
+          <li>Does the fidelity mode have a 30fps cap?</li>
+          <li>Does the 30fps cap keep a consistent frame time?</li>
+          <li>What is the resolution of each mode?</li>
+          <li>What upscaling is the game using?</li>
+          <li>Is it a singleplayer or multiplayer game?</li>
+          <li>Is the singleplayer game emphasizing story or gameplay?</li>
+          <li>
+            Is the singleplayer game emphasizing graphics as a selling point?
+          </li>
         </ul>
       </div>
     </div>
