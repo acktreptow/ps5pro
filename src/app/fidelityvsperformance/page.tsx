@@ -55,11 +55,28 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>Does the game use depth of field?</li>
           <li>Does the game use film grain?</li>
           <li>Does the game support a 40fps?</li>
-          <li>What is the graphic style of the game?</li>
+          <li>How good is the character detail?</li>
+          <li>What is the art style of the game?</li>
           <li>Does the game have a lot of particle effects?</li>
           <li>Does the game support ray-tracing?</li>
           <li>If so, what types of RT? RTAO/lighting/RTGI etc</li>
           <li>How good is the RT implementation?</li>
+          <li>Does the game support v-sync?</li>
+          <li>Does the game have screen tearing?</li>
+          <li>Does the game use in-game cutscenes?</li>
+          <li>Is the draw distance good?</li>
+          <li>What resolution is the screen?</li>
+          <li>What is the max hz of the screen?</li>
+          <li>
+            What is your skill level? Do you need those extra frames just to
+            compete?
+          </li>
+          <li>How long are your gaming sessions?</li>
+          <li>Does the game use photo mode and do you use it a lot?</li>
+          <li>
+            Can you personally feel a big difference between 30 and 60fps?
+          </li>
+          <li>Can you personally see a big difference between resolutions?</li>
         </ul>
       </div>
     </div>
