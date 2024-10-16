@@ -22,6 +22,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>If not, does it at least stay above the VRR threshold?</li>
           <li>Does the fidelity mode have a 30fps cap?</li>
           <li>Does the 30fps cap keep a consistent frame time?</li>
+          <li>Does the game have a 120fps mode?</li>
           <li>Does the game even support a 30/60fps cap?</li>
           <li>What is the resolution of each mode?</li>
           <li>Does the resolution use DRS?</li>
@@ -34,7 +35,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             Is the singleplayer game emphasizing graphics as a selling point?
           </li>
           <li>What type of screen is being used?</li>
+          <li>What resolution is the screen?</li>
           <li>What size of the screen is being used?</li>
+          <li>What is the refresh rate of the screen?</li>
           <li>Is the screen an OLED or an LCD/LED/QLED?</li>
           <li>
             Does the screen support a good Game mode/have a low response time?
@@ -56,6 +59,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>Does the game have a lot of particle effects?</li>
           <li>Does the game support ray-tracing?</li>
           <li>If so, what types of RT? RTAO/lighting/RTGI etc</li>
+          <li>How good is the RT implementation?</li>
         </ul>
       </div>
     </div>
