@@ -14,6 +14,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         </p>
         <ul>
           <li>Is the game first or third-person?</li>
+          <li>How fast is the game?</li>
+          <li>Is the game a shooter?</li>
           <li>What genre is the game?</li>
           <li>Does the game have an FOV slider?</li>
           <li>Does the game hold a steady 60fps?</li>
@@ -44,9 +46,16 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>Does the game have a weird filter?</li>
           <li>Is the game a remake or remaster?</li>
           <li>How dense is the geometry?</li>
+          <li>How detailed are the textures?</li>
           <li>Does the game use motion blur?</li>
           <li>Does the game use chromatic aberration?</li>
           <li>Does the game use depth of field?</li>
+          <li>Does the game use film grain?</li>
+          <li>Does the game support a 40fps?</li>
+          <li>What is the graphic style of the game?</li>
+          <li>Does the game have a lot of particle effects?</li>
+          <li>Does the game support ray-tracing?</li>
+          <li>If so, what types of RT? RTAO/lighting/RTGI etc</li>
         </ul>
       </div>
     </div>
