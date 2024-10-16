@@ -20,6 +20,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>If not, does it at least stay above the VRR threshold?</li>
           <li>Does the fidelity mode have a 30fps cap?</li>
           <li>Does the 30fps cap keep a consistent frame time?</li>
+          <li>Does the game even support a 30/60fps cap?</li>
           <li>What is the resolution of each mode?</li>
           <li>Does the resolution use DRS?</li>
           <li>How low does the resolution drop in each mode?</li>
@@ -40,6 +41,12 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>How close are you to the screen?</li>
           <li>Does the game support good HDR?</li>
           <li>Does the game even support HDR?</li>
+          <li>Does the game have a weird filter?</li>
+          <li>Is the game a remake or remaster?</li>
+          <li>How dense is the geometry?</li>
+          <li>Does the game use motion blur?</li>
+          <li>Does the game use chromatic aberration?</li>
+          <li>Does the game use depth of field?</li>
         </ul>
       </div>
     </div>
