@@ -10,21 +10,36 @@ const GamesPage = (): JSX.Element => {
         <h2 className="text-slate-800 text-2xl font-bold mb-4 underline">
           Confirmed Games
         </h2>
-        <div className="flex">
+        <div className="flex justify-between">
           <div>
             <h2>Title</h2>
+            {confirmedGames.map((game) => (
+              <p key={game.id}>{game.name}</p>
+            ))}
           </div>
           <div>
             <h2>Genre</h2>
+            {confirmedGames.map((game) => (
+              <p key={game.id}>{game.genre}</p>
+            ))}
           </div>
           <div>
             <h2>Developer</h2>
+            {confirmedGames.map((game) => (
+              <p key={game.id}>{game.developer}</p>
+            ))}
           </div>
           <div>
             <h2>Release Date</h2>
+            {confirmedGames.map((game) => (
+              <p key={game.id}>{game.release}</p>
+            ))}
           </div>
           <div>
             <h2>Metacritic</h2>
+            {confirmedGames.map((game) => (
+              <p key={game.id}>{game.metacritic}</p>
+            ))}
           </div>
         </div>
       </div>
