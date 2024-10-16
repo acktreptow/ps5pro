@@ -21,6 +21,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>Does the fidelity mode have a 30fps cap?</li>
           <li>Does the 30fps cap keep a consistent frame time?</li>
           <li>What is the resolution of each mode?</li>
+          <li>Does the resolution use DRS?</li>
+          <li>How low does the resolution drop in each mode?</li>
+          <li>How often does the resolution hit the lowest?</li>
           <li>What upscaling is the game using?</li>
           <li>Is it a singleplayer or multiplayer game?</li>
           <li>Is the singleplayer game emphasizing story or gameplay?</li>
@@ -30,7 +33,13 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>What type of screen is being used?</li>
           <li>What size of the screen is being used?</li>
           <li>Is the screen an OLED or an LCD/LED/QLED?</li>
-          <li></li>
+          <li>
+            Does the screen support a good Game mode/have a low response time?
+          </li>
+          <li>Is the room the game being played in a dark or bright room?</li>
+          <li>How close are you to the screen?</li>
+          <li>Does the game support good HDR?</li>
+          <li>Does the game even support HDR?</li>
         </ul>
       </div>
     </div>
