@@ -27,6 +27,10 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <li>
             Is the singleplayer game emphasizing graphics as a selling point?
           </li>
+          <li>What type of screen is being used?</li>
+          <li>What size of the screen is being used?</li>
+          <li>Is the screen an OLED or an LCD/LED/QLED?</li>
+          <li></li>
         </ul>
       </div>
     </div>
