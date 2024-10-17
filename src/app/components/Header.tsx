@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const Header = (): JSX.Element => {
   return (
-    <header className="text-slate-50 uppercase font-semibold py-8 flex flex-col gap-8 items-center bg-gradient-to-b from-blue-700 to-playstation border-b-8 border-slate-900 md:text-lg lg:text-2xl">
+    <header className="text-slate-50 uppercase font-semibold py-8 flex flex-col gap-8 items-center bg-gradient-to-b from-blue-700 to-playstation border-b-8 border-slate-900 lg:text-xl">
       <div>
         <Link href="/">
           <Image
@@ -16,7 +16,7 @@ export const Header = (): JSX.Element => {
         </Link>
       </div>
       <div>
-        <ul className="flex flex-col items-center gap-1 md:flex-row md:space-x-4 lg:space-x-6">
+        <ul className="flex flex-col items-center gap-1 md:flex-row md:space-x-4 lg:space-x-8">
           <li className="hover:text-slate-300 hover:underline">
             <Link href="/">Home</Link>
           </li>
