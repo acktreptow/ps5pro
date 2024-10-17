@@ -58,11 +58,11 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         </div>
         <div>
           <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
-            Option menu factors
+            Settings factors
           </h3>
           <ul className="mb-8">
-            <li>Does the game use motion blur?</li>
             <li>Does the game have an FOV slider?</li>
+            <li>Does the game use motion blur?</li>
             <li>Does the game use chromatic aberration?</li>
             <li>Does the game use depth of field?</li>
             <li>Does the game use film grain?</li>
@@ -73,16 +73,12 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             Screen factors
           </h3>
           <ul className="mb-8">
-            <li>What type of screen is being used?</li>
-            <li>What resolution is the screen?</li>
             <li>What size of the screen is being used?</li>
-            <li>What is the refresh rate of the screen?</li>
-            <li>Is the screen an OLED or an LCD/LED/QLED?</li>
-            <li>
-              Does the screen support a good Game mode/have a low response time?
-            </li>
             <li>What resolution is the screen?</li>
-            <li>What is the max hz of the screen?</li>
+            <li>What type of screen is being used?</li>
+            <li>What is the max refresh rate of the screen?</li>
+            <li>Is the screen an OLED or an LCD/LED/QLED?</li>
+            <li>Does the screen use a Game mode/have a low response time?</li>
           </ul>
         </div>
         <div>
@@ -91,7 +87,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </h3>
           <ul className="mb-8">
             <li>How close are you to the screen?</li>
-            <li>Is the room the game being played in a dark or bright room?</li>
+            <li>Are you playing in a dark or bright room?</li>
           </ul>
         </div>
         <div>
@@ -103,14 +99,13 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               Can you personally feel a big difference between 30 and 60fps?
             </li>
             <li>
-              What is your skill level? Do you need those extra frames just to
-              compete?
+              Can you personally see a big difference between resolutions?
+            </li>
+            <li>
+              What&#39;s your skill level? Do you need extra frames to compete?
             </li>
             <li>How long are your gaming sessions?</li>
             <li>Does the game use photo mode and do you use it a lot?</li>
-            <li>
-              Can you personally see a big difference between resolutions?
-            </li>
           </ul>
         </div>
       </div>
