@@ -16,7 +16,7 @@ export const Header = (): JSX.Element => {
         </Link>
       </div>
       <div>
-      <ul className="flex flex-col items-center gap-2 md:flex-row md:space-x-4 lg:space-x-8">
+        <ul className="flex flex-col items-center gap-1 md:flex-row md:space-x-4 lg:space-x-8">
           <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
             <Link href="/">Home</Link>
           </li>
