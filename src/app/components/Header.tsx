@@ -30,7 +30,7 @@ export const Header = (): JSX.Element => {
             <Link href="/ps5vsps5pro">PS5 vs PS5 Pro</Link>
           </li>
           <li className="hover:text-slate-300 hover:underline">
-            <Link href="/fidelityvsperformance">Graphics vs Performance</Link>
+            <Link href="/graphicsvsperformance">Graphics vs Performance</Link>
           </li>
         </ul>
       </div>
