@@ -5,12 +5,14 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         PS5 Vs PS5 Pro
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
-        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
+        <h2 className="text-slate-800 text-3xl font-bold mb-8 underline text-center">
           Specifications
         </h2>
-        <div className="flex mb-8 gap-8">
-          <div className="w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4">PS5</h3>
+        <div className="flex flex-col mb-12 gap-8 md:flex-row">
+          <div className="md:w-1/2">
+            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center">
+              PS5
+            </h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 2 | 36
               CUs up to 2.23 GHz | 10.28 TFLOPs
@@ -69,8 +71,10 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               ¥39,980
             </p>
           </div>
-          <div className="w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4">PS5 Pro</h3>
+          <div className="md:w-1/2">
+            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center">
+              PS5 Pro
+            </h3>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
               CUs up to 2.23 GHz | 17.13 TFLOPs
@@ -131,7 +135,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </div>
         </div>
         <div>
-          <h2 className="text-slate-800 text-2xl font-bold mb-4 underline">
+          <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
             Improvements
           </h2>
           <p>
