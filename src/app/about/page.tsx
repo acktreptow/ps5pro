@@ -19,21 +19,34 @@ const AboutPage = (): JSX.Element => {
         <h3 className="text-slate-800 text-xl font-bold mb-4">
           1. Clarification of Enhanced Features
         </h3>
-        <p className="mb-8">
-          The PS5 Pro offers significant upgrades in terms of performance,
-          including higher frame rates, up to 8K resolution, AI upscaling, ray
+        <p className="mb-4">
+          The PS5 Pro offers significant upgrades in terms of performance. These
+          include higher frame rates, up to 8K resolution, AI upscaling, ray
           tracing improvements, and overall enhanced graphical fidelity.
-          However, not every game will receive the same level of upgrade. Some
-          will benefit from higher resolutions, others from frame rate boosts,
-          while certain games may implement both or add new visual effects such
-          as improved lighting and shadow quality. Some games will offer a
-          bespoke PS5 Pro mode where as other will continue to add fidelity and
-          performance modes. A website dedicated to detailing these upgrades
-          would provide clear information on what improvements players can
-          expect from each game, eliminating confusion and speculation. This is
-          especially important because gamers invest significant amounts of time
-          and money into their gaming experiences, and they want to know exactly
-          how a game will perform on their upgraded hardware.
+          However, not every game will receive the same level and type of
+          upgrade. For example:
+        </p>
+        <ul className="mb-4 ml-8 list-disc">
+          <li>
+            Some will benefit exclusively from higher resolutions, or from frame
+            rate boosts.
+          </li>
+          <li>
+            Other games may implement both or add new visual effects such as
+            improved lighting and shadow quality.
+          </li>
+          <li>
+            Some games will offer a bespoke PS5 Pro mode where as other will
+            continue to add fidelity and performance modes.
+          </li>
+        </ul>
+        <p className="mb-8">
+          A website dedicated to detailing these upgrades would provide clear
+          information on what improvements players can expect from each game,
+          eliminating confusion and speculation. After all, gamers invest
+          significant amounts of time and money into this hobby. They therefore
+          should know exactly how a game will perform on their upgraded
+          hardware.
         </p>
         <h3 className="text-slate-800 text-xl font-bold mb-4">
           2. Consumer Education and Purchasing Decisions
