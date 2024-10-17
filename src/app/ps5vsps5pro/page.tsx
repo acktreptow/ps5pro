@@ -1,16 +1,16 @@
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
+      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 mx-4 bg-slate-100 p-8 rounded shadow-lg md:mx-8">
         PS5 Vs PS5 Pro
       </h1>
-      <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
+      <div className="bg-slate-100 p-8 rounded shadow-lg mb-8 md:mx-8">
         <h2 className="text-slate-800 text-3xl font-bold mb-8 underline text-center">
           Specifications
         </h2>
-        <div className="flex flex-col mb-12 gap-8 md:flex-row">
-          <div className="md:w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center">
+        <div className="flex flex-col mb-12 gap-8 lg:flex-row">
+          <div className="lg:w-1/2">
+            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center md:text-start">
               PS5
             </h3>
             <p>
@@ -71,8 +71,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               ¥39,980
             </p>
           </div>
-          <div className="md:w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center">
+          <div className="lg:w-1/2">
+            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center md:text-start">
               PS5 Pro
             </h3>
             <p>
