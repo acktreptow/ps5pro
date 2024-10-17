@@ -17,43 +17,38 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             Game factors
           </h3>
           <ul className="mb-8">
+            <li>What genre is the game?</li>
             <li>Is the game first or third-person?</li>
             <li>How fast is the game?</li>
-            <li>Is the game a shooter?</li>
-            <li>What genre is the game?</li>
+            <li>Is it a singleplayer or multiplayer game?</li>
+            <li>Is the singleplayer emphasizing story or gameplay?</li>
+            <li>Is the singleplayer game emphasizing its graphics?</li>
+            <li>What is the art style of the game?</li>
             <li>Does the game hold a steady 60fps?</li>
             <li>If not, does it at least stay above the VRR threshold?</li>
             <li>Does the fidelity mode have a 30fps cap?</li>
             <li>Does the 30fps cap keep a consistent frame time?</li>
-            <li>Does the game have a 120fps mode?</li>
-            <li>Does the game even support a 30/60fps cap?</li>
+            <li>Does the game have a 40fps or 120fps mode?</li>
+            <li>Does the game support a 30/60fps cap?</li>
             <li>What is the resolution of each mode?</li>
-            <li>Does the resolution use DRS?</li>
+            <li>Do the modes use DRS?</li>
             <li>How low does the resolution drop in each mode?</li>
             <li>How often does the resolution hit the lowest?</li>
             <li>What upscaling is the game using?</li>
-            <li>Is it a singleplayer or multiplayer game?</li>
-            <li>Is the singleplayer game emphasizing story or gameplay?</li>
-            <li>
-              Is the singleplayer game emphasizing graphics as a selling point?
-            </li>
             <li>Does the game support good HDR?</li>
             <li>Does the game even support HDR?</li>
             <li>Does the game have a weird filter?</li>
             <li>Is the game a remake or remaster?</li>
             <li>How dense is the geometry?</li>
             <li>How detailed are the textures?</li>
-            <li>Does the game support a 40fps?</li>
-            <li>How good is the character detail?</li>
-            <li>What is the art style of the game?</li>
+            <li>How detailed are characters?</li>
             <li>Does the game have a lot of particle effects?</li>
             <li>Does the game support ray-tracing?</li>
             <li>If so, what types of RT? RTAO/lighting/RTGI etc</li>
             <li>How good is the RT implementation?</li>
-            <li>Does the game support v-sync?</li>
             <li>Does the game have screen tearing?</li>
             <li>Does the game use in-game cutscenes?</li>
-            <li>Is the draw distance good?</li>
+            <li>Does the game have a long draw distance?</li>
           </ul>
         </div>
         <div>
@@ -66,6 +61,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <li>Does the game use chromatic aberration?</li>
             <li>Does the game use depth of field?</li>
             <li>Does the game use film grain?</li>
+            <li>Does the game use v-sync?</li>
           </ul>
         </div>
         <div>
@@ -79,6 +75,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <li>What is the max refresh rate of the screen?</li>
             <li>Is the screen an OLED or an LCD/LED/QLED?</li>
             <li>Does the screen use a Game mode/have a low response time?</li>
+            <li>Does the screen support VRR?</li>
           </ul>
         </div>
         <div>
