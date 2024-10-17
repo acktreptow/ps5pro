@@ -9,12 +9,12 @@ const AboutPage = (): JSX.Element => {
           Why This Website Exists
         </h2>
         <p className="mb-8">
-          A dedicated website that details all the PlayStation 5 Pro (PS5 Pro)
-          upgrades for each game would be an invaluable resource for both gamers
-          and industry professionals. As gaming technology continues to evolve,
-          players are increasingly looking for ways to optimize their
-          experience, and the launch of the PS5 Pro, with its enhanced hardware,
-          presents a significant opportunity to do just that. Here is why.
+          As technology continues to evolve, players are increasingly seeking
+          ways to optimize their gaming experience. And the launch of the PS5
+          Pro, with its enhanced hardware and new technologies like PSSR, offers
+          even greater opportunities for players to customize games to best suit
+          their preferences. A dedicated website that details all the PS5 Pro
+          upgrades for each game is therefore an invaluable resource.
         </p>
         <h3 className="text-slate-800 text-xl font-bold mb-4">
           1. Clarification of Enhanced Features
