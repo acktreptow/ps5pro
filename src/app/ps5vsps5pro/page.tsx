@@ -1,5 +1,6 @@
 import Image from "next/image";
 import PS5 from "../../../public/images/ps5v1.png";
+import PS5PRO from "../../../public/images/ps5prov1.png";
 
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
@@ -77,8 +78,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
           </div>
           <div className="lg:w-1/2">
-          <Image
-              src={PS5}
+            <Image
+              src={PS5PRO}
               alt="ps5 console"
               className="w-48 rounded-lg mx-auto mb-8"
             />
