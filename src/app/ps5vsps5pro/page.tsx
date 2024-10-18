@@ -1,3 +1,6 @@
+import Image from "next/image";
+import PS5 from "../../../public/images/ps5v1.png";
+
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
@@ -5,14 +8,16 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         PS5 vs. PS5 Pro
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8 md:mx-8">
-        <h2 className="text-slate-800 text-3xl font-bold mb-8 underline text-center">
-          Specifications
-        </h2>
         <div className="flex flex-col mb-12 gap-8 lg:flex-row">
           <div className="lg:w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center md:text-start">
-              PS5
-            </h3>
+            <Image
+              src={PS5}
+              alt="ps5 console"
+              className="w-48 rounded-lg mx-auto mb-8"
+            />
+            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
+              Specifications
+            </h2>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 2 | 36
               CUs up to 2.23 GHz | 10.28 TFLOPs
@@ -72,9 +77,14 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
           </div>
           <div className="lg:w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4 text-center md:text-start">
-              PS5 Pro
-            </h3>
+          <Image
+              src={PS5}
+              alt="ps5 console"
+              className="w-48 rounded-lg mx-auto mb-8"
+            />
+            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
+              Specifications
+            </h2>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
               CUs up to 2.23 GHz | 17.13 TFLOPs
