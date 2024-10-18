@@ -14,9 +14,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             <Image
               src={PS5}
               alt="ps5 console"
-              className="w-72 rounded-lg mx-auto my-8"
+              className="w-72 rounded-lg mx-auto my-8 md:mt-4"
             />
-            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
+            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center md:mb-4">
               Specifications
             </h2>
             <p>
@@ -77,11 +77,11 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               ¥39,980
             </p>
           </div>
-          <div className="mt-8 mb-3 lg:w-1/2">
+          <div className="mt-8 mb-4 md:mb-8 lg:w-1/2">
             <Image
               src={PS5PRO}
               alt="ps5 console"
-              className="w-72 rounded-lg mx-auto mb-8"
+              className="w-72 rounded-lg mx-auto mb-8 md:mt-4"
             />
             <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
               Specifications
