@@ -5,18 +5,18 @@ import PS5PRO from "../../../public/images/ps5prov1.png";
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-center text-4xl border-2 font-extrabold my-8 mx-4 p-8 bg-slate-100 rounded shadow-lg md:mx-8">
+      <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         PS5 vs. PS5 Pro
       </h1>
-      <div className="bg-slate-100 p-4 pb-8 mx-4 rounded border-2 shadow-lg mb-10 md:mx-8 md:p-8">
+      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8">
         <div className="flex flex-col mb-12 gap-8 lg:flex-row lg:mb-8">
           <div className="lg:w-1/2">
             <Image
               src={PS5}
               alt="ps5 console"
-              className="w-72 rounded-lg mx-auto my-8 md:mt-4"
+              className="w-72 mx-auto my-8 rounded-lg md:mt-4"
             />
-            <h2 className="text-3xl font-bold mb-4 underline text-center md:mb-4">
+            <h2 className="text-3xl text-center font-bold underline mb-4 md:mb-4">
               Specifications
             </h2>
             <p>
