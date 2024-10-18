@@ -28,25 +28,27 @@ const AboutPage = (): JSX.Element => {
         </p>
         <ul className="mb-4 ml-8 list-disc">
           <li>
-            Some will benefit exclusively from higher resolutions, or from frame
-            rate boosts.
+            Some games will exclusively benefit from higher resolutions or from
+            frame rate boosts, whereas others will improve both.
           </li>
           <li>
-            Other games may implement both or add new visual effects such as
-            improved lighting and shadow quality.
+            Some games will introduce various forms of ray-tracing. For other
+            games that already have ray-tracing, they will improve the quality
+            of it and/or add more forms of ray-tracing.
           </li>
           <li>
-            Some games will offer a bespoke PS5 Pro mode where as other will
-            continue to add fidelity and performance modes.
+            Some games will offer one bespoke PS5 Pro mode, whereas others will
+            continue to include both the fidelity and performance modes we see
+            in many base PS5 games. Just at a higher technical level.
           </li>
         </ul>
         <p className="mb-8">
-          A website dedicated to detailing these upgrades would provide clear
-          information on what improvements players can expect from each game,
-          eliminating confusion and speculation. After all, gamers invest
-          significant amounts of time and money into this hobby. They therefore
-          should know exactly how a game will perform on their upgraded
-          hardware.
+          That&#39;s a lot of way to improve a game! A website dedicated to
+          detailing these upgrades would provide clear information on what
+          improvements players can expect from each game, eliminating confusion
+          and speculation. After all, gamers invest significant amounts of time
+          and money into this hobby. They therefore should know exactly how a
+          game will perform on their upgraded hardware.
         </p>
         <h3 className="text-slate-800 text-xl font-bold mb-4">
           2. Consumer Education and Purchasing Decisions
