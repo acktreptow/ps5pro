@@ -1,8 +1,8 @@
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-slate-800 text-center font-extrabold text-4xl my-8 mx-4 bg-slate-100 p-8 rounded shadow-lg md:mx-8">
-        PS5 Vs PS5 Pro
+      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 mx-4 bg-slate-100 p-8 rounded shadow-lg md:mx-8">
+        PS5 vs. PS5 Pro
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8 md:mx-8">
         <h2 className="text-slate-800 text-3xl font-bold mb-8 underline text-center">
