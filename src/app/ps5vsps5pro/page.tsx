@@ -146,7 +146,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </div>
         </div>
         <div>
-          <h2 className="text-3xl font-bold mb-4 underline text-center lg:text-start">
+          <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start">
             Improvements
           </h2>
           <p>
