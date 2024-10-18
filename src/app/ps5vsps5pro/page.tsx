@@ -5,7 +5,7 @@ import PS5PRO from "../../../public/images/ps5prov1.png";
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-slate-800 text-center text-4xl border-2 font-extrabold my-8 mx-4 p-8 bg-slate-100 rounded shadow-lg md:mx-8">
+      <h1 className="text-center text-4xl border-2 font-extrabold my-8 mx-4 p-8 bg-slate-100 rounded shadow-lg md:mx-8">
         PS5 vs. PS5 Pro
       </h1>
       <div className="bg-slate-100 p-4 pb-8 mx-4 rounded border-2 shadow-lg mb-10 md:mx-8 md:p-8">
@@ -16,7 +16,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               alt="ps5 console"
               className="w-72 rounded-lg mx-auto my-8 md:mt-4"
             />
-            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center md:mb-4">
+            <h2 className="text-3xl font-bold mb-4 underline text-center md:mb-4">
               Specifications
             </h2>
             <p>
@@ -83,7 +83,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               alt="ps5 console"
               className="w-72 rounded-lg mx-auto mb-8 md:mt-4"
             />
-            <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center">
+            <h2 className="text-3xl font-bold mb-4 underline text-center">
               Specifications
             </h2>
             <p>
@@ -146,7 +146,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </div>
         </div>
         <div>
-          <h2 className="text-slate-800 text-3xl font-bold mb-4 underline text-center lg:text-start">
+          <h2 className="text-3xl font-bold mb-4 underline text-center lg:text-start">
             Improvements
           </h2>
           <p>
