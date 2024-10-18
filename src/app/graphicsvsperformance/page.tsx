@@ -1,7 +1,7 @@
 const GraphicsvsPerformancePage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
+      <h1 className="text-center text-4xl border-2 font-extrabold my-8 mx-4 p-8 bg-slate-100 rounded shadow-lg md:mx-8">
         Graphics vs Performance
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
