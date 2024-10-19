@@ -17,7 +17,7 @@ const AboutPage = (): JSX.Element => {
           upgrades for each game is therefore an invaluable resource.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2">
-          1. Clarification of Enhanced Features
+          1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
           The PS5 Pro offers significant upgrades in terms of performance. These
@@ -80,7 +80,7 @@ const AboutPage = (): JSX.Element => {
           have been upgraded to make the most of the PS5 Pros hardware.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2">
-          4. Keeping Developers Accountable
+          4. Keep Developers Accountable
         </h3>
         <p className="mb-8">
           Having a public record of which games receive PS5 Pro upgrades and
