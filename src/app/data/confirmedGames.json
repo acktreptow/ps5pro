@@ -315,6 +315,15 @@
     "metacritic": 0
   },
   {
+    "name": "The Finals",
+    "id": "The Finals",
+    "genre": "F2P Third-Person Shooter",
+    "developer": "Embark Studios",
+    "psStudios": false,
+    "release": "December 7, 2023",
+    "metacritic": 80
+  },
+  {
     "name": "Towers of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
