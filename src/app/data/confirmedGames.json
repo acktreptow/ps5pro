@@ -234,6 +234,15 @@
     "metacritic": 0
   },
   {
+    "name": "Quantum Error",
+    "id": "Quantum Error",
+    "genre": "Horror, Action",
+    "developer": "TeamKill Media",
+    "psStudios": false,
+    "release": "November 3, 2023",
+    "metacritic": 40
+  },
+  {
     "name": "Retrieval",
     "id": "Retrieval",
     "genre": "Survival Horror, Action-Adventure",
