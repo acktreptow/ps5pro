@@ -5,11 +5,11 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         Graphics vs Performance
       </h1>
       <div className="bg-slate-100 p-4 pb-8 mx-4 rounded border-2 shadow-lg mb-10 md:mx-8 md:p-8">
-        <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
-          Why the choice is a game by game choice
+        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
+          Why it&#39;s game-by-game
         </h2>
-        <p className="mb-4 text-xl">
-          There are many factors to consider when choosing the difference as
+        <p className="text-xl text-center mb-4">
+          There are numerous factors gamers should consider when choosing the difference as
           well as more indirect things to look for. Here they are:
         </p>
         <div className="flex">
