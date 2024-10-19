@@ -5,19 +5,19 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         Graphics vs Performance
       </h1>
       <div className="bg-slate-100 p-4 pb-8 mx-4 rounded border-2 shadow-lg mb-10 md:mx-8 md:p-8">
-        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
+        <h2 className="text-center text-2xl font-extrabold mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why it&#39;s game-by-game
         </h2>
-        <p className="text-xl text-center mb-4">
-          There are numerous factors gamers should consider when choosing the difference as
-          well as more indirect things to look for. Here they are:
+        <p className=" text-center mb-8">
+          There are numerous factors gamers should consider when choosing the
+          difference as well as more indirect things to look for. Here they are:
         </p>
-        <div className="flex">
-          <div className="w-1/2">
-            <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
+        <div className="flex flex-col lg:flex-row">
+          <div className="lg:w-1/2">
+            <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
               Game factors
             </h3>
-            <ul className="mb-8">
+            <ul className="mb-8 list-disc ml-4">
               <li>What genre is the game?</li>
               <li>Is the game first or third-person?</li>
               <li>How fast is the game?</li>
@@ -54,7 +54,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           </div>
           <div>
             <div>
-              <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
+              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
                 Settings factors
               </h3>
               <ul className="mb-8">
@@ -67,7 +67,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
+              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
                 Screen factors
               </h3>
               <ul className="mb-8">
@@ -83,7 +83,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
+              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
                 External factors
               </h3>
               <ul className="mb-8">
@@ -92,10 +92,10 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-xl font-bold mb-4 underline">
+              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
                 Personal factors
               </h3>
-              <ul className="mb-8">
+              <ul>
                 <li>
                   Can you personally feel a big difference between 30 and 60fps?
                 </li>
