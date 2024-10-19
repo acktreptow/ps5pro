@@ -8,13 +8,13 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         <h2 className="text-center text-2xl font-extrabold mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why it&#39;s game-by-game
         </h2>
-        <p className=" text-center mb-8">
+        <p className="text-center mb-12">
           There are numerous factors gamers should consider when choosing the
           difference as well as more indirect things to look for. Here they are:
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
-            <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
+            <h3 className="text-center text-2xl font-bold underline mb-2">
               Game factors
             </h3>
             <ul className="mb-8 list-disc ml-4">
@@ -54,7 +54,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           </div>
           <div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
+              <h3 className="text-center text-2xl font-bold underline mb-2">
                 Settings factors
               </h3>
               <ul className="mb-8 list-disc ml-4">
@@ -67,7 +67,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
+              <h3 className="text-center text-2xl font-bold underline mb-2">
                 Screen factors
               </h3>
               <ul className="mb-8 list-disc ml-4">
@@ -83,7 +83,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
+              <h3 className="text-center text-2xl font-bold underline mb-2">
                 External factors
               </h3>
               <ul className="mb-8 list-disc ml-4">
@@ -92,7 +92,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
+              <h3 className="text-center text-2xl font-bold underline mb-2">
                 Personal factors
               </h3>
               <ul className="list-disc ml-4">
