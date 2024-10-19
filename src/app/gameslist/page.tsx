@@ -3,7 +3,7 @@ import confirmedGames from "../data/confirmedGames.json";
 const GamesPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-slate-800 text-center text-4xl font-extrabold my-8 bg-slate-100 p-8 rounded shadow-lg">
+      <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         All PS5 Pro Enhanced Games
       </h1>
       <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
