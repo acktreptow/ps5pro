@@ -14,7 +14,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
-            <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
+            <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
               Game factors
             </h3>
             <ul className="mb-8 list-disc ml-4">
@@ -54,10 +54,10 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           </div>
           <div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
+              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
                 Settings factors
               </h3>
-              <ul className="mb-8">
+              <ul className="mb-8 list-disc ml-4">
                 <li>Does the game have an FOV slider?</li>
                 <li>Does the game use motion blur?</li>
                 <li>Does the game use chromatic aberration?</li>
@@ -67,10 +67,10 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
+              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
                 Screen factors
               </h3>
-              <ul className="mb-8">
+              <ul className="mb-8 list-disc ml-4">
                 <li>What size of the screen is being used?</li>
                 <li>What resolution is the screen?</li>
                 <li>What type of screen is being used?</li>
@@ -83,19 +83,19 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
+              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
                 External factors
               </h3>
-              <ul className="mb-8">
+              <ul className="mb-8 list-disc ml-4">
                 <li>How close are you to the screen?</li>
                 <li>Are you playing in a dark or bright room?</li>
               </ul>
             </div>
             <div>
-              <h3 className="text-slate-800 text-2xl font-bold mb-4 underline text-center">
+              <h3 className="text-slate-800 text-2xl font-bold mb-2 underline text-center">
                 Personal factors
               </h3>
-              <ul>
+              <ul className="list-disc ml-4">
                 <li>
                   Can you personally feel a big difference between 30 and 60fps?
                 </li>
