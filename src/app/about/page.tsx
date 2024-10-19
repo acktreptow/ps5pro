@@ -4,8 +4,8 @@ const AboutPage = (): JSX.Element => {
       <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         About
       </h1>
-      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8">
-        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start">
+      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:py-12">
+        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why This Website Exists
         </h2>
         <p className="mb-8 md:mb-12">
@@ -16,7 +16,7 @@ const AboutPage = (): JSX.Element => {
           their preferences. A dedicated website that details all the PS5 Pro
           upgrades for each game is therefore an invaluable resource.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
@@ -50,7 +50,7 @@ const AboutPage = (): JSX.Element => {
           and money into this hobby. They therefore should know exactly how a
           game will perform on their upgraded hardware.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           2. Consumer Education and Purchasing Decisions
         </h3>
         <p className="mb-8 md:mb-12">
@@ -66,7 +66,7 @@ const AboutPage = (): JSX.Element => {
           and decide if they want to make an investment in a game or even in the
           PS5 Pro console itself.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           3. Improved Game Discovery
         </h3>
         <p className="mb-8 md:mb-12">
@@ -79,7 +79,7 @@ const AboutPage = (): JSX.Element => {
           flown under the radar or drive renewed enthusiasm for older games that
           have been upgraded to make the most of the PS5 Pros hardware.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           4. Keep Developers Accountable
         </h3>
         <p className="mb-8 md:mb-12">
@@ -91,7 +91,7 @@ const AboutPage = (): JSX.Element => {
           the time and resources needed to optimize their titles, thereby
           enhancing the overall gaming ecosystem.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           5. Centralized Information Hub
         </h3>
         <p>
