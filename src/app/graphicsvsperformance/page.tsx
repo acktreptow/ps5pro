@@ -1,10 +1,10 @@
 const GraphicsvsPerformancePage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-center text-4xl border-2 font-extrabold my-8 mx-4 p-8 bg-slate-100 rounded shadow-lg md:mx-8">
+      <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         Graphics vs Performance
       </h1>
-      <div className="bg-slate-100 p-4 pb-8 mx-4 rounded border-2 shadow-lg mb-10 md:mx-8 md:p-8">
+      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <h2 className="text-center text-2xl font-extrabold mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why it&#39;s game-by-game
         </h2>
