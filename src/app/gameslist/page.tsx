@@ -6,7 +6,7 @@ const GamesPage = (): JSX.Element => {
       <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         All PS5 Pro Enhanced Games
       </h1>
-      <div className="bg-slate-100 p-8 rounded shadow-lg mb-8">
+      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <h2 className="text-slate-800 text-2xl font-bold mb-8 underline">
           Confirmed Games
         </h2>
