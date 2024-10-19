@@ -5,7 +5,7 @@ const AboutPage = (): JSX.Element => {
         About
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8">
-        <h2 className="text-slate-800 text-2xl font-bold mb-4 underline">
+        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2">
           Why This Website Exists
         </h2>
         <p className="mb-8">
@@ -16,7 +16,7 @@ const AboutPage = (): JSX.Element => {
           their preferences. A dedicated website that details all the PS5 Pro
           upgrades for each game is therefore an invaluable resource.
         </p>
-        <h3 className="text-slate-800 text-xl font-bold mb-4">
+        <h3 className="text-xl text-center font-semibold mb-2">
           1. Clarification of Enhanced Features
         </h3>
         <p className="mb-4">
@@ -26,7 +26,7 @@ const AboutPage = (): JSX.Element => {
           However, not every game will receive the same level and type of
           upgrade. For example:
         </p>
-        <ul className="mb-4 ml-8 list-disc">
+        <ul className="mb-4 mx-8 list-disc">
           <li>
             Some games will exclusively benefit from higher resolutions or from
             frame rate boosts, whereas others will improve both.
@@ -50,7 +50,7 @@ const AboutPage = (): JSX.Element => {
           and money into this hobby. They therefore should know exactly how a
           game will perform on their upgraded hardware.
         </p>
-        <h3 className="text-slate-800 text-xl font-bold mb-4">
+        <h3 className="text-xl text-center font-semibold mb-2">
           2. Consumer Education and Purchasing Decisions
         </h3>
         <p className="mb-8">
@@ -66,7 +66,7 @@ const AboutPage = (): JSX.Element => {
           and decide if they want to make an investment in a game or even in the
           PS5 Pro console itself.
         </p>
-        <h3 className="text-slate-800 text-xl font-bold mb-4">
+        <h3 className="text-xl text-center font-semibold mb-2">
           3. Improved Game Discovery
         </h3>
         <p className="mb-8">
@@ -79,7 +79,7 @@ const AboutPage = (): JSX.Element => {
           flown under the radar or drive renewed enthusiasm for older games that
           have been upgraded to make the most of the PS5 Pros hardware.
         </p>
-        <h3 className="text-slate-800 text-xl font-bold mb-4">
+        <h3 className="text-xl text-center font-semibold mb-2">
           4. Keeping Developers Accountable
         </h3>
         <p className="mb-8">
@@ -91,10 +91,10 @@ const AboutPage = (): JSX.Element => {
           the time and resources needed to optimize their titles, thereby
           enhancing the overall gaming ecosystem.
         </p>
-        <h3 className="text-slate-800 text-xl font-bold mb-4">
+        <h3 className="text-xl text-center font-semibold mb-2">
           5. Centralized Information Hub
         </h3>
-        <p className="mb-8">
+        <p>
           Currently, information about PS5 Pro upgrades may be scattered across
           forums, news outlets, and patch notes, making it difficult for the
           average player to stay up to date. A centralized website dedicated to
