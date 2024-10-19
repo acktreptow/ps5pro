@@ -17,7 +17,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
             <h3 className="text-center text-2xl font-bold underline mb-2">
               Game factors
             </h3>
-            <ul className="mb-8 list-disc ml-4">
+            <ul className="list-disc mb-8 ml-4 space-y-1">
               <li>What genre is the game?</li>
               <li>Is the game first or third-person?</li>
               <li>How fast is the game?</li>
@@ -57,7 +57,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <h3 className="text-center text-2xl font-bold underline mb-2">
                 Settings factors
               </h3>
-              <ul className="mb-8 list-disc ml-4">
+              <ul className="list-disc mb-8 ml-4 space-y-1">
                 <li>Does the game have an FOV slider?</li>
                 <li>Does the game use motion blur?</li>
                 <li>Does the game use chromatic aberration?</li>
@@ -70,7 +70,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <h3 className="text-center text-2xl font-bold underline mb-2">
                 Screen factors
               </h3>
-              <ul className="mb-8 list-disc ml-4">
+              <ul className="list-disc mb-8 ml-4 space-y-1">
                 <li>What size of the screen is being used?</li>
                 <li>What resolution is the screen?</li>
                 <li>What type of screen is being used?</li>
@@ -86,7 +86,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <h3 className="text-center text-2xl font-bold underline mb-2">
                 External factors
               </h3>
-              <ul className="mb-8 list-disc ml-4">
+              <ul className="list-disc mb-8 ml-4 space-y-1">
                 <li>How close are you to the screen?</li>
                 <li>Are you playing in a dark or bright room?</li>
               </ul>
@@ -95,7 +95,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <h3 className="text-center text-2xl font-bold underline mb-2">
                 Personal factors
               </h3>
-              <ul className="list-disc ml-4">
+              <ul className="list-disc ml-4 space-y-1">
                 <li>
                   Can you personally feel a big difference between 30 and 60fps?
                 </li>
