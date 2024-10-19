@@ -5,10 +5,10 @@ const AboutPage = (): JSX.Element => {
         About
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8">
-        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2">
+        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start">
           Why This Website Exists
         </h2>
-        <p className="mb-8">
+        <p className="mb-8 md:mb-12">
           As technology continues to evolve, players are increasingly seeking
           ways to optimize their gaming experience. And the launch of the PS5
           Pro, with its enhanced hardware and new technologies like PSSR, offers
@@ -16,7 +16,7 @@ const AboutPage = (): JSX.Element => {
           their preferences. A dedicated website that details all the PS5 Pro
           upgrades for each game is therefore an invaluable resource.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
           1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
@@ -42,7 +42,7 @@ const AboutPage = (): JSX.Element => {
             in many base PS5 games. Just at a higher technical level.
           </li>
         </ul>
-        <p className="mb-8">
+        <p className="mb-8 md:mb-12">
           That&#39;s a lot of way to improve a game! A website dedicated to
           detailing these upgrades would provide clear information on what
           improvements players can expect from each game, eliminating confusion
@@ -50,10 +50,10 @@ const AboutPage = (): JSX.Element => {
           and money into this hobby. They therefore should know exactly how a
           game will perform on their upgraded hardware.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
           2. Consumer Education and Purchasing Decisions
         </h3>
-        <p className="mb-8">
+        <p className="mb-8 md:mb-12">
           Many gamers are discerning when it comes to how their favorite titles
           perform, and some might prioritize specific features like smooth frame
           rates over higher resolutions, or vice versa. A website that outlines
@@ -66,10 +66,10 @@ const AboutPage = (): JSX.Element => {
           and decide if they want to make an investment in a game or even in the
           PS5 Pro console itself.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
           3. Improved Game Discovery
         </h3>
-        <p className="mb-8">
+        <p className="mb-8 md:mb-12">
           Not every gamer is deeply involved in following the latest news about
           patches, updates, and hardware optimizations. Many may not even be
           aware of which games have received PS5 Pro upgrades. A website that
@@ -79,10 +79,10 @@ const AboutPage = (): JSX.Element => {
           flown under the radar or drive renewed enthusiasm for older games that
           have been upgraded to make the most of the PS5 Pros hardware.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
           4. Keep Developers Accountable
         </h3>
-        <p className="mb-8">
+        <p className="mb-8 md:mb-12">
           Having a public record of which games receive PS5 Pro upgrades and
           what those upgrades entail would also help keep game developers
           accountable. Players would be able to see which studios are making the
@@ -91,7 +91,7 @@ const AboutPage = (): JSX.Element => {
           the time and resources needed to optimize their titles, thereby
           enhancing the overall gaming ecosystem.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start">
           5. Centralized Information Hub
         </h3>
         <p>
