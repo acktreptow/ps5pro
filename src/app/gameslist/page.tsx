@@ -47,13 +47,13 @@ const GamesPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
-      <div className="mb-5 grid gap-2 md:grid-cols-2 lg:grid-cols-4">
+      <div className="mb-4 mx-4 grid gap-5 text-center md:grid-cols-2 lg:grid-cols-4">
         {confirmedGames.map((game) => (
           <div
             className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             key={game.id}
           >
-            <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
+            <h3 className="text-xl font-bold text-center mb-1 mx-8 lg:text-2xl lg:mb-3">
               {game.name}
             </h3>
             <p className="mb-0 text-lg">Genre: {game.genre}</p>
