@@ -47,7 +47,7 @@ const GamesPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
+      <div className="mb-5 grid gap-2 md:grid-cols-2 lg:grid-cols-4">
         {confirmedGames.map((game) => (
           <div
             className="border-2 border-gray-200 rounded-lg shadow-md p-3"
@@ -56,18 +56,10 @@ const GamesPage = (): JSX.Element => {
             <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
               {game.name}
             </h3>
-            <p className="mb-0 text-lg lg:text-xl lg:tracking-wide">
-              Genre: {game.genre}
-            </p>
-            <p className="mb-0 text-lg lg:text-xl lg:tracking-wide">
-              Developer: {game.developer}
-            </p>
-            <p className="mb-0 text-lg lg:text-xl lg:tracking-wide">
-              Release Date: {game.release}
-            </p>
-            <p className="mb-0 text-lg lg:text-xl lg:tracking-wide">
-              Metacritic: {game.metacritic}
-            </p>
+            <p className="mb-0 text-lg">Genre: {game.genre}</p>
+            <p className="mb-0 text-lg">Developer: {game.developer}</p>
+            <p className="mb-0 text-lg">Release Date: {game.release}</p>
+            <p className="mb-0 text-lg">Metacritic: {game.metacritic}</p>
           </div>
         ))}
       </div>
