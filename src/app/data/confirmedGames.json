@@ -135,6 +135,15 @@
     "metacritic": 94
   },
   {
+    "name": "Hitman World of Assassination",
+    "id": "Hitman",
+    "genre": "Stealth, Action",
+    "developer": "IO Interactive",
+    "psStudios": false,
+    "release": "January 20, 2022",
+    "metacritic": 84
+  },
+  {
     "name": "Kayak VR Mirage",
     "id": "Kayak VR",
     "genre": "Simulation Driving, Racing",
