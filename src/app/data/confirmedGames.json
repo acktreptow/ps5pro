@@ -279,6 +279,15 @@
     "metacritic": 0
   },
   {
+    "name": "Sanguis Luna",
+    "id": "Sanguis Luna",
+    "genre": "Horror",
+    "developer": "Domynyo",
+    "psStudios": false,
+    "release": "October 31, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "SPINE - This is Gun Fu",
     "id": "SPINE",
     "genre": "Action",
