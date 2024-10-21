@@ -53,15 +53,29 @@ const GamesPage = (): JSX.Element => {
             className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             key={game.id}
           >
-            <h3 className="text-xl font-bold text-center mb-1 mx-8 lg:text-2xl lg:mb-3">
+            <h3 className="text-2xl font-bold text-center mb-2 lg:text-2xl lg:mb-3">
               {game.name}
             </h3>
-            <p className="mb-0 text-lg">Genre: {game.genre}</p>
-            <p className="mb-0 text-lg">Developer: {game.developer}</p>
-            <p className="mb-0 text-lg">Release Date: {game.release}</p>
-            <p className="mb-0 text-lg">Metacritic: {game.metacritic}</p>
+            <p className="mb-0 text-lg">
+              <span className="font-semibold">Genre:</span> {game.genre}
+            </p>
+            <p className="mb-0 text-lg">
+              <span className="font-semibold">Developer:</span> {game.developer}
+            </p>
+            <p className="mb-0 text-lg">
+              <span className="font-semibold">Release Date:</span>{" "}
+              {game.release}
+            </p>
+            <p className="mb-0 text-lg">
+              <span className="font-semibold">Metacritic:</span>{" "}
+              {game.metacritic}
+            </p>
           </div>
         ))}
+        <h4 className="text-center text-lg">
+          <span className="font-semibold">Confirmed Games Total:</span>{" "}
+          {confirmedGames.length}
+        </h4>
       </div>
     </div>
   );
