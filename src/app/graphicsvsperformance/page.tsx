@@ -22,13 +22,13 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <li>Is the game first or third-person?</li>
               <li>How fast is the game?</li>
               <li>Is it a singleplayer or multiplayer game?</li>
-              <li>Is the singleplayer emphasizing story or gameplay?</li>
-              <li>Is the singleplayer game emphasizing its graphics?</li>
+              <li>Does the game emphasize story or gameplay?</li>
+              <li>Does the game emphasize its graphics?</li>
               <li>What is the art style of the game?</li>
               <li>Does the game hold a steady 60fps?</li>
-              <li>If not, does it at least stay above the VRR threshold?</li>
+              <li>Does the frame rate stay above the VRR limit?</li>
               <li>Does the fidelity mode have a 30fps cap?</li>
-              <li>Does the 30fps cap keep a consistent frame time?</li>
+              <li>Does the 30fps keep a consistent frame time?</li>
               <li>Does the game have a 40fps or 120fps mode?</li>
               <li>Does the game support a 30/60fps cap?</li>
               <li>What is the resolution of each mode?</li>
