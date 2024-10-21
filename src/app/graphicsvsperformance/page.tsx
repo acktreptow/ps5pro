@@ -76,9 +76,8 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
                 <li>What type of screen is being used?</li>
                 <li>What is the max refresh rate of the screen?</li>
                 <li>Is the screen an OLED or an LCD/LED/QLED?</li>
-                <li>
-                  Does the screen use a Game mode/have a low response time?
-                </li>
+                <li>Does the screen use a Game mode?</li>
+                <li>Does the screen have a low response time?</li>
                 <li>Does the screen support VRR?</li>
               </ul>
             </div>
@@ -96,18 +95,12 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
                 Personal factors
               </h3>
               <ul className="list-disc ml-4 space-y-1 lg:ml-12">
-                <li>
-                  Can you personally feel a big difference between 30 and 60fps?
-                </li>
-                <li>
-                  Can you personally see a big difference between resolutions?
-                </li>
-                <li>
-                  What&#39;s your skill level? Do you need extra frames to
-                  compete?
-                </li>
+                <li>Can you feel a big gap between 30fps & 60fps?</li>
+                <li>Can you feel a big gap between resolutions?</li>
+                <li>What&#39;s your skill level in singleplayer games?</li>
+                <li>Need extra frames to compete in multiplayer?</li>
                 <li>How long are your gaming sessions?</li>
-                <li>Does the game use photo mode and do you use it a lot?</li>
+                <li>Do you use photo mode a lot?</li>
               </ul>
             </div>
           </div>
