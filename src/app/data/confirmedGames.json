@@ -218,7 +218,7 @@
   {
     "name": "Naraka: Bladepoint",
     "id": "Naraka",
-    "genre": "Battle Royale",
+    "genre": "F2P Battle Royale",
     "developer": "24 Entertainment",
     "psStudios": false,
     "release": "July 13, 2023",
@@ -254,7 +254,7 @@
   {
     "name": "Quantum Error",
     "id": "Quantum Error",
-    "genre": "Horror, Action",
+    "genre": "First-Person Horror, Action",
     "developer": "TeamKill Media",
     "psStudios": false,
     "release": "November 3, 2023",
@@ -299,7 +299,7 @@
   {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
-    "genre": "Action-Adventure",
+    "genre": "Third-Person Action-Adventure",
     "developer": "Massive Entertainment",
     "psStudios": false,
     "release": "August 30, 2024",
@@ -380,7 +380,7 @@
   {
     "name": "Warframe",
     "id": "Warframe",
-    "genre": "Action RPG, Third-Person Shooter",
+    "genre": "Action RPG, Third-Person Shooter, F2P GaaS",
     "developer": "Digital Extremes",
     "psStudios": false,
     "release": "November 26, 2020",
