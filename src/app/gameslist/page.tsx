@@ -47,13 +47,13 @@ const GamesPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
-      <div className="mb-4 mx-4 grid gap-5 text-center md:grid-cols-2 lg:grid-cols-4">
+      <div className="mb-4 mx-4 grid gap-5 text-center md:grid-cols-2 lg:grid-cols-3 md:mx-8">
         {confirmedGames.map((game) => (
           <div
-            className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            className="bg-slate-100 border-2 border-gray-200 rounded shadow-md py-4 px-2"
             key={game.id}
           >
-            <h3 className="text-2xl font-bold text-center mb-2 lg:text-2xl lg:mb-3">
+            <h3 className="text-xl font-extrabold text-center mb-2 lg:mb-4">
               {game.name}
             </h3>
             <p className="mb-0 text-lg">
@@ -72,11 +72,11 @@ const GamesPage = (): JSX.Element => {
             </p>
           </div>
         ))}
-        <h4 className="text-center text-lg">
-          <span className="font-semibold">Confirmed Games Total:</span>{" "}
-          {confirmedGames.length}
-        </h4>
       </div>
+      <h4 className="text-center text-lg">
+        <span className="font-semibold">Confirmed Games Total:</span>{" "}
+        {confirmedGames.length}
+      </h4>
     </div>
   );
 };
