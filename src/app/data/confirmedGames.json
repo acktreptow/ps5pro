@@ -2,7 +2,7 @@
   {
     "name": "[REDACTED]",
     "id": "Redacted",
-    "genre": "Roguelite",
+    "genre": "Top Down Roguelite",
     "developer": "Striking Distance Studios",
     "psStudios": false,
     "release": "October 28, 2024",
@@ -11,7 +11,7 @@
   {
     "name": "Apex Legends",
     "id": "Apex",
-    "genre": "Battle Royale, Hero Shooter",
+    "genre": "F2P Battle Royale, Hero Shooter",
     "developer": "Respawn Entertainment",
     "psStudios": false,
     "release": "March 29, 2022",
@@ -119,7 +119,7 @@
   {
     "name": "Fortnite",
     "id": "Fortnite",
-    "genre": "Battle Royale",
+    "genre": "F2P Battle Royale",
     "developer": "Epic Games",
     "psStudios": false,
     "release": "June 25, 2017",
@@ -128,7 +128,7 @@
   {
     "name": "God of War: Ragnarok",
     "id": "GOW:R",
-    "genre": "Action-Adventure",
+    "genre": "Action-Adventure, RPG",
     "developer": "Sony Santa Monica",
     "psStudios": true,
     "release": "November 9, 2022",
@@ -164,7 +164,7 @@
   {
     "name": "Like a Dragon: Pirate Yakuza",
     "id": "Pirate Yakuza",
-    "genre": "Action-Adventure",
+    "genre": "Action-Adventure, RPG",
     "developer": "Ryu Ga Gotoku Studio",
     "psStudios": false,
     "release": "February 28, 2025",
