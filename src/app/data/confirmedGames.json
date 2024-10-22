@@ -11,7 +11,7 @@
   {
     "name": "Apex Legends",
     "id": "Apex",
-    "genre": "F2P Battle Royale, Hero Shooter",
+    "genre": "Hero Battle Royale",
     "developer": "Respawn Entertainment",
     "psStudios": false,
     "release": "March 29, 2022",
@@ -38,7 +38,7 @@
   {
     "name": "Diablo IV",
     "id": "Diablo 4",
-    "genre": "Action Role-Playing Dungeon Crawler",
+    "genre": "Dungeon Crawler",
     "developer": "Blizzard Entertainment",
     "psStudios": false,
     "release": "June 2, 2023",
@@ -57,7 +57,7 @@
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
     "genre": "Musou",
-    "developer": "Koei Tecmo & Omega Force",
+    "developer": "Omega Force",
     "psStudios": false,
     "release": "January 17, 2025",
     "metacritic": 0
@@ -135,8 +135,8 @@
     "metacritic": 94
   },
   {
-    "name": "Hitman World of Assassination",
-    "id": "Hitman",
+    "name": "Hitman Trilogy",
+    "id": "Hitman Trilogy",
     "genre": "Stealth, Action",
     "developer": "IO Interactive",
     "psStudios": false,
@@ -156,13 +156,13 @@
     "name": "Lies of P",
     "id": "LoP",
     "genre": "Soulsborne",
-    "developer": "Newowiz Games & Round8 Studio",
+    "developer": "Newowiz & Round8",
     "psStudios": false,
     "release": "September 19, 2023",
     "metacritic": 80
   },
   {
-    "name": "Like a Dragon: Pirate Yakuza",
+    "name": "Like a Dragon: Pirates",
     "id": "Pirate Yakuza",
     "genre": "Action-Adventure, RPG",
     "developer": "Ryu Ga Gotoku Studio",
@@ -195,6 +195,15 @@
     "developer": "Insomniac Games",
     "psStudios": true,
     "release": "TBA",
+    "metacritic": 0
+  },
+  {
+    "name": "Midnight Town Stories: AD",
+    "id": "Midnight Town Stories",
+    "genre": "Third-Person Shooter",
+    "developer": "Dark Ocean Games",
+    "psStudios": false,
+    "release": "September 29, 2023",
     "metacritic": 0
   },
   {
@@ -243,7 +252,7 @@
     "metacritic": 0
   },
   {
-    "name": "Professional Baseball Spirits 2024-2025",
+    "name": "Pro Baseball Spirits 24-25",
     "id": "Pro Baseball 24",
     "genre": "Sports, Baseball",
     "developer": "Konami",
@@ -263,7 +272,7 @@
   {
     "name": "Retrieval",
     "id": "Retrieval",
-    "genre": "Survival Horror, Action-Adventure",
+    "genre": "Survival Action Horror",
     "developer": "333 Studios",
     "psStudios": false,
     "release": "TBA",
@@ -299,7 +308,7 @@
   {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
-    "genre": "Third-Person Action-Adventure",
+    "genre": "Action-Adventure",
     "developer": "Massive Entertainment",
     "psStudios": false,
     "release": "August 30, 2024",
@@ -333,15 +342,6 @@
     "metacritic": 69
   },
   {
-    "name": "The Midnight Town Stories: Adam's Diary",
-    "id": "Midnight Town Stories",
-    "genre": "Third-Person Shooter",
-    "developer": "Dark Ocean Games",
-    "psStudios": false,
-    "release": "September 29, 2023",
-    "metacritic": 0
-  },
-  {
     "name": "The Finals",
     "id": "The Finals",
     "genre": "F2P Third-Person Shooter",
@@ -371,7 +371,7 @@
   {
     "name": "Until Dawn",
     "id": "Until Dawn",
-    "genre": "Survival Horror, Interactive Drama",
+    "genre": "Horror, Interactive Drama",
     "developer": "Ballistic Moon",
     "psStudios": true,
     "release": "October 4, 2024",
@@ -380,7 +380,7 @@
   {
     "name": "Warframe",
     "id": "Warframe",
-    "genre": "Action RPG, Third-Person Shooter, F2P GaaS",
+    "genre": "F2P RPG Shooter",
     "developer": "Digital Extremes",
     "psStudios": false,
     "release": "November 26, 2020",
