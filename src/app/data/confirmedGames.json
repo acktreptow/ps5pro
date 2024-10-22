@@ -3,7 +3,7 @@
     "name": "[REDACTED]",
     "id": "Redacted",
     "genre": "Top Down Roguelite",
-    "developer": "Striking Distance Studios",
+    "developer": "Striking Distance",
     "psStudios": false,
     "release": "October 28, 2024",
     "metacritic": 0
@@ -12,7 +12,7 @@
     "name": "Apex Legends",
     "id": "Apex",
     "genre": "Hero Battle Royale",
-    "developer": "Respawn Entertainment",
+    "developer": "Respawn",
     "psStudios": false,
     "release": "March 29, 2022",
     "metacritic": 89
@@ -39,7 +39,7 @@
     "name": "Diablo IV",
     "id": "Diablo 4",
     "genre": "Dungeon Crawler",
-    "developer": "Blizzard Entertainment",
+    "developer": "Blizzard",
     "psStudios": false,
     "release": "June 2, 2023",
     "metacritic": 88
@@ -198,7 +198,7 @@
     "metacritic": 0
   },
   {
-    "name": "Midnight Town Stories: AD",
+    "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "Third-Person Shooter",
     "developer": "Dark Ocean Games",
@@ -243,7 +243,7 @@
     "metacritic": 71
   },
   {
-    "name": "Outbreak: Shades of Horror",
+    "name": "Outbreak: SoH",
     "id": "Outbreak",
     "genre": "Survival Horror",
     "developer": "Dead Drop Studios",
@@ -336,7 +336,7 @@
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "genre": "Survival Horror",
-    "developer": "Striking Distance Studios",
+    "developer": "Striking Distance",
     "psStudios": false,
     "release": "December 2, 2022",
     "metacritic": 69
@@ -396,7 +396,7 @@
     "metacritic": "N/A"
   },
   {
-    "name": "World of Warships: Legends",
+    "name": "WoW: Legends",
     "id": "WoW: Legends",
     "genre": "Action Shooter",
     "developer": "Wargaming",

@@ -50,13 +50,15 @@ const GamesPage = (): JSX.Element => {
       <h2 className="text-3xl text-center font-bold underline mb-4">
         Confirmed Games
       </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:gap-5 md:mx-8 md:grid-cols-2 lg:grid-cols-3">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:gap-5 md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
         {confirmedGames.map((game) => (
           <div
-            className="py-6 px-4 bg-slate-100 border-2 rounded shadow-md"
+            className="py-6 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
             key={game.id}
           >
-            <h3 className="font-extrabold mb-2 lg:mb-4 md:text-xl">{game.name}</h3>
+            <h3 className="font-extrabold text-2xl mb-2 lg:mb-4 md:text-xl ">
+              {game.name}
+            </h3>
             <p>
               <span className="font-semibold">Genre:</span> {game.genre}
             </p>
@@ -64,8 +66,7 @@ const GamesPage = (): JSX.Element => {
               <span className="font-semibold">Developer:</span> {game.developer}
             </p>
             <p>
-              <span className="font-semibold">Release Date:</span>{" "}
-              {game.release}
+              <span className="font-semibold">Release:</span> {game.release}
             </p>
             <p>
               <span className="font-semibold">Metacritic:</span>{" "}
