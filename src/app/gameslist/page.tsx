@@ -3,7 +3,7 @@ import confirmedGames from "../data/confirmedGames.json";
 const GamesPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+      <h1 className="text-center text-4xl font-extrabold mt-8 mb-12 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         All PS5 Pro Enhanced Games
       </h1>
       <div className="hidden mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
@@ -47,6 +47,9 @@ const GamesPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
+      <h2 className="text-3xl text-center font-bold underline mb-4">
+        Confirmed Games
+      </h2>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:mx-8 md:grid-cols-2 lg:grid-cols-3">
         {confirmedGames.map((game) => (
           <div
@@ -72,7 +75,7 @@ const GamesPage = (): JSX.Element => {
         ))}
       </div>
       <h4 className="text-center text-2xl mb-12">
-        <span className="font-semibold">Total Confirmed Games :</span>{" "}
+        <span className="font-semibold">Total Confirmed Games:</span>{" "}
         {confirmedGames.length}
       </h4>
     </div>
