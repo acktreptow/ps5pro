@@ -47,34 +47,32 @@ const GamesPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
-      <div className="mb-4 mx-4 grid gap-5 text-center md:grid-cols-2 lg:grid-cols-3 md:mx-8">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:mx-8 md:grid-cols-2 lg:grid-cols-3">
         {confirmedGames.map((game) => (
           <div
-            className="bg-slate-100 border-2 border-gray-200 rounded shadow-md py-4 px-2"
+            className="py-6 px-4 bg-slate-100 border-2 rounded shadow-md"
             key={game.id}
           >
-            <h3 className="text-xl font-extrabold text-center mb-2 lg:mb-4">
-              {game.name}
-            </h3>
-            <p className="mb-0 text-lg">
+            <h3 className="font-extrabold mb-2 lg:mb-4">{game.name}</h3>
+            <p>
               <span className="font-semibold">Genre:</span> {game.genre}
             </p>
-            <p className="mb-0 text-lg">
+            <p>
               <span className="font-semibold">Developer:</span> {game.developer}
             </p>
-            <p className="mb-0 text-lg">
+            <p>
               <span className="font-semibold">Release Date:</span>{" "}
               {game.release}
             </p>
-            <p className="mb-0 text-lg">
+            <p>
               <span className="font-semibold">Metacritic:</span>{" "}
               {game.metacritic}
             </p>
           </div>
         ))}
       </div>
-      <h4 className="text-center text-lg">
-        <span className="font-semibold">Confirmed Games Total:</span>{" "}
+      <h4 className="text-center text-2xl mb-12">
+        <span className="font-semibold">Total Confirmed Games :</span>{" "}
         {confirmedGames.length}
       </h4>
     </div>
