@@ -71,14 +71,16 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
                 Screen factors
               </h3>
               <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-12">
-                <li>What size of the screen is being used?</li>
+                <li>What is the size of the screen?</li>
                 <li>What resolution is the screen?</li>
-                <li>What type of screen is being used?</li>
-                <li>What is the max refresh rate of the screen?</li>
+                <li>Is the screen a TV, monitor, laptop, phone etc?</li>
                 <li>Is the screen an OLED or an LCD/LED/QLED?</li>
-                <li>Does the screen use a Game mode?</li>
+                <li>What is the max refresh rate of the screen?</li>
+                <li>Does the screen support a Game mode?</li>
                 <li>Does the screen have a low response time?</li>
                 <li>Does the screen support VRR?</li>
+                <li>Does the screen support HDR?</li>
+                <li>Does the screen use other HDMI 2.1 features?</li>
               </ul>
             </div>
             <div>
@@ -88,6 +90,8 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-12">
                 <li>How close are you to the screen?</li>
                 <li>Are you playing in a dark or bright room?</li>
+                <li>Do you have others around you when playing?</li>
+                <li>How long are your gaming sessions?</li>
               </ul>
             </div>
             <div>
@@ -99,7 +103,6 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
                 <li>Can you feel a big gap between resolutions?</li>
                 <li>What&#39;s your skill level in singleplayer games?</li>
                 <li>Need extra frames to compete in multiplayer?</li>
-                <li>How long are your gaming sessions?</li>
                 <li>Do you use photo mode a lot?</li>
               </ul>
             </div>
