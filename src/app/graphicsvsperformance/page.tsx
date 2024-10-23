@@ -5,7 +5,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         Graphics vs Performance
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-extrabold mt-4 mb-6 md:text-start md:mt-0">
+        <h2 className="text-center text-2xl font-extrabold mt-4 mb-4 md:text-start md:mt-0 lg:mb-6">
           Why it&#39;s game-by-game
         </h2>
         <p className="mb-4">
@@ -30,7 +30,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           mode in slow-paced game that drops the resolution to sub-1080p to
           achieve it?
         </p>
-        <p className="mb-8">
+        <p className="mb-12">
           It&#39;s all about context! So hopefully these factors help you make a
           more informed decision on which mode to choose for each game.
         </p>
