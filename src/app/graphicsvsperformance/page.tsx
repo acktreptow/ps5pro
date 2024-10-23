@@ -5,22 +5,22 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         Graphics vs Performance
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-extrabold mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
+        <h2 className="text-center text-2xl font-extrabold mt-4 mb-6 md:text-start md:mt-0">
           Why it&#39;s game-by-game
         </h2>
-        <p className="text-center mb-4 md:text-start md:mb-8">
+        <p className="mb-4">
           As was always going to be the case, there are PS5 Pro enhanced games
-          out there like Alan Wake 2 that still offer both fidelity and
-          performance modes. This begs the question - which mode should you
-          choose?
+          like Alan Wake 2, and even first-party franchises like Horizon that
+          still offer both fidelity and performance modes. This begs the
+          question - which mode should you choose?
         </p>
-        <p className="text-center mb-4 md:text-start md:mb-8">
+        <p className="mb-4">
           Some gamers swear by 60fps performance modes because 30fps is
           apparently unplayable, where as others claim they can&#39;t see any
           difference between 30fps and 60fps. They&#39;re both wrong, because
           the correct answer is that it depends on the game and the player.
         </p>
-        <p className="text-center mb-12 md:text-start md:mb-8">
+        <p className="mb-8">
           To prove it, here&#39;s over 50 factors that should influence your
           decision for each game. After all, what&#39;s the point in playing a
           game like The Last of Us in fidelity mode if it&#39;s being done in a
