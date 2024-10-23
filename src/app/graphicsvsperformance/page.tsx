@@ -31,9 +31,9 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               Technical factors
             </h3>
             <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-4">
-              <li>Does the fidelity mode hold a steady 30fps?</li>
+              <li>Does fidelity mode hold a steady 30fps?</li>
               <li>Does the 30fps keep a consistent frame time?</li>
-              <li>Does the performance hold a steady 60fps?</li>
+              <li>Does performance mode hold a steady 60fps?</li>
               <li>Does the frame rate stay above the VRR limit?</li>
               <li>Does the game support 40fps/120fps modes?</li>
               <li>What is the resolution boundary of each mode?</li>
@@ -46,13 +46,13 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <li>Does the game support ray-tracing?</li>
               <li>If so, how many/what types of RT?</li>
               <li>How good is the RT implementation?</li>
+              <li>Does the game use in-game cutscenes?</li>
               <li>Does the game have a weird filter?</li>
               <li>How dense are the assets in environments?</li>
               <li>How detailed are the textures?</li>
               <li>How detailed are characters?</li>
               <li>Does the game have a lot of particle effects?</li>
               <li>Does the game have screen tearing?</li>
-              <li>Does the game use in-game cutscenes?</li>
               <li>Does the game have a long draw distance?</li>
             </ul>
           </div>
@@ -68,7 +68,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
                 <li>Does the game use chromatic aberration?</li>
                 <li>Does the game use depth of field?</li>
                 <li>Does the game use film grain?</li>
-                <li>Does the game use v-sync?</li>
+                <li>Does the game use VSync?</li>
               </ul>
             </div>
             <div>
