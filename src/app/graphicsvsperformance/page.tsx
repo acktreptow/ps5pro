@@ -22,14 +22,17 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           choosing between fidelity and performance, it depends entirely on the
           game as well as the player.
         </p>
+        <p className="mb-4">
+          To prove it, here&#39;s 50+ factors to consider before settling on a
+          mode. After all, what&#39;s the point in playing a game like The Last
+          of Us in fidelity mode if it&#39;s being done in a brightly lit room
+          shining down on a small 1080p monitor? Why bother with a performance
+          mode in slow-paced game that drops the resolution to sub-1080p to
+          achieve it?
+        </p>
         <p className="mb-8">
-          To prove it, here&#39;s over 50 factors that should influence your
-          decision for each game. After all, what&#39;s the point in playing a
-          game like The Last of Us in fidelity mode if it&#39;s being done in a
-          brightly lit room shining down on a small 1080p monitor? Why bother
-          with a performance mode in slow-paced game that drops the resolution
-          to sub-1080p to achieve it? Hopefully these factors make it a little
-          easier to decide which mode to choose.
+          It&#39;s all about context! So hopefully these factors help you make a
+          more informed decision on which mode to choose for each game.
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
