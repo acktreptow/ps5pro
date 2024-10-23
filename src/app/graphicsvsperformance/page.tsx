@@ -18,35 +18,39 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               Game factors
             </h3>
             <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-4">
+              <li>Is the game in first or third-person?</li>
               <li>What genre is the game?</li>
-              <li>Is the game first or third-person?</li>
-              <li>How fast is the game?</li>
-              <li>Is it a singleplayer or multiplayer game?</li>
               <li>Does the game emphasize story or gameplay?</li>
               <li>Does the game emphasize its graphics?</li>
-              <li>What is the art style of the game?</li>
-              <li>Does the game hold a steady 60fps?</li>
-              <li>Does the frame rate stay above the VRR limit?</li>
-              <li>Does the fidelity mode have a 30fps cap?</li>
-              <li>Does the 30fps keep a consistent frame time?</li>
-              <li>Does the game have a 40fps or 120fps mode?</li>
-              <li>Does the game support a 30/60fps cap?</li>
-              <li>What is the resolution of each mode?</li>
-              <li>Do the modes use DRS?</li>
-              <li>How low does the resolution drop in each mode?</li>
-              <li>How often does the resolution hit the lowest?</li>
-              <li>What upscaling is the game using?</li>
-              <li>Does the game support good HDR?</li>
-              <li>Does the game even support HDR?</li>
-              <li>Does the game have a weird filter?</li>
+              <li>Is it mainly a singleplayer or multiplayer game?</li>
+              <li>How fast is the gameplay?</li>
+              <li>What art style does the game have?</li>
               <li>Is the game a remake or remaster?</li>
-              <li>How dense is the geometry?</li>
+            </ul>
+            <h3 className="text-center text-2xl font-bold underline mb-2 md:text-start">
+              Technical factors
+            </h3>
+            <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-4">
+              <li>Does the fidelity mode hold a steady 30fps?</li>
+              <li>Does the 30fps keep a consistent frame time?</li>
+              <li>Does the performance hold a steady 60fps?</li>
+              <li>Does the frame rate stay above the VRR limit?</li>
+              <li>Does the game support 40fps/120fps modes?</li>
+              <li>What is the resolution boundary of each mode?</li>
+              <li>Do the modes even use DRS?</li>
+              <li>How low does the resolution drop in each mode?</li>
+              <li>How often does the resolution hit the low point?</li>
+              <li>What upscaling technique does the game use?</li>
+              <li>Does the game support HDR?</li>
+              <li>Is the HDR support even good?</li>
+              <li>Does the game support ray-tracing?</li>
+              <li>If so, how many/what types of RT?</li>
+              <li>How good is the RT implementation?</li>
+              <li>Does the game have a weird filter?</li>
+              <li>How dense are the assets in environments?</li>
               <li>How detailed are the textures?</li>
               <li>How detailed are characters?</li>
               <li>Does the game have a lot of particle effects?</li>
-              <li>Does the game support ray-tracing?</li>
-              <li>If so, what types of RT? RTAO/lighting/RTGI etc</li>
-              <li>How good is the RT implementation?</li>
               <li>Does the game have screen tearing?</li>
               <li>Does the game use in-game cutscenes?</li>
               <li>Does the game have a long draw distance?</li>
@@ -59,6 +63,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               </h3>
               <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-12">
                 <li>Does the game have an FOV slider?</li>
+                <li>Does the game have good gamma calibration?</li>
                 <li>Does the game use motion blur?</li>
                 <li>Does the game use chromatic aberration?</li>
                 <li>Does the game use depth of field?</li>
