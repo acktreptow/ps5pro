@@ -16,9 +16,11 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         </p>
         <p className="mb-4">
           Some gamers swear by 60fps performance modes because 30fps is
-          apparently unplayable, where as others claim they can&#39;t see any
-          difference between 30fps and 60fps. They&#39;re both wrong, because
-          the correct answer is that it depends on the game and the player.
+          apparently unplayable, whereas others claim they can&#39;t see any
+          difference between 30fps and 60fps, so will always choose fidelity
+          mode. They&#39;re both wrong, because the correct answer is that when
+          choosing between fidelity and performance, it depends entirely on the
+          game as well as the player.
         </p>
         <p className="mb-8">
           To prove it, here&#39;s over 50 factors that should influence your
