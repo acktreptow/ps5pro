@@ -8,9 +8,26 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         <h2 className="text-center text-2xl font-extrabold mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why it&#39;s game-by-game
         </h2>
+        <p className="text-center mb-4 md:text-start md:mb-8">
+          As was always going to be the case, there are PS5 Pro enhanced games
+          out there like Alan Wake 2 that still offer both fidelity and
+          performance modes. This begs the question - which mode should you
+          choose?
+        </p>
+        <p className="text-center mb-4 md:text-start md:mb-8">
+          Some gamers swear by 60fps performance modes because 30fps is
+          apparently unplayable, where as others claim they can&#39;t see any
+          difference between 30fps and 60fps. They&#39;re both wrong, because
+          the correct answer is that it depends on the game and the player.
+        </p>
         <p className="text-center mb-12 md:text-start md:mb-8">
-          There are numerous factors gamers should consider when choosing the
-          difference as well as more indirect things to look for. Here they are:
+          To prove it, here&#39;s over 50 factors that should influence your
+          decision for each game. After all, what&#39;s the point in playing a
+          game like The Last of Us in fidelity mode if it&#39;s being done in a
+          brightly lit room shining down on a small 1080p monitor? Why bother
+          with a performance mode in slow-paced game that drops the resolution
+          to sub-1080p to achieve it? Hopefully these factors make it a little
+          easier to decide which mode to choose.
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
