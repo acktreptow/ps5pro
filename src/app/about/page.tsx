@@ -76,15 +76,15 @@ const AboutPage = (): JSX.Element => {
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           3. Improved Game Discovery
         </h3>
+        <p className="mb-4">
+          Not every gamer deeply follows news about patches and hardware
+          optimizations, resulting in being unaware of which games receive PS5
+          Pro upgrades. By detailing these enhancements, this site makes it far
+          easier for them to discover what games fully utilize the PS5 Pro.
+        </p>
         <p className="mb-8 md:mb-12">
-          Not every gamer is deeply involved in following the latest news about
-          patches, updates, and hardware optimizations. Many may not even be
-          aware of which games have received PS5 Pro upgrades. A website that
-          categorizes and lists these enhancements would make it easier for
-          players to discover new or updated games that fully utilize the
-          consoles power. This could boost interest in titles that might have
-          flown under the radar or drive renewed enthusiasm for older games that
-          have been upgraded to make the most of the PS5 Pros hardware.
+          This helps boosts interest in titles that flew under the radar or
+          drive renewed enthusiasm for older games that were Pro enhanced.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           4. Keep Developers Accountable
