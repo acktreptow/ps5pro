@@ -8,13 +8,16 @@ const AboutPage = (): JSX.Element => {
         <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
           Why This Website Exists
         </h2>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-4">
           As technology continues to evolve, players are increasingly seeking
-          ways to optimize their gaming experience. And the launch of the PS5
-          Pro, with its enhanced hardware and new technologies like PSSR, offers
-          even greater opportunities for players to customize games to best suit
-          their preferences. A dedicated website that details all the PS5 Pro
-          upgrades for each game is therefore an invaluable resource.
+          ways to optimize their gaming experience. Furthermore, the launch of
+          the PS5 Pro, with its enhanced hardware and new features like PSSR,
+          now offers even greater opportunities for console gamers to customize
+          PS5 games to best suit their preferences.
+        </p>
+        <p className="mb-8 md:mb-12">
+          A dedicated website that details all the PS5 Pro upgrades for each
+          game is therefore an invaluable resource for this market.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           1. Clarification of Enhancements
