@@ -23,11 +23,11 @@ const AboutPage = (): JSX.Element => {
           1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
-          The PS5 Pro offers significant upgrades in terms of performance. These
-          include higher frame rates, up to 8K resolution, AI upscaling, ray
-          tracing improvements, and overall enhanced graphical fidelity.
-          However, not every game will receive the same level and type of
-          upgrade. For example:
+          The PS5 Pro offers significant performance upgrades when compared to
+          the base PS5. These include higher frame rates, up to 8K resolution,
+          AI upscaling, ray tracing improvements, and overall enhanced graphical
+          fidelity. However, not every game will receive the same level and type
+          of upgrade. For example:
         </p>
         <ul className="mb-4 mx-8 list-disc">
           <li>
@@ -35,9 +35,9 @@ const AboutPage = (): JSX.Element => {
             frame rate boosts, whereas others will improve both.
           </li>
           <li>
-            Some games will introduce various forms of ray-tracing. For other
-            games that already have ray-tracing, they will improve the quality
-            of it and/or add more forms of ray-tracing.
+            Some games will introduce various types of ray tracing. For other
+            games that already have ray tracing, they will improve the quality
+            of it and/or add more types.
           </li>
           <li>
             Some games will offer one bespoke PS5 Pro mode, whereas others will
@@ -45,13 +45,15 @@ const AboutPage = (): JSX.Element => {
             in many base PS5 games. Just at a higher technical level.
           </li>
         </ul>
+        <p className="mb-4">
+          That&#39;s a lot of way to improve a game! This site can therefore
+          eliminate any confusion or speculation by detailing exactly what
+          upgrades players can expect from each game.
+        </p>
         <p className="mb-8 md:mb-12">
-          That&#39;s a lot of way to improve a game! A website dedicated to
-          detailing these upgrades would provide clear information on what
-          improvements players can expect from each game, eliminating confusion
-          and speculation. After all, gamers invest significant amounts of time
-          and money into this hobby. They therefore should know exactly how a
-          game will perform on their upgraded hardware.
+          After all, gamers invest significant amounts of time and money into
+          this hobby. They therefore should know exactly how a game will perform
+          on their enhanced hardware.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           2. Consumer Education and Purchasing Decisions
