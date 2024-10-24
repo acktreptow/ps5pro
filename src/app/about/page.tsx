@@ -58,18 +58,17 @@ const AboutPage = (): JSX.Element => {
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           2. Consumer Education and Purchasing Decisions
         </h3>
+        <p className="mb-4">
+          Many players are discerning in regards to how their games perform. For
+          example, some prioritize 60fps over higher resolutions, or vice versa.
+          As this site outlines Pro upgrades for each PS5 title, it helps
+          consumers make educated decisions about whether a game is worth buying
+          for their Pro hardware. Or if a favorite is worth revisiting.
+        </p>
         <p className="mb-8 md:mb-12">
-          Many gamers are discerning when it comes to how their favorite titles
-          perform, and some might prioritize specific features like smooth frame
-          rates over higher resolutions, or vice versa. A website that outlines
-          the PS5 Pro-specific upgrades for each game would allow consumers to
-          make informed decisions about whether a particular game is worth
-          buying on the new hardware, or if a current favorite is worth
-          revisiting. Additionally, as new games are released or older titles
-          receive patches to take advantage of the PS5 Pros capabilities, a
-          central hub of information would help consumers track these changes
-          and decide if they want to make an investment in a game or even in the
-          PS5 Pro console itself.
+          As new games release and older titles are patched with Pro support, a
+          central hub of info also helps consumers track changes on a macro
+          level and decide if they want to invest in the console itself.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           3. Improved Game Discovery
