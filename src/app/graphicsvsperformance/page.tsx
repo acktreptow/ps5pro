@@ -76,7 +76,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <li>How detailed are the textures?</li>
               <li>How detailed are characters?</li>
               <li>Does the game have a lot of particle effects?</li>
-              <li>Does the game have screen tearing?</li>
+              <li>Does the game suffer from screen tearing?</li>
               <li>Does the game have a long draw distance?</li>
             </ul>
           </div>
@@ -88,11 +88,11 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-12">
                 <li>Does the game have an FOV slider?</li>
                 <li>Does the game have good gamma calibration?</li>
-                <li>Does the game use motion blur?</li>
-                <li>Does the game use chromatic aberration?</li>
-                <li>Does the game use depth of field?</li>
-                <li>Does the game use film grain?</li>
-                <li>Does the game use VSync?</li>
+                <li>Can you toggle motion blur?</li>
+                <li>Can you toggle chromatic aberration?</li>
+                <li>Can you toggle depth of field?</li>
+                <li>Can you toggle film grain?</li>
+                <li>Can you toggle VSync?</li>
               </ul>
             </div>
             <div>
