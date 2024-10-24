@@ -26,18 +26,21 @@ const AboutPage = (): JSX.Element => {
           The PS5 Pro offers significant performance upgrades when compared to
           the base PS5. These include higher frame rates, up to 8K resolution,
           AI upscaling, ray tracing improvements, and overall enhanced graphical
-          fidelity. However, not every game will receive the same level and type
-          of upgrade. For example:
+          fidelity.
+        </p>
+        <p className="mb-4">
+          However, every game won&#39;t receive the same level and type of
+          upgrade. For example:
         </p>
         <ul className="mb-4 mx-8 list-disc">
           <li>
-            Some games will exclusively benefit from higher resolutions or from
-            frame rate boosts, whereas others will improve both.
+            Some games will only benefit from a higher resolution or frame rate,
+            whereas others will improve both.
           </li>
           <li>
-            Some games will introduce various types of ray tracing. For other
-            games that already have ray tracing, they will improve the quality
-            of it and/or add more types.
+            Some games will introduce various types of ray tracing. For others
+            that already include RT, they will improve the quality of it and/or
+            add more types.
           </li>
           <li>
             Some games will offer one bespoke PS5 Pro mode, whereas others will
@@ -51,9 +54,9 @@ const AboutPage = (): JSX.Element => {
           upgrades players can expect from each game.
         </p>
         <p className="mb-8 md:mb-12">
-          After all, gamers invest significant amounts of time and money into
-          this hobby. They therefore should know exactly how a game will perform
-          on their enhanced hardware.
+          After all, gamers invest significant time and money into this hobby.
+          They therefore deserve to know exactly how games perform on their
+          hardware.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           2. Consumer Education and Purchasing Decisions
