@@ -25,12 +25,12 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           specific game and individual player.
         </p>
         <p className="mb-4">
-          To prove it, here&#39;s 50+ factors to consider before settling on a
-          mode. After all, what&#39;s the point in playing a game like The Last
-          of Us in fidelity mode if it&#39;s being done in a brightly lit room
-          shining down on a small 1080p monitor? Why bother with a performance
-          mode in a slow-paced game that drops the resolution below 1080p to
-          achieve it?
+          To prove it, here are 50+ factors to consider before settling on a
+          mode. After all, what&#39;s the point in choosing fidelity mode in a
+          cinematic game like The Last of Us if it&#39;s being played in a
+          brightly lit room on a small 1080p monitor? Why bother with a
+          performance mode in a slow-paced game that drops resolution below
+          1080p to achieve 60fps?
         </p>
         <p className="mb-12">
           It&#39;s all about context! So hopefully these factors help you make a
