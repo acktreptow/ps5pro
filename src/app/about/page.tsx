@@ -87,16 +87,17 @@ const AboutPage = (): JSX.Element => {
           drive renewed enthusiasm for older games that were Pro enhanced.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
-          4. Keep Developers Accountable
+          4. Keep The Industry Accountable
         </h3>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-4">
           Having a public record of which games receive PS5 Pro upgrades and
-          what those upgrades entail would also help keep game developers
-          accountable. Players would be able to see which studios are making the
-          effort to improve their games for the latest hardware and which ones
-          are not. This transparency could encourage more developers to invest
-          the time and resources needed to optimize their titles, thereby
-          enhancing the overall gaming ecosystem.
+          what those upgrades entail keeps the industry accountable.
+        </p>
+        <p className="mb-8 md:mb-12">
+          By separating the studios who get to improve their games from the ones
+          who aren&#39;t, or do so poorly, the transparency encourages
+          publishers to invest the time and resources needed to optimize games
+          properly. Thereby enhancing the Pro ecosystem.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           5. Centralized Information Hub
