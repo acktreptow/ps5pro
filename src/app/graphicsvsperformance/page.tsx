@@ -12,7 +12,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         </h2>
         <p className="mb-4">
           As was always going to be the case, there are PS5 Pro enhanced games
-          like Alan Wake 2, and even first-party franchises like Horizon that
+          like Alan Wake 2, and even first-party titles like Horizon 1 & 2, that
           still offer both fidelity and performance modes. This begs the
           question - which mode should you choose?
         </p>
@@ -20,16 +20,16 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           Some gamers swear by 60fps performance modes because 30fps is
           apparently unplayable, whereas others claim they can&#39;t see any
           difference between 30fps and 60fps, so will always choose fidelity
-          mode. They&#39;re both wrong, because the correct answer is that when
-          choosing between fidelity and performance, it depends entirely on the
-          game as well as the player.
+          mode. They&#39;re both wrong, because the correct answer is when
+          choosing between fidelity and performance, it depends entirely on that
+          specific game and individual player.
         </p>
         <p className="mb-4">
           To prove it, here&#39;s 50+ factors to consider before settling on a
           mode. After all, what&#39;s the point in playing a game like The Last
           of Us in fidelity mode if it&#39;s being done in a brightly lit room
           shining down on a small 1080p monitor? Why bother with a performance
-          mode in slow-paced game that drops the resolution to sub-1080p to
+          mode in a slow-paced game that drops the resolution below 1080p to
           achieve it?
         </p>
         <p className="mb-12">
