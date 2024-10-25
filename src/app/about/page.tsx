@@ -94,10 +94,10 @@ const AboutPage = (): JSX.Element => {
           what those upgrades entail keeps the industry accountable.
         </p>
         <p className="mb-8 md:mb-12">
-          By separating the studios who get to improve their games from the ones
-          who aren&#39;t, or do so poorly, the transparency encourages
-          publishers to invest the time and resources needed to optimize games
-          properly. Thereby enhancing the Pro ecosystem.
+          By separating studios who get to enhance their games from the ones who
+          don&#39;t, or do so poorly, the resulting transparency encourages
+          publishers to invest the time and resources needed to properly
+          optimize games. Thereby enhancing the PS5 Pro ecosystem.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           5. Centralized Information Hub
