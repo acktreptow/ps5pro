@@ -5,7 +5,7 @@ const AboutPage = (): JSX.Element => {
         About
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-bold underline mt-4 mb-2 md:text-start md:mt-0 lg:mb-1">
+        <h2 className="text-center text-2xl font-extrabold my-4 md:text-start md:mt-0 lg:mb-6">
           Why This Website Exists
         </h2>
         <p className="mb-4">
