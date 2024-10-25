@@ -103,16 +103,16 @@ const AboutPage = (): JSX.Element => {
           5. Centralized Information Hub
         </h3>
         <p className="mb-4">
-          Currently, information about PS5 Pro upgrades are scattered across
-          forums, news outlets, and patch notes. Thus making it difficult for
-          even a dedicated player to stay up to date. This one-stop centralized
-          site dedicated to this purpose now saves time and effort for gamers
-          who want quick, reliable data.
+          Information about PS5 Pro upgrades are scattered across forums, news
+          outlets, and patch notes, which makes it difficult for even hardcore
+          gamers to stay up to date. As a one-stop, centralized hub dedicated to
+          the Pro, time and effort is now saved for those who want quick,
+          reliable data.
         </p>
         <p>
           The site also features search filters, allowing users to easily find
-          games that meet preferred criteria. For example, games with 60fps or
-          RT support.
+          games that meet preferred criteria. E.g. games with 60fps or RT
+          support.
         </p>
       </div>
     </div>
