@@ -15,11 +15,11 @@ const AboutPage = (): JSX.Element => {
           now offers even greater opportunities for console gamers to customize
           PS5 games to best suit their preferences.
         </p>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-12">
           A dedicated website that details all the PS5 Pro upgrades for each
           game is therefore an invaluable resource for this market.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:mb-1">
           1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
@@ -53,12 +53,12 @@ const AboutPage = (): JSX.Element => {
           eliminate any confusion or speculation by detailing exactly what
           upgrades players can expect from each game.
         </p>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-12">
           After all, gamers invest significant time and money into this hobby.
           They therefore deserve to know exactly how games perform on their
           hardware.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:mb-1">
           2. Consumer Education and Purchasing Decisions
         </h3>
         <p className="mb-4">
@@ -68,12 +68,12 @@ const AboutPage = (): JSX.Element => {
           consumers make educated decisions about whether a game is worth buying
           for their Pro hardware. Or if a favorite is worth revisiting.
         </p>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-12">
           As new games release and older titles are patched with Pro support, a
           central hub of info also helps consumers track changes on a macro
           level and decide if they want to invest in the console itself.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:mb-1">
           3. Improved Game Discovery
         </h3>
         <p className="mb-4">
@@ -82,24 +82,24 @@ const AboutPage = (): JSX.Element => {
           upgrades. By detailing these enhancements, this site makes it far
           easier for them to discover what games fully utilize the PS5 Pro.
         </p>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-12">
           This helps boosts interest in titles that flew under the radar and
           drives renewed enthusiasm for older games that are now Pro enhanced.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:mb-1">
           4. Keep The Industry Accountable
         </h3>
         <p className="mb-4">
           Having a public record of which games receive PS5 Pro upgrades and
           what those upgrades entail keeps the industry accountable.
         </p>
-        <p className="mb-8 md:mb-12">
+        <p className="mb-12">
           By separating studios who get to enhance their games from the ones who
           don&#39;t, or do so poorly, the resulting transparency encourages
           publishers to invest the time and resources needed to properly
           optimize games. Thereby enhancing the PS5 Pro ecosystem.
         </p>
-        <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:mb-1">
           5. Centralized Information Hub
         </h3>
         <p className="mb-4">
