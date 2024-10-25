@@ -78,13 +78,13 @@ const AboutPage = (): JSX.Element => {
         </h3>
         <p className="mb-4">
           Not every gamer deeply follows news about patches and hardware
-          optimizations, resulting in being unaware of which games receive PS5
-          Pro upgrades. By detailing these enhancements, this site makes it far
+          optimizations, thus being unaware of which PS5 games receive Pro
+          upgrades. By detailing these enhancements, this site makes it far
           easier for them to discover what games fully utilize the PS5 Pro.
         </p>
         <p className="mb-8 md:mb-12">
-          This helps boosts interest in titles that flew under the radar or
-          drive renewed enthusiasm for older games that were Pro enhanced.
+          This helps boosts interest in titles that flew under the radar and
+          drives renewed enthusiasm for older games that are now Pro enhanced.
         </p>
         <h3 className="text-xl text-center font-semibold mb-2 md:text-start lg:mb-1">
           4. Keep The Industry Accountable
