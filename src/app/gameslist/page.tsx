@@ -1,4 +1,11 @@
 import confirmedGames from "../data/confirmedGames.json";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Games List",
+  description:
+    "A list of all PS5 Pro enhanced games, detailing the genre, developer, release date, and Metacritic score.",
+};
 
 const GamesPage = (): JSX.Element => {
   return (

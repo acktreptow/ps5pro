@@ -1,6 +1,13 @@
 import Image from "next/image";
 import PS5 from "../../../public/images/ps5v1.png";
 import PS5PRO from "../../../public/images/ps5prov1.png";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "PS5 vs. PS5 Pro",
+  description:
+    "Comparing the specs of the PS5 and PS5 Pro to show the improvements made in the Pro model.",
+};
 
 const PS5vsPS5ProPage = (): JSX.Element => {
   return (

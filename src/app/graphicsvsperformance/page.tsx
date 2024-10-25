@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Graphics vs Performance",
+  description:
+    "Listing the 50+ factors to consider when choosing between fidelity and performance modes in PS5 games.",
+};
+
 const GraphicsvsPerformancePage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
