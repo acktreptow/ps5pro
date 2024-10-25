@@ -42,7 +42,12 @@ function Home() {
             Review Game Details
           </button>
         </form>
-        |<Image src={ps5Pro} alt="PS5 Pro" width={1000} className="mx-auto" />
+        <Image
+          src={ps5Pro}
+          alt="PS5 Pro"
+          width={1000}
+          className="mx-auto rounded-lg"
+        />
       </div>
     </div>
   );
