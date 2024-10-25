@@ -5,7 +5,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         Graphics vs Performance
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-extrabold my-4 md:text-start md:mt-0 lg:mb-6">
+        <h2 className="text-center text-2xl font-extrabold my-4 md:text-start md:mt-0 lg:text-3xl lg:mb-6">
           Why <span className="md:hidden lg:inline">choosing</span>{" "}
           <span className="hidden md:inline lg:hidden">picking</span> a mode is
           a game-by-game decision
