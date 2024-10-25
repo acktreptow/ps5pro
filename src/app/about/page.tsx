@@ -1,3 +1,11 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description:
+    "About page explaining why detailing how every PS5 game is enhanced for the PS5 Pro is important.",
+};
+
 const AboutPage = (): JSX.Element => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
