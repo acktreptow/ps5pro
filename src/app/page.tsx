@@ -21,8 +21,8 @@ function Home() {
         PS5 Pro Enhanced Games
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-4xl text-center py-10 font-semibold">
-          Everything you need to know about the Pro versions of PS5 games
+        <h2 className="text-center text-2xl font-extrabold my-4 md:mt-0 lg:text-3xl lg:mb-6">
+          Detailing how your favorite PS5 games are enhanced for the PS5 Pro:
         </h2>
         <form onSubmit={handleSubmit}>
           <select
