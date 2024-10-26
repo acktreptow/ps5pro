@@ -18,6 +18,15 @@
     "metacritic": 89
   },
   {
+    "name": "Arken Age",
+    "id": "Arken Age",
+    "genre": "VR Adventure",
+    "developer": "VitruviusVR",
+    "psStudios": false,
+    "release": "January 16, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Horror",
