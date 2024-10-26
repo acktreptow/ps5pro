@@ -297,6 +297,15 @@
     "metacritic": 0
   },
   {
+    "name": "Promise Mascot Agency",
+    "id": "PMA",
+    "genre": "Adventure RPG",
+    "developer": "Kaizen Game Works",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Quantum Error",
     "id": "Quantum Error",
     "genre": "First-Person Horror, Action",
