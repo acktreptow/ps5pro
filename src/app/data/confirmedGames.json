@@ -108,6 +108,15 @@
     "metacritic": 78
   },
   {
+    "name": "Elemental War Clash",
+    "id": "EWC",
+    "genre": "Strategy",
+    "developer": "Clockwork Origins",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Empire of the Ants",
     "id": "EotA",
     "genre": "Strategy",
