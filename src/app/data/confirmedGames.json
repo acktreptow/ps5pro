@@ -342,6 +342,15 @@
     "metacritic": 0
   },
   {
+    "name": "Smells Like a Mushroom",
+    "id": "SLaM",
+    "genre": "Arcade 3D Platformer",
+    "developer": "Red Limb Studio",
+    "psStudios": false,
+    "release": "November 15, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "SPINE - This is Gun Fu",
     "id": "SPINE",
     "genre": "Action",
