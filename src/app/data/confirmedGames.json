@@ -54,6 +54,15 @@
     "metacritic": "N/A"
   },
   {
+    "name": "Dead Island 2",
+    "id": "DI2",
+    "genre": "Action RPG",
+    "developer": "Dambuster Studios",
+    "psStudios": false,
+    "release": "April 21, 2023",
+    "metacritic": 73
+  },
+  {
     "name": "Diablo IV",
     "id": "Diablo 4",
     "genre": "Dungeon Crawler",
