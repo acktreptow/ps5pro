@@ -9,6 +9,15 @@
     "metacritic": 0
   },
   {
+    "name": "Albatroz",
+    "id": "Albatroz",
+    "genre": "Immersive Sim RPG",
+    "developer": "Among Giants",
+    "psStudios": false,
+    "release": "November 1, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Apex Legends",
     "id": "Apex",
     "genre": "Hero Battle Royale",
