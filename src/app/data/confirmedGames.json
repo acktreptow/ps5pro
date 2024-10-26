@@ -162,6 +162,15 @@
     "metacritic": 94
   },
   {
+    "name": "Helldivers 2",
+    "id": "Helldivers 2",
+    "genre": "Multiplayer Co-op TPS",
+    "developer": "Arrowhead",
+    "psStudios": true,
+    "release": "February 8, 2024",
+    "metacritic": 82
+  },
+  {
     "name": "Hitman Trilogy",
     "id": "Hitman Trilogy",
     "genre": "Stealth, Action",
