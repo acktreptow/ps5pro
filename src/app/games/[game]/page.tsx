@@ -50,58 +50,62 @@ const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
         {game.name}
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-3xl text-center font-bold underline my-4">
-          Game Details
-        </h2>
-        <p>
-          <span className="font-semibold">Genre:</span> {game.genre}
-        </p>
-        <p>
-          <span className="font-semibold">Developer:</span> {game.developer}
-        </p>
-        <p>
-          <span className="font-semibold">Release Date:</span> {game.release}
-        </p>
-        <p>
-          <span className="font-semibold">PS Studios Game?</span>{" "}
-          {game.psStudios ? "Yes" : "No"}
-        </p>
-        <p>
-          <span className="font-semibold">Metacritic Score:</span>{" "}
-          {game.metacritic}
-        </p>
-        <h2 className="text-3xl text-center font-bold underline my-4">
-          Enhancements
-        </h2>
-        <p>
-          <span className="font-semibold">PSSR?</span>{" "}
-          {game.pssr ? "Yes" : "No"}
-        </p>
-        <p>
-          <span className="font-semibold">RT?</span> {game.rt ? "Yes" : "No"}
-        </p>
-        {game.rt && (
-          <p>
-            <span className="font-semibold">RT Types:</span> {game.rtTypes}
+        <div className="mb-12">
+          <h2 className="text-3xl text-center font-bold underline my-4">
+            Game Details
+          </h2>
+          <p className="text-lg">
+            <span className="font-semibold">Genre:</span> {game.genre}
           </p>
-        )}
-        <p>
-          <span className="font-semibold">Highest Resolution:</span>{" "}
-          {game.resolution}{" "}
-        </p>
-        <p>
-          <span className="font-semibold">Highest FPS:</span> {game.fps}{" "}
-        </p>
+          <p className="text-lg">
+            <span className="font-semibold">Developer:</span> {game.developer}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">Release Date:</span> {game.release}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">PS Studios Game?</span>{" "}
+            {game.psStudios ? "Yes" : "No"}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">Metacritic Score:</span>{" "}
+            {game.metacritic}
+          </p>
+        </div>
+        <div className="mb-12">
+          <h2 className="text-3xl text-center font-bold underline my-4">
+            Enhancements
+          </h2>
+          <p className="text-lg">
+            <span className="font-semibold">PSSR?</span>{" "}
+            {game.pssr ? "Yes" : "No"}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">RT?</span> {game.rt ? "Yes" : "No"}
+          </p>
+          {game.rt && (
+            <p className="text-lg">
+              <span className="font-semibold">RT Types:</span> {game.rtTypes}
+            </p>
+          )}
+          <p className="text-lg">
+            <span className="font-semibold">Highest Resolution:</span>{" "}
+            {game.resolution}{" "}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">Highest FPS:</span> {game.fps}{" "}
+          </p>
+        </div>
         {game.modes && (
           <div>
             <h2 className="text-3xl text-center font-bold underline my-4">
               Modes
             </h2>
-            <p>
+            <p className="text-lg">
               <span className="font-semibold">Fidelity:</span>{" "}
               {game.modes.fidelity}
             </p>
-            <p>
+            <p className="text-lg">
               <span className="font-semibold">Performance:</span>{" "}
               {game.modes.performance}
             </p>
