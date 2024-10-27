@@ -1,4 +1,4 @@
-import postableGames from "../../data/postableGames.json";
+import games from "../../data/games.json";
 
 interface Game {
   name: string;
@@ -9,6 +9,7 @@ interface Game {
   psStudios: boolean;
   release: string;
   metacritic: number;
+  pssr: boolean; 
   rt: boolean;
   rtTypes?: string;
   resolution: string;
@@ -29,7 +30,17 @@ interface GamesPageProps {
 }
 
 const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
-  const game: Game = postableGames.find((game) => game.urlPath === params.game);
+  const game: Game | undefined = games.find((game) => game.urlPath === params.game);
+
+  if (!game) {
+    return (
+      <div className="container mx-auto flex-grow text-slate-800">
+        <h1 className="text-center text-4xl font-extrabold mt-8 mb-12 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+          Game Not Found
+        </h1>
+      </div>
+    );
+  }
 
   return (
     <div className="container mx-auto flex-grow text-slate-800">
