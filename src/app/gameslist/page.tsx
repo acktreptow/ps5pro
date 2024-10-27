@@ -1,4 +1,5 @@
 import confirmedGames from "../data/confirmedGames.json";
+import postableGames from "../data/postableGames.json";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -54,6 +55,38 @@ const GamesListPage = (): JSX.Element => {
           {confirmedGames.length}
         </h4>
       </div>
+      <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
+        Games With Details
+      </h2>
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
+        {postableGames.map((game) => (
+          <div
+            className="py-6 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
+            key={game.id}
+          >
+            <h3 className="font-extrabold text-2xl mb-2 md:text-xl lg:mb-4">
+              {game.name}
+            </h3>
+            <p>
+              <span className="font-semibold">Genre:</span> {game.genre}
+            </p>
+            <p>
+              <span className="font-semibold">Developer:</span> {game.developer}
+            </p>
+            <p>
+              <span className="font-semibold">Release:</span> {game.release}
+            </p>
+            <p>
+              <span className="font-semibold">Metacritic:</span>{" "}
+              {game.metacritic}
+            </p>
+          </div>
+        ))}
+      </div>
+      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
+        <span className="font-semibold">Total Games With Details:</span>{" "}
+        {postableGames.length}
+      </h4>
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Confirmed Games
       </h2>
