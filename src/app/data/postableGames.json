@@ -36,7 +36,7 @@
   {
     "name": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
-    "urlPath": "dead-rising-remaster",
+    "urlPath": "dead-rising-deluxe-remaster",
     "genre": "Action-Adventure",
     "developer": "Capcom",
     "psStudios": false,
@@ -172,7 +172,7 @@
   {
     "name": "Horizon Zero Dawn Remastered",
     "id": "H:ZD",
-    "urlPath": "horizon-zero-dawn",
+    "urlPath": "horizon-zero-dawn-remastered",
     "genre": "Action RPG",
     "developer": "Guerilla Games",
     "psStudios": true,
@@ -208,7 +208,7 @@
   {
     "name": "Metal Gear Solid Δ: Snake Eater",
     "id": "MGS3 Remake",
-    "urlPath": "metal-gear-delta-snake-eater",
+    "urlPath": "metal-gear-solid-delta-snake-eater",
     "genre": "Tactical Espionage Action",
     "developer": "Konami & Virtuos",
     "psStudios": false,
@@ -411,7 +411,7 @@
   {
     "name": "The Last of Us Part II Remaster",
     "id": "TLOU2",
-    "urlPath": "the-last-of-us-part-ii",
+    "urlPath": "the-last-of-us-part-ii-remaster",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
     "psStudios": true,
