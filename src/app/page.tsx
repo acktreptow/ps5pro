@@ -40,7 +40,7 @@ function Home() {
           </select>
           <button
             type="submit"
-            className="block mx-auto text-lg border font-bold p-4 mb-12 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
+            className="block mx-auto text-lg border font-bold p-4 mb-12 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation  transition duration-300 shadow-md shadow-playstation hover:scale-105"
           >
             Review Pro Enhancements
           </button>
