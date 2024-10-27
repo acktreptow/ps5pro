@@ -34,9 +34,9 @@
     "fps": "60fps"
   },
   {
-    "name": "Dead Rising Deluxe Remaster",
+    "name": "Dead Rising Remaster",
     "id": "Dead Rising 1",
-    "urlPath": "dead-rising-deluxe-remaster",
+    "urlPath": "dead-rising-remaster",
     "genre": "Action-Adventure",
     "developer": "Capcom",
     "psStudios": false,
@@ -122,7 +122,7 @@
     "id": "FF7 Rebirth",
     "urlPath": "final-fantasy-7-rebirth",
     "genre": "JRPG",
-    "developer": "Square Enix Creative Business Unit I",
+    "developer": "Square Enix CBU I",
     "psStudios": false,
     "release": "February 29, 2024",
     "metacritic": 92,
@@ -170,9 +170,9 @@
     }
   },
   {
-    "name": "Horizon Zero Dawn Remastered",
+    "name": "Horizon Zero Dawn",
     "id": "H:ZD",
-    "urlPath": "horizon-zero-dawn-remastered",
+    "urlPath": "horizon-zero-dawn",
     "genre": "Action RPG",
     "developer": "Guerilla Games",
     "psStudios": true,
@@ -206,7 +206,7 @@
     }
   },
   {
-    "name": "Marvel's Spider-Man Remastered",
+    "name": "Spider-Man Remastered",
     "id": "Spider-Man",
     "urlPath": "spider-man-remastered",
     "genre": "Action-Adventure",
@@ -221,7 +221,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Marvel's Spider-Man: Miles Morales",
+    "name": "Spider-Man: Miles Morales",
     "id": "Spider-Man: MM",
     "urlPath": "spider-man-miles-morales",
     "genre": "Action-Adventure",
@@ -236,7 +236,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Marvel's Spider-Man 2",
+    "name": "Spider-Man 2",
     "id": "Spider-Man 2",
     "urlPath": "spider-man-2",
     "genre": "Action-Adventure",
@@ -251,7 +251,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Metal Gear Solid Delta: Snake Eater",
+    "name": "Metal Gear Solid Δ: SE",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-delta-snake-eater",
     "genre": "Tactical Espionage Action",
@@ -393,7 +393,7 @@
   {
     "name": "The Last of Us Part I",
     "id": "TLOU",
-    "urlPath": "the-last-of-us-part-1",
+    "urlPath": "the-last-of-us-part-i",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
     "psStudios": true,
@@ -409,9 +409,9 @@
     }
   },
   {
-    "name": "The Last of Us Part II Remastered",
+    "name": "The Last of Us Part II",
     "id": "TLOU2",
-    "urlPath": "the-last-of-us-part-2-remastered",
+    "urlPath": "the-last-of-us-part-ii",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
     "psStudios": true,
