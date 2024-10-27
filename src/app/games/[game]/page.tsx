@@ -1,7 +1,35 @@
 import postableGames from "../../data/postableGames.json";
 
-const GamesPage = ({ params }) => {
-  const game = postableGames.find((game) => game.urlPath === params.game);
+interface Game {
+  name: string;
+  id: string;
+  urlPath: string;
+  genre: string;
+  developer: string;
+  psStudios: boolean;
+  release: string;
+  metacritic: number;
+  rt: boolean;
+  rtTypes?: string;
+  resolution: string;
+  fps: string;
+  modes?: {
+    fidelity: string;
+    performance: string;
+  };
+  extraInfo?: string;
+}
+
+interface Params {
+  game: string;
+}
+
+interface GamesPageProps {
+  params: Params;
+}
+
+const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
+  const game: Game = postableGames.find((game) => game.urlPath === params.game);
 
   return (
     <div className="container mx-auto flex-grow text-slate-800">
