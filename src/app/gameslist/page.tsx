@@ -59,13 +59,13 @@ const GamesListPage = (): JSX.Element => {
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Games With Details
       </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-2 lg:gap-5">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-2 lg:text-xl lg:gap-5">
         {postableGames.map((game) => (
           <div
             className="pt-6 pb-10 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
             key={game.id}
           >
-            <h3 className="font-extrabold text-2xl mb-2 md:text-xl lg:mb-4">
+            <h3 className="font-extrabold text-2xl mb-2 md:text-xl lg:text-2xl lg:mb-4">
               {game.name}
             </h3>
             <p>
