@@ -19,8 +19,8 @@
     }
   },
   {
-    "name": "Assassin's Creed: Shadows",
-    "id": "AC: Shadows",
+    "name": "Assassins Creed Shadows",
+    "id": "AC Shadows",
     "urlPath": "assassins-creed-shadows",
     "genre": "Action RPG",
     "developer": "Ubisoft Quebec",
@@ -64,7 +64,7 @@
     "extraInfo": "Improved shadows (still not RT)"
   },
   {
-    "name": "Dragon Age: The Veilguard",
+    "name": "Dragon Age: Veilguard",
     "id": "Dragon Age 4",
     "urlPath": "dragon-age-the-veilguard",
     "genre": "Action RPG",
@@ -220,10 +220,10 @@
     "fps": "60fps"
   },
   {
-    "name": "Ratchet & Clank: Rift Apart",
+    "name": "Ratchet & Clank: RA",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
-    "genre": "Action-Adventure, Platformer",
+    "genre": "Action Platformer",
     "developer": "Insomniac Games",
     "psStudios": true,
     "release": "June 11, 2021",
@@ -329,7 +329,7 @@
     "id": "SWJ: Survivor",
     "urlPath": "star-wars-jedi-survivor",
     "genre": "Action-Adventure",
-    "developer": "Respawn Entertainment",
+    "developer": "Respawn",
     "psStudios": false,
     "release": "April 28, 2023",
     "metacritic": 85,
