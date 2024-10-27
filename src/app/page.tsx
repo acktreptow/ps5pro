@@ -26,20 +26,21 @@ function Home() {
         </h2>
         <form onSubmit={handleSubmit}>
           <select
-            value={selectedGame}
             onChange={(e) => setSelectedGame(e.target.value)}
             className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4"
           >
-            <option>Select game</option>
+            <option>Select PS5 Pro Game</option>
             {gamesData.map((game) => (
-              <option key={game.id}>{game.name}</option>
+              <option key={game.id} value={game.urlPath}>
+                {game.name}
+              </option>
             ))}
           </select>
           <button
             type="submit"
             className="block mx-auto border font-semibold p-4 mb-8"
           >
-            Review Game Details
+            Review Pro Enhancements
           </button>
         </form>
         <Image
