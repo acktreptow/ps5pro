@@ -1,17 +1,19 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 import gamesData from "../app/data/postableGames.json";
 import ps5Pro from "../../public/images/PS5-Pro.jpg";
 
 function Home() {
   const [selectedGame, setSelectedGame] = useState("");
+  const router = useRouter();
 
   function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     if (selectedGame) {
-      window.location.href = `/games/${selectedGame}`;
+      router.push(`/games/${selectedGame}`);
     }
   }
 
@@ -27,7 +29,7 @@ function Home() {
         <form onSubmit={handleSubmit}>
           <select
             onChange={(e) => setSelectedGame(e.target.value)}
-            className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4"
+            className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 text-lg"
           >
             <option>Select PS5 Pro Game</option>
             {gamesData.map((game) => (
