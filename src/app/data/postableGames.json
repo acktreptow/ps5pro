@@ -19,7 +19,7 @@
     }
   },
   {
-    "name": "Assassins Creed Shadows",
+    "name": "Assassin's Creed Shadows",
     "id": "AC Shadows",
     "urlPath": "assassins-creed-shadows",
     "genre": "Action RPG",
@@ -34,7 +34,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Dead Rising Remaster",
+    "name": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-remaster",
     "genre": "Action-Adventure",
@@ -64,7 +64,7 @@
     "extraInfo": "Improved shadows (still not RT)"
   },
   {
-    "name": "Dragon Age: Veilguard",
+    "name": "Dragon Age: The Veilguard",
     "id": "Dragon Age 4",
     "urlPath": "dragon-age-the-veilguard",
     "genre": "Action RPG",
@@ -170,7 +170,7 @@
     }
   },
   {
-    "name": "Horizon Zero Dawn",
+    "name": "Horizon Zero Dawn Remastered",
     "id": "H:ZD",
     "urlPath": "horizon-zero-dawn",
     "genre": "Action RPG",
@@ -206,7 +206,7 @@
     }
   },
   {
-    "name": "Metal Gear Solid Δ: SE",
+    "name": "Metal Gear Solid Δ: Snake Eater",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-delta-snake-eater",
     "genre": "Tactical Espionage Action",
@@ -220,7 +220,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Ratchet & Clank: RA",
+    "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
     "genre": "Action Platformer",
@@ -409,7 +409,7 @@
     }
   },
   {
-    "name": "The Last of Us Part II",
+    "name": "The Last of Us Part II Remaster",
     "id": "TLOU2",
     "urlPath": "the-last-of-us-part-ii",
     "genre": "Action-Adventure",
