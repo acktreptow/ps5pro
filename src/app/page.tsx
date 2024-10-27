@@ -23,7 +23,7 @@ function Home() {
         PS5 Pro Enhanced Games
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-extrabold my-4 md:mt-0 lg:text-3xl lg:mb-6">
+        <h2 className="text-center text-2xl font-extrabold mt-4 mb-12 md:mt-0 lg:text-3xl lg:mb-6">
           Detailing how your favorite PS5 games are enhanced for the PS5 Pro:
         </h2>
         <form onSubmit={handleSubmit}>
@@ -40,7 +40,7 @@ function Home() {
           </select>
           <button
             type="submit"
-            className="block mx-auto text-lg border font-bold p-4 mb-8 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
+            className="block mx-auto text-lg border font-bold p-4 mb-12 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
           >
             Review Pro Enhancements
           </button>
