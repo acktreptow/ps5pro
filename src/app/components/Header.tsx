@@ -39,7 +39,7 @@ export const Header = (): JSX.Element => {
             <Link href="/games/alan-wake-2">Pro Game 2</Link>
           </li>
           <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/games/silenthill2">Pro Game 2</Link>
+            <Link href="/games/silenthill2">Pro Game 3</Link>
           </li>
         </ul>
       </div>
