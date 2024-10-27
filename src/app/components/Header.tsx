@@ -32,15 +32,6 @@ export const Header = (): JSX.Element => {
           <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
             <Link href="/graphicsvsperformance">Graphics vs Performance</Link>
           </li>
-          <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/games/horizon-zero-dawn-remastered">Pro Game 1</Link>
-          </li>
-          <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/games/alan-wake-2">Pro Game 2</Link>
-          </li>
-          <li className="hover:text-slate-300 hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/games/silenthill2">Pro Game 3</Link>
-          </li>
         </ul>
       </div>
     </header>
