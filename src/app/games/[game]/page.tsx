@@ -51,7 +51,7 @@ const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <div className="mb-12">
-          <h2 className="text-3xl text-center font-bold underline my-4">
+          <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
             Game Details
           </h2>
           <p className="text-lg">
@@ -73,7 +73,7 @@ const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
           </p>
         </div>
         <div className="mb-12">
-          <h2 className="text-3xl text-center font-bold underline my-4">
+          <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
             Enhancements
           </h2>
           <p className="text-lg">
@@ -98,7 +98,7 @@ const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
         </div>
         {game.modes && (
           <div>
-            <h2 className="text-3xl text-center font-bold underline my-4">
+            <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Modes
             </h2>
             <p className="text-lg">
