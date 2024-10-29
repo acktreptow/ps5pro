@@ -225,6 +225,15 @@
     "metacritic": 0
   },
   {
+    "name": "Lords of the Fallen",
+    "id": "LotF",
+    "genre": "Soulsborne",
+    "developer": "Hexworks",
+    "psStudios": false,
+    "release": "October 13, 2023",
+    "metacritic": 70
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "genre": "Sports, American Football",
