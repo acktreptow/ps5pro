@@ -441,6 +441,15 @@
     "metacritic": 0
   },
   {
+    "name": "Truck Driver: The American Dream",
+    "id": "Truck Driver: TAD",
+    "genre": "Driving, Simulation",
+    "developer": "Sodesco",
+    "psStudios": false,
+    "release": "September 26, 2023",
+    "metacritic": 40
+  },
+  {
     "name": "Unreal Kingdoms",
     "id": "Unreal Kingdoms",
     "genre": "MMORPG",
