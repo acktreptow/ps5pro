@@ -21,17 +21,16 @@ interface Game {
   extraInfo?: string;
 }
 
-interface Params {
-  game: string;
+interface PageProps {
+  params: Promise<{
+    game: string;
+  }>;
 }
 
-interface GamesPageProps {
-  params: Params;
-}
-
-const GamesPage: React.FC<GamesPageProps> = ({ params }) => {
+const GamesPage = async ({ params }: PageProps) => {
+  const resolvedParams = await params;
   const game: Game | undefined = postableGames.find(
-    (game) => game.urlPath === params.game
+    (game) => game.urlPath === resolvedParams.game
   );
 
   if (!game) {
