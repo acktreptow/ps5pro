@@ -22,6 +22,9 @@ async function getConfirmedGames() {
       release: true,
       metacritic: true,
     },
+    orderBy: {
+      title: "asc",
+    },
   });
   return confirmedGames;
 }
