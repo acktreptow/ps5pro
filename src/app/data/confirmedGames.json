@@ -378,6 +378,15 @@
     "metacritic": 0
   },
   {
+    "name": "Slitterhead",
+    "id": "Slitterhead",
+    "genre": "Survival Horror",
+    "developer": "Bokeh Game Studio",
+    "psStudios": false,
+    "release": "November 8, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Smells Like a Mushroom",
     "id": "SLaM",
     "genre": "Arcade 3D Platformer",
