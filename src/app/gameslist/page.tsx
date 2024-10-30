@@ -11,22 +11,28 @@ export const metadata: Metadata = {
 };
 
 async function getConfirmedGames() {
-  const confirmedGames = await prisma.confirmedGame.findMany({
-    where: { published: true },
-    select: {
-      id: true,
-      title: true,
-      genre: true,
-      developer: true,
-      psStudios: true,
-      release: true,
-      metacritic: true,
-    },
-    orderBy: {
-      title: "asc",
-    },
-  });
-  return confirmedGames;
+  try {
+    const confirmedGames = await prisma.confirmedGame.findMany({
+      where: { published: true },
+      select: {
+        id: true,
+        title: true,
+        genre: true,
+        developer: true,
+        psStudios: true,
+        release: true,
+        metacritic: true,
+      },
+      orderBy: {
+        title: "asc",
+      },
+    });
+    console.log("Confirmed games fetched successfully:", confirmedGames);
+    return confirmedGames;
+  } catch (error) {
+    console.error("Error fetching confirmed games:", error);
+    throw error;
+  }
 }
 
 const GamesListPage = async () => {
