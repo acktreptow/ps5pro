@@ -45,6 +45,15 @@
     "metacritic": 0
   },
   {
+    "name": "Baldur's Gate 3",
+    "id": "BG3",
+    "genre": "RPG",
+    "developer": "Larian Studios",
+    "psStudios": false,
+    "release": "September 6, 2025",
+    "metacritic": 96
+  },
+  {
     "name": "CyubeVR",
     "id": "CyubeVR",
     "genre": "Adventure",
