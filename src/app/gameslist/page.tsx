@@ -1,4 +1,3 @@
-import nonDetailedGames from "../data/nonDetailedGames.json";
 import postableGames from "../data/postableGames.json";
 import type { Metadata } from "next";
 import Link from "next/link";
