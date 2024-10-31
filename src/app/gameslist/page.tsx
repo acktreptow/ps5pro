@@ -70,6 +70,10 @@ const GamesListPage = async () => {
           </div>
         ))}
       </div>
+      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
+        <span className="font-semibold">Total Non Detailed Games:</span>{" "}
+        {confirmedGames.length}
+      </h4>
       <div className="hidden mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <h2 className="text-3xl text-center font-bold underline my-4">
           Confirmed Games
@@ -149,10 +153,10 @@ const GamesListPage = async () => {
         <span className="font-semibold">Total Games With Details:</span>{" "}
         {postableGames.length}
       </h4>
-      <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8 hidden">
+      <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Non Detailed Games
       </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4 hidden">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
         {nonDetailedGames.map((game) => (
           <div
             className="py-6 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
@@ -177,7 +181,7 @@ const GamesListPage = async () => {
           </div>
         ))}
       </div>
-      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8 hidden">
+      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
         <span className="font-semibold">Total Non Detailed Games:</span>{" "}
         {nonDetailedGames.length}
       </h4>
