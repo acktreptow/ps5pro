@@ -19,6 +19,7 @@ async function getConfirmedGames() {
         genre: true,
         developer: true,
         psStudios: true,
+        vr: true,
         release: true,
         metacritic: true,
       },
@@ -104,6 +105,10 @@ const GamesListPage = async () => {
               <span className="font-semibold">Metacritic:</span>{" "}
               {game.metacritic}
             </p>
+            {game.psStudios && (
+              <p className="text-start font-semibold mx-8">#PS Studios</p>
+            )}
+            {game.vr && <p className="text-start font-semibold mx-8">#PSVR2</p>}
           </div>
         ))}
       </div>
