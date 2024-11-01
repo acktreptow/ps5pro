@@ -21,3 +21,20 @@ model ConfirmedGame {
   published   Boolean @default(false)
 }
 
+model DetailedGame {
+  id          String     @default(cuid()) @id
+  title       String
+  urlPath     String
+  genre       String
+  developer   String
+  psStudios   Boolean @default(false)
+  release     String
+  metacritic  Int
+  pssr        Boolean @default(false)
+  rt          Boolean @default(false)
+  rtTypes     String?
+  topRes      String
+  topFps      String
+  modes       Json?
+  extraInfo   String?
+}
