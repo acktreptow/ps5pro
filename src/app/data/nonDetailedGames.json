@@ -1,14 +1,5 @@
 [
   {
-    "name": "[REDACTED]",
-    "id": "Redacted",
-    "genre": "Top Down Roguelite",
-    "developer": "Striking Distance",
-    "psStudios": false,
-    "release": "October 28, 2024",
-    "metacritic": 0
-  },
-  {
     "name": "Albatroz",
     "id": "Albatroz",
     "genre": "Immersive Sim RPG",
@@ -376,6 +367,15 @@
     "psStudios": false,
     "release": "November 3, 2023",
     "metacritic": 40
+  },
+  {
+    "name": "Redacted",
+    "id": "Redacted",
+    "genre": "Top Down Roguelite",
+    "developer": "Striking Distance",
+    "psStudios": false,
+    "release": "October 28, 2024",
+    "metacritic": 0
   },
   {
     "name": "Retrieval",
