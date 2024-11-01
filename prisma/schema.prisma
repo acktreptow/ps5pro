@@ -38,4 +38,5 @@ model DetailedGame {
   topFps      String
   modes       Json?
   extraInfo   String?
+  published   Boolean @default(false)
 }
