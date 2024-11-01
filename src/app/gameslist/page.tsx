@@ -6,7 +6,7 @@ import prisma from "../../../lib/prisma";
 export const metadata: Metadata = {
   title: "Games List",
   description:
-    "A list of all PS5 Pro enhanced games, detailing the genre, developer, release date, and Metacritic score.",
+    "A list of all PS5 Pro enhanced games, detailing genre, developer, release, Metacritic etc.",
 };
 
 async function getConfirmedGames() {
