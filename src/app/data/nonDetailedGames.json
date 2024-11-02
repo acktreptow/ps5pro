@@ -27,6 +27,15 @@
     "metacritic": 0
   },
   {
+    "name": "Assassin's Creed Mirage",
+    "id": "AC: Mirage",
+    "genre": "Action RPG",
+    "developer": "Ubisoft Bordeaux",
+    "psStudios": false,
+    "release": "October 5, 2023",
+    "metacritic": 76
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Horror",
