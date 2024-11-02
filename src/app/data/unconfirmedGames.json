@@ -45,15 +45,6 @@
     "metacritic": 92
   },
   {
-    "name": "Call of Duty: Modern Warfare 3",
-    "id": "COD: MW3",
-    "genre": "First-Person Shooter",
-    "developer": "Sledgehammer Games",
-    "psStudios": false,
-    "release": "November 10, 2023",
-    "metacritic": 56
-  },
-  {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
     "genre": "First-Person Action RPG",
