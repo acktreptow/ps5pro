@@ -11,7 +11,7 @@ datasource db {
 }
 
 model ConfirmedGame {
-  id          String     @default(cuid()) @id
+  id          String  @default(cuid()) @id
   title       String
   genre       String
   developer   String
@@ -23,7 +23,7 @@ model ConfirmedGame {
 }
 
 model DetailedGame {
-  id          String     @default(cuid()) @id
+  id          String  @default(cuid()) @id
   title       String
   urlPath     String
   genre       String
@@ -38,5 +38,17 @@ model DetailedGame {
   topFps      String
   modes       Json?
   extraInfo   String?
+  published   Boolean @default(false)
+}
+
+model UnconfirmedGame {
+  id          String  @default(cuid()) @id
+  title       String
+  genre       String
+  developer   String
+  psStudios   Boolean @default(false)
+  psvr2       Boolean @default(false)
+  release     String
+  metacritic  Int
   published   Boolean @default(false)
 }
