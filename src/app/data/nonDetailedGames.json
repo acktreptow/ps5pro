@@ -279,15 +279,6 @@
     "metacritic": 0
   },
   {
-    "name": "Marvel's Wolverine",
-    "id": "Wolverine",
-    "genre": "Action-Adventure",
-    "developer": "Insomniac Games",
-    "psStudios": true,
-    "release": "TBA",
-    "metacritic": 0
-  },
-  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "Third-Person Shooter",
@@ -547,6 +538,15 @@
     "psStudios": false,
     "release": "November 16, 2020",
     "metacritic": "N/A"
+  },
+  {
+    "name": "Wolverine",
+    "id": "Wolverine",
+    "genre": "Action-Adventure",
+    "developer": "Insomniac Games",
+    "psStudios": true,
+    "release": "TBA",
+    "metacritic": 0
   },
   {
     "name": "WoW: Legends",
