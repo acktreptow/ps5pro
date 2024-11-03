@@ -107,6 +107,9 @@ const GamesListPage = async () => {
             >
               Review Enhancements
             </Link>
+            {game.psStudios && (
+              <p className="text-start font-semibold mx-8">#PS Studios</p>
+            )}
           </div>
         ))}
       </div>
