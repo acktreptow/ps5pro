@@ -198,7 +198,7 @@
     "metacritic": 80
   },
   {
-    "name": "God of War: Ragnarok",
+    "name": "God of War: Ragnarök",
     "id": "GOW:R",
     "genre": "Action-Adventure, RPG",
     "developer": "Sony Santa Monica",
@@ -225,7 +225,7 @@
     "metacritic": 84
   },
   {
-    "name": "Kayak VR Mirage",
+    "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "genre": "Simulation Driving, Racing",
     "developer": "Better Than Life",
@@ -441,7 +441,7 @@
     "metacritic": 0
   },
   {
-    "name": "SPINE - This is Gun Fu",
+    "name": "Spine - This is Gun Fu",
     "id": "SPINE",
     "genre": "Action",
     "developer": "Nekki",
