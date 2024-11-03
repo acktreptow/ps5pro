@@ -50,7 +50,7 @@
     "genre": "RPG",
     "developer": "Larian Studios",
     "psStudios": false,
-    "release": "September 6, 2025",
+    "release": "September 6, 2024",
     "metacritic": 96
   },
   {
@@ -194,7 +194,7 @@
     "genre": "F2P Battle Royale",
     "developer": "Epic Games",
     "psStudios": false,
-    "release": "June 25, 2017",
+    "release": "November 12, 2020",
     "metacritic": 80
   },
   {
@@ -329,16 +329,16 @@
     "genre": "Action-Adventure, Survival",
     "developer": "Hello Games",
     "psStudios": false,
-    "release": "August 9, 2016",
+    "release": "November 12, 2020",
     "metacritic": 82
   },
   {
-    "name": "Outbreak: SoH",
+    "name": "Outbreak: SoHCS",
     "id": "Outbreak",
     "genre": "Survival Horror",
     "developer": "Dead Drop Studios",
     "psStudios": false,
-    "release": "October 2024",
+    "release": "TBA",
     "metacritic": 0
   },
   {
@@ -410,7 +410,7 @@
     "genre": "Survival Horror",
     "developer": "Truant Pixel",
     "psStudios": false,
-    "release": "2024",
+    "release": "October 24, 2024",
     "metacritic": 75
   },
   {
@@ -509,7 +509,7 @@
     "genre": "Action-Adventure",
     "developer": "Dreamlit",
     "psStudios": false,
-    "release": "November, 2024",
+    "release": "November 19, 2024",
     "metacritic": 0
   },
   {
