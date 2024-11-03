@@ -46,6 +46,7 @@ async function getDetailedGames() {
         genre: true,
         developer: true,
         psStudios: true,
+        psvr2: true,
         release: true,
         metacritic: true,
         pssr: true,
@@ -109,6 +110,9 @@ const GamesListPage = async () => {
             </Link>
             {game.psStudios && (
               <p className="text-start font-semibold mx-8">#PS Studios</p>
+            )}
+            {game.psvr2 && (
+              <p className="text-start font-semibold mx-8">#PSVR2</p>
             )}
           </div>
         ))}
