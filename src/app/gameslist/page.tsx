@@ -121,7 +121,7 @@ const GamesListPage = async () => {
         <span className="font-semibold">Total Detailed Games:</span>{" "}
         {detailedGames.length}
       </h4>
-      <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
+      {/* <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Games With Details
       </h2>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-2 lg:text-xl lg:gap-5">
@@ -158,7 +158,7 @@ const GamesListPage = async () => {
       <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
         <span className="font-semibold">Total Games With Details:</span>{" "}
         {postableGames.length}
-      </h4>
+      </h4> */}
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Other Confirmed Games
       </h2>
