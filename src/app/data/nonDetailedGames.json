@@ -333,6 +333,15 @@
     "metacritic": 0
   },
   {
+    "name": "Palworld",
+    "id": "Palworld",
+    "genre": "Survival, Monster Taming",
+    "developer": "Pocketpair",
+    "psStudios": false,
+    "release": "September 24, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "genre": "Simulation, City Builder",
