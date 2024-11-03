@@ -29,6 +29,7 @@ model DetailedGame {
   genre       String
   developer   String
   psStudios   Boolean @default(false)
+  psvr2       Boolean @default(false)
   release     String
   metacritic  Int
   pssr        Boolean @default(false)
