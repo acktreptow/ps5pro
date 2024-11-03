@@ -113,6 +113,10 @@ const GamesListPage = async () => {
           </div>
         ))}
       </div>
+      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
+        <span className="font-semibold">Total Detailed Games:</span>{" "}
+        {detailedGames.length}
+      </h4>
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Games With Details
       </h2>
