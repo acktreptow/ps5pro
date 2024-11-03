@@ -1,4 +1,4 @@
-import postableGames from "../data/postableGames.json";
+// import postableGames from "../data/postableGames.json";
 import type { Metadata } from "next";
 import Link from "next/link";
 import prisma from "../../../lib/prisma";
