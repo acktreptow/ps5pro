@@ -25,7 +25,7 @@ model ConfirmedGame {
 model DetailedGame {
   id          String  @default(cuid()) @id
   title       String
-  urlPath     String
+  urlPath     String  @unique
   genre       String
   developer   String
   psStudios   Boolean @default(false)
