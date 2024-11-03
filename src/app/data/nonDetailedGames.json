@@ -6,7 +6,7 @@
     "developer": "Among Giants",
     "psStudios": false,
     "release": "November 1, 2024",
-    "metacritic": 0
+    "metacritic": 82
   },
   {
     "name": "Apex Legends",
@@ -60,7 +60,7 @@
     "developer": "Stonebrick Studios",
     "psStudios": false,
     "release": "March 16, 2024",
-    "metacritic": "N/A"
+    "metacritic": 0
   },
   {
     "name": "Dead Island 2",
@@ -78,7 +78,7 @@
     "developer": "Blizzard",
     "psStudios": false,
     "release": "June 2, 2023",
-    "metacritic": 88
+    "metacritic": 86
   },
   {
     "name": "Dwarf Journey",
@@ -132,7 +132,7 @@
     "developer": "EA Vancouver",
     "psStudios": false,
     "release": "September 27, 2024",
-    "metacritic": 78
+    "metacritic": 76
   },
   {
     "name": "EA Sports UFC 5",
@@ -195,7 +195,7 @@
     "developer": "Epic Games",
     "psStudios": false,
     "release": "June 25, 2017",
-    "metacritic": 78
+    "metacritic": 80
   },
   {
     "name": "God of War: Ragnarok",
@@ -330,7 +330,7 @@
     "developer": "Hello Games",
     "psStudios": false,
     "release": "August 9, 2016",
-    "metacritic": 71
+    "metacritic": 82
   },
   {
     "name": "Outbreak: SoH",
@@ -357,7 +357,7 @@
     "developer": "Frontier Developments",
     "psStudios": false,
     "release": "November 6, 2024",
-    "metacritic": 0
+    "metacritic": 83
   },
   {
     "name": "Pro Baseball Spirits 24-25",
@@ -393,7 +393,7 @@
     "developer": "Striking Distance",
     "psStudios": false,
     "release": "October 28, 2024",
-    "metacritic": 0
+    "metacritic": 78
   },
   {
     "name": "Retrieval",
@@ -411,7 +411,7 @@
     "developer": "Truant Pixel",
     "psStudios": false,
     "release": "2024",
-    "metacritic": 0
+    "metacritic": 75
   },
   {
     "name": "Sanguis Luna",
@@ -465,7 +465,7 @@
     "developer": "Brinemedia",
     "psStudios": false,
     "release": "November 14, 2024",
-    "metacritic": 75
+    "metacritic": 0
   },
   {
     "name": "Subside",
@@ -483,7 +483,7 @@
     "developer": "KT Racing",
     "psStudios": false,
     "release": "September 12, 2024",
-    "metacritic": 55
+    "metacritic": 52
   },
   {
     "name": "The Callisto Protocol",
@@ -537,7 +537,16 @@
     "developer": "Ballistic Moon",
     "psStudios": true,
     "release": "October 4, 2024",
-    "metacritic": 72
+    "metacritic": 69
+  },
+  {
+    "name": "War Thunder",
+    "id": "War Thunder",
+    "genre": "Vehicular Combat MMO",
+    "developer": "Gaijin Entertainment",
+    "psStudios": false,
+    "release": "November 16, 2020",
+    "metacritic": 81
   },
   {
     "name": "Warframe",
@@ -547,15 +556,6 @@
     "psStudios": false,
     "release": "November 26, 2020",
     "metacritic": 85
-  },
-  {
-    "name": "War Thunder",
-    "id": "War Thunder",
-    "genre": "Vehicular Combat MMO",
-    "developer": "Gaijin Entertainment",
-    "psStudios": false,
-    "release": "November 16, 2020",
-    "metacritic": "N/A"
   },
   {
     "name": "Wolverine",
@@ -573,6 +573,6 @@
     "developer": "Wargaming",
     "psStudios": false,
     "release": "April 4, 2021",
-    "metacritic": "N/A"
+    "metacritic": 83
   }
 ]
