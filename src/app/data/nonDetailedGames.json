@@ -234,6 +234,15 @@
     "metacritic": 73
   },
   {
+    "name": "Killing Floor 3",
+    "id": "KF3",
+    "genre": "Action-Horror FPS",
+    "developer": "Tripwire Interactive",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Lies of P",
     "id": "LoP",
     "genre": "Soulsborne",
