@@ -11,7 +11,7 @@
   {
     "name": "Apex Legends",
     "id": "Apex",
-    "genre": "Hero Battle Royale",
+    "genre": "FPS Hero Battle Royale",
     "developer": "Respawn",
     "psStudios": false,
     "release": "March 29, 2022",
@@ -38,7 +38,7 @@
   {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
-    "genre": "Horror",
+    "genre": "Psychological Horror",
     "developer": "Feardemic",
     "psStudios": false,
     "release": "2025",
@@ -47,7 +47,7 @@
   {
     "name": "Baldur's Gate 3",
     "id": "BG3",
-    "genre": "RPG",
+    "genre": "Fantasy CRPG",
     "developer": "Larian Studios",
     "psStudios": false,
     "release": "September 6, 2024",
@@ -164,7 +164,7 @@
   {
     "name": "Empire of the Ants",
     "id": "EotA",
-    "genre": "Strategy",
+    "genre": "RTS, Strategy",
     "developer": "Tower Five",
     "psStudios": false,
     "release": "November 7, 2024",
@@ -182,7 +182,7 @@
   {
     "name": "Everspace 2",
     "id": "Everspace 2",
-    "genre": "Action shooter",
+    "genre": "Space Combat, Action RPG",
     "developer": "Rockfish Games",
     "psStudios": false,
     "release": "August 15, 2023",
@@ -200,7 +200,7 @@
   {
     "name": "Fortnite",
     "id": "Fortnite",
-    "genre": "F2P Battle Royale",
+    "genre": "TPS Battle Royale",
     "developer": "Epic Games",
     "psStudios": false,
     "release": "November 12, 2020",
@@ -209,7 +209,7 @@
   {
     "name": "God of War: Ragnarök",
     "id": "GOW:R",
-    "genre": "Action-Adventure, RPG",
+    "genre": "Action RPG",
     "developer": "Sony Santa Monica",
     "psStudios": true,
     "release": "November 9, 2022",
@@ -218,7 +218,7 @@
   {
     "name": "Helldivers 2",
     "id": "Helldivers 2",
-    "genre": "Multiplayer Co-op TPS",
+    "genre": "Co-op PvE TPS",
     "developer": "Arrowhead",
     "psStudios": true,
     "release": "February 8, 2024",
