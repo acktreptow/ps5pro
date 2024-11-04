@@ -27,6 +27,15 @@
     "metacritic": 0
   },
   {
+    "name": "Arma Reforger",
+    "id": "Arma Reforger",
+    "genre": "Multiplayer Shooter",
+    "developer": "Bohemia Interactive",
+    "psStudios": false,
+    "release": "November 16, 2023",
+    "metacritic": 0
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC: Mirage",
     "genre": "Action RPG",
@@ -331,6 +340,15 @@
     "psStudios": false,
     "release": "July 13, 2023",
     "metacritic": 71
+  },
+  {
+    "name": "NBA 2K25",
+    "id": "NBA 25",
+    "genre": "Sports, Basketball",
+    "developer": "Visual Concepts",
+    "psStudios": false,
+    "release": "September 6, 2024",
+    "metacritic": 79
   },
   {
     "name": "No Man's Sky",
