@@ -36,15 +36,6 @@
     "metacritic": 75
   },
   {
-    "name": "Call of Duty: Black Ops 6",
-    "id": "COD: BO6",
-    "genre": "First-Person Shooter",
-    "developer": "Treyarch (Multiplayer) & Raven Software (Singleplayer)",
-    "psStudios": false,
-    "release": "October 25, 2024",
-    "metacritic": 92
-  },
-  {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
     "genre": "First-Person Action RPG",

@@ -54,6 +54,15 @@
     "metacritic": 96
   },
   {
+    "name": "Call of Duty: Black Ops 6",
+    "id": "COD: BO6",
+    "genre": "First-Person Shooter",
+    "developer": "Treyarch (Multiplayer) & Raven Software (Singleplayer)",
+    "psStudios": false,
+    "release": "October 25, 2024",
+    "metacritic": 85
+  },
+  {
     "name": "CyubeVR",
     "id": "CyubeVR",
     "genre": "Adventure",
@@ -516,7 +525,7 @@
     "name": "Truck Driver: The American Dream",
     "id": "Truck Driver: TAD",
     "genre": "Driving, Simulation",
-    "developer": "Sodesco",
+    "developer": "Kyodai",
     "psStudios": false,
     "release": "September 26, 2023",
     "metacritic": 40
