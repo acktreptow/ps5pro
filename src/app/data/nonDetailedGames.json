@@ -263,7 +263,7 @@
   {
     "name": "Like a Dragon: Pirates",
     "id": "Pirate Yakuza",
-    "genre": "Action-Adventure, RPG",
+    "genre": "Action RPG",
     "developer": "Ryu Ga Gotoku Studio",
     "psStudios": false,
     "release": "February 28, 2025",
@@ -290,7 +290,7 @@
   {
     "name": "Marvel Rivals",
     "id": "Marvel Rivals",
-    "genre": "Hero Shooter",
+    "genre": "TPS Hero Shooter",
     "developer": "NetEase Games",
     "psStudios": false,
     "release": "December 6, 2024",
@@ -308,7 +308,7 @@
   {
     "name": "Monster Hunter Wilds",
     "id": "MH: Wilds",
-    "genre": "Third-Person Action RPG",
+    "genre": "Action RPG",
     "developer": "Capcom",
     "psStudios": false,
     "release": "February 27, 2025",
@@ -326,7 +326,7 @@
   {
     "name": "Naraka: Bladepoint",
     "id": "Naraka",
-    "genre": "F2P Battle Royale",
+    "genre": "TPA Battle Royale",
     "developer": "24 Entertainment",
     "psStudios": false,
     "release": "July 13, 2023",
@@ -389,7 +389,7 @@
   {
     "name": "Quantum Error",
     "id": "Quantum Error",
-    "genre": "First-Person Horror, Action",
+    "genre": "Action, Horror",
     "developer": "TeamKill Media",
     "psStudios": false,
     "release": "November 3, 2023",
@@ -398,7 +398,7 @@
   {
     "name": "Redacted",
     "id": "Redacted",
-    "genre": "Top Down Roguelite",
+    "genre": "Top-Down Roguelite",
     "developer": "Striking Distance",
     "psStudios": false,
     "release": "October 28, 2024",
@@ -434,7 +434,7 @@
   {
     "name": "Slitterhead",
     "id": "Slitterhead",
-    "genre": "Survival Horror",
+    "genre": "Action, Horror",
     "developer": "Bokeh Game Studio",
     "psStudios": false,
     "release": "November 8, 2024",
@@ -452,7 +452,7 @@
   {
     "name": "Spine - This is Gun Fu",
     "id": "SPINE",
-    "genre": "Action",
+    "genre": "Action-Adventure, Beat 'em Up",
     "developer": "Nekki",
     "psStudios": false,
     "release": "TBA",
@@ -506,7 +506,7 @@
   {
     "name": "The Finals",
     "id": "The Finals",
-    "genre": "F2P Third-Person Shooter",
+    "genre": "Multiplayer FPS",
     "developer": "Embark Studios",
     "psStudios": false,
     "release": "December 7, 2023",
@@ -560,7 +560,7 @@
   {
     "name": "Warframe",
     "id": "Warframe",
-    "genre": "F2P RPG Shooter",
+    "genre": "Action RPG Looter Shooter",
     "developer": "Digital Extremes",
     "psStudios": false,
     "release": "November 26, 2020",
@@ -578,7 +578,7 @@
   {
     "name": "WoW: Legends",
     "id": "WoW: Legends",
-    "genre": "Action Shooter",
+    "genre": "Multiplayer Naval Combat",
     "developer": "Wargaming",
     "psStudios": false,
     "release": "April 4, 2021",
