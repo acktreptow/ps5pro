@@ -1,4 +1,4 @@
-import postableGames from "../../data/postableGames.json";
+import postableGames from "../../data/detailedGames.json";
 
 interface Game {
   name: string;
