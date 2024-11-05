@@ -1,4 +1,3 @@
-// import postableGames from "../data/postableGames.json";
 import type { Metadata } from "next";
 import Link from "next/link";
 import prisma from "../../../lib/prisma";
@@ -121,44 +120,6 @@ const GamesListPage = async () => {
         <span className="font-semibold">Total Detailed Games:</span>{" "}
         {detailedGames.length}
       </h4>
-      {/* <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
-        Games With Details
-      </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-2 lg:text-xl lg:gap-5">
-        {postableGames.map((game) => (
-          <div
-            className="pt-6 pb-10 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
-            key={game.id}
-          >
-            <h3 className="font-extrabold text-2xl mb-2 md:text-xl lg:text-2xl lg:mb-4">
-              {game.name}
-            </h3>
-            <p>
-              <span className="font-semibold">Genre:</span> {game.genre}
-            </p>
-            <p>
-              <span className="font-semibold">Developer:</span> {game.developer}
-            </p>
-            <p>
-              <span className="font-semibold">Release:</span> {game.release}
-            </p>
-            <p className="mb-8">
-              <span className="font-semibold">Metacritic:</span>{" "}
-              {game.metacritic}
-            </p>
-            <Link
-              href={`/games/${game.urlPath}`}
-              className="bg-gradient-to-b from-blue-700 to-playstation p-4 rounded-md text-slate-100 font-semibold"
-            >
-              Review Enhancements
-            </Link>
-          </div>
-        ))}
-      </div>
-      <h4 className="text-center text-2xl mb-12 md:text-start md:mx-8">
-        <span className="font-semibold">Total Games With Details:</span>{" "}
-        {postableGames.length}
-      </h4> */}
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
         Other Confirmed Games
       </h2>
