@@ -495,6 +495,15 @@
     "metacritic": 0
   },
   {
+    "name": "Starship Troopers: Extermination",
+    "id": "ST: Extermination",
+    "genre": "Co-op FPS",
+    "developer": "Offworld",
+    "psStudios": false,
+    "release": "October 25, 2024",
+    "metacritic": 68
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "genre": "Action-Adventure",
