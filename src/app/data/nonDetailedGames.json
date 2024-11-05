@@ -306,6 +306,15 @@
     "metacritic": 0
   },
   {
+    "name": "MechWarrior 5: Clans",
+    "id": "MW5: Clans",
+    "genre": "Mech Shooter",
+    "developer": "Piranha Games",
+    "psStudios": false,
+    "release": "October 17, 2024",
+    "metacritic": 80
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "Third-Person Shooter",
