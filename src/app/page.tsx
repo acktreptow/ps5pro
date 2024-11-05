@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
-import games from "../app/data/postableGames.json";
+import games from "../app/data/detailedGames.json";
 import ps5Pro from "../../public/images/PS5-Pro.jpg";
 
 function Home() {

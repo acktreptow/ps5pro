@@ -9,15 +9,6 @@
     "metacritic": 82
   },
   {
-    "name": "Astro Bot",
-    "id": "Astro Bot",
-    "genre": "Platformer",
-    "developer": "Team Asobi",
-    "psStudios": true,
-    "release": "September 6, 2024",
-    "metacritic": 94
-  },
-  {
     "name": "Avatar: Frontiers of Pandora",
     "id": "Avatar: FoP",
     "genre": "Action-Adventure",
@@ -29,16 +20,16 @@
   {
     "name": "Black Myth Wukong",
     "id": "BM: Wukong",
-    "genre": "Action role-playing",
+    "genre": "Action RPG",
     "developer": "Game Science",
     "psStudios": false,
     "release": "August 20, 2024",
-    "metacritic": 75
+    "metacritic": 76
   },
   {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
-    "genre": "First-Person Action RPG",
+    "genre": "FPS Action RPG",
     "developer": "CD Projekt Red",
     "psStudios": false,
     "release": "February 15, 2022",
@@ -47,8 +38,8 @@
   {
     "name": "Final Fantasy 16",
     "id": "FF16",
-    "genre": "JRPG",
-    "developer": "Square Enix Creative Business Unit III",
+    "genre": "Action JRPG",
+    "developer": "Square Enix CBU III",
     "psStudios": false,
     "release": "June 22, 2023",
     "metacritic": 87
@@ -56,11 +47,47 @@
   {
     "name": "Immortals of Aveum",
     "id": "IoA",
-    "genre": "First-Person Shooter",
+    "genre": "Magic FPS",
     "developer": "Ascendant Studios",
     "psStudios": false,
     "release": "August 22, 2023",
     "metacritic": 69
+  },
+  {
+    "name": "Silent Hill 2",
+    "id": "SH2",
+    "genre": "Survival Horror",
+    "developer": "Bloober Team",
+    "psStudios": false,
+    "release": "October 8, 2024",
+    "metacritic": 86
+  },
+  {
+    "name": "Tekken 8",
+    "id": "Tekken 8",
+    "genre": "Fighting",
+    "developer": "Bandai Namco Arika",
+    "psStudios": false,
+    "release": "January 25, 2024",
+    "metacritic": 90
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine 2",
+    "id": "Space Marine 2",
+    "genre": "TPS, Hack & Slash",
+    "developer": "Saber Interactive",
+    "psStudios": false,
+    "release": "September 9, 2024",
+    "metacritic": 80
+  },
+  {
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "genre": "Platformer",
+    "developer": "Team Asobi",
+    "psStudios": true,
+    "release": "September 6, 2024",
+    "metacritic": 94
   },
   {
     "name": "Lego Horizon Adventures",
@@ -106,32 +133,5 @@
     "psStudios": true,
     "release": "April 30, 2021",
     "metacritic": 86
-  },
-  {
-    "name": "Silent Hill 2",
-    "id": "SH2",
-    "genre": "Survival Horror",
-    "developer": "Bloober Team",
-    "psStudios": false,
-    "release": "October 8, 2024",
-    "metacritic": 87
-  },
-  {
-    "name": "Tekken 8",
-    "id": "Tekken 8",
-    "genre": "Fighting",
-    "developer": "Bandai Namco Studios Arika",
-    "psStudios": false,
-    "release": "January 26, 2024",
-    "metacritic": 90
-  },
-  {
-    "name": "Warhammer 40,000: Space Marine 2",
-    "id": "Space Marine 2",
-    "genre": "Third-Person Shooter, Hack & Slash",
-    "developer": "Saber Interactive",
-    "psStudios": false,
-    "release": "September 9, 2024",
-    "metacritic": 82
   }
 ]
