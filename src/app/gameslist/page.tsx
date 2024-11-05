@@ -134,12 +134,6 @@ const GamesListPage = async () => {
             >
               Review Enhancements
             </Link>
-            {game.psStudios && (
-              <p className="text-start font-semibold mx-8">#PS Studios</p>
-            )}
-            {game.psvr2 && (
-              <p className="text-start font-semibold mx-8">#PSVR2</p>
-            )}
           </div>
         ))}
       </div>
@@ -172,12 +166,6 @@ const GamesListPage = async () => {
               <span className="font-semibold">Metacritic:</span>{" "}
               {game.metacritic}
             </p>
-            {game.psStudios && (
-              <p className="text-start font-semibold mx-8">#PS Studios</p>
-            )}
-            {game.psvr2 && (
-              <p className="text-start font-semibold mx-8">#PSVR2</p>
-            )}
           </div>
         ))}
       </div>
@@ -210,12 +198,6 @@ const GamesListPage = async () => {
               <span className="font-semibold">Metacritic:</span>{" "}
               {game.metacritic}
             </p>
-            {game.psStudios && (
-              <p className="text-start font-semibold mx-8">#PS Studios</p>
-            )}
-            {game.psvr2 && (
-              <p className="text-start font-semibold mx-8">#PSVR2</p>
-            )}
           </div>
         ))}
       </div>
