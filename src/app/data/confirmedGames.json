@@ -468,6 +468,15 @@
     "metacritic": 0
   },
   {
+    "name": "Silent Hill 2",
+    "id": "SH2",
+    "genre": "Survival Horror",
+    "developer": "Bloober Team",
+    "psStudios": false,
+    "release": "October 8, 2024",
+    "metacritic": 86
+  },
+  {
     "name": "Slitterhead",
     "id": "Slitterhead",
     "genre": "Action, Horror",
