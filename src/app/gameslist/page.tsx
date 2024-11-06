@@ -174,7 +174,7 @@ const GamesListPage = async () => {
         {confirmedGames.length}
       </h4>
       <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
-        9 Games That Most Need a PS5 Pro Upgrade
+        {unconfirmedGames.length} Games That Most Need a PS5 Pro Upgrade
       </h2>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
         {unconfirmedGames.map((game) => (
