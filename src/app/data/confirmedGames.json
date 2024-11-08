@@ -630,6 +630,15 @@
     "metacritic": 85
   },
   {
+    "name": "Warhammer 40,000: Darktide",
+    "id": "Warhammer Darktide",
+    "genre": "Action FPS",
+    "developer": "Fatshark",
+    "psStudios": false,
+    "release": "December 3, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Wolverine",
     "id": "Wolverine",
     "genre": "Action-Adventure",
