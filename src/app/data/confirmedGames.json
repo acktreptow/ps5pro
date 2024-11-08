@@ -378,6 +378,15 @@
     "metacritic": 82
   },
   {
+    "name": "Off the Grid",
+    "id": "OtG",
+    "genre": "Multiplayer TPS",
+    "developer": "Gunzilla",
+    "psStudios": false,
+    "release": "October 8, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Outbreak: SoHCS",
     "id": "Outbreak",
     "genre": "Survival Horror",
