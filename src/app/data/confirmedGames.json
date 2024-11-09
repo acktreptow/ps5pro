@@ -66,7 +66,7 @@
     "name": "Call of Duty: Black Ops 6",
     "id": "COD: BO6",
     "genre": "First-Person Shooter",
-    "developer": "Treyarch (Multiplayer) & Raven Software (SP)",
+    "developer": "Treyarch & Raven",
     "psStudios": false,
     "release": "October 25, 2024",
     "metacritic": 85
@@ -191,7 +191,7 @@
   {
     "name": "Everspace 2",
     "id": "Everspace 2",
-    "genre": "Space Combat, Action RPG",
+    "genre": "Space Combat Action RPG",
     "developer": "Rockfish Games",
     "psStudios": false,
     "release": "August 15, 2023",
@@ -515,7 +515,7 @@
   {
     "name": "Spine - This is Gun Fu",
     "id": "SPINE",
-    "genre": "Action-Adventure, Beat 'em Up",
+    "genre": "Action Beat 'em Up",
     "developer": "Nekki",
     "psStudios": false,
     "release": "TBA",
