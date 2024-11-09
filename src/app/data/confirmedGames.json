@@ -261,7 +261,7 @@
     "metacritic": 0
   },
   {
-    "name": "Kingdom Come: Deliverance II",
+    "name": "Kingdom Come: D2",
     "id": "KC:D2",
     "genre": "Action RPG",
     "developer": "Warhorse Studios",
@@ -522,7 +522,7 @@
     "metacritic": 0
   },
   {
-    "name": "Starship Troopers: Extermination",
+    "name": "Starship Troopers: E",
     "id": "ST: Extermination",
     "genre": "Co-op FPS",
     "developer": "Offworld",
@@ -639,7 +639,7 @@
     "metacritic": 85
   },
   {
-    "name": "Warhammer 40,000: Darktide",
+    "name": "Warhammer 40K Darktide",
     "id": "Warhammer Darktide",
     "genre": "Action FPS",
     "developer": "Fatshark",
