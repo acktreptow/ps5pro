@@ -173,8 +173,8 @@ const GamesListPage = async () => {
         <span className="font-semibold">Total Confirmed Games:</span>{" "}
         {confirmedGames.length}
       </h4>
-      <h2 className="text-3xl text-center font-bold underline mb-4 lg:text-start lg:mx-8">
-        {unconfirmedGames.length} Games That Most Need a PS5 Pro Upgrade
+      <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
+        {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
         {unconfirmedGames.map((game) => (
