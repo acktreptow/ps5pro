@@ -34,7 +34,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Dead Rising Deluxe Remaster",
+    "name": "Dead Rising Deluxe",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-deluxe-remaster",
     "genre": "Action-Adventure, Roguelite",
@@ -170,7 +170,7 @@
     }
   },
   {
-    "name": "Horizon Zero Dawn Remastered",
+    "name": "Horizon 1 Zero Dawn",
     "id": "H:ZD",
     "urlPath": "horizon-zero-dawn-remastered",
     "genre": "Action RPG",
@@ -280,7 +280,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Spider-Man Remastered",
+    "name": "Spider-Man 1 Remastered",
     "id": "Spider-Man",
     "urlPath": "spider-man-remastered",
     "genre": "Action-Adventure",
