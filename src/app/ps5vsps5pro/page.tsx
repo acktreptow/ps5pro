@@ -35,7 +35,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               thread AMD Ryzen Zen 2 | Variable frequency up to 3.5 GHz
             </p>
             <p>
-              <span className="font-semibold">RAM:</span>16GB GDDR6 memory @ 14
+              <span className="font-semibold">RAM:</span> 16GB GDDR6 memory @ 14
               Gbps
             </p>
             <p>
@@ -103,7 +103,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">RAM:</span> 16GB GDDR6 memory @ 18
-              Gbps
+              Gbps for games. 2GB DDR5 memory for OS.
             </p>
             <p>
               <span className="font-semibold">Memory available for games:</span>{" "}
@@ -166,8 +166,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             frequency
           </p>
           <p>
-            <span className="font-semibold">RAM:</span> No increase to amount.
-            4Gbps / 28.57% increase
+            <span className="font-semibold">RAM:</span> All 16GB are now for
+            games, with 2 additional GB for the OS. 4Gbps / 28.57% increase in
+            speed.
           </p>
           <p>
             <span className="font-semibold">Memory available for games:</span>{" "}
