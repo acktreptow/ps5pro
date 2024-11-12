@@ -95,7 +95,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </h2>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
-              CUs up to 2.23 GHz | 17.13 TFLOPs
+              CUs up to 2.23 GHz | 16.7 TFLOPs
             </p>
             <p>
               <span className="font-semibold">CPU:</span> Custom 8 core/16
@@ -157,8 +157,9 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             Improvements
           </h2>
           <p>
-            <span className="font-semibold">GPU:</span> 66.67% extra CUs with a
-            real-world improvement of around 45%
+            <span className="font-semibold">GPU:</span> 66.67% extra CUs and
+            62.46% increase in TFLOPs with a real-world improvement of around
+            45%
           </p>
           <p>
             <span className="font-semibold">CPU:</span> 10% increase to max
