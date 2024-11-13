@@ -297,6 +297,15 @@
     "metacritic": 70
   },
   {
+    "name": "Lost Islands",
+    "id": "Lost Islands",
+    "genre": "Action-Adventure",
+    "developer": "Glitch Studio",
+    "psStudios": false,
+    "release": "November 8, 2023",
+    "metacritic": 0
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "genre": "Sports, American Football",
