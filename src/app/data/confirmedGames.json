@@ -243,6 +243,15 @@
     "metacritic": 84
   },
   {
+    "name": "Isonzo",
+    "id": "Isonzo",
+    "genre": "Multiplayer FPS",
+    "developer": "BlackMill Games",
+    "psStudios": false,
+    "release": "November 22, 2024",
+    "metacritic": 67
+  },
+  {
     "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "genre": "Simulation Driving, Racing",
