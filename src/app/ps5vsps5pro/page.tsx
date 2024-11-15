@@ -94,7 +94,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               Specifications
             </h2>
             <p>
-              <span className="font-semibold">GPU:</span> Custom AMD RDNA 3 | 60
+              <span className="font-semibold">GPU:</span> Custom AMD RDNA | 60
               CUs up to 2.23 GHz | 16.7 TFLOPs
             </p>
             <p>
@@ -139,8 +139,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
               <span className="font-semibold">WiFi:</span> WiFi 7
             </p>
             <p>
-              <span className="font-semibold">Dimensions:</span> H: 10.4cm / W:
-              35.8cm
+              <span className="font-semibold">Dimensions:</span> H: 8.9cm / W:
+              38.8cm
             </p>
             <p>
               <span className="font-semibold">Launch Date:</span> November 7,
