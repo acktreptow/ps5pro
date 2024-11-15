@@ -107,7 +107,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">Memory available for games:</span>{" "}
-              13.7 GB
+              16 GB
             </p>
             <p>
               <span className="font-semibold">Memory Interface/Bandwidth:</span>{" "}
@@ -172,7 +172,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </p>
           <p>
             <span className="font-semibold">Memory available for games:</span>{" "}
-            1.2GB / 9.6% increase{" "}
+            3.5GB / 28% increase{" "}
           </p>
           <p>
             <span className="font-semibold">Memory Interface/Bandwidth:</span>{" "}
