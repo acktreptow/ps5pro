@@ -441,6 +441,15 @@
     "metacritic": 0
   },
   {
+    "name": "Path of Exile 2",
+    "id": "PoE 2",
+    "genre": "Action RPG",
+    "developer": "Grinding Gear",
+    "psStudios": false,
+    "release": "December 6, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "genre": "Simulation, City Builder",
