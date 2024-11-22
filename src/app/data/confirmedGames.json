@@ -639,6 +639,15 @@
     "metacritic": 40
   },
   {
+    "name": "UFL",
+    "id": "UFL",
+    "genre": "Sports, Football",
+    "developer": "XTEN",
+    "psStudios": false,
+    "release": "December 5, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Unreal Kingdoms",
     "id": "Unreal Kingdoms",
     "genre": "MMORPG",
