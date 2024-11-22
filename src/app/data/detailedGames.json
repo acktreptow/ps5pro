@@ -10,12 +10,12 @@
     "metacritic": 89,
     "pssr": true,
     "rt": true,
-    "rtTypes": "TBA",
+    "rtTypes": "Ray-traced reflections",
     "resolution": "4k",
     "fps": "60fps",
     "modes": {
-      "fidelity": "4k 30fps with Ray Tracing",
-      "performance": "4K 60fps"
+      "fidelity": "1224p PSSR to 4K output. Mostly stable 30fps with RT reflections.",
+      "performance": "864p PSSR to 4K output. Mostly stable 60fps with no RT."
     }
   },
   {
