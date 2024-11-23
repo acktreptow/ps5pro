@@ -54,6 +54,15 @@
     "metacritic": 69
   },
   {
+    "name": "Lego Horizon Adventures",
+    "id": "Lego Horizon",
+    "genre": "Action-Adventure",
+    "developer": "Studio Gobo",
+    "psStudios": true,
+    "release": "November 14, 2024",
+    "metacritic": 71
+  },
+  {
     "name": "Mortal Kombat 1",
     "id": "MK1",
     "genre": "Fighting",
@@ -88,15 +97,6 @@
     "psStudios": true,
     "release": "September 6, 2024",
     "metacritic": 94
-  },
-  {
-    "name": "Lego Horizon Adventures",
-    "id": "Lego Horizon",
-    "genre": "Action-Adventure",
-    "developer": "Guerilla Games & Studio Gobo",
-    "psStudios": true,
-    "release": "November 14, 2024",
-    "metacritic": 0
   },
   {
     "name": "Life is Strange: Double Exposure",
