@@ -718,5 +718,14 @@
     "psStudios": false,
     "release": "April 4, 2021",
     "metacritic": 83
+  },
+  {
+    "name": "Zenless Zone Zero",
+    "id": "ZZZ",
+    "genre": "Action RPG",
+    "developer": "miHoYo",
+    "psStudios": false,
+    "release": "July 4, 2024",
+    "metacritic": 73
   }
 ]
