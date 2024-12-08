@@ -441,6 +441,15 @@
     "metacritic": 0
   },
   {
+    "name": "Party Animals",
+    "id": "Party Animals",
+    "genre": "MP Party Brawler",
+    "developer": "Source Technology",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Path of Exile 2",
     "id": "PoE 2",
     "genre": "Action RPG",
