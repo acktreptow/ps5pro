@@ -727,5 +727,14 @@
     "psStudios": false,
     "release": "July 4, 2024",
     "metacritic": 73
+  },
+  {
+    "name": "Zombie Derby",
+    "id": "Zombie Derby",
+    "genre": "Racing",
+    "developer": "Brinemedia",
+    "psStudios": false,
+    "release": "December 11, 2024",
+    "metacritic": 0
   }
 ]
