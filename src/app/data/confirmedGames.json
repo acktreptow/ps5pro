@@ -567,6 +567,15 @@
     "metacritic": 0
   },
   {
+    "name": "Sniper Elite: Resistance",
+    "id": "SE: Resistance",
+    "genre": "Third-Person Shooter",
+    "developer": "Rebellion",
+    "psStudios": false,
+    "release": "January 30, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This is Gun Fu",
     "id": "SPINE",
     "genre": "Action Beat 'em Up",
