@@ -729,6 +729,15 @@
     "metacritic": 0
   },
   {
+    "name": "Warhammer 40K Rogue Trader",
+    "id": "Warhammer RT",
+    "genre": "Isometric RPG",
+    "developer": "Owlcat Games",
+    "psStudios": false,
+    "release": "December 7, 2023",
+    "metacritic": 77
+  },
+  {
     "name": "Wolverine",
     "id": "Wolverine",
     "genre": "Action-Adventure",
