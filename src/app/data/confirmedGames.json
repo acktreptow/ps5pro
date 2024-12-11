@@ -225,6 +225,15 @@
     "metacritic": 80
   },
   {
+    "name": "Forever Skies",
+    "id": "FS",
+    "genre": "Survival Adventure",
+    "developer": "Far From Home",
+    "psStudios": false,
+    "release": "2024",
+    "metacritic": 0
+  },
+  {
     "name": "God of War: Ragnarök",
     "id": "GOW:R",
     "genre": "Action RPG",
