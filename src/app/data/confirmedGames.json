@@ -756,6 +756,15 @@
     "metacritic": 77
   },
   {
+    "name": "Warhammer 40K: SM2",
+    "id": "Space Marine 2",
+    "genre": "TPS, Hack & Slash",
+    "developer": "Saber Interactive",
+    "psStudios": false,
+    "release": "September 9, 2024",
+    "metacritic": 80
+  },
+  {
     "name": "Wolverine",
     "id": "Wolverine",
     "genre": "Action-Adventure",
