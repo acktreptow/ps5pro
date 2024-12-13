@@ -225,6 +225,15 @@
     "metacritic": 80
   },
   {
+    "name": "Farming Simulator 25",
+    "id": "FS 25",
+    "genre": "Simulation, Farming",
+    "developer": "Giants Software",
+    "psStudios": false,
+    "release": "November 12, 2024",
+    "metacritic": 64
+  },
+  {
     "name": "Fears to Fathom: Ironbark Lookout",
     "id": "Fears to Fathom",
     "genre": "Horror",
