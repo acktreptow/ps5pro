@@ -81,6 +81,15 @@
     "metacritic": 96
   },
   {
+    "name": "Black Myth Wukong",
+    "id": "BM: Wukong",
+    "genre": "Action RPG",
+    "developer": "Game Science",
+    "psStudios": false,
+    "release": "August 20, 2024",
+    "metacritic": 76
+  },
+  {
     "name": "Call of Duty: Black Ops 6",
     "id": "COD: BO6",
     "genre": "First-Person Shooter",
