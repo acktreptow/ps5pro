@@ -99,6 +99,15 @@
     "metacritic": 85
   },
   {
+    "name": "Crimson Desert",
+    "id": "CD",
+    "genre": "Action-Adventure",
+    "developer": "Pearl Abyss",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "CyubeVR",
     "id": "CyubeVR",
     "genre": "Adventure",
