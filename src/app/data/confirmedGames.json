@@ -621,6 +621,15 @@
     "metacritic": 0
   },
   {
+    "name": "Split Fiction",
+    "id": "SF",
+    "genre": "Co-op Adventure",
+    "developer": "Hazelight Studios",
+    "psStudios": false,
+    "release": "March 6, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This is Gun Fu",
     "id": "SPINE",
     "genre": "Action Beat 'em Up",
