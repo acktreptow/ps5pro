@@ -396,6 +396,15 @@
     "metacritic": 80
   },
   {
+    "name": "Midnight Murder Club",
+    "id": "MMC",
+    "genre": "Multiplayer FPS",
+    "developer": "Velan Studios",
+    "psStudios": true,
+    "release": "February, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "Third-Person Shooter",
