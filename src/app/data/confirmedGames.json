@@ -594,6 +594,15 @@
     "metacritic": 0
   },
   {
+    "name": "Shredders",
+    "id": "Shredders",
+    "genre": "Sports, Snowboarding",
+    "developer": "FoamPunch",
+    "psStudios": false,
+    "release": "December 6, 2022",
+    "metacritic": 66
+  },
+  {
     "name": "Silent Hill 2",
     "id": "SH2",
     "genre": "Survival Horror",
