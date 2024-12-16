@@ -36,6 +36,15 @@
     "metacritic": 0
   },
   {
+    "name": "Asphalt Legends Unite",
+    "id": "ALU",
+    "genre": "Racing",
+    "developer": "Gameloft Barcelona",
+    "psStudios": false,
+    "release": "July 17, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC: Mirage",
     "genre": "Action RPG",
