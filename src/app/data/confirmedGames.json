@@ -92,10 +92,19 @@
   {
     "name": "Biped",
     "id": "Biped",
-    "genre": "Next Studios",
-    "developer": "Adventure",
+    "genre": "Adventure",
+    "developer": "Postmeta Games",
     "psStudios": false,
     "release": "December 17, 2024",
+    "metacritic": 0
+  },
+  {
+    "name": "Biped 2",
+    "id": "Biped 2",
+    "genre": "Adventure",
+    "developer": "Postmeta Games",
+    "psStudios": false,
+    "release": "TBA",
     "metacritic": 0
   },
   {
