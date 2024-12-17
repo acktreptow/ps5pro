@@ -90,6 +90,15 @@
     "metacritic": 96
   },
   {
+    "name": "Biped",
+    "id": "Biped",
+    "genre": "Next Studios",
+    "developer": "Adventure",
+    "psStudios": false,
+    "release": "December 17, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Black Myth Wukong",
     "id": "BM: Wukong",
     "genre": "Action RPG",
