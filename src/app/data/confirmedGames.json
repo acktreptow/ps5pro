@@ -450,6 +450,15 @@
     "metacritic": 0
   },
   {
+    "name": "Monster Energy Supercross 25",
+    "id": "MES 25",
+    "genre": "Sports, Racing",
+    "developer": "Milestone",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Morels The Hunt 2",
     "id": "MtH 2",
     "genre": "Simulation Adventure",
