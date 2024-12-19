@@ -252,6 +252,15 @@
     "metacritic": 70
   },
   {
+    "name": "Entropy Survivors",
+    "id": "ES",
+    "genre": "Top-Down Roguelike",
+    "developer": "Moving Pieces Interactive",
+    "psStudios": false,
+    "release": "December 5, 2024",
+    "metacritic": 82
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "genre": "Space Combat Action RPG",
