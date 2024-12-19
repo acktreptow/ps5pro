@@ -324,6 +324,15 @@
     "metacritic": 84
   },
   {
+    "name": "Hunting Simulator 3",
+    "id": "HS 3",
+    "genre": "Shooter",
+    "developer": "Nacon Studio Ghent",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
