@@ -280,6 +280,25 @@
     "fps": "60fps"
   },
   {
+    "name": "Silent Hill 2",
+    "id": "SH 2",
+    "urlPath": "silent-hill-2-remake",
+    "genre": "Survival Horror",
+    "developer": "Bloober Team",
+    "psStudios": false,
+    "release": "October 8, 2024",
+    "metacritic": 86,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "1512p PSSR (likely)",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "1080p PSSR upscale to 4K. 30fps with RT reflections.",
+      "performance": "1152p TSR upscale to 4K. 60fps with RT reflections."
+    }
+  },
+  {
     "name": "Spider-Man 1 Remastered",
     "id": "Spider-Man",
     "urlPath": "spider-man-remastered",
