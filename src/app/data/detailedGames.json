@@ -48,6 +48,20 @@
     "fps": "60fps"
   },
   {
+    "name": "Dead Island 2",
+    "id": "DI2",
+    "urlPath": "dead-island-2",
+    "genre": "Action RPG",
+    "developer": "Dambuster Studios",
+    "psStudios": false,
+    "release": "April 21, 2023",
+    "metacritic": 73,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Dead Rising Deluxe",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-deluxe-remaster",
