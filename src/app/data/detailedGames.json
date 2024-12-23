@@ -92,6 +92,20 @@
     "extraInfo": "Improved shadows (still not RT)"
   },
   {
+    "name": "Diablo IV",
+    "id": "Diablo 4",
+    "urlPath": "diablo-iv",
+    "genre": "Dungeon Crawler",
+    "developer": "Blizzard",
+    "psStudios": false,
+    "release": "June 2, 2023",
+    "metacritic": 86,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps"
+  },
+  {
     "name": "Dragon Age: The Veilguard",
     "id": "Dragon Age 4",
     "urlPath": "dragon-age-the-veilguard",
