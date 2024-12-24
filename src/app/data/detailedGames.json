@@ -263,6 +263,21 @@
     }
   },
   {
+    "name": "Madden NFL 25",
+    "id": "Madden 25",
+    "urlPath": "madden-25",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "psStudios": false,
+    "release": "August 16, 2024",
+    "metacritic": 70,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Combines the resolution, performance and visual quality modes seen in base PS5."
+  },
+  {
     "name": "Metal Gear Solid Delta: SE",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-solid-delta-snake-eater",
