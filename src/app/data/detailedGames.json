@@ -140,6 +140,21 @@
     "fps": "60fps"
   },
   {
+    "name": "EA College Football 25",
+    "id": "College Football 25",
+    "urlPath": "ea-college-football-25",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "psStudios": false,
+    "release": "July 19, 2024",
+    "metacritic": 83,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Combines the resolution, performance and visual quality modes seen in base PS5."
+  },
+  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",
