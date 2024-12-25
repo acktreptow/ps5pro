@@ -155,6 +155,21 @@
     "extraInfo": "Combines the resolution, performance and visual quality modes seen in base PS5."
   },
   {
+    "name": "EA Sports UFC 5",
+    "id": "UFC 5",
+    "urlPath": "ufc-25",
+    "genre": "Sports, MMA",
+    "developer": "EA Vancouver",
+    "psStudios": false,
+    "release": "October 27, 2023",
+    "metacritic": 78,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "KO replays now at 60fps instead of 30fps."
+  },
+  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",
