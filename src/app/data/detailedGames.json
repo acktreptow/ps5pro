@@ -48,6 +48,25 @@
     "fps": "60fps"
   },
   {
+    "name": "Black Myth: Wukong",
+    "id": "BM: Wukong",
+    "urlPath": "black-myth-wukong",
+    "genre": "Action RPG",
+    "developer": "Game Science",
+    "psStudios": false,
+    "release": "August 20, 2024",
+    "metacritic": 76,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k PSSR",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "1440p PSSR to 4K output at a very stable 30fps.",
+      "balanced": "1080p PSSR to 4K output at a very stable 40fps. Slightly worse shadows than fidelity mode.",
+      "performance": "1080p FS3 to 1440p output. Frame-gen used to hit a still unstable 60ps."
+    }
+  },
+  {
     "name": "Call of Duty: Black Ops 6",
     "id": "COD: BO6",
     "urlPath": "call-of-duty-black-ops-6",
