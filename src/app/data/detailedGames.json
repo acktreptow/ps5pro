@@ -332,6 +332,20 @@
     }
   },
   {
+    "name": "Lies of P",
+    "id": "LoP",
+    "urlPath": "lies-of-p",
+    "genre": "Soulsborne",
+    "developer": "Newowiz & Round8",
+    "psStudios": false,
+    "release": "September 19, 2023",
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps"
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "urlPath": "madden-25",
