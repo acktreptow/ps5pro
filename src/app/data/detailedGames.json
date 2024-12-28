@@ -361,6 +361,26 @@
     "extraInfo": "Combines the resolution, performance and visual quality modes seen in base PS5."
   },
   {
+    "name": "Marvel Rivals",
+    "id": "Marvel Rivals",
+    "urlPath": "marvel-rivals",
+    "genre": "TPS Hero Shooter",
+    "developer": "NetEase Games",
+    "psStudios": false,
+    "release": "December 6, 2024",
+    "metacritic": 77,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "UE5 Lumen Global Illumination & Lumen Reflections",
+    "resolution": "4K PSSR",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "4K PSSR at 60fps with Lumen Reflections & GI.",
+      "performance": "1440p at 120fps."
+    },
+    "extraInfo": "Base PS5 only has Lumen GI. Lumen Reflections are only on PS5 Pro."
+  },
+  {
     "name": "Metal Gear Solid Delta: SE",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-solid-delta-snake-eater",
