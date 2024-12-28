@@ -340,7 +340,7 @@
     "psStudios": false,
     "release": "September 19, 2023",
     "metacritic": 80,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
     "resolution": "4K PSSR (likely)",
     "fps": "60fps"
@@ -408,6 +408,20 @@
     "rtTypes": "Ray-traced reflections, shadows & VFX",
     "resolution": "4k PSSR",
     "fps": "60fps"
+  },
+  {
+    "name": "Redacted",
+    "id": "Redacted",
+    "urlPath": "redacted",
+    "genre": "Top-Down Roguelite",
+    "developer": "Striking Distance",
+    "psStudios": false,
+    "release": "October 28, 2024",
+    "metacritic": 74,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR",
+    "fps": "120fps"
   },
   {
     "name": "Resident Evil Village",
