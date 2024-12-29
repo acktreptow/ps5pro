@@ -654,5 +654,23 @@
       "fidelity": "4K 30fps",
       "performance": "4K (PSSR) 60fps"
     }
+  },
+  {
+    "name": "Warhammer 40K SM2",
+    "id": "Space Marine 2",
+    "urlPath": "warhammer-40k-space-marine-2",
+    "genre": "TPS, Hack & Slash",
+    "developer": "Saber Interactive",
+    "psStudios": false,
+    "release": "September 9, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "1080-1440p reconstructed to 4K PSSR at a locked 30fps.",
+      "performance": "1080-1440p reconstructed to 4K PSSR at mostly stable 60fps that can drop to around 50fps in more chaotic scenes."
+    }
   }
 ]
