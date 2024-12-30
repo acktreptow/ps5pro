@@ -81,6 +81,15 @@
     "metacritic": 96
   },
   {
+    "name": "Black Desert",
+    "id": "BD",
+    "genre": "MMORPG",
+    "developer": "Pearl Abyss",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Biped",
     "id": "Biped",
     "genre": "Adventure",
