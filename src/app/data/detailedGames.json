@@ -19,6 +19,20 @@
     }
   },
   {
+    "name": "Apex Legends",
+    "id": "Apex",
+    "urlPath": "apex-legends",
+    "genre": "FPS Hero Battle Royale",
+    "developer": "Respawn",
+    "psStudios": false,
+    "release": "March 29, 2022",
+    "metacritic": 89,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4k PSSR (likely)",
+    "fps": "120fps"
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC Mirage",
     "urlPath": "assassins-creed-mirage",
