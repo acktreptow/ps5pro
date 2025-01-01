@@ -90,6 +90,15 @@
     "metacritic": 0
   },
   {
+    "name": "Borderlands 4",
+    "id": "Borderlands 4",
+    "genre": "Looter Shooter",
+    "developer": "Gearbox Software",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Clair Obscur: Expedition 33",
     "id": "CO: E33",
     "genre": "JRPG",
