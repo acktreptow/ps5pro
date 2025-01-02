@@ -135,21 +135,30 @@
     "metacritic": 0
   },
   {
-    "name": "Dwarf Journey",
-    "id": "Dwarf Journey",
-    "genre": "Action-Adventure",
-    "developer": "Orube Game Studio",
-    "psStudios": false,
-    "release": "TBA",
-    "metacritic": 0
-  },
-  {
     "name": "Death Stranding 2: On The Beach",
     "id": "DS2: OtB",
     "genre": "Action Strand",
     "developer": "Kojima Productions",
     "psStudios": true,
     "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Doom: The Dark Ages",
+    "id": "Doom: TDA",
+    "genre": "First-Person Shooter",
+    "developer": "id Software",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Dwarf Journey",
+    "id": "Dwarf Journey",
+    "genre": "Action-Adventure",
+    "developer": "Orube Game Studio",
+    "psStudios": false,
+    "release": "TBA",
     "metacritic": 0
   },
   {
