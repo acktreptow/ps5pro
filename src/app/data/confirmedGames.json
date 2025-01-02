@@ -144,6 +144,15 @@
     "metacritic": 0
   },
   {
+    "name": "Death Stranding 2: On The Beach",
+    "id": "DS2: OtB",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "psStudios": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Dying Light 2: SH",
     "id": "DY2",
     "genre": "Horror, Action RPG",
