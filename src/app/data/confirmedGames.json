@@ -288,6 +288,15 @@
     "metacritic": 0
   },
   {
+    "name": "Ghost of Yōtei",
+    "id": "GoY",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "psStudios": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "God of War: Ragnarök",
     "id": "GOW:R",
     "genre": "Action RPG",
