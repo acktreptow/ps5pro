@@ -306,6 +306,15 @@
     "metacritic": 94
   },
   {
+    "name": "Grand Theft Auto 6",
+    "id": "GTA 6",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Helldivers 2",
     "id": "Helldivers 2",
     "genre": "Co-op PvE TPS",
