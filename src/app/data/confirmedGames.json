@@ -351,6 +351,15 @@
     "metacritic": 67
   },
   {
+    "name": "Indiana Jones and the Great Circle",
+    "id": "IJ: GC",
+    "genre": "Action-Adventure",
+    "developer": "MachineGames",
+    "psStudios": false,
+    "release": "Spring, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "genre": "Simulation Driving, Racing",
