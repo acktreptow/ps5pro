@@ -414,6 +414,15 @@
     "metacritic": 0
   },
   {
+    "name": "Mafia: The Old Country",
+    "id": "Mafia: TOC",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "psStudios": false,
+    "release": "Summer, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "MechWarrior 5: Clans",
     "id": "MW5: Clans",
     "genre": "Mech Shooter",
