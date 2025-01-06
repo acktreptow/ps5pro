@@ -423,6 +423,15 @@
     "metacritic": 0
   },
   {
+    "name": "Marvel 1943: Rise of Hydra",
+    "id": "Marvel 1943",
+    "genre": "Action-Adventure",
+    "developer": "Skydance New Media",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "MechWarrior 5: Clans",
     "id": "MW5: Clans",
     "genre": "Mech Shooter",
