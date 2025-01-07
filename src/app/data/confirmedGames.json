@@ -756,6 +756,15 @@
     "metacritic": 0
   },
   {
+    "name": "The Dark Pictures Anthology: Directive 8020",
+    "id": "TDPA: D-8020",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Supermassive Games",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "The Finals",
     "id": "The Finals",
     "genre": "Multiplayer FPS",
