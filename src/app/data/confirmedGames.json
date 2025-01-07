@@ -747,6 +747,15 @@
     "metacritic": 52
   },
   {
+    "name": "The Alters",
+    "id": "The Alters",
+    "genre": "Survival, Action-Adventure",
+    "developer": "11 Bit Studios",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "The Finals",
     "id": "The Finals",
     "genre": "Multiplayer FPS",
