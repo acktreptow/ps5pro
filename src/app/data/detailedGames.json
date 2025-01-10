@@ -280,6 +280,26 @@
     }
   },
   {
+    "name": "Fortnite",
+    "id": "Fortnite",
+    "urlPath": "fortnite",
+    "genre": "TPS Battle Royale",
+    "developer": "Epic Games",
+    "psStudios": false,
+    "release": "November 12, 2020",
+    "metacritic": 80,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Hardware-based RT reflections, shadows & global illumination",
+    "resolution": "4K TSR",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "1350p TSR to 4K output at 60fps with hardware-based RT reflections, shadows & global illumination .",
+      "performance": "Software-based Lumen RT at 120fps."
+    },
+    "extraInfo": "Performance mode practically identical to base PS5. Fidelity mode has better RT implementation due to being hardware-based."
+  },
+  {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
     "urlPath": "final-fantasy-7-rebirth",
