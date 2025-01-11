@@ -108,21 +108,21 @@
     "metacritic": 0
   },
   {
-    "name": "Clair Obscur: Expedition 33",
-    "id": "CO: E33",
-    "genre": "JRPG",
-    "developer": "Sandfall Interactive",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Strategy",
     "developer": "Firaxis Games",
     "psStudios": false,
     "release": "February 11, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "CO: Expedition 33",
+    "id": "CO: E33",
+    "genre": "JRPG",
+    "developer": "Sandfall Interactive",
+    "psStudios": false,
+    "release": "2025",
     "metacritic": 0
   },
   {
@@ -144,7 +144,7 @@
     "metacritic": 0
   },
   {
-    "name": "Death Stranding 2: On The Beach",
+    "name": "Death Stranding 2: OTB",
     "id": "DS2: OtB",
     "genre": "Action Strand",
     "developer": "Kojima Productions",
