@@ -747,6 +747,15 @@
     "metacritic": 0
   },
   {
+    "name": "Talos Principle Remaster",
+    "id": "TTP: Reawakened",
+    "genre": "Puzzle",
+    "developer": "Croteam",
+    "psStudios": false,
+    "release": "Early 2025",
+    "metacritic": 0
+  },
+  {
     "name": "TDPA: Directive 8020",
     "id": "TDPA: D-8020",
     "genre": "Horror, Interactive Drama",
@@ -798,15 +807,6 @@
     "developer": "Frogwares",
     "psStudios": false,
     "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "The Talos Principle: Reawakened",
-    "id": "TTP: Reawakened",
-    "genre": "Puzzle",
-    "developer": "Croteam",
-    "psStudios": false,
-    "release": "Early 2025",
     "metacritic": 0
   },
   {
