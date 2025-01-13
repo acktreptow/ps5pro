@@ -9,6 +9,15 @@
     "metacritic": 82
   },
   {
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "genre": "Platformer",
+    "developer": "Team Asobi",
+    "psStudios": true,
+    "release": "September 6, 2024",
+    "metacritic": 94
+  },
+  {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
     "genre": "FPS Action RPG",
@@ -70,15 +79,6 @@
     "psStudios": false,
     "release": "January 25, 2024",
     "metacritic": 90
-  },
-  {
-    "name": "Astro Bot",
-    "id": "Astro Bot",
-    "genre": "Platformer",
-    "developer": "Team Asobi",
-    "psStudios": true,
-    "release": "September 6, 2024",
-    "metacritic": 94
   },
   {
     "name": "Life is Strange: Double Exposure",
