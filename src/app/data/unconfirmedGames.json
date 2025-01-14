@@ -63,6 +63,15 @@
     "metacritic": 83
   },
   {
+    "name": "NHL 25",
+    "id": "NHL 25",
+    "genre": "Sports, Ice Hockey",
+    "developer": "EA Vancouver",
+    "psStudios": false,
+    "release": "October 4, 2024",
+    "metacritic": 67
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "TPS Roguelike",
@@ -88,14 +97,5 @@
     "psStudios": false,
     "release": "October 29, 2024",
     "metacritic": 0
-  },
-  {
-    "name": "NHL 25",
-    "id": "NHL 25",
-    "genre": "Sports, Ice Hockey",
-    "developer": "EA Vancouver",
-    "psStudios": false,
-    "release": "October 4, 2024",
-    "metacritic": 67
   }
 ]
