@@ -54,6 +54,15 @@
     "metacritic": 70
   },
   {
+    "name": "Life is Strange: Double Exposure",
+    "id": "LiS: DE",
+    "genre": "Adventure Interactive Drama",
+    "developer": "Deck Nine",
+    "psStudios": false,
+    "release": "October 29, 2024",
+    "metacritic": 73
+  },
+  {
     "name": "Mortal Kombat 1",
     "id": "MK1",
     "genre": "Fighting",
@@ -88,14 +97,5 @@
     "psStudios": false,
     "release": "January 25, 2024",
     "metacritic": 90
-  },
-  {
-    "name": "Life is Strange: Double Exposure",
-    "id": "LiS: DE",
-    "genre": "Adventure Interactive Drama",
-    "developer": "Deck Nine",
-    "psStudios": false,
-    "release": "October 29, 2024",
-    "metacritic": 0
   }
 ]
