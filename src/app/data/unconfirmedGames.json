@@ -90,6 +90,15 @@
     "metacritic": 86
   },
   {
+    "name": "Still Wakes the Deep",
+    "id": "SWtD",
+    "genre": "Psychological Horror",
+    "developer": "The Chinese Room",
+    "psStudios": false,
+    "release": "June 18, 2024",
+    "metacritic": 74
+  },
+  {
     "name": "Tekken 8",
     "id": "Tekken 8",
     "genre": "Fighting",
