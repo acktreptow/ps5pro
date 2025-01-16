@@ -27,6 +27,15 @@
     "metacritic": 75
   },
   {
+    "name": "Dead Space",
+    "id": "DS",
+    "genre": "Survival Horror",
+    "developer": "EA Motive",
+    "psStudios": false,
+    "release": "January 27, 2023",
+    "metacritic": 89
+  },
+  {
     "name": "Final Fantasy 16",
     "id": "FF16",
     "genre": "Action JRPG",
