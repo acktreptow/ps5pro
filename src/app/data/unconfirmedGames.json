@@ -18,6 +18,15 @@
     "metacritic": 67
   },
   {
+    "name": "Alone in the Dark",
+    "id": "AitD",
+    "genre": "Survival Horror",
+    "developer": "Pieces Interactive",
+    "psStudios": false,
+    "release": "March 20, 2024",
+    "metacritic": 63
+  },
+  {
     "name": "Astro Bot",
     "id": "Astro Bot",
     "genre": "Platformer",
