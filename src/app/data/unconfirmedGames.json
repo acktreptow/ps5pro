@@ -9,6 +9,15 @@
     "metacritic": 82
   },
   {
+    "name": "A Quiet Place: TRA",
+    "id": "A Quiet Place",
+    "genre": "Survival Horror",
+    "developer": "Stormind Games",
+    "psStudios": false,
+    "release": "October 17, 2024",
+    "metacritic": 67
+  },
+  {
     "name": "Astro Bot",
     "id": "Astro Bot",
     "genre": "Platformer",
@@ -34,6 +43,15 @@
     "psStudios": false,
     "release": "January 27, 2023",
     "metacritic": 89
+  },
+  {
+    "name": "Elden Ring",
+    "id": "ER",
+    "genre": "Soulksborne",
+    "developer": "FromSoftware",
+    "psStudios": false,
+    "release": "February 25, 2022",
+    "metacritic": 96
   },
   {
     "name": "Final Fantasy 16",
