@@ -54,6 +54,15 @@
     "metacritic": 89
   },
   {
+    "name": "Destiny 2",
+    "id": "D2",
+    "genre": "MMO FPS",
+    "developer": "Bungie",
+    "psStudios": true,
+    "release": "December 8, 2020",
+    "metacritic": 85
+  },
+  {
     "name": "Elden Ring",
     "id": "ER",
     "genre": "Soulksborne",
