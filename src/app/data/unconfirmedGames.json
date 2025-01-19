@@ -74,7 +74,7 @@
   {
     "name": "Elden Ring",
     "id": "ER",
-    "genre": "Soulksborne",
+    "genre": "Soulsborne",
     "developer": "FromSoftware",
     "psStudios": false,
     "release": "February 25, 2022",
@@ -88,6 +88,15 @@
     "psStudios": false,
     "release": "June 22, 2023",
     "metacritic": 87
+  },
+  {
+    "name": "Helldivers 2",
+    "id": "H2",
+    "genre": "Online Co-Op Shooter",
+    "developer": "Arrowhead",
+    "psStudios": true,
+    "release": "February 8, 2024",
+    "metacritic": 82
   },
   {
     "name": "Immortals of Aveum",
