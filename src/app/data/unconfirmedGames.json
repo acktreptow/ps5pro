@@ -36,6 +36,15 @@
     "metacritic": 94
   },
   {
+    "name": "Control Ultimate Edition",
+    "id": "Control UE",
+    "genre": "Action-Adventure",
+    "developer": "Remedy Entertainment",
+    "psStudios": false,
+    "release": "February 2, 2021",
+    "metacritic": 85
+  },
+  {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
     "genre": "FPS Action RPG",
