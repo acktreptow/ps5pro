@@ -63,6 +63,15 @@
     "metacritic": 85
   },
   {
+    "name": "DOOM Eternal",
+    "id": "Doom: E",
+    "genre": "First-Person Shooter",
+    "developer": "id Software",
+    "psStudios": false,
+    "release": "June 29, 2021",
+    "metacritic": 87
+  },
+  {
     "name": "Elden Ring",
     "id": "ER",
     "genre": "Soulksborne",
