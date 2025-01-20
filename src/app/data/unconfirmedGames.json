@@ -108,6 +108,15 @@
     "metacritic": 87
   },
   {
+    "name": "Grand Theft Auto 5",
+    "id": "GTA 5",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "psStudios": false,
+    "release": "March 15, 2022",
+    "metacritic": 81
+  },
+  {
     "name": "Helldivers 2",
     "id": "H2",
     "genre": "Online Co-Op Shooter",
