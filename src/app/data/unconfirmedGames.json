@@ -18,6 +18,15 @@
     "metacritic": 67
   },
   {
+    "name": "Alien: Rogue Incursion",
+    "id": "A: RI",
+    "genre": "Survival Horror",
+    "developer": "Survios",
+    "psStudios": false,
+    "release": "December 19, 2024",
+    "metacritic": 75
+  },
+  {
     "name": "Alone in the Dark",
     "id": "AitD",
     "genre": "Survival Horror",
