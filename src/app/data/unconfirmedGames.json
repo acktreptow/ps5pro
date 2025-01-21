@@ -108,6 +108,15 @@
     "metacritic": 87
   },
   {
+    "name": "Ghost of Tsushima: DC",
+    "id": "GoT",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "psStudios": true,
+    "release": "August 20, 2021",
+    "metacritic": 87
+  },
+  {
     "name": "Grand Theft Auto 5",
     "id": "GTA 5",
     "genre": "Action-Adventure",
