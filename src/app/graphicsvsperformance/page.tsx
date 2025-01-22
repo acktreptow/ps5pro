@@ -20,8 +20,8 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         </h2>
         <p className="mb-4">
           As was always going to be the case, there are PS5 Pro enhanced games
-          like Alan Wake 2, and even first-party titles like Horizon 1 & 2, that
-          still offer both fidelity and performance modes. This begs the
+          like Alan Wake 2, and even first-party titles like Spider-Man, that
+          still offer fidelity and performance modes. This begs the
           question - which mode should you choose?
         </p>
         <p className="mb-4">
