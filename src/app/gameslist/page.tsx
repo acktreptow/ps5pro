@@ -106,7 +106,7 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         Games With Details
       </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-2 lg:text-xl lg:gap-5">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2  lg:text-xl lg:gap-5">
         {detailedGames.map((game) => (
           <div
             className="pt-6 pb-10 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
