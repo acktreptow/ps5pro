@@ -45,7 +45,7 @@ const GamesPage = async ({ params }: PageProps) => {
 
   return (
     <div className="container mx-auto flex-grow text-slate-800">
-      <h1 className="text-center text-4xl font-extrabold mt-8 mb-12 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+      <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         {game.name}
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
@@ -96,7 +96,7 @@ const GamesPage = async ({ params }: PageProps) => {
           </p>
         </div>
         {game.modes && (
-          <div>
+          <div className="mb-12">
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Modes
             </h2>
@@ -108,6 +108,14 @@ const GamesPage = async ({ params }: PageProps) => {
               <span className="font-semibold">Performance:</span>{" "}
               {game.modes.performance}
             </p>
+          </div>
+        )}
+        {game.extraInfo && (
+          <div>
+            <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
+              Extra Information
+            </h2>
+            <p className="text-lg">{game.extraInfo}</p>
           </div>
         )}
       </div>
