@@ -40,8 +40,8 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           60fps?
         </p>
         <p className="mb-12">
-          It&#39;s all about context! And these factors will help you make a more
-          informed choice on the mode to pick for each game.
+          It&#39;s all about context! And these factors will help you make a
+          more informed choice on the mode to pick for each game.
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
@@ -49,12 +49,12 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
               Game factors
             </h3>
             <ul className="list-disc mb-8 ml-4 space-y-1 lg:ml-4">
-              <li>Is the game in first or third-person?</li>
-              <li>What genre is the game?</li>
               <li>Does the game emphasize story or gameplay?</li>
               <li>Does the game emphasize its graphics?</li>
               <li>Is it mainly a singleplayer or multiplayer game?</li>
               <li>How fast is the gameplay?</li>
+              <li>Is the game in first or third-person?</li>
+              <li>What genre is the game?</li>
               <li>What art style does the game have?</li>
               <li>Is the game a remake or remaster?</li>
             </ul>
