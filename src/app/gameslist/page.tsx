@@ -106,7 +106,7 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         Games With Details
       </h2>
-      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2  lg:text-xl lg:gap-5">
+      <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2  lg:text-xl">
         {detailedGames.map((game) => (
           <div
             className="pt-6 pb-10 px-4 bg-slate-100 border-2 rounded shadow-md lg:px-2"
@@ -130,7 +130,7 @@ const GamesListPage = async () => {
             </p>
             <Link
               href={`/games/${game.urlPath}`}
-              className="bg-gradient-to-b from-blue-700 to-playstation p-4 rounded-md text-slate-100 font-semibold"
+              className="bg-gradient-to-b from-blue-700 to-playstation p-4 rounded-md text-slate-100 font-semibold hover:from-blue-600 hover:to-playstation hover:text-white"
             >
               Review Enhancements
             </Link>
