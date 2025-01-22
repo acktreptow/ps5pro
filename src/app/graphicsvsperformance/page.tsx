@@ -21,16 +21,16 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
         <p className="mb-4">
           As was always going to be the case, there are PS5 Pro enhanced games
           like Alan Wake 2, and even first-party titles like Spider-Man, that
-          still offer fidelity and performance modes. This begs the
-          question - which mode should you choose?
+          still offer fidelity and performance modes. This begs the question -
+          which mode should you choose?
         </p>
         <p className="mb-4">
-          Some gamers swear by 60fps performance modes because 30fps is
-          apparently unplayable, whereas others claim they can&#39;t see any
-          difference between 30fps and 60fps, so will always choose fidelity
-          mode. They&#39;re both wrong, because the correct answer is when
-          choosing between fidelity and performance, it depends entirely on that
-          specific game and individual player.
+          Some gamers swear by performance modes as 30fps is
+          apparently unplayable. Others claim they can&#39;t see a difference
+          between 30fps and 60fps, so will always choose fidelity.
+          They&#39;re both wrong. The correct answer is when choosing between
+          fidelity and performance, it depends entirely on that specific game
+          and individual player.
         </p>
         <p className="mb-4">
           To prove it, here are 50+ factors to consider before settling on a
