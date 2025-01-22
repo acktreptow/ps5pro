@@ -129,7 +129,7 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
             </h3>
             <ul className="list-disc ml-4 space-y-1 lg:ml-12">
               <li>Can you feel a big gap between 30fps & 60fps?</li>
-              <li>Can you feel a big gap between resolutions?</li>
+              <li>Can you see a big gap between resolutions?</li>
               <li>What&#39;s your skill level in singleplayer games?</li>
               <li>Need extra frames to compete in multiplayer?</li>
               <li>Do you use photo mode a lot?</li>
