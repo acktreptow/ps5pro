@@ -25,24 +25,23 @@ const GraphicsvsPerformancePage = (): JSX.Element => {
           which mode should you choose?
         </p>
         <p className="mb-4">
-          Some gamers swear by performance modes as 30fps is
-          apparently unplayable. Others claim they can&#39;t see a difference
-          between 30fps and 60fps, so will always choose fidelity.
-          They&#39;re both wrong. The correct answer is when choosing between
-          fidelity and performance, it depends entirely on that specific game
-          and individual player.
+          Some gamers swear by performance modes as 30fps is apparently
+          unplayable. Others claim they can&#39;t see a difference between 30fps
+          and 60fps, so will always choose fidelity. They&#39;re both wrong. The
+          correct answer is when choosing between fidelity and performance, it
+          depends entirely on that specific game and individual player.
         </p>
         <p className="mb-4">
-          To prove it, here are 50+ factors to consider before settling on a
+          To prove it, here&#39;s 50+ factors to consider before settling on a
           mode. After all, what&#39;s the point in choosing fidelity mode in a
-          cinematic game like The Last of Us if it&#39;s being played in a
-          brightly lit room on a small 1080p monitor? Why bother with a
-          performance mode in a slow-paced game that drops resolution below
-          1080p to achieve 60fps?
+          cinematic game like The Last of Us if it&#39;s played in a brightly
+          lit room on a small 1080p LCD monitor? Why prioritize a performance
+          mode in a slow-paced game that drops to sub-HD resolutions to achieve
+          60fps?
         </p>
         <p className="mb-12">
-          It&#39;s all about context! So hopefully these factors help you make a
-          more informed decision on which mode to choose for each game.
+          It&#39;s all about context! And these factors will help you make a more
+          informed choice on the mode to pick for each game.
         </p>
         <div className="flex flex-col lg:flex-row">
           <div className="lg:w-1/2">
