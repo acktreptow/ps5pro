@@ -102,10 +102,10 @@ const AboutPage = (): JSX.Element => {
           upgrades entail keeps the industry accountable.
         </p>
         <p className="mb-12">
-          By separating studios who enhance their games from the ones who don&#39;t,
-          or do so poorly, the resulting transparency encourages publishers to
-          invest time and resources to be part of the former. Thereby enhancing
-          the PS5 Pro ecosystem.
+          By separating studios who enhance their games from the ones who
+          don&#39;t, or do so poorly, the resulting transparency encourages
+          publishers to invest time and resources to be part of the former.
+          Thereby enhancing the PS5 Pro ecosystem.
         </p>
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           5. Centralized Information Hub
@@ -118,9 +118,9 @@ const AboutPage = (): JSX.Element => {
           reliable data.
         </p>
         <p>
-          The site also features search filters, allowing users to easily find
-          games that meet preferred criteria. E.g. games with 60fps or RT
-          support.
+          The site will also soon feature search filters, allowing users to
+          easily find games that meet preferred criteria. For example, games
+          that can run at 120fps, or games with RT implementation etc.
         </p>
       </div>
     </div>
