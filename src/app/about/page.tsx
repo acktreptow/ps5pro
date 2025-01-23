@@ -74,10 +74,10 @@ const AboutPage = (): JSX.Element => {
           example, some prioritize 60fps over higher resolutions, or vice versa.
           As this site outlines Pro upgrades for each PS5 title, it helps
           consumers make educated decisions about whether a game is worth buying
-          for their Pro hardware. Or if a favorite is worth revisiting.
+          for their Pro hardware. Or if an old favorite is worth revisiting.
         </p>
         <p className="mb-12">
-          As new games release and older titles are patched with Pro support, a
+          As games release and older titles are patched with Pro support, a
           central hub of info also helps consumers track changes on a macro
           level and decide if they want to invest in the console itself.
         </p>
@@ -85,7 +85,7 @@ const AboutPage = (): JSX.Element => {
           3. Improved Game Discovery
         </h3>
         <p className="mb-4">
-          Not every gamer deeply follows news about patches and hardware
+          Not every gamer deeply follows news about patches and game
           optimizations, thus being unaware of which PS5 games receive Pro
           upgrades. By detailing these enhancements, this site makes it far
           easier for them to discover what games fully utilize the PS5 Pro.
