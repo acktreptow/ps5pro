@@ -108,6 +108,15 @@
     "metacritic": 0
   },
   {
+    "name": "Carmen Sandiego",
+    "id": "CS",
+    "genre": "Adventure",
+    "developer": "Gameloft",
+    "psStudios": false,
+    "release": "March 4, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Strategy",
