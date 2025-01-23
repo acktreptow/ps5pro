@@ -13,7 +13,7 @@ const AboutPage = (): JSX.Element => {
         About
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
-        <h2 className="text-center text-2xl font-extrabold my-4 md:text-start md:mt-0 lg:text-3xl lg:mb-6">
+        <h2 className="text-center text-2xl font-extrabold my-4 md:text-start md:mt-0 lg:text-3xl">
           Why This Website Exists
         </h2>
         <p className="mb-4">
@@ -27,7 +27,7 @@ const AboutPage = (): JSX.Element => {
           A dedicated website that details all the PS5 Pro upgrades for each
           game is therefore an invaluable resource for this market.
         </p>
-        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           1. Clarification of Enhancements
         </h3>
         <p className="mb-4">
@@ -66,7 +66,7 @@ const AboutPage = (): JSX.Element => {
           They therefore deserve to know exactly how games perform on their
           hardware.
         </p>
-        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           2. Consumer Education and Purchasing Decisions
         </h3>
         <p className="mb-4">
@@ -81,7 +81,7 @@ const AboutPage = (): JSX.Element => {
           central hub of info also helps consumers track changes on a macro
           level and decide if they want to invest in the console itself.
         </p>
-        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           3. Improved Game Discovery
         </h3>
         <p className="mb-4">
@@ -94,7 +94,7 @@ const AboutPage = (): JSX.Element => {
           This helps boosts interest in titles that flew under the radar and
           drives renewed enthusiasm for older games that are now Pro enhanced.
         </p>
-        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           4. Keep The Industry Accountable
         </h3>
         <p className="mb-4">
@@ -107,7 +107,7 @@ const AboutPage = (): JSX.Element => {
           publishers to invest the time and resources needed to properly
           optimize games. Thereby enhancing the PS5 Pro ecosystem.
         </p>
-        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-1">
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           5. Centralized Information Hub
         </h3>
         <p className="mb-4">
