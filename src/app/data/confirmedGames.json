@@ -594,6 +594,15 @@
     "metacritic": 0
   },
   {
+    "name": "Phantom Blade Zero",
+    "id": "PBZ",
+    "genre": "Soulsborne",
+    "developer": "S-GAME",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "genre": "Simulation, City Builder",
