@@ -95,17 +95,17 @@ const AboutPage = (): JSX.Element => {
           drives renewed enthusiasm for older games that are now Pro enhanced.
         </p>
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
-          4. Keep The Industry Accountable
+          4. Keep the Industry Accountable
         </h3>
         <p className="mb-4">
-          Having a public record of which games receive PS5 Pro upgrades and
-          what those upgrades entail keeps the industry accountable.
+          A public record of which games receive PS5 Pro upgrades and what the
+          upgrades entail keeps the industry accountable.
         </p>
         <p className="mb-12">
-          By separating studios who get to enhance their games from the ones who
-          don&#39;t, or do so poorly, the resulting transparency encourages
-          publishers to invest the time and resources needed to properly
-          optimize games. Thereby enhancing the PS5 Pro ecosystem.
+          By separating studios who enhance their games from the ones who don&#39;t,
+          or do so poorly, the resulting transparency encourages publishers to
+          invest time and resources to be part of the former. Thereby enhancing
+          the PS5 Pro ecosystem.
         </p>
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           5. Centralized Information Hub
