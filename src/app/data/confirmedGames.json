@@ -540,6 +540,15 @@
     "metacritic": 82
   },
   {
+    "name": "Ninja Gaiden 4",
+    "id": "NG4",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja",
+    "psStudios": false,
+    "release": "Late 2025",
+    "metacritic": 0
+  },
+  {
     "name": "No Man's Sky",
     "id": "NMS",
     "genre": "Action-Adventure, Survival",
