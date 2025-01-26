@@ -4,7 +4,7 @@ export const Footer = (): JSX.Element => {
       <p>
         PS5 Pro Enhanced Games <span className="hidden sm:inline">•</span>{" "}
         <span className="block sm:inline">
-          © 2024 Alex Treptow • All Rights Reserved
+          © 2025 Alex Treptow • All Rights Reserved
         </span>
       </p>
     </footer>
