@@ -290,7 +290,7 @@
   {
     "name": "God of War: Ragnarök",
     "id": "GOW:R",
-    "genre": "Action RPG",
+    "genre": "Action-Adventure",
     "developer": "Sony Santa Monica",
     "psStudios": true,
     "release": "November 9, 2022",
@@ -335,20 +335,11 @@
   {
     "name": "Hunting Simulator 3",
     "id": "HS 3",
-    "genre": "Shooter",
+    "genre": "Simulation, Shooter",
     "developer": "Nacon Studio Ghent",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
-  },
-  {
-    "name": "Isonzo",
-    "id": "Isonzo",
-    "genre": "Multiplayer FPS",
-    "developer": "BlackMill Games",
-    "psStudios": false,
-    "release": "November 22, 2024",
-    "metacritic": 67
   },
   {
     "name": "Indiana Jones: GC",
@@ -358,6 +349,15 @@
     "psStudios": false,
     "release": "Spring, 2025",
     "metacritic": 0
+  },
+  {
+    "name": "Isonzo",
+    "id": "Isonzo",
+    "genre": "Multiplayer FPS",
+    "developer": "BlackMill Games",
+    "psStudios": false,
+    "release": "September 20, 2022",
+    "metacritic": 67
   },
   {
     "name": "Kayak VR: Mirage",
