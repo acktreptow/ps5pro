@@ -632,20 +632,11 @@
   {
     "name": "Rogue Flight",
     "id": "Rogue Flight",
-    "genre": "Survival Horror",
+    "genre": "Space Combat",
     "developer": "Truant Pixel",
     "psStudios": false,
-    "release": "October 24, 2024",
+    "release": "October 25, 2024",
     "metacritic": 76
-  },
-  {
-    "name": "Sanguis Luna",
-    "id": "Sanguis Luna",
-    "genre": "Horror",
-    "developer": "Domynyo",
-    "psStudios": false,
-    "release": "October 31, 2024",
-    "metacritic": 0
   },
   {
     "name": "Shredders",
@@ -654,7 +645,7 @@
     "developer": "FoamPunch",
     "psStudios": false,
     "release": "December 6, 2022",
-    "metacritic": 66
+    "metacritic": 0
   },
   {
     "name": "Slitterhead",
