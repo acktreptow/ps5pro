@@ -443,10 +443,19 @@
   {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
-    "genre": "Third-Person Shooter",
+    "genre": "FPS Horror Visual Novel",
     "developer": "Dark Ocean Games",
     "psStudios": false,
-    "release": "September 29, 2023",
+    "release": "TBC",
+    "metacritic": 0
+  },
+  {
+    "name": "Monster E Supercross 25",
+    "id": "MES 25",
+    "genre": "Sports, Supercross Racing",
+    "developer": "Milestone",
+    "psStudios": false,
+    "release": "2025",
     "metacritic": 0
   },
   {
@@ -455,16 +464,7 @@
     "genre": "Action RPG",
     "developer": "Capcom",
     "psStudios": false,
-    "release": "February 27, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Monster Energy Supercross 25",
-    "id": "MES 25",
-    "genre": "Sports, Racing",
-    "developer": "Milestone",
-    "psStudios": false,
-    "release": "2025",
+    "release": "February 28, 2025",
     "metacritic": 0
   },
   {
