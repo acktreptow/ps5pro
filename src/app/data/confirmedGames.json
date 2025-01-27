@@ -146,7 +146,7 @@
   {
     "name": "CyubeVR",
     "id": "CyubeVR",
-    "genre": "Adventure",
+    "genre": "VR Adventure",
     "developer": "Stonebrick Studios",
     "psStudios": false,
     "release": "March 16, 2024",
@@ -177,15 +177,6 @@
     "developer": "Funcom",
     "psStudios": false,
     "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Dwarf Journey",
-    "id": "Dwarf Journey",
-    "genre": "Action-Adventure",
-    "developer": "Orube Game Studio",
-    "psStudios": false,
-    "release": "TBA",
     "metacritic": 0
   },
   {
