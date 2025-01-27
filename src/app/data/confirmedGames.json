@@ -200,11 +200,11 @@
   {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
-    "genre": "Musou",
+    "genre": "Musou Hack & Slash",
     "developer": "Omega Force",
     "psStudios": false,
     "release": "January 17, 2025",
-    "metacritic": 0
+    "metacritic": 79
   },
   {
     "name": "Elden Ring Nightreign",
@@ -218,7 +218,7 @@
   {
     "name": "Elemental War Clash",
     "id": "EWC",
-    "genre": "Strategy",
+    "genre": "Strategy, Tower Defense",
     "developer": "Clockwork Origins",
     "psStudios": false,
     "release": "2025",
