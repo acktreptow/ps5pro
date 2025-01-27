@@ -110,7 +110,7 @@
   {
     "name": "Carmen Sandiego",
     "id": "CS",
-    "genre": "Adventure",
+    "genre": "Puzzle Adventure",
     "developer": "Gameloft",
     "psStudios": false,
     "release": "March 4, 2025",
@@ -119,14 +119,14 @@
   {
     "name": "Civilization 7",
     "id": "Civ 7",
-    "genre": "4X Strategy",
+    "genre": "4X Turn-based Strategy",
     "developer": "Firaxis Games",
     "psStudios": false,
     "release": "February 11, 2025",
     "metacritic": 0
   },
   {
-    "name": "CO: Expedition 33",
+    "name": "Clair O: Expedition 33",
     "id": "CO: E33",
     "genre": "JRPG",
     "developer": "Sandfall Interactive",
@@ -140,7 +140,7 @@
     "genre": "Action-Adventure",
     "developer": "Pearl Abyss",
     "psStudios": false,
-    "release": "2025",
+    "release": "Late 2025",
     "metacritic": 0
   },
   {
