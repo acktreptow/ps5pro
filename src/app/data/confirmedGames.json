@@ -657,21 +657,21 @@
     "metacritic": 62
   },
   {
-    "name": "Smells Like a Mushroom",
-    "id": "SLaM",
-    "genre": "Arcade 3D Platformer",
-    "developer": "Red Limb Studio",
-    "psStudios": false,
-    "release": "November 15, 2024",
-    "metacritic": 0
-  },
-  {
     "name": "Sniper Elite: Resistance",
     "id": "SE: Resistance",
     "genre": "Third-Person Shooter",
     "developer": "Rebellion",
     "psStudios": false,
     "release": "January 30, 2025",
+    "metacritic": 76
+  },
+  {
+    "name": "Spine - This is Gun Fu",
+    "id": "SPINE",
+    "genre": "Action Beat 'em Up",
+    "developer": "Nekki",
+    "psStudios": false,
+    "release": "TBA",
     "metacritic": 0
   },
   {
@@ -681,15 +681,6 @@
     "developer": "Hazelight Studios",
     "psStudios": false,
     "release": "March 6, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Spine - This is Gun Fu",
-    "id": "SPINE",
-    "genre": "Action Beat 'em Up",
-    "developer": "Nekki",
-    "psStudios": false,
-    "release": "TBA",
     "metacritic": 0
   },
   {
