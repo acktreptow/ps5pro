@@ -524,7 +524,7 @@
   {
     "name": "Oniriam",
     "id": "Oniriam",
-    "genre": "Puzzle Adventure",
+    "genre": "VR Puzzle Adventure",
     "developer": "My World",
     "psStudios": false,
     "release": "November 22, 2024",
@@ -533,10 +533,10 @@
   {
     "name": "Outbreak: SoHCS",
     "id": "Outbreak",
-    "genre": "Survival Horror",
+    "genre": "Survival Action Horror",
     "developer": "Dead Drop Studios",
     "psStudios": false,
-    "release": "TBA",
+    "release": "November 28, 2024",
     "metacritic": 0
   },
   {
@@ -561,15 +561,15 @@
     "name": "Party Animals",
     "id": "Party Animals",
     "genre": "MP Party Brawler",
-    "developer": "Source Technology",
+    "developer": "Recreate Games",
     "psStudios": false,
-    "release": "TBA",
+    "release": "January 23, 2025",
     "metacritic": 0
   },
   {
     "name": "Path of Exile 2",
     "id": "PoE 2",
-    "genre": "Action RPG",
+    "genre": "Top-Down Action RPG",
     "developer": "Grinding Gear",
     "psStudios": false,
     "release": "December 6, 2024",
