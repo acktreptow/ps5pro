@@ -677,7 +677,7 @@
   {
     "name": "Split Fiction",
     "id": "SF",
-    "genre": "Co-op Adventure",
+    "genre": "Co-Op Adventure",
     "developer": "Hazelight Studios",
     "psStudios": false,
     "release": "March 6, 2025",
@@ -686,8 +686,8 @@
   {
     "name": "Starship Troopers: E",
     "id": "ST: Extermination",
-    "genre": "Co-op FPS",
-    "developer": "Offworld",
+    "genre": "Co-Op PvE FPS",
+    "developer": "Offworld Industries",
     "psStudios": false,
     "release": "October 25, 2024",
     "metacritic": 67
@@ -703,7 +703,7 @@
   },
   {
     "name": "Stunt Paradise",
-    "id": "SW: Outlaws",
+    "id": "SP",
     "genre": "Arcade Driving",
     "developer": "Brinemedia",
     "psStudios": false,
@@ -714,7 +714,7 @@
     "name": "Subside",
     "id": "Subside",
     "genre": "Underwater VR Simulation",
-    "developer": "A2D",
+    "developer": "A2D Software",
     "psStudios": false,
     "release": "December 20, 2024",
     "metacritic": 0
@@ -726,15 +726,6 @@
     "developer": "Croteam",
     "psStudios": false,
     "release": "Early 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "TDPA: Directive 8020",
-    "id": "TDPA: D-8020",
-    "genre": "Horror, Interactive Drama",
-    "developer": "Supermassive Games",
-    "psStudios": false,
-    "release": "2025",
     "metacritic": 0
   },
   {
@@ -751,6 +742,15 @@
     "id": "The Alters",
     "genre": "Survival, Action-Adventure",
     "developer": "11 Bit Studios",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The DPA: Directive 8020",
+    "id": "TDPA: D-8020",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Supermassive Games",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
