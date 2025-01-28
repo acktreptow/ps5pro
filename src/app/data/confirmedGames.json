@@ -209,7 +209,7 @@
   {
     "name": "Elden Ring Nightreign",
     "id": "ER: Nightreign",
-    "genre": "Co-op Soulsborne",
+    "genre": "Co-Op Soulsborne",
     "developer": "FromSoftware",
     "psStudios": false,
     "release": "2025",
@@ -254,7 +254,7 @@
   {
     "name": "Everspace 2",
     "id": "Everspace 2",
-    "genre": "Space Combat Action RPG",
+    "genre": "Space Combat Shooter",
     "developer": "Rockfish Games",
     "psStudios": false,
     "release": "August 15, 2023",
@@ -500,7 +500,7 @@
     "genre": "Action-Adventure",
     "developer": "Team Ninja & Platinum",
     "psStudios": false,
-    "release": "Fall 2025",
+    "release": "Fall, 2025",
     "metacritic": 0
   },
   {
