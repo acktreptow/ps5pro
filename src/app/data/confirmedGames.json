@@ -825,12 +825,12 @@
     "developer": "XTEN",
     "psStudios": false,
     "release": "December 5, 2024",
-    "metacritic": 0
+    "metacritic": 68
   },
   {
     "name": "Unreal Kingdoms",
     "id": "Unreal Kingdoms",
-    "genre": "MMORPG",
+    "genre": "Metaverse MMORPG",
     "developer": "Cyber Apes Yacht Club",
     "psStudios": false,
     "release": "TBD",
@@ -843,7 +843,7 @@
     "developer": "Ballistic Moon",
     "psStudios": true,
     "release": "October 4, 2024",
-    "metacritic": 69
+    "metacritic": 70
   },
   {
     "name": "War Thunder",
