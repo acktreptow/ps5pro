@@ -443,7 +443,7 @@
   {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
-    "genre": "FPS Horror Visual Novel",
+    "genre": "FPS, Horror, Visual Novel",
     "developer": "Dark Ocean Games",
     "psStudios": false,
     "release": "TBC",
@@ -776,7 +776,7 @@
   {
     "name": "The Sinking City 2",
     "id": "TSC 2",
-    "genre": "Survival-Horror",
+    "genre": "Survival Horror",
     "developer": "Frogwares",
     "psStudios": false,
     "release": "2025",
@@ -857,7 +857,7 @@
   {
     "name": "Warframe",
     "id": "Warframe",
-    "genre": "Action RPG Looter Shooter",
+    "genre": "Action RPG, Looter FPS",
     "developer": "Digital Extremes",
     "psStudios": false,
     "release": "November 26, 2020",
