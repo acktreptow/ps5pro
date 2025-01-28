@@ -110,7 +110,7 @@
   {
     "name": "Carmen Sandiego",
     "id": "CS",
-    "genre": "Puzzle Adventure",
+    "genre": "Puzzle, Adventure",
     "developer": "Gameloft",
     "psStudios": false,
     "release": "March 4, 2025",
@@ -194,13 +194,13 @@
     "genre": "Horror, Action RPG",
     "developer": "Techland",
     "psStudios": false,
-    "release": "Summer 2025",
+    "release": "Summer, 2025",
     "metacritic": 0
   },
   {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
-    "genre": "Musou Hack & Slash",
+    "genre": "Musou, Hack & Slash",
     "developer": "Omega Force",
     "psStudios": false,
     "release": "January 17, 2025",
