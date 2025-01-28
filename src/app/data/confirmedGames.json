@@ -870,7 +870,7 @@
     "developer": "Fatshark",
     "psStudios": false,
     "release": "December 3, 2024",
-    "metacritic": 0
+    "metacritic": 80
   },
   {
     "name": "Warhammer 40K Rogue Trader",
@@ -879,7 +879,7 @@
     "developer": "Owlcat Games",
     "psStudios": false,
     "release": "December 7, 2023",
-    "metacritic": 77
+    "metacritic": 100
   },
   {
     "name": "Wolverine",
@@ -911,7 +911,7 @@
   {
     "name": "Zombie Derby",
     "id": "Zombie Derby",
-    "genre": "Racing",
+    "genre": "Racing, Vehicle Combat",
     "developer": "Brinemedia",
     "psStudios": false,
     "release": "December 11, 2024",
