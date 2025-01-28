@@ -720,22 +720,13 @@
     "metacritic": 0
   },
   {
-    "name": "Talos Principle Remaster",
-    "id": "TTP: Reawakened",
-    "genre": "Puzzle",
-    "developer": "Croteam",
-    "psStudios": false,
-    "release": "Early 2025",
-    "metacritic": 0
-  },
-  {
     "name": "Test Drive Unlimited: SC",
     "id": "TDU: Solar Crown",
-    "genre": "Racing",
+    "genre": "Racing, Arcade",
     "developer": "KT Racing",
     "psStudios": false,
     "release": "September 12, 2024",
-    "metacritic": 52
+    "metacritic": 53
   },
   {
     "name": "The Alters",
@@ -743,7 +734,7 @@
     "genre": "Survival, Action-Adventure",
     "developer": "11 Bit Studios",
     "psStudios": false,
-    "release": "2025",
+    "release": "Q1, 2025",
     "metacritic": 0
   },
   {
@@ -789,6 +780,15 @@
     "developer": "Frogwares",
     "psStudios": false,
     "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Talos Principle",
+    "id": "TTP: Reawakened",
+    "genre": "Puzzle",
+    "developer": "Croteam",
+    "psStudios": false,
+    "release": "Early 2025",
     "metacritic": 0
   },
   {
