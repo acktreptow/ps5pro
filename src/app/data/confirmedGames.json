@@ -477,6 +477,15 @@
     "metacritic": 0
   },
   {
+    "name": "My Time At Sandrock",
+    "id": "MTaS",
+    "genre": "Simulation, Farming",
+    "developer": "Panthea Games",
+    "psStudios": false,
+    "release": "November 2, 2023",
+    "metacritic": 80
+  },
+  {
     "name": "Naraka: Bladepoint",
     "id": "Naraka",
     "genre": "TPA Battle Royale",
