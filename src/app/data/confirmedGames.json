@@ -360,6 +360,15 @@
     "metacritic": 67
   },
   {
+    "name": "Karma: The Dark World",
+    "id": "Karma: TDW",
+    "genre": "First-Person Horror",
+    "developer": "Pollard Studio",
+    "psStudios": false,
+    "release": "TBD",
+    "metacritic": 0
+  },
+  {
     "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "genre": "VR Sports, Kayak, Racing",
