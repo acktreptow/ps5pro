@@ -450,6 +450,15 @@
     "metacritic": 0
   },
   {
+    "name": "MLB The Show 25",
+    "id": "MLB 25",
+    "genre": "Sports, Baseball",
+    "developer": "San Diego Studio",
+    "psStudios": true,
+    "release": "March 18, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Monster E Supercross 25",
     "id": "MES 25",
     "genre": "Sports, Supercross Racing",
