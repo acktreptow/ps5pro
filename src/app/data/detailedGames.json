@@ -103,7 +103,7 @@
     }
   },
   {
-    "name": "Call of Duty: Black Ops 6",
+    "name": "Call Of Duty: Black Ops 6",
     "id": "COD: BO6",
     "urlPath": "call-of-duty-black-ops-6",
     "genre": "First-Person Shooter",
@@ -388,7 +388,7 @@
     }
   },
   {
-    "name": "Lies of P",
+    "name": "Lies Of P",
     "id": "LoP",
     "urlPath": "lies-of-p",
     "genre": "Soulsborne",
@@ -510,7 +510,7 @@
     "fps": "60fps"
   },
   {
-    "name": "Rise of the Ronin",
+    "name": "Rise Of The Ronin",
     "id": "RotR",
     "urlPath": "rise-of-the-ronin",
     "genre": "Action RPG",
@@ -676,7 +676,7 @@
     "fps": "120fps"
   },
   {
-    "name": "The Last of Us Part I",
+    "name": "The Last Of Us Part I",
     "id": "TLOU",
     "urlPath": "the-last-of-us-part-i",
     "genre": "Cinematic Action-Adventure",
@@ -694,7 +694,7 @@
     }
   },
   {
-    "name": "The Last of Us Part II",
+    "name": "The Last Of Us Part II",
     "id": "TLOU2",
     "urlPath": "the-last-of-us-part-ii",
     "genre": "Cinematic Action-Adventure",
