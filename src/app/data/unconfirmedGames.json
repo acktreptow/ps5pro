@@ -135,15 +135,6 @@
     "metacritic": 81
   },
   {
-    "name": "Helldivers 2",
-    "id": "H2",
-    "genre": "Online Co-Op Shooter",
-    "developer": "Arrowhead",
-    "psStudios": true,
-    "release": "February 8, 2024",
-    "metacritic": 82
-  },
-  {
     "name": "Immortals of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",
@@ -169,15 +160,6 @@
     "psStudios": false,
     "release": "October 29, 2024",
     "metacritic": 73
-  },
-  {
-    "name": "Mortal Kombat 1",
-    "id": "MK1",
-    "genre": "Fighting",
-    "developer": "NetherRealm Studios",
-    "psStudios": false,
-    "release": "September 19, 2023",
-    "metacritic": 83
   },
   {
     "name": "NHL 25",
