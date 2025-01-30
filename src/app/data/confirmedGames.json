@@ -606,7 +606,7 @@
     "name": "Path Of Exile 2",
     "id": "PoE 2",
     "genre": "Top-Down Action RPG",
-    "developer": "Grinding Gear",
+    "developer": "Grinding Gear Games",
     "psStudios": false,
     "release": "December 6, 2024",
     "metacritic": 0
@@ -837,8 +837,8 @@
     "metacritic": 0
   },
   {
-    "name": "Truck Driver: The American Dream",
-    "id": "Truck Driver: TAD",
+    "name": "Truck Driver: TAD",
+    "id": "TD: TAD",
     "genre": "Driving, Simulation",
     "developer": "Soedesco & Kyodai",
     "psStudios": false,
