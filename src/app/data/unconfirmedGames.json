@@ -162,6 +162,15 @@
     "metacritic": 73
   },
   {
+    "name": "Metro Awakening",
+    "id": "MA",
+    "genre": "VR FPS",
+    "developer": "Vertigo Games",
+    "psStudios": false,
+    "release": "November 7, 2024",
+    "metacritic": 73
+  },
+  {
     "name": "NHL 25",
     "id": "NHL 25",
     "genre": "Sports, Ice Hockey",
