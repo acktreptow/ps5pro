@@ -135,6 +135,15 @@
     "metacritic": 81
   },
   {
+    "name": "Horizon COTM",
+    "id": "H: CotM",
+    "genre": "VR Action-Adventure",
+    "developer": "Firesprite",
+    "psStudios": true,
+    "release": "February 22, 2023",
+    "metacritic": 79
+  },
+  {
     "name": "Immortals Of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",
