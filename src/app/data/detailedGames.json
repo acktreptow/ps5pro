@@ -138,6 +138,7 @@
   },
   {
     "name": "Dead Rising Deluxe",
+    "pageTitle": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-deluxe-remaster",
     "genre": "Action-Adventure, Roguelite",
@@ -354,6 +355,7 @@
   },
   {
     "name": "Horizon 1 Zero Dawn",
+    "pageTitle": "Horizon Zero Dawn",
     "id": "H:ZD",
     "urlPath": "horizon-zero-dawn-remastered",
     "genre": "Cinematic Action RPG",
@@ -371,7 +373,8 @@
     }
   },
   {
-    "name": "Horizon Forbidden West",
+    "name": "Horizon 2 Forbidden West",
+    "pageTitle": "Horizon Forbidden West",
     "id": "H:FW",
     "urlPath": "horizon-forbidden-west",
     "genre": "Cinematic Action RPG",
@@ -546,6 +549,7 @@
   },
   {
     "name": "Spider-Man 1 Remastered",
+    "pageTitle": "Spider-Man",
     "id": "Spider-Man",
     "urlPath": "spider-man-remastered",
     "genre": "Cinematic Action-Adventure",
@@ -714,6 +718,7 @@
   },
   {
     "name": "Warhammer 40K SM2",
+    "pageTitle": "Warhammer 40,000: Space Marine 2",
     "id": "Space Marine 2",
     "urlPath": "warhammer-40k-space-marine-2",
     "genre": "TPS, Hack & Slash",
