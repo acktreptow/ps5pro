@@ -25,6 +25,7 @@ model ConfirmedGame {
 model DetailedGame {
   id          String  @default(cuid()) @id
   title       String
+  pageTitle   String?
   urlPath     String  @unique
   genre       String
   developer   String
