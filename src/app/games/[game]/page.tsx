@@ -2,6 +2,7 @@ import postableGames from "../../data/detailedGames.json";
 
 interface Game {
   name: string;
+  pageTitle?: string;
   id: string;
   urlPath: string;
   genre: string;
@@ -46,7 +47,7 @@ const GamesPage = async ({ params }: PageProps) => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
       <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-        {game.name}
+        {game.pageTitle ? game.pageTitle : game.name}
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <div className="mb-12">
