@@ -308,7 +308,7 @@
   {
     "name": "Helldivers 2",
     "id": "Helldivers 2",
-    "genre": "Co-op PvE TPS",
+    "genre": "Co-Op PvE TPS",
     "developer": "Arrowhead",
     "psStudios": true,
     "release": "February 8, 2024",
@@ -468,15 +468,6 @@
     "metacritic": 0
   },
   {
-    "name": "Mortal Kombat 1",
-    "id": "MK1",
-    "genre": "Fighting",
-    "developer": "NetherRealm Studios",
-    "psStudios": false,
-    "release": "September 19, 2023",
-    "metacritic": 83
-  },
-  {
     "name": "Monster E Supercross 25",
     "id": "MES 25",
     "genre": "Sports, Supercross Racing",
@@ -493,6 +484,15 @@
     "psStudios": false,
     "release": "February 28, 2025",
     "metacritic": 0
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "id": "MK1",
+    "genre": "Fighting",
+    "developer": "NetherRealm Studios",
+    "psStudios": false,
+    "release": "September 19, 2023",
+    "metacritic": 83
   },
   {
     "name": "My Time At Sandrock",
@@ -569,7 +569,7 @@
   {
     "name": "Outbreak: SOHCS",
     "id": "Outbreak",
-    "genre": "Survival Action Horror",
+    "genre": "Survival Horror",
     "developer": "Dead Drop Studios",
     "psStudios": false,
     "release": "November 28, 2024",
