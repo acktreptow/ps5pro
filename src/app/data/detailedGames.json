@@ -447,7 +447,7 @@
     "genre": "Tactical Espionage Action",
     "developer": "Konami & Virtuos",
     "psStudios": false,
-    "release": "N/A",
+    "release": "TBA",
     "metacritic": 0,
     "pssr": true,
     "rt": false,
@@ -484,6 +484,21 @@
     "fps": "120fps"
   },
   {
+    "name": "Resident Evil 4",
+    "id": "RE4",
+    "urlPath": "resident-evil-4-remake",
+    "genre": "Survival Action Horror",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "March 24, 2023",
+    "metacritic": 93,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4k PSSR (likely)",
+    "fps": "60fps"
+  },
+  {
     "name": "Resident Evil Village",
     "id": "RE8",
     "urlPath": "resident-evil-village",
@@ -497,21 +512,6 @@
     "rtTypes": "Ray-traced Global Illumination & reflections",
     "resolution": "4k PSSR",
     "fps": "120fps"
-  },
-  {
-    "name": "Resident Evil 4",
-    "id": "RE4",
-    "urlPath": "resident-evil-4-remake",
-    "genre": "Survival Horror",
-    "developer": "Capcom",
-    "psStudios": false,
-    "release": "March 24, 2023",
-    "metacritic": 93,
-    "pssr": true,
-    "rt": true,
-    "rtTypes": "Ray-traced reflections",
-    "resolution": "4k PSSR (likely)",
-    "fps": "60fps"
   },
   {
     "name": "Rise Of The Ronin",
