@@ -176,7 +176,7 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
-      <h3 className="text-xl text-center font-semibold mb-4 md:text-start lg:text-2xl lg:mb-1 lg:mx-8">
+      <h3 className="text-xl text-center font-semibold mb-2 md:text-start md:mx-8 lg:mb-1 lg:mx-8">
         Criteria (has to hit at least one):
       </h3>
       <ul>
