@@ -279,6 +279,15 @@
     "metacritic": 0
   },
   {
+    "name": "Forza Horizon 5",
+    "id": "FH5",
+    "genre": "Driving, Arcade",
+    "developer": "Playground Games",
+    "psStudios": false,
+    "release": "Spring, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Ghost Of Yōtei",
     "id": "GoY",
     "genre": "Action-Adventure",
