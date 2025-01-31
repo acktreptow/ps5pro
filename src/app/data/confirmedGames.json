@@ -1,5 +1,14 @@
 [
   {
+    "name": "90s Extreme Skiing",
+    "id": "90s ES",
+    "genre": "Sports, Skiing",
+    "developer": "Tunermaxx Media",
+    "psStudios": false,
+    "release": "January 23, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Albatroz",
     "id": "Albatroz",
     "genre": "Immersive Sim RPG",
