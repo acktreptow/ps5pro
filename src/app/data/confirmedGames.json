@@ -578,7 +578,7 @@
   {
     "name": "Paladin's Passage",
     "id": "Paladin's Passage",
-    "genre": "Puzzle Platformer",
+    "genre": "Puzzle, Platformer",
     "developer": "Bent Vector Studios",
     "psStudios": false,
     "release": "September 10, 2024",
@@ -615,7 +615,7 @@
     "name": "Phantom Blade Zero",
     "id": "PBZ",
     "genre": "Soulsborne",
-    "developer": "S-GAME",
+    "developer": "S-Game",
     "psStudios": false,
     "release": "TBC",
     "metacritic": 0
@@ -849,7 +849,7 @@
     "name": "UFL",
     "id": "UFL",
     "genre": "Sports, Football",
-    "developer": "XTEN",
+    "developer": "Strikerz",
     "psStudios": false,
     "release": "December 5, 2024",
     "metacritic": 68
