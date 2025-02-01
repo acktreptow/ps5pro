@@ -176,32 +176,34 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
-      <h3 className="text-xl text-center font-semibold mb-2 md:text-start md:mx-8 lg:mb-1 lg:mx-8">
-        Criteria (has to hit at least one):
-      </h3>
-      <ul>
-        <li className="mb-2 mx-12 list-disc">
-          Has a sequel scheduled to launch in 2025.
-        </li>
-        <li className="mb-2 mx-12 list-disc">
-          It&#39;s a very popular game that deserves a PS5 Pro upgrade to
-          showcase the ecosystem.
-        </li>
-        <li className="mb-2 mx-12 list-disc">
-          It&#39;s a showcase for the capabilities of PSVR2.
-        </li>
-        <li className="mb-2 mx-12 list-disc">
-          The game would be significantly enhanced with a resolution and/or
-          framerate boost.
-        </li>
-        <li className="mb-2 mx-12 list-disc">
-          The game would look much better with either introducing or improving
-          the ray-tracing implementation.
-        </li>
-        <li className="mb-4 mx-12 list-disc">
-          I&#39;d want to see one as it&#39;s in my backlog!
-        </li>
-      </ul>
+      <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
+        <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:mb-1 lg:mx-8">
+          Criteria (has to hit at least one):
+        </h3>
+        <ul>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            Has a sequel scheduled to launch in 2025.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            It&#39;s a very popular game that deserves a PS5 Pro upgrade to
+            showcase the ecosystem.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            It&#39;s a showcase for the capabilities of PSVR2.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            The game would be significantly enhanced with a resolution and/or
+            framerate boost.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            The game would look much better with either introducing or improving
+            the ray-tracing implementation.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc">
+            I&#39;d want to see one as it&#39;s in my backlog!
+          </li>
+        </ul>
+      </div>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-4">
         {unconfirmedGames.map((game) => (
           <div
