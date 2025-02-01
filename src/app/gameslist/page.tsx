@@ -176,11 +176,11 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
-      <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8 lg:p-12">
-        <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:mb-1 lg:mx-8">
+      <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+        <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
           Criteria (has to hit at least one):
         </h3>
-        <ul>
+        <ul className="lg:text-lg">
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Has a sequel scheduled to launch in 2025.
           </li>
