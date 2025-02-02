@@ -540,15 +540,6 @@
     "metacritic": 0
   },
   {
-    "name": "No Man's Sky",
-    "id": "NMS",
-    "genre": "Action-Adventure, Survival",
-    "developer": "Hello Games",
-    "psStudios": false,
-    "release": "November 12, 2020",
-    "metacritic": 82
-  },
-  {
     "name": "Off The Grid",
     "id": "OtG",
     "genre": "Multiplayer TPS",
@@ -682,15 +673,6 @@
     "psStudios": false,
     "release": "December 6, 2022",
     "metacritic": 0
-  },
-  {
-    "name": "Sniper Elite: Resistance",
-    "id": "SE: Resistance",
-    "genre": "TPS, Sniper Simulation",
-    "developer": "Rebellion",
-    "psStudios": false,
-    "release": "January 30, 2025",
-    "metacritic": 76
   },
   {
     "name": "Spine - This Is Gun Fu",
