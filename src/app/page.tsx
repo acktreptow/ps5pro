@@ -4,9 +4,9 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 import games from "../app/data/detailedGames.json";
-import ps5Pro from "../../public/images/ps5-pro-console.jpg";
+import PS5ProConsole from "../../public/images/ps5-pro-console.jpg";
 
-function Home() {
+const Home = (): JSX.Element => {
   const [selectedGame, setSelectedGame] = useState("");
   const router = useRouter();
 
@@ -29,7 +29,7 @@ function Home() {
         <form onSubmit={handleSubmit} className="text-lg">
           <select
             onChange={(e) => setSelectedGame(e.target.value)}
-            className="block mx-auto border-2 border-slate-800 rounded-lg p-2 mb-4"
+            className="block mx-auto p-2 mb-4 border-2 border-slate-800 rounded-lg"
           >
             <option>Select PS5 Pro Game</option>
             {games.map((game) => (
@@ -46,14 +46,14 @@ function Home() {
           </button>
         </form>
         <Image
-          src={ps5Pro}
-          alt="PS5 Pro"
+          src={PS5ProConsole}
+          alt="The PS5 Pro console."
           width={1000}
           className="mx-auto rounded-lg"
         />
       </div>
     </div>
   );
-}
+};
 
 export default Home;
