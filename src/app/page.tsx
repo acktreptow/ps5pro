@@ -31,7 +31,9 @@ const Home = (): JSX.Element => {
             onChange={(e) => setSelectedGame(e.target.value)}
             className="block mx-auto p-2 mb-4 border-2 border-slate-800 rounded-lg"
           >
-            <option>Select PS5 Pro Game</option>
+            <option className={selectedGame ? "hidden" : ""}>
+              Select PS5 Pro Game
+            </option>
             {games.map((game) => (
               <option key={game.id} value={game.urlPath}>
                 {game.name}
