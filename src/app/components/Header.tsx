@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import PS5ProCertification from "../../../public/images/ps5-pro-enhanced-certification.png";
 
 export const Header = (): JSX.Element => {
   return (
@@ -7,8 +8,8 @@ export const Header = (): JSX.Element => {
       <div>
         <Link href="/">
           <Image
-            src="/images/ps5-pro-enhanced-certification.png"
-            alt="PS5 Pro Logo"
+            src={PS5ProCertification}
+            alt="PS5 Pro Enhanced Certification logo."
             width={200}
             height={50}
             className="rounded-lg border-2 border-slate-50 md:w-56 lg:w-64"
