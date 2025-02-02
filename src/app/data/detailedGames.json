@@ -548,6 +548,21 @@
     }
   },
   {
+    "name": "Sniper Elite: Resistance",
+    "id": "SE: Resistance",
+    "urlPath": "sniper-elite-resistance",
+    "genre": "TPS, Sniper Simulation",
+    "developer": "Rebellion",
+    "psStudios": false,
+    "release": "January 30, 2025",
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Only advantage over base PS5 is a higher resolution. It holds 4K much more often than base PS5 which is usually at 1440p."
+  },
+  {
     "name": "Spider-Man 1 Remastered",
     "pageTitle": "Spider-Man",
     "id": "Spider-Man",
