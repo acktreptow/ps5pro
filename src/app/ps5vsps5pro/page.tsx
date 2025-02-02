@@ -95,7 +95,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </h2>
             <p>
               <span className="font-semibold">GPU:</span> Custom AMD RDNA | 60
-              CUs up to 2.23 GHz | 16.7 TFLOPs
+              CUs up to 2.23 GHz | 16.7 TFLOPs (typical clock speed)
             </p>
             <p>
               <span className="font-semibold">CPU:</span> Custom 8 core/16
@@ -180,7 +180,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </p>
           <p>
             <span className="font-semibold">AI/Machine Learning:</span> 0 - 300
-            TOPS is a infinite percentage increase. PSSR and 2-4x RT now
+            TOPS is an infinite percentage increase. PSSR and 2-4x RT now
             possible
           </p>
           <p>
