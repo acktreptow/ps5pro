@@ -1,6 +1,6 @@
 import Image from "next/image";
-import PS5 from "../../../public/images/ps5-logo.png";
-import PS5PRO from "../../../public/images/ps5-pro-logo.png";
+import PS5Logo from "../../../public/images/ps5-logo.png";
+import PS5ProLogo from "../../../public/images/ps5-pro-logo.png";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -19,8 +19,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
         <div className="flex flex-col mb-12 gap-8 lg:flex-row lg:mb-8">
           <div className="lg:w-1/2">
             <Image
-              src={PS5}
-              alt="PS5 Console"
+              src={PS5Logo}
+              alt="Base PS5 logo."
               className="w-72 mx-auto my-8 rounded-lg md:mt-4"
             />
             <h2 className="text-3xl text-center font-bold underline mb-4">
@@ -86,8 +86,8 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           </div>
           <div className="mt-8 mb-4 md:mb-8 lg:mt-0 lg:w-1/2">
             <Image
-              src={PS5PRO}
-              alt="PS5 Pro console"
+              src={PS5ProLogo}
+              alt="PS5 Pro logo."
               className="w-72 mx-auto mb-8 rounded-lg md:mt-4"
             />
             <h2 className="text-3xl text-center font-bold underline mb-4">
