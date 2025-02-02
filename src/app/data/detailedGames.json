@@ -354,6 +354,22 @@
     }
   },
   {
+    "name": "Hitman Trilogy",
+    "pageTitle": "Hitman World of Assassination",
+    "id": "Hitman WoA",
+    "urlPath": "hitman-world-of-assassination",
+    "genre": "Stealth, Action",
+    "developer": "IO Interactive",
+    "psStudios": false,
+    "release": "January 20, 2022",
+    "metacritic": 84,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "A locked 60fps at 4K, compared to the 1800p mostly stable 60fps on base PS5. Essentially, putting it on par with the Series X version."
+  },
+  {
     "name": "Hogwarts Legacy",
     "id": "Hogwarts",
     "urlPath": "hogwarts-legacy",

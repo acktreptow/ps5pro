@@ -72,15 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "Baldur's Gate 3",
-    "id": "BG3",
-    "genre": "Fantasy CRPG",
-    "developer": "Larian Studios",
-    "psStudios": false,
-    "release": "September 6, 2023",
-    "metacritic": 96
-  },
-  {
     "name": "Biped",
     "id": "Biped",
     "genre": "Co-Op Adventure",
@@ -331,15 +322,6 @@
     "psStudios": true,
     "release": "February 8, 2024",
     "metacritic": 82
-  },
-  {
-    "name": "Hitman Trilogy",
-    "id": "Hitman Trilogy",
-    "genre": "Stealth, Action",
-    "developer": "IO Interactive",
-    "psStudios": false,
-    "release": "January 20, 2022",
-    "metacritic": 84
   },
   {
     "name": "Hunt: Showdown 1896",
