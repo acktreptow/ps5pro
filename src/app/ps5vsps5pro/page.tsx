@@ -103,7 +103,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">RAM:</span> 16GB GDDR6 memory @ 18
-              Gbps for games. 2GB DDR5 memory for OS.
+              Gbps for games and 2GB DDR5 memory for OS
             </p>
             <p>
               <span className="font-semibold">Memory available for games:</span>{" "}
@@ -115,17 +115,17 @@ const PS5vsPS5ProPage = (): JSX.Element => {
             </p>
             <p>
               <span className="font-semibold">AI/Machine Learning:</span> 300
-              TOPS of 8-bit computation / 67 TFLOPS of 16-bit floating point.
+              TOPS of 8-bit computation / 67 TFLOPS of 16-bit floating point
             </p>
             <p>
               <span className="font-semibold">
                 AI/Machine Learning Features:
               </span>{" "}
-              PSSR (Upscaling) & 2-4x Ray-Tracing.
+              PSSR (Upscaling) & 2-4x Ray-Tracing
             </p>
             <p>
               <span className="font-semibold">Sound:</span> Same as PS5, but 35%
-              faster for improved soundscapes.
+              faster for improved soundscapes
             </p>
             <p>
               <span className="font-semibold">Storage:</span> 2TB NVME SSD @
@@ -168,7 +168,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <p>
             <span className="font-semibold">RAM:</span> All 16GB are now for
             games, with 2 additional GB for the OS. 4Gbps / 28.57% increase in
-            speed.
+            speed
           </p>
           <p>
             <span className="font-semibold">Memory available for games:</span>{" "}
@@ -181,7 +181,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <p>
             <span className="font-semibold">AI/Machine Learning:</span> 0 - 300
             TOPS is a infinite percentage increase. PSSR and 2-4x RT now
-            possible.
+            possible
           </p>
           <p>
             <span className="font-semibold">Sound:</span> 35% faster
@@ -189,7 +189,7 @@ const PS5vsPS5ProPage = (): JSX.Element => {
           <p>
             <span className="font-semibold">Storage:</span> 1.175 TB / 142.42 %
             increase compared to launch model. 1 TB / 100% increase to slim
-            model.
+            model
           </p>
           <p>
             <span className="font-semibold">Output:</span> 8K 60hz now possible
