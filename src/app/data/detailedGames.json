@@ -583,6 +583,21 @@
     }
   },
   {
+    "name": "Slitterhead",
+    "id": "Slitterhead",
+    "urlPath": "slitterhead",
+    "genre": "Action, Horror",
+    "developer": "Bokeh Game Studio",
+    "psStudios": false,
+    "release": "November 8, 2024",
+    "metacritic": 62,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "A native 4K and more stable 60fps compared to base PS5, especially in later boss fights. Please keep in mind that all technical information regarding Slitterhead is based off anecdotal remarks by people who completed the game. Not from a rock-solid primary source like Digital Foundry as none exist at time of writing."
+  },
+  {
     "name": "Sniper Elite: Resistance",
     "id": "SE: Resistance",
     "urlPath": "sniper-elite-resistance",
