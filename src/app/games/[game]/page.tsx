@@ -18,6 +18,7 @@ interface Game {
   modes?: {
     fidelity: string;
     performance: string;
+    
   };
   extraInfo?: string;
 }
