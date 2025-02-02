@@ -1,6 +1,6 @@
 import Image from "next/image";
-import PS5 from "../../../public/images/ps5v1.png";
-import PS5PRO from "../../../public/images/ps5prov1.png";
+import PS5 from "../../../public/images/ps5-logo.png";
+import PS5PRO from "../../../public/images/ps5-pro-logo.png";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {

@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 import games from "../app/data/detailedGames.json";
-import ps5Pro from "../../public/images/PS5-Pro.jpg";
+import ps5Pro from "../../public/images/ps5-pro-console.jpg";
 
 function Home() {
   const [selectedGame, setSelectedGame] = useState("");

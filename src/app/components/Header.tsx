@@ -7,7 +7,7 @@ export const Header = (): JSX.Element => {
       <div>
         <Link href="/">
           <Image
-            src="/images/ps5-pro-logo.png"
+            src="/images/ps5-pro-enhanced-certification.png"
             alt="PS5 Pro Logo"
             width={200}
             height={50}
