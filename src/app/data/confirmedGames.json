@@ -396,15 +396,6 @@
     "metacritic": 0
   },
   {
-    "name": "Mortal Kombat 1",
-    "id": "MK1",
-    "genre": "Fighting",
-    "developer": "NetherRealm Studios",
-    "psStudios": false,
-    "release": "September 19, 2023",
-    "metacritic": 83
-  },
-  {
     "name": "My Time At Sandrock",
     "id": "MTaS",
     "genre": "Simulation, Farming",

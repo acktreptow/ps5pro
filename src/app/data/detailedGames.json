@@ -667,6 +667,22 @@
     "fps": "60fps"
   },
   {
+    "name": "Mortal Kombat 1",
+    "id": "MK1",
+    "urlPath": "mortal-kombat-1",
+    "genre": "Fighting",
+    "developer": "NetherRealm Studios",
+    "psStudios": false,
+    "release": "September 19, 2023",
+    "metacritic": 83,
+    "pssr": false,
+    "rt": false,
+    "rtType": "Ray-traced reflections",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Only big difference between the PS5 Pro and base PS5 versions is that the Pro version uses ray-tracing for reflections. The pro version still has DRS that can go as low as 1800p, but hits 4K more often than base PS5."
+  },
+  {
     "name": "No Man's Sky",
     "id": "NMS",
     "urlPath": "no-mans-sky",
