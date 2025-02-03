@@ -294,6 +294,22 @@
     "extraInfo": "All modes also have improved Global Illumination, Screen Space Reflections (except quality mode due to RT) and Sub Surface Scattering compared to their equivalent base PS5 mode."
   },
   {
+    "name": "Dying Light: The Beast",
+    "id": "DL: TB",
+    "urlPath": "dying-light-the-beast",
+    "genre": "Horror, Action RPG",
+    "developer": "Techland",
+    "psStudios": false,
+    "release": "Summer, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray-traced shadows, reflections and ambient occlusion.",
+    "resolution": "4k",
+    "fps": "120fps",
+    "extraInfo": "No hard technical figures just yet, but Techland have publicly come out and said DL: The Beast will take it much further than DL2: SH. So we should expect what's above at the very least depending on the mode."
+  },
+  {
     "name": "EA College Football 25",
     "id": "College Football 25",
     "urlPath": "ea-college-football-25",
