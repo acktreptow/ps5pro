@@ -356,6 +356,21 @@
     "extraInfo": "KO replays now at 60fps instead of 30fps."
   },
   {
+    "name": "Empire Of The Ants",
+    "id": "EoTA",
+    "urlPath": "empire-of-the-ants",
+    "genre": "RTS, Strategy",
+    "developer": "Tower Five",
+    "psStudios": false,
+    "release": "November 7, 2024",
+    "metacritic": 77,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p upscaled to 4K",
+    "fps": "60fps",
+    "extraInfo": "The base PS5 version can technically have a higher resolution as it ranges from 1400-1600p that's upscaled to 4K. However, the base PS5 version only runs at 30fps."
+  },
+  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",
