@@ -676,11 +676,27 @@
     "release": "September 19, 2023",
     "metacritic": 83,
     "pssr": false,
-    "rt": false,
+    "rt": true,
     "rtType": "Ray-traced reflections",
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Only big difference between the PS5 Pro and base PS5 versions is that the Pro version uses ray-tracing for reflections. The pro version still has DRS that can go as low as 1800p, but hits 4K more often than base PS5."
+  },
+  {
+    "name": "NBA 2K25",
+    "id": "NBA 25",
+    "urlPath": "nba-2k25",
+    "genre": "Sports, Basketball",
+    "developer": "Visual Concepts",
+    "psStudios": false,
+    "release": "September 6, 2024",
+    "metacritic": 79,
+    "pssr": true,
+    "rt": true,
+    "rtType": "Ray-traced reflections",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Pro version now has ray-traced reflections in The City. Also uses PSSR to upscale from 1440p (likely) to 4K for improved image quality."
   },
   {
     "name": "No Man's Sky",
