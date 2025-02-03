@@ -51,6 +51,25 @@
     }
   },
   {
+    "name": "Arma Reforger",
+    "id": "Arma R",
+    "urlPath": "arma-reforger",
+    "genre": "Multiplayer Shooter",
+    "developer": "Bohemia Interactive",
+    "psStudios": false,
+    "release": "November 16, 2023",
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1944p",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "1944p upscaled to 4K using FSR 1 at 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode.",
+      "performance": "1440p upscaled to 4K using FSR 1 at 60fps."
+    },
+    "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively."
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC Mirage",
     "urlPath": "assassins-creed-mirage",
