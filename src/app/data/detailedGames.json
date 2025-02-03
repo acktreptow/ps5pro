@@ -599,6 +599,25 @@
     "fps": "60fps"
   },
   {
+    "name": "Lords Of The Fallen",
+    "id": "LoTF",
+    "urlPath": "lords-of-the-fallen",
+    "genre": "Soulsborne",
+    "developer": "Hexworks",
+    "psStudios": false,
+    "release": "October 13, 2023",
+    "metacritic": 70,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Global Illumination",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K native at 30fps.",
+      "performance": "1440p upscaled to 4K with PSSR at 60fps."
+    }
+  },
+  {
     "name": "Madden NFL 25",
     "id": "Madden 25",
     "urlPath": "madden-25",
