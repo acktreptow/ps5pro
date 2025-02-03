@@ -33,6 +33,24 @@
     "fps": "120fps"
   },
   {
+    "name": "Arken Age",
+    "id": "Arken Age",
+    "urlPath": "arken-age",
+    "genre": "VR Adventure",
+    "developer": "VitruviusVR",
+    "psStudios": false,
+    "release": "January 16, 2025",
+    "metacritic": 85,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2040p",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "90fps with 15% increase in resolution compared to base PS5.",
+      "performance": "60fps to 120fps reprojection with 25% increase in resolution compared to base PS5."
+    }
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC Mirage",
     "urlPath": "assassins-creed-mirage",
