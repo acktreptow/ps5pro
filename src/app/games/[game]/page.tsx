@@ -18,7 +18,6 @@ interface Game {
   modes?: {
     fidelity: string;
     performance: string;
-    
   };
   extraInfo?: string;
 }
@@ -117,7 +116,9 @@ const GamesPage = async ({ params }: PageProps) => {
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Extra Information
             </h2>
-            <p className="text-lg">{game.extraInfo}</p>
+            <p className="text-lg whitespace-pre-line">
+              {game.extraInfo}
+            </p>
           </div>
         )}
       </div>
