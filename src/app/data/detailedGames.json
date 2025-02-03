@@ -555,6 +555,21 @@
     }
   },
   {
+    "name": "Kayak VR: Mirage",
+    "id": "Kayak VR",
+    "urlPath": "kayak-vr-mirage",
+    "genre": "VR Sports, Kayak, Racing",
+    "developer": "Better Than Life",
+    "psStudios": false,
+    "release": "February 22, 2023",
+    "metacritic": 73,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "90fps Native",
+    "extraInfo": "Has 8K textures compared to 4K on base PS5. Also improves post-processing, effects, LOD distance and anti-aliasing. Dynamic resolution only hits a low of 90% of 4K, whereas base PS5 can only render between 60-90% of 4K."
+  },
+  {
     "name": "Lies Of P",
     "id": "LoP",
     "urlPath": "lies-of-p",
