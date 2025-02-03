@@ -371,6 +371,25 @@
     "extraInfo": "The base PS5 version can technically have a higher resolution as it ranges from 1400-1600p that's upscaled to 4K. However, the base PS5 version only runs at 30fps."
   },
   {
+    "name": "Enlisted",
+    "id": "Enlisted",
+    "urlPath": "enlisted",
+    "genre": "Multiplayer FPS",
+    "developer": "Darkflow Software",
+    "psStudios": false,
+    "release": "March 2, 2021",
+    "metacritic": 70,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "4K at 60 fps.",
+      "performance": "Upscaled 4K 120fps."
+    },
+    "extraInfo": "Performance mode now hits a solid 120fps whereas the base PS5 version is usually around 90fps. There's also higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality has improved."
+  },
+  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",

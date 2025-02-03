@@ -189,15 +189,6 @@
     "metacritic": 0
   },
   {
-    "name": "Enlisted",
-    "id": "Enlisted",
-    "genre": "Multiplayer FPS",
-    "developer": "Darkflow Software",
-    "psStudios": false,
-    "release": "March 2, 2021",
-    "metacritic": 70
-  },
-  {
     "name": "Entropy Survivors",
     "id": "ES",
     "genre": "Top-Down Roguelike",
