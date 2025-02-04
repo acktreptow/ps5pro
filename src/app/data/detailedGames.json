@@ -1044,6 +1044,21 @@
     "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. PS5 Pro runs at 4K."
   },
   {
+    "name": "Subside",
+    "id": "Subside",
+    "urlPath": "subside",
+    "genre": "Underwater VR Simulation",
+    "developer": "A2D Software",
+    "psStudios": false,
+    "release": "December 20, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "90fps",
+    "extraInfo": "Both base PS5 and the Pro run at 90fps with no reprojection. However, the Pro version has dynamic shadows and the edge blur effect. It also has a 2.5x foveated resolution increase compared to the 2.25x increase on base PS5. The developers believe the dynamic shadows produce the largest improvement between the versions."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
