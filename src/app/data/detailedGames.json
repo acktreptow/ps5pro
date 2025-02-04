@@ -863,6 +863,25 @@
     "fps": "60fps"
   },
   {
+    "name": "Rogue Flight",
+    "id": "RF",
+    "urlPath": "rogue-flight",
+    "genre": "Space Combat",
+    "developer": "Truant Pixel",
+    "psStudios": false,
+    "release": "October 25, 2024",
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "8K",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "Runs at 4K 120fps.",
+      "performance": "Runs at 8K 60fps"
+    },
+    "extraInfo": "According to Truant Pixel, outside of the resolution/framerate increases in each mode, there's also 'additional small graphical touches'."
+  },
+  {
     "name": "Shredders",
     "id": "Shredders",
     "urlPath": "shredders",
