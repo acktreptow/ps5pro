@@ -699,6 +699,25 @@
     "extraInfo": "Pro version now has ray-traced reflections in The City. Also uses PSSR to upscale from 1440p (likely) to 4K for improved image quality."
   },
   {
+    "name": "Ninja Gaiden 2 Black",
+    "id": "NG2 Black",
+    "urlPath": "ninja-gaiden-2-black",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja",
+    "psStudios": false,
+    "release": "January 23, 2025",
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "Upscaled 4K at relatively locked 60fps.",
+      "performance": "Upscaled 1080p at relatively locked 120fps."
+    },
+    "extraInfo": "Both modes are the same as the base PS5 version. However, the base resolution before upscaling is higher on the PS5 Pro version. PS5 Pro also hits target framerate more often."
+  },
+  {
     "name": "No Man's Sky",
     "id": "NMS",
     "urlPath": "no-mans-sky",
