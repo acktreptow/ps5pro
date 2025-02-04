@@ -683,6 +683,25 @@
     "extraInfo": "Only big difference between the PS5 Pro and base PS5 versions is that the Pro version uses ray-tracing for reflections. The pro version still has DRS that can go as low as 1800p, but hits 4K more often than base PS5."
   },
   {
+    "name": "Naraka: Bladepoint",
+    "id": "Naraka",
+    "urlPath": "naraka-bladepoint",
+    "genre": "TPA Battle Royale",
+    "developer": "24 Entertainment",
+    "psStudios": false,
+    "release": "July 13, 2023",
+    "metacritic": 71,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "Native 4K at 60fps. According to the devs - 'ideal for users seeking better visual experiences'.",
+      "balanced": "Uses PSSR to hit 4K - 'balancing both visual quality and smoothness'.",
+      "performance": "Native 1080p - 'for users who need the highest frame rates, ensuring smoother gameplay'."
+    }
+  },
+  {
     "name": "NBA 2K25",
     "id": "NBA 25",
     "urlPath": "nba-2k25",
