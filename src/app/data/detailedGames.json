@@ -832,6 +832,22 @@
     "fps": "120fps"
   },
   {
+    "name": "Retrieval",
+    "id": "Retrieval",
+    "urlPath": "retrieval",
+    "genre": "Survival Action Horror",
+    "developer": "333 Studios",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "The Pro version will have more detailed environments, higher quality RT reflections and a sharper resolution compared to the base PS5 version. All at a more stable 60fps."
+  },
+  {
     "name": "Rise Of The Ronin",
     "id": "RotR",
     "urlPath": "rise-of-the-ronin",
