@@ -1029,6 +1029,21 @@
     }
   },
   {
+    "name": "Stunt Paradise",
+    "id": "SP",
+    "urlPath": "stunt-paradise",
+    "genre": "Arcade Driving",
+    "developer": "Brinemedia",
+    "psStudios": false,
+    "release": "November 14, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. PS5 Pro runs at 4K."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
