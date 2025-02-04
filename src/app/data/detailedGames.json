@@ -737,6 +737,23 @@
     "extraInfo": "Both modes also have improved lighting, ultra quality reflections and higher quality ambient occlusion compared to base PS5. These improvement are also seen in the PSVR2 version."
   },
   {
+    "name": "Outbreak: SOHCS",
+    "pageTitle": "Outbreak: Shades of Horror Chromatic Split",
+    "id": "Outbreak",
+    "urlPath": "outbreak-shades-of-horror-chromatic-split",
+    "genre": "Survival Horror",
+    "developer": "Dead Drop Studios",
+    "psStudios": false,
+    "release": "November 28, 2024",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections and shadows.",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Uses PSSR to hit 4K. Pro version has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5. All with 60fps."
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
