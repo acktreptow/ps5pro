@@ -847,6 +847,21 @@
     "fps": "60fps"
   },
   {
+    "name": "Shredders",
+    "id": "Shredders",
+    "urlPath": "shredders",
+    "genre": "Sports, Snowboarding",
+    "developer": "FoamPunch",
+    "psStudios": false,
+    "release": "December 6, 2022",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Shredders on PS5 Pro runs at 4K 60, whereas the base PS5 version runs at 1440p/60fps."
+  },
+  {
     "name": "Silent Hill 2",
     "id": "SH 2",
     "urlPath": "silent-hill-2-remake",
