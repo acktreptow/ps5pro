@@ -446,7 +446,7 @@
   {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
-    "urlPath": "god-of-war-ragnarök",
+    "urlPath": "god-of-war-ragnarok",
     "genre": "Action-Adventure",
     "developer": "Santa Monica Studio",
     "psStudios": true,
@@ -828,6 +828,7 @@
   },
   {
     "name": "Redacted",
+    "pageTitle": "[REDACTED]",
     "id": "Redacted",
     "urlPath": "redacted",
     "genre": "Top-Down Roguelite",
