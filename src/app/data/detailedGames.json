@@ -1180,6 +1180,22 @@
     "extraInfo": "According to the War Thunder press release, the Pro version also gets 'more improvements and additional optimization'. The base PS5 can also only run at 1080p when aiming for 120fps."
   },
   {
+    "name": "Warhammer 40,000: DT",
+    "pageTitle": "Warhammer 40,000: Darktide",
+    "id": "Darktide",
+    "urlPath": "warhammer-40k-darktide",
+    "genre": "Action FPS",
+    "developer": "Fatshark",
+    "psStudios": false,
+    "release": "December 3, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1270p to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "The base PS5 can either do 1440p/60fps or 4K/30fps, whereas the Pro version can hit 4K/60fps due to PSSR. The framerate on Pro is also more stable in areas where base PS5 isn't, but can become unstable at higher difficulty levels due to more enemies onscreen. The Pro version also runs most graphical settings equivalent to 'high' on PC."
+  },
+  {
     "name": "Warhammer 40,000: RT",
     "pageTitle": "Warhammer 40,000: Rogue Trader",
     "id": "Rogue Trader",
