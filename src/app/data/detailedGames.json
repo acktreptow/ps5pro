@@ -667,6 +667,26 @@
     "fps": "60fps"
   },
   {
+    "name": "Monster Hunter Wilds",
+    "id": "MH: Wilds",
+    "urlPath": "monster-hunter-wilds",
+    "genre": "Action RPG",
+    "developer": "Capcom",
+    "psStudios": false,
+    "release": "February 28, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "1728p to 4K PSSR",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "Has a base resolution of 1728p that's upscaled to 4K using PSSR. Runs at 30fps and has RT reflections enabled.",
+      "performance": "Has a base resolution of 1080p that's upscaled to 4K using PSSR. Runs at 60fps and with RT disabled.",
+      "balanced": "Has a base resolution of 1404p that's upscaled to 4K using PSSR. Runs at 40fps and has RT reflections enabled."
+    }
+  },
+  {
     "name": "Mortal Kombat 1",
     "id": "MK1",
     "urlPath": "mortal-kombat-1",
