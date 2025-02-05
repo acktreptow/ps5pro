@@ -1031,6 +1031,28 @@
     }
   },
   {
+    "name": "Star Wars Outlaws",
+    "id": "SW: Outlaws",
+    "urlPath": "star-wars-outlaws",
+    "genre": "Action-Adventure",
+    "developer": "Massive Entertainment",
+    "psStudios": false,
+    "release": "August 30, 2024",
+    "metacritic": 75,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections & Global Illumination",
+    "resolution": "4k",
+    "fps": "60fps",
+    "modes": {
+      "fidelity pro": "Higher visual settings. 900p - 1152p at  mostly stable 60fps.",
+      "fidelity": "Sharper than fidelity pro (1512p - 1800p) but at locked 30fps.",
+      "balanced": "Visual quality downgraded compared to fidelity but now at locked 40fps.",
+      "performance": "Old mode from base PS5. 720p - 936p at 60fps with lower visual quality."
+    },
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. PSSR is less stable but sharper and clearer in motion."
+  },
+  {
     "name": "Stellar Blade",
     "id": "Stellar Blade",
     "urlPath": "stellar-blade",
