@@ -1079,6 +1079,26 @@
     "extraInfo": "Both base PS5 and the Pro run at 90fps with no reprojection. However, the Pro version has dynamic shadows and the edge blur effect. It also has a 2.5x foveated resolution increase compared to the 2.25x increase on base PS5. The developers believe the dynamic shadows produce the largest improvement between the versions."
   },
   {
+    "name": "Test Drive Unlimited: SC",
+    "pageTitle": "Test Drive Unlimited: Solar Crown",
+    "id": "TDU: Solar Crown",
+    "urlPath": "test-drive-unlimited-solar-crown",
+    "genre": "Racing, Arcade",
+    "developer": "KT Racing",
+    "psStudios": false,
+    "release": "September 12, 2024",
+    "metacritic": 53,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K TAA",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K (upscaled with TAA) at 30fps.",
+      "performance": "1440p at 60fps"
+    },
+    "extraInfo": "The base PS5 quality mode is only 1440p."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
