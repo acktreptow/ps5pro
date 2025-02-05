@@ -18,15 +18,6 @@
     "metacritic": 76
   },
   {
-    "name": "Anno 117: Pax Romana",
-    "id": "Anno 117",
-    "genre": "Strategy, City-building",
-    "developer": "Ubisoft Mainz",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Asphalt Legends Unite",
     "id": "ALU",
     "genre": "Racing, Arcade",
@@ -81,30 +72,12 @@
     "metacritic": 0
   },
   {
-    "name": "Borderlands 4",
-    "id": "Borderlands 4",
-    "genre": "Looter Shooter",
-    "developer": "Gearbox Software",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Carmen Sandiego",
     "id": "CS",
     "genre": "Puzzle, Adventure",
     "developer": "Gameloft",
     "psStudios": false,
     "release": "March 4, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Civilization 7",
-    "id": "Civ 7",
-    "genre": "4X Turn-Based Strategy",
-    "developer": "Firaxis Games",
-    "psStudios": false,
-    "release": "February 11, 2025",
     "metacritic": 0
   },
   {
@@ -135,30 +108,12 @@
     "metacritic": 0
   },
   {
-    "name": "Death Stranding 2: OTB",
-    "id": "DS2: OtB",
-    "genre": "Action Strand",
-    "developer": "Kojima Productions",
-    "psStudios": true,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Doom: The Dark Ages",
     "id": "Doom: TDA",
     "genre": "First-Person Shooter",
     "developer": "id Software",
     "psStudios": false,
     "release": "May 15, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Dune: Awakening",
-    "id": "Dune: A",
-    "genre": "Open-World Survival MMO",
-    "developer": "Funcom",
-    "psStudios": false,
-    "release": "2025",
     "metacritic": 0
   },
   {
@@ -169,15 +124,6 @@
     "psStudios": false,
     "release": "January 17, 2025",
     "metacritic": 79
-  },
-  {
-    "name": "Elden Ring Nightreign",
-    "id": "ER: Nightreign",
-    "genre": "Co-Op Soulsborne",
-    "developer": "FromSoftware",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
   },
   {
     "name": "Elemental War Clash",
@@ -216,33 +162,6 @@
     "metacritic": 64
   },
   {
-    "name": "FBC: Firebreak",
-    "id": "Firebreak",
-    "genre": "PvE Co-Op FPS",
-    "developer": "Remedy Entertainment",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Forza Horizon 5",
-    "id": "FH5",
-    "genre": "Driving, Arcade",
-    "developer": "Playground Games",
-    "psStudios": false,
-    "release": "Spring, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Ghost Of Yōtei",
-    "id": "GoY",
-    "genre": "Action-Adventure",
-    "developer": "Sucker Punch",
-    "psStudios": true,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
     "genre": "Action-Adventure",
@@ -250,15 +169,6 @@
     "psStudios": true,
     "release": "November 9, 2022",
     "metacritic": 94
-  },
-  {
-    "name": "Grand Theft Auto 6",
-    "id": "GTA 6",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar Games",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
   },
   {
     "name": "Hunt: Showdown 1896",
@@ -276,15 +186,6 @@
     "developer": "Nacon Studio Ghent",
     "psStudios": false,
     "release": "TBA",
-    "metacritic": 0
-  },
-  {
-    "name": "Indiana Jones: GC",
-    "id": "IJ: GC",
-    "genre": "Action-Adventure",
-    "developer": "MachineGames",
-    "psStudios": false,
-    "release": "Spring, 2025",
     "metacritic": 0
   },
   {
@@ -333,24 +234,6 @@
     "metacritic": 0
   },
   {
-    "name": "Mafia: The Old Country",
-    "id": "Mafia: TOC",
-    "genre": "Action-Adventure",
-    "developer": "Hangar 13",
-    "psStudios": false,
-    "release": "Summer, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Marvel 1943: ROH",
-    "id": "Marvel 1943",
-    "genre": "Action-Adventure",
-    "developer": "Skydance New Media",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Midnight Murder Club",
     "id": "MMC",
     "genre": "Multiplayer FPS",
@@ -394,15 +277,6 @@
     "psStudios": false,
     "release": "November 2, 2023",
     "metacritic": 80
-  },
-  {
-    "name": "Ninja Gaiden 4",
-    "id": "NG4",
-    "genre": "Action-Adventure",
-    "developer": "Team Ninja & Platinum",
-    "psStudios": false,
-    "release": "Fall, 2025",
-    "metacritic": 0
   },
   {
     "name": "Off The Grid",
@@ -540,24 +414,6 @@
     "metacritic": 53
   },
   {
-    "name": "The Alters",
-    "id": "The Alters",
-    "genre": "Survival, Action-Adventure",
-    "developer": "11 Bit Studios",
-    "psStudios": false,
-    "release": "Q1, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "The DPA: Directive 8020",
-    "id": "The DPA: D-8020",
-    "genre": "Horror, Interactive Drama",
-    "developer": "Supermassive Games",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "The Finals",
     "id": "The Finals",
     "genre": "Multiplayer FPS",
@@ -573,33 +429,6 @@
     "developer": "Neople & Nexon",
     "psStudios": false,
     "release": "March 27, 2025",
-    "metacritic": 0
-  },
-  {
-    "name": "The Outer Worlds 2",
-    "id": "ToW 2",
-    "genre": "Action Western RPG",
-    "developer": "Obsidian",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "The Sinking City 2",
-    "id": "TSC 2",
-    "genre": "Survival Horror",
-    "developer": "Frogwares",
-    "psStudios": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "The Talos Principle",
-    "id": "TTP: Reawakened",
-    "genre": "Puzzle",
-    "developer": "Croteam",
-    "psStudios": false,
-    "release": "Early 2025",
     "metacritic": 0
   },
   {
@@ -717,6 +546,177 @@
     "developer": "Brinemedia",
     "psStudios": false,
     "release": "December 11, 2024",
+    "metacritic": 0
+  },
+  {
+    "name": "Anno 117: Pax Romana",
+    "id": "Anno 117",
+    "genre": "Strategy, City-building",
+    "developer": "Ubisoft Mainz",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Borderlands 4",
+    "id": "Borderlands 4",
+    "genre": "Looter Shooter",
+    "developer": "Gearbox Software",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Civilization 7",
+    "id": "Civ 7",
+    "genre": "4X Turn-Based Strategy",
+    "developer": "Firaxis Games",
+    "psStudios": false,
+    "release": "February 11, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Death Stranding 2: OTB",
+    "id": "DS2: OtB",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "psStudios": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Dune: Awakening",
+    "id": "Dune: A",
+    "genre": "Open-World Survival MMO",
+    "developer": "Funcom",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Elden Ring Nightreign",
+    "id": "ER: Nightreign",
+    "genre": "Co-Op Soulsborne",
+    "developer": "FromSoftware",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "FBC: Firebreak",
+    "id": "Firebreak",
+    "genre": "PvE Co-Op FPS",
+    "developer": "Remedy Entertainment",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Forza Horizon 5",
+    "id": "FH5",
+    "genre": "Driving, Arcade",
+    "developer": "Playground Games",
+    "psStudios": false,
+    "release": "Spring, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Ghost Of Yōtei",
+    "id": "GoY",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "psStudios": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Grand Theft Auto 6",
+    "id": "GTA 6",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Indiana Jones: GC",
+    "id": "IJ: GC",
+    "genre": "Action-Adventure",
+    "developer": "MachineGames",
+    "psStudios": false,
+    "release": "Spring, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "id": "Mafia: TOC",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "psStudios": false,
+    "release": "Summer, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Marvel 1943: ROH",
+    "id": "Marvel 1943",
+    "genre": "Action-Adventure",
+    "developer": "Skydance New Media",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Ninja Gaiden 4",
+    "id": "NG4",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja & Platinum",
+    "psStudios": false,
+    "release": "Fall, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Alters",
+    "id": "The Alters",
+    "genre": "Survival, Action-Adventure",
+    "developer": "11 Bit Studios",
+    "psStudios": false,
+    "release": "Q1, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The DPA: Directive 8020",
+    "id": "The DPA: D-8020",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Supermassive Games",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Outer Worlds 2",
+    "id": "ToW 2",
+    "genre": "Action Western RPG",
+    "developer": "Obsidian",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Sinking City 2",
+    "id": "TSC 2",
+    "genre": "Survival Horror",
+    "developer": "Frogwares",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Talos Principle",
+    "id": "TTP: Reawakened",
+    "genre": "Puzzle",
+    "developer": "Croteam",
+    "psStudios": false,
+    "release": "Early 2025",
     "metacritic": 0
   }
 ]
