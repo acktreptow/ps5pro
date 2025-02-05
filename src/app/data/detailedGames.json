@@ -1165,6 +1165,21 @@
     }
   },
   {
+    "name": "War Thunder",
+    "id": "War Thunder",
+    "urlPath": "war-thunder",
+    "genre": "Vehicular Combat MMO",
+    "developer": "Gaijin Entertainment",
+    "psStudios": false,
+    "release": "November 16, 2020",
+    "metacritic": 81,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "According to the War Thunder press release, the Pro version also gets 'more improvements and additional optimization'. The base PS5 can also only run at 1080p when aiming for 120fps."
+  },
+  {
     "name": "Warhammer 40K SM2",
     "pageTitle": "Warhammer 40,000: Space Marine 2",
     "id": "Space Marine 2",
