@@ -1180,6 +1180,26 @@
     "extraInfo": "According to the War Thunder press release, the Pro version also gets 'more improvements and additional optimization'. The base PS5 can also only run at 1080p when aiming for 120fps."
   },
   {
+    "name": "Warhammer 40,000: RT",
+    "pageTitle": "Warhammer 40,000: Rogue Trader",
+    "id": "Rogue Trader",
+    "urlPath": "warhammer-40k-rogue-trader",
+    "genre": "Isometric RPG",
+    "developer": "Owlcat Games",
+    "psStudios": false,
+    "release": "December 7, 2023",
+    "metacritic": 100,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K at 30fps.",
+      "performance": "1080p at 60fps"
+    },
+    "extraInfo": "The base PS5 can't run the game at a native 4K."
+  },
+  {
     "name": "Warhammer 40K SM2",
     "pageTitle": "Warhammer 40,000: Space Marine 2",
     "id": "Space Marine 2",
