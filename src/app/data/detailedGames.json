@@ -1180,6 +1180,7 @@
     "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": {
+      "fidelity": "TBA",
       "performance": "Up to 4K PSSR 60fps with RT.",
       "performanceRTPro": "Uses quality mode of base PS5 + RT to while targeting 60fps."
     },
