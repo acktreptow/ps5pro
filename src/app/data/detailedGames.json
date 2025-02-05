@@ -1197,5 +1197,20 @@
       "fidelity": "1080-1440p reconstructed to 4K PSSR at a locked 30fps.",
       "performance": "1080-1440p reconstructed to 4K PSSR at mostly stable 60fps that can drop to around 50fps in more chaotic scenes."
     }
+  },
+  {
+    "name": "Zombie Derby",
+    "id": "Zombie Derby",
+    "urlPath": "zombie-derby",
+    "genre": "Racing, Vehicle Combat",
+    "developer": "Brinemedia",
+    "psStudios": false,
+    "release": "December 11, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. PS5 Pro runs at 4K."
   }
 ]
