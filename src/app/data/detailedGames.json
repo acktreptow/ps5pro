@@ -1199,6 +1199,22 @@
     }
   },
   {
+    "name": "World Of Warships: L",
+    "pageTitle": "World Of Warships: Legends",
+    "id": "WoW: Legends",
+    "urlPath": "world-of-warships-legends",
+    "genre": "Multiplayer Naval Combat",
+    "developer": "Wargaming",
+    "psStudios": false,
+    "release": "April 4, 2021",
+    "metacritic": 83,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "The Pro version runs at 4K/60fps which interestingly, is the same as the Series X version. The base PS5 version runs at 1440p/60fps."
+  },
+  {
     "name": "Zombie Derby",
     "id": "Zombie Derby",
     "urlPath": "zombie-derby",
