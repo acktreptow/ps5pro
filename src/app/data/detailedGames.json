@@ -11,12 +11,14 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections",
-    "resolution": "4k",
+    "resolution": "1124p to 4K PSSR",
     "fps": "60fps",
     "modes": {
       "fidelity": "1224p PSSR to 4K output. Mostly stable 30fps with RT reflections.",
-      "performance": "864p PSSR to 4K output. Mostly stable 60fps with no RT."
-    }
+      "performance": "864p PSSR to 4K output. Mostly stable 60fps (low of 55fps) with no RT.",
+      "balanced": "864p PSSR to 4K output at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120hz display."
+    },
+    "extraInfo": "Can toggle between PSSR and FSR. FSR is less noisy and more 4K like in stills. PSSR looks better in motion with less artifacting. Difference between the two are less obvious in quality mode as base resolution is above 1080p (performance/balanced look relatively soft as 864p to 4K is a big jump). RT quality are on the lower side compared to PC."
   },
   {
     "name": "Apex Legends",
