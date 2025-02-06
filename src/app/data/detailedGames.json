@@ -495,10 +495,10 @@
     "resolution": "4K",
     "fps": "60fps",
     "modes": {
-      "fidelity": "4K 30fps",
-      "performance": "1440p 60fps"
+      "fidelity": "4K (improperly paced, but stable) 30fps",
+      "performance": "1440p (mostly stable) 60fps"
     },
-    "extraInfo": "Just resolution increases in both modes as on base PS5, fidelity mode is at 1620p and performance is at 1080p."
+    "extraInfo": "Resolution increases in both modes as on base PS5, fidelity mode is 1728p and performance is 1080p. However, all 4 modes' images are relatively unstable due to mediocre TAA. Resulting in a larger gap between performance modes than fidelity modes (less shimmering/clearer text etc). 60fps on Pro is also more stable than on base PS5, with only the hardest difficulties causing drops (usually still in the VRR window). Both fidelity modes remain improperly paced, but the Pro version is more stable."
   },
   {
     "name": "Hitman Trilogy",
