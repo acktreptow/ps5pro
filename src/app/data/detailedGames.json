@@ -437,13 +437,13 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Hardware-based RT reflections, shadows & global illumination",
-    "resolution": "4K TSR",
+    "resolution": "1350p to 4K TSR",
     "fps": "120fps",
     "modes": {
-      "fidelity": "1350p TSR to 4K output at 60fps with hardware-based RT reflections, shadows & global illumination .",
-      "performance": "Software-based Lumen RT at 120fps."
+      "fidelity": "1350p to 4K TSR output at 60fps with hardware-based RT reflections, shadows & global illumination.",
+      "performance": "Software-based Lumen RT at 120fps. The type of RT seen in most console UE5 games."
     },
-    "extraInfo": "Performance mode practically identical to base PS5. Fidelity mode has better RT implementation due to being hardware-based."
+    "extraInfo": "Performance mode looks practically identical to base PS5 but at double the framerate. Fidelity mode has better RT implementation due to being hardware-based (less breakup/pop-in, more detailed, character models in reflections etc)."
   },
   {
     "name": "God Of War: Ragnarök",
