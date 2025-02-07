@@ -113,15 +113,15 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections & Global Illumination",
-    "resolution": "4k",
+    "resolution": "1800p to 4K PSSR or FSR3",
     "fps": "60fps",
     "modes": {
-      "fidelity pro": "Higher visual settings. 900p - 1152p at  mostly stable 60fps.",
+      "fidelity pro": "900p - 1152p at mostly stable 60fps.",
       "fidelity": "Sharper than fidelity pro (1512p - 1800p) but at locked 30fps.",
       "balanced": "Visual quality downgraded compared to fidelity but now at locked 40fps.",
-      "performance": "Old mode from base PS5. 720p - 936p at 60fps with lower visual quality."
+      "performance": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p."
     },
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. PSSR is less stable but sharper and clearer in motion."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the fidelity 30fps mode."
   },
   {
     "name": "Baldur's Gate 3",
