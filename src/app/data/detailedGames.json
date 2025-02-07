@@ -790,11 +790,11 @@
     "metacritic": 82,
     "pssr": true,
     "rt": false,
-    "resolution": "8K PSSR",
+    "resolution": "2700p to 8K PSSR",
     "fps": "60fps",
     "modes": {
       "fidelity": "4K PSSR at 60fps.",
-      "performance": "8K PSSR at 30fps."
+      "performance": "2592-2700p to 8K PSSR at 30fps."
     },
     "extraInfo": "Both modes also have improved lighting, ultra quality reflections and higher quality ambient occlusion compared to base PS5. These improvement are also seen in the PSVR2 version."
   },
