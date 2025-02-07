@@ -172,13 +172,13 @@
     "metacritic": 83,
     "pssr": true,
     "rt": false,
-    "resolution": "4k",
+    "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": {
-      "fidelity": "4K PSSR at 60fps. Around 70fps with VRR. Improved lighting and shadows compared to performance mode.",
-      "performance": "1440p at relatively stable 120fps."
+      "fidelity": "4K PSSR at mostly locked 60fps. Around 70-80fps with VRR. Improved global illumination (biggest improvement), ambient occlusion, reflections and shadows compared to performance mode.",
+      "performance": "1440p at relatively stable 120fps. Graphics settings the same as base PS5 fidelity mode that runs at 60fps."
     },
-    "extraInfo": "Improved PSSR implementation is coming in a future patch."
+    "extraInfo": "Improved PSSR implementation is coming in a future patch that fixes the artifacting/white dots in some areas. Splitscreen multiplayer is also now a locked 60fps compared to mid 50s on base PS5."
   },
   {
     "name": "Dead Island 2",
