@@ -951,13 +951,14 @@
     "metacritic": 86,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
-    "resolution": "1512p PSSR (likely)",
+    "rtTypes": "Hardware-based ray-traced reflections, global illumination.",
+    "resolution": "1152p to 4K TSR",
     "fps": "60fps",
     "modes": {
-      "fidelity": "1080p PSSR upscale to 4K. 30fps with RT reflections.",
-      "performance": "1152p TSR upscale to 4K. 60fps with RT reflections."
-    }
+      "fidelity": "1080p PSSR upscale to 4K. Locked 30fps with RT.",
+      "performance": "1152p to 4K TSR. Relatively locked 60fps (lows of high 40s) with RT."
+    },
+    "extraInfo": "PS5 Pro uses superior hardware-based RT compared to the software-based RT on base PS5 modes (less breakup/clearer reflections etc). Pro also has a higher resolution before upscaling. PSSR implementation causes so much shimmer that one could argue base PS5 fidelity mode looks better due to using TSR, despite worse RT implementation. Hopefully Bloober Team either improve PSSR implementation or revert to TSR (like they did for performance) for the Pro fidelity mode."
   },
   {
     "name": "Slitterhead",
