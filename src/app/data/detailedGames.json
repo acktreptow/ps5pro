@@ -422,8 +422,9 @@
     "metacritic": 92,
     "pssr": true,
     "rt": false,
-    "resolution": "1440p PSSR (likely)",
-    "fps": "60fps"
+    "resolution": "1222p to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "PS5 Pro mode (versatility mode) runs at 1152p-1222p to 4K PSSR at a very stable 60fps. All base PS5 modes are present and its 30fps fidelity mode has a higher internal resolution. However the PSSR implementation, though a bit noisier, still creates a far clearer/sharper image, and at 60fps. Considering Pro's versatility mode has both the clearest resolution and highest framerate, all other modes are redundant."
   },
   {
     "name": "Fortnite",
