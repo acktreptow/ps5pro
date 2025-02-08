@@ -455,14 +455,15 @@
     "release": "November 9, 2022",
     "metacritic": 94,
     "pssr": true,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Very light RT for scene-aligned cube maps.",
     "resolution": "4K",
     "fps": "120fps",
     "modes": {
-      "fidelity": "(PS5 Pro Enhanced mode): Quality settings of base PS5 but runs at 60fps.",
-      "performance": "(High Frame Rate mode): Unlocks framerate for up to 120fps (often around 100fps) on VRR displays."
+      "fidelity": "(PS5 Pro Enhanced mode): Quality settings of base PS5 but runs at 4K/60+fps instead of 30fps.",
+      "performance": "(High Frame Rate mode): Unlocks framerate for up to 120fps (often around 70-100fps depending on upscaler) on VRR displays."
     },
-    "extraInfo": "All modes can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) in motion, but less stable with around 10 frames fewer. Both use 1440p as the base resolution for upscaling."
+    "extraInfo": "HFR mode can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
   },
   {
     "name": "Gran Turismo 7",
