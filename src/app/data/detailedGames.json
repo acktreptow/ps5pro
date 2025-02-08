@@ -552,12 +552,13 @@
     "metacritic": 85,
     "pssr": false,
     "rt": false,
-    "resolution": "1440p PSSR (likely)",
-    "fps": "30-60fps",
+    "resolution": "4K",
+    "fps": "60fps",
     "modes": {
-      "fidelity": "4K 30fps with improved shadows, depth-of-field, skin and hair shaders, clouds, god rays etc",
-      "performance": "4K 60fps"
-    }
+      "fidelity": "4K 30fps",
+      "performance": "4K 60fps. Very slightly more blurry than fidelity mode due to lower base resolution before upscaling to 4K."
+    },
+    "extraInfo": "Both modes have improved shadows, depth-of-field, skin and hair shaders, clouds, god rays etc. Digital Foundry thinks it's the best looking console game (along with Horizon 2) ever! Equivalent to a high-end PC game."
   },
   {
     "name": "Horizon 2 Forbidden West",
@@ -571,12 +572,13 @@
     "metacritic": 88,
     "pssr": false,
     "rt": false,
-    "resolution": "1440p PSSR (likely)",
-    "fps": "30-60fps",
+    "resolution": "4K",
+    "fps": "60fps",
     "modes": {
-      "fidelity": "4K 30fps with improved shadows, depth-of-field, skin and hair shaders, clouds, god rays etc",
-      "performance": "4K 60fps"
-    }
+      "fidelity": "4K 30fps",
+      "performance": "4K 60fps. Very slightly more blurry than fidelity mode due to lower base resolution before upscaling to 4K."
+    },
+    "extraInfo": "Both modes have improved shadows, depth-of-field, skin and hair shaders, clouds, god rays etc. Digital Foundry thinks it's the best looking console game (along with Horizon 1) ever! Equivalent to a high-end PC game."
   },
   {
     "name": "Kayak VR: Mirage",
