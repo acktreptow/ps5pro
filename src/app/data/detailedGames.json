@@ -251,12 +251,13 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced Ambient Occlusion",
-    "resolution": "4K",
+    "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": {
       "fidelity": "30fps with RTAO",
-      "performance": "60fps with RTAO"
-    }
+      "performance": "864p to 1440p PSSR 60fps with RTAO. Flickers a lot/looks very aliased due to low base resolution."
+    },
+    "extraInfo": "Base PS5 uses FSR instead of PSSR. Looks a lot softer but less flickering/aliasing making assets like foliage look better compared to PS5 Pro."
   },
   {
     "name": "Dragon's Dogma 2",
