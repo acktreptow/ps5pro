@@ -775,14 +775,15 @@
     "release": "January 23, 2025",
     "metacritic": 80,
     "pssr": false,
-    "rt": false,
-    "resolution": "4K",
+    "rt": true,
+    "rtTypes": "Software-based UE5 Lumen",
+    "resolution": "4K TSR",
     "fps": "120fps",
     "modes": {
-      "fidelity": "Upscaled 4K at relatively locked 60fps.",
-      "performance": "Upscaled 1080p at relatively locked 120fps."
+      "fidelity": "Upscaled 4K TSR at locked 60fps except for some cutscenes (lows of mid 50s).",
+      "performance": "Upscaled 1080p TSR at somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
     },
-    "extraInfo": "Both modes are the same as the base PS5 version. However, the base resolution before upscaling is higher on the PS5 Pro version. PS5 Pro also hits target framerate more often."
+    "extraInfo": "Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Both modes are the same as the two on base PS5. However, the Pro has a higher base resolution before upscaling and hits its target framerate more often."
   },
   {
     "name": "No Man's Sky",
