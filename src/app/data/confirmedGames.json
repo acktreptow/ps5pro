@@ -162,6 +162,15 @@
     "metacritic": 64
   },
   {
+    "name": "Hell Is Us",
+    "id": "HiU",
+    "genre": "Action-Adventure",
+    "developer": "Rogue Factor",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Hunt: Showdown 1896",
     "id": "HS 1896",
     "genre": "Extraction Shooter",
