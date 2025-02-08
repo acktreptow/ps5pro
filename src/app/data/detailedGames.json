@@ -221,9 +221,9 @@
     "metacritic": 92,
     "pssr": true,
     "rt": false,
-    "resolution": "4K PSSR (likely)",
+    "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Improved shadows (still not RT)"
+    "extraInfo": "Base PS5 has two modes: 1440p/60fps and 4K/30fps. While the native 4K in base PS5's fidelity mode is a little sharper than the Pro mode, it's also far more noisy, more aliased and less temporally stable than the PSSR upscaled 4K in the Pro mode, which therefore has the better image quality despite the lower base resolution. The Pro mode also has improved shadows and a locked 60fps."
   },
   {
     "name": "Diablo IV",
