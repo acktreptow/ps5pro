@@ -608,9 +608,9 @@
     "metacritic": 88,
     "pssr": true,
     "rt": false,
-    "resolution": "1296p PSSR",
-    "fps": "60fps",
-    "extraInfo": "Uses PSSR to upscale from 1296p to 4K, where as base PS5 uses FSR 2 to upscale from 1080p to 1440p to hit 60fps. There is also a fidelity mode on base PS5 that has the highest resolution at 1440p, but only at 30fps. PS5 Pro mode also has the improved tree and shadow LODs, ambient occlusion and object quality of base PS5 fidelity mode."
+    "resolution": "1296p to 4K PSSR",
+    "fps": "70fps",
+    "extraInfo": "Pro is 1296p to 4K PSSR at a nearly locked 60fps, or around 70fps with VRR enabled. Base PS5 is only 1080p to 1440p FSR when targeting 60, though 1440p to 4K FSR at 30fps. However, even with Pro using a lower base resolution before upscaling, PSSR still produces the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5's fidelity mode, making the Pro mode the best of both worlds."
   },
   {
     "name": "Lies Of P",
