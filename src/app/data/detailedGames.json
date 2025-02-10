@@ -152,14 +152,16 @@
     "release": "August 20, 2024",
     "metacritic": 76,
     "pssr": true,
-    "rt": false,
-    "resolution": "4k PSSR",
+    "rt": true,
+    "rtTypes": "UE5 Lumen software-based global illumination",
+    "resolution": "1296p to 4K PSSR",
     "fps": "60fps",
     "modes": {
-      "fidelity": "1440p PSSR to 4K output at a very stable 30fps.",
-      "balanced": "1080p PSSR to 4K output at a very stable 40fps. Slightly worse shadows than fidelity mode.",
-      "performance": "1080p FS3 to 1440p output. Frame-gen used to hit a still unstable 60ps."
-    }
+      "fidelity": "1296p to 4K PSSR at a very stable 30fps.",
+      "balanced": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than fidelity mode.",
+      "performance": "1080p to 1440p FSR3. Frame-gen used to hit a still unstable 60ps."
+    },
+    "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. Its balanced and quality modes however only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
