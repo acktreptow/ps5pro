@@ -1087,7 +1087,7 @@
       "balanced": "Visual quality downgraded compared to fidelity but now at locked 40fps.",
       "performance": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p."
     },
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer and less noisy in stills (especially foliage and RT reflections). Quality mode is the only one that provides stable RT."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is small now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT."
   },
   {
     "name": "Stellar Blade",
