@@ -537,12 +537,16 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections & shadows",
-    "resolution": "1080p PSSR (likely)",
-    "fps": "30 - 60fps",
+    "resolution": "1728p to 4K PSSR",
+    "fps": "60fps",
     "modes": {
-      "fidelity": "4K 30fps with RT",
-      "performance": "8K 60fps with no RT"
-    }
+      "fidelityRT": "1728p to 4K PSSR at nearly locked 30fps with RT reflections and shadows.",
+      "fidelity": "1728p to 4K PSSR at locked 30fps without RT.",
+      "performance": "1440p to 4K PSSR at nearly locked 60fps without RT.",
+      "hfr": "Only for 120hz/VRR screens. Same as performance mode but with no framerate cap. Usually around 80fps.",
+      "balanced": "Only for 120hz screens. 4K PSSR at nearly locked 40fps without RT."
+    },
+    "extraInfo": "You can remove the framerate cap in the fidelity and balanced modes, increasing the framerate by 5-10. RT shadows are better quality than base PS5, but less accurate on some moving objects. RT reflections have twice the resolution on Pro compared to base PS5. It also applies to bodies of water unlike base PS5 which uses SSR, though can look noisy due to PSSR. Base PS5 uses FSR 1 to upscale, which looks sharper, but more aliased than PSSR."
   },
   {
     "name": "Horizon 1 Zero Dawn",
