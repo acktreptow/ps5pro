@@ -433,6 +433,15 @@
     "metacritic": 0
   },
   {
+    "name": "Tides Of Annihilation",
+    "id": "ToA",
+    "genre": "Action-Adventure",
+    "developer": "Eclipse Glow Games",
+    "psStudios": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "TopSpin 2K25",
     "id": "TopSpin 25",
     "genre": "Sports, Tennis",
