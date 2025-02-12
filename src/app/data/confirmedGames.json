@@ -388,6 +388,15 @@
     "metacritic": 40
   },
   {
+    "name": "Saros",
+    "id": "Saros",
+    "genre": "TPA Roguelite",
+    "developer": "Housemarque",
+    "psStudios": true,
+    "release": "2026",
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat 'em Up",
