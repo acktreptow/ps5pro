@@ -244,6 +244,15 @@
     "metacritic": 0
   },
   {
+    "name": "Metal Eden",
+    "id": "ME",
+    "genre": "Sci-Fi FPS",
+    "developer": "Reikon Games",
+    "psStudios": false,
+    "release": "May 6th, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Murder Club",
     "id": "MMC",
     "genre": "Multiplayer FPS",
