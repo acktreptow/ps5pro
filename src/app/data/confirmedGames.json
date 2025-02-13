@@ -262,6 +262,15 @@
     "metacritic": 0
   },
   {
+    "name": "MindsEye",
+    "id": "MindsEye",
+    "genre": "Action-Adventure",
+    "developer": "Build A Rocket Boy",
+    "psStudios": false,
+    "release": "Summer, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "MLB The Show 25",
     "id": "MLB 25",
     "genre": "Sports, Baseball",
