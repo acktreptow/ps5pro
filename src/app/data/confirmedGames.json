@@ -125,7 +125,15 @@
     "release": "May 15, 2025",
     "metacritic": 0
   },
-
+  {
+    "name": "Dreams Of Another",
+    "id": "DoA",
+    "genre": "VR Exploration-Action",
+    "developer": "Q-Games",
+    "psStudios": false,
+    "release": "2025",
+    "metacritic": 0
+  },
   {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
