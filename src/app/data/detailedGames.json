@@ -488,7 +488,7 @@
       "resolution": "8K locked 60fps with no RT. Requires PSSR to upscale from 4K native to 8K PSSR.",
       "performance": "1800p to 4K locked 120fps with no RT regardless of upscaler."
     },
-    "extraInfo": "You can toggle between TAA and PSSR for upscaling. Can also toggle RT with either upscaler, except for cockpit mode where on PSSR can be selected if you want RT. PSSR is around 10-15 frames more than native 4K, but can go as low as 1080p before upscaling to 4K. PSSR can produce additional shimmer/noise in thin objects and additional artifacting on a few cars. All framerates are locked except for one track in rainy conditions. Replays can drop the framerate more offten than gameplay but still usually in VRR window."
+    "extraInfo": "You can toggle between TAA and PSSR for upscaling. Can also toggle RT with either upscaler, except for cockpit mode where on PSSR can be selected if you want RT. PSSR is around 10-15 frames more than native 4K, but can go as low as 1080p before upscaling to 4K. PSSR can produce additional shimmer/noise in thin objects and additional artifacting on a few cars. All framerate are locked except for one track in rainy conditions. Replays can drop the framerate more often than gameplay but still usually in VRR window."
   },
   {
     "name": "Helldivers 2",
