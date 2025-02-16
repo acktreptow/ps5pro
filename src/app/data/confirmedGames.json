@@ -639,6 +639,15 @@
     "metacritic": 0
   },
   {
+    "name": "Lost Soul Aside",
+    "id": "LSA",
+    "genre": "Action RPG",
+    "developer": "Ultizero Games",
+    "psStudios": true,
+    "release": "May 30, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Mafia: The Old Country",
     "id": "Mafia: TOC",
     "genre": "Action-Adventure",
