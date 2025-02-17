@@ -183,6 +183,21 @@
     "extraInfo": "Improved PSSR implementation is coming in a future patch that fixes the artifacting/white dots in some areas. Splitscreen multiplayer is also now a locked 60fps (mid 50s on base PS5). Finally, the anti-lag VRR implementation in fidelity mode means it actually has lower input latency than performance mode, despite fewer frames."
   },
   {
+    "name": "Days Gone Remastered",
+    "id": "DG Remastered",
+    "urlPath": "days-gone-remastered",
+    "genre": "Action-Adventure",
+    "developer": "Bend Studio",
+    "psStudios": true,
+    "release": "April 25, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "There will be a performance and fidelity mode for base PS5. There will be increased foliage draw distance, improved shadow and lighting quality compared to the PS4 version. We will see how those improvements compare between base PS5 and Pro closer to release."
+  },
+  {
     "name": "Dead Island 2",
     "id": "DI2",
     "urlPath": "dead-island-2",
