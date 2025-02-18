@@ -101,6 +101,21 @@
     "fps": "60fps"
   },
   {
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "urlPath": "astro-bot",
+    "genre": "Platformer",
+    "developer": "Team Asobi",
+    "psStudios": true,
+    "release": "September 6, 2024",
+    "metacritic": 94,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1872p to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "1872p to 4K PSSR at a locked 60fps. Despite Pro's DRS regularly having a lower base resolution than base PS5 (1872p vs 2160p etc), the Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to the TAA on base PS5, but also noisier (especially SSR) and more unstable. The introduced noise isn't particularly visible at normal viewing distances however."
+  },
+  {
     "name": "Avatar: Pandora Frontiers",
     "pageTitle": "Avatar: Frontiers of Pandora",
     "id": "Avatar: FoP",
