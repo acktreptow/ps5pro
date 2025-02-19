@@ -896,11 +896,16 @@
     "psStudios": false,
     "release": "March 24, 2023",
     "metacritic": 93,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
     "rtTypes": "Ray-traced reflections",
-    "resolution": "4k PSSR (likely)",
-    "fps": "60fps"
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "4K at locked 60 with RT. Can also toggle HFR on which then increases framerate to 70-90fps.",
+      "performance": "(High Frame Rate mode) 1944p without RT. 85-105fps usually, but can be a locked 120fps in interiors."
+    },
+    "extraInfo": "There's a lot of toggles in this game for RT/HFR/better hair quality etc, so the 2 modes above represent the image quality with all the toggles either on or off. Fidelity mode holds a much more stable 60fps than base PS5, which hovered around 45fps."
   },
   {
     "name": "Resident Evil Village",
