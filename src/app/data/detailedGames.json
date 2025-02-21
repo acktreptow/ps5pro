@@ -474,10 +474,10 @@
     "resolution": "1350p to 4K TSR",
     "fps": "120fps",
     "modes": {
-      "fidelity": "1350p to 4K TSR output at 60fps with hardware-based RT reflections, shadows & global illumination.",
-      "performance": "Software-based Lumen RT at 120fps. The type of RT seen in most console UE5 games."
+      "fidelity": "1350p to 4K TSR at near locked 60fps with hardware-based RT reflections, shadows & global illumination.",
+      "performance": "1080p to 4K TSR at basically locked 120fps with no RT."
     },
-    "extraInfo": "Performance mode looks practically identical to base PS5 but at double the framerate. Fidelity mode has better RT implementation due to being hardware-based (less breakup/pop-in, more detailed, character models in reflections etc)."
+    "extraInfo": "Performance mode looks practically identical to base PS5. Fidelity mode on base PS5 uses software-based RT, meaning Pro has better RT implementation due to being hardware-based (less breakup/shimmering/pop-in, more detailed/stable assets, character models in reflections, more accurate indirect lighting etc)."
   },
   {
     "name": "God Of War: Ragnarök",
