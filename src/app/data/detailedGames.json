@@ -1009,10 +1009,10 @@
     "resolution": "1152p to 4K TSR",
     "fps": "60fps",
     "modes": {
-      "fidelity": "1080p PSSR upscale to 4K. Locked 30fps with RT.",
+      "fidelity": "1080p to 4K PSSR at locked 30fps with RT.",
       "performance": "1152p to 4K TSR. Relatively locked 60fps (lows of high 40s) with RT."
     },
-    "extraInfo": "PS5 Pro uses superior hardware-based RT compared to the software-based RT on base PS5 modes (less breakup/clearer reflections etc). Pro also has a higher resolution before upscaling. PSSR implementation causes so much shimmer that one could argue base PS5 fidelity mode looks better due to using TSR, despite worse RT implementation. Hopefully Bloober Team either improve PSSR implementation or revert to TSR (like they did for performance) for the Pro fidelity mode."
+    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit target framerate more often than the base PS5 version. Pro performance mode also has a higher base resolution. Pro fidelity mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 fidelity mode looks better due to TSR. Bloober should either improve PSSR implementation or revert to TSR (as they did for performance)."
   },
   {
     "name": "Slitterhead",
