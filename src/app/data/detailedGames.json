@@ -11,14 +11,14 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections",
-    "resolution": "1124p to 4K PSSR",
+    "resolution": "1224p to 4K PSSR/FSR",
     "fps": "60fps",
     "modes": {
-      "fidelity": "1224p PSSR to 4K output. Mostly stable 30fps with RT reflections.",
-      "performance": "864p PSSR to 4K output. Mostly stable 60fps (low of 55fps) with no RT.",
-      "balanced": "864p PSSR to 4K output at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120hz display."
+      "fidelity": "1224p to 4K PSSR/FSR. Mostly stable 30fps with RT reflections.",
+      "performance": "864p to 4K PSSR/FSR. Mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5 fidelity mode (more foliage/better lighting etc).",
+      "balanced": "864p to 4K PSSR/FSR at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120hz display."
     },
-    "extraInfo": "Can toggle between PSSR and FSR. FSR is less noisy and more 4K like in stills. PSSR looks better in motion with less artifacting. Difference between the two are less obvious in quality mode as base resolution is above 1080p (performance/balanced look relatively soft as 864p to 4K is a big jump). RT quality are on the lower side compared to PC."
+    "extraInfo": "Can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K like in stills. PSSR looks sharper in motion with less artifacting. Differences are less obvious in quality mode as base resolution is 1224p (others look relatively soft regardless as 864p to 4K is a big jump). There's no RT on base PS5 and Pro also has higher quality shadows/more stable framerate."
   },
   {
     "name": "Apex Legends",
