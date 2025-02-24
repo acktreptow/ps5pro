@@ -1063,8 +1063,13 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections, shadows & VFX",
-    "resolution": "4k PSSR",
-    "fps": "60fps"
+    "resolution": "4K PSSR",
+    "fps": "70fps",
+    "modes": {
+      "fidelity": "(Fidelity Pro): 4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or mid 50s with VRR. Highest quality RT (explained below).",
+      "performance": "(Performance Pro): 1440p to 4K PSSR at locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality."
+    },
+    "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the upscaler on base PS5. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution as opposed to 50% in Performance Pro, and RTAO has more contact shadows, adding depth to assets all over the screen. Draw distance/distant reflections are also improved over Performance Pro (at base PS5 Fidelity level), e.g. more onscreen distant objects like trees."
   },
   {
     "name": "Spider-Man: Miles Morales",
