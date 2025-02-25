@@ -441,14 +441,15 @@
     "metacritic": 79,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Dynamic Diffuse Global Illumination & Ray-traced Ambient Occlusion, transparency and opaque reflections",
-    "resolution": "4K",
-    "fps": "60fps",
+    "rtTypes": "Ray-traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
+    "resolution": "4K to 8K TAAU",
+    "fps": "120fps",
     "modes": {
-      "fidelity": "4K 60fps with RT",
-      "performance": "4K 120fps with no RT",
-      "rayTracing": "8K 30fps with RT including RT shadows"
-    }
+      "fidelity": "1080p-1440p to 4K PSSR. Locked 60fps with all RT in gameplay except shadows.",
+      "performance": "1080p-1440p to 4K TAAU. Mostly locked 120fps with no RT.",
+      "8K": "4K to 8K TAAU at locked 30fps. Gameplay has all RT, including shadows. Requires an 8K TV as it can't be down-sampled."
+    },
+    "extraInfo": "Base PS5 fidelity mode has no RT during gameplay, whereas Pro has 3/4 RT which dramatically improves image realism. Pro even brings back shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5 fidelity mode resolution is 1800p-4K, yet PSSR very nearly matches its sharpness despite a much lower base DRS. Base performance mode is also usually at 1080p compared to Pro's 1440p."
   },
   {
     "name": "Final Fantasy 7 Rebirth",
