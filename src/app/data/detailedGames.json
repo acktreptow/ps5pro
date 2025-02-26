@@ -747,17 +747,18 @@
     "developer": "Capcom",
     "psStudios": false,
     "release": "February 28, 2025",
-    "metacritic": 0,
-    "pssr": false,
+    "metacritic": 90,
+    "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections",
-    "resolution": "1728p to 4K PSSR",
-    "fps": "60fps",
+    "resolution": "1944p to 4K PSSR",
+    "fps": "80fps",
     "modes": {
-      "fidelity": "Has a base resolution of 1728p that's upscaled to 4K using PSSR. Runs at 30fps and has RT reflections enabled.",
-      "performance": "Has a base resolution of 1080p that's upscaled to 4K using PSSR. Runs at 60fps and with RT disabled.",
-      "balanced": "Has a base resolution of 1404p that's upscaled to 4K using PSSR. Runs at 40fps and has RT reflections enabled."
-    }
+      "fidelity": "1728p-1944p to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR.",
+      "performance": "1080p to 4K PSSR with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes.",
+      "balanced": "1404p to 4K PSSR with RT. Nearly locked 40fps, or low 40s in VRR."
+    },
+    "extraInfo": "RT reflections look significantly better than SSR due to no occlusion issues. Pro's PSSR looks much better than base PS5's FSR1 as the image (though slightly softer) has a lot less aliasing/breakup and more temporal stability. This contrast is widened as the base resolution lowers. Pro performance mode also hits its target framerate more often than on base PS5. LFC doesn't trigger in fidelity/balanced modes, so VRR isn't recommended."
   },
   {
     "name": "Mortal Kombat 1",
