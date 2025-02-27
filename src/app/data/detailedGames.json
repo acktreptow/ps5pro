@@ -498,11 +498,11 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Very light RT for scene-aligned cube maps.",
-    "resolution": "4K",
-    "fps": "120fps",
+    "resolution": "1440p to 4K PSSR/TAA",
+    "fps": "105fps",
     "modes": {
-      "fidelity": "(PS5 Pro Enhanced mode): Quality settings of base PS5 but runs at 4K/60+fps instead of 30fps.",
-      "performance": "(High Frame Rate mode): Unlocks framerate for up to 120fps (often around 70-100fps depending on upscaler) on VRR displays."
+      "fidelity": "(PS5 Pro Enhanced mode): Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps.",
+      "performance": "(High Frame Rate mode): Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
     },
     "extraInfo": "HFR mode can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
   },
@@ -846,7 +846,7 @@
     "fps": "60fps",
     "modes": {
       "fidelity": "4K PSSR at 60fps.",
-      "performance": "2592-2700p to 8K PSSR at 30fps."
+      "performance": "2592-2700p to 8K PSSR at locked 30fps."
     },
     "extraInfo": "Both modes also have improved lighting, ultra quality reflections and higher quality ambient occlusion compared to base PS5. These improvement are also seen in the PSVR2 version."
   },
