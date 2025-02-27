@@ -432,6 +432,15 @@
     "metacritic": 0
   },
   {
+    "name": "Pipistrello and Cursed Yoyo",
+    "id": "Pipistrello",
+    "genre": "2D Top-Down Adventure",
+    "developer": "Pocket Trap",
+    "psStudios": false,
+    "release": "TBC",
+    "metacritic": 0
+  },
+  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "genre": "Simulation, City Builder",
