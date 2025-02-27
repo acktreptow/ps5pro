@@ -108,6 +108,15 @@
     "metacritic": 0
   },
   {
+    "name": "Death Stranding 2: OTB",
+    "id": "DS2: OtB",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "psStudios": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Doom: The Dark Ages",
     "id": "Doom: TDA",
     "genre": "First-Person Shooter",
@@ -178,6 +187,15 @@
     "psStudios": false,
     "release": "November 12, 2024",
     "metacritic": 64
+  },
+  {
+    "name": "Forza Horizon 5",
+    "id": "FH5",
+    "genre": "Driving, Arcade",
+    "developer": "Playground Games",
+    "psStudios": false,
+    "release": "April 29, 2025",
+    "metacritic": 0
   },
   {
     "name": "Hell Is Us",
@@ -567,15 +585,6 @@
     "metacritic": 0
   },
   {
-    "name": "Death Stranding 2: OTB",
-    "id": "DS2: OtB",
-    "genre": "Action Strand",
-    "developer": "Kojima Productions",
-    "psStudios": true,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
     "name": "Dune: Awakening",
     "id": "Dune: A",
     "genre": "Open-World Survival MMO",
@@ -600,15 +609,6 @@
     "developer": "Remedy Entertainment",
     "psStudios": false,
     "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Forza Horizon 5",
-    "id": "FH5",
-    "genre": "Driving, Arcade",
-    "developer": "Playground Games",
-    "psStudios": false,
-    "release": "Spring, 2025",
     "metacritic": 0
   },
   {
