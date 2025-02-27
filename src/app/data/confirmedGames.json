@@ -225,6 +225,15 @@
     "metacritic": 0
   },
   {
+    "name": "Indiana Jones: GC",
+    "id": "IJ: GC",
+    "genre": "Action-Adventure",
+    "developer": "MachineGames",
+    "psStudios": false,
+    "release": "April, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
@@ -330,6 +339,15 @@
     "developer": "Milestone",
     "psStudios": false,
     "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "MotoGP 25",
+    "id": "Moto 25",
+    "genre": "Sports, Bike Road Racing",
+    "developer": "Milestone",
+    "psStudios": false,
+    "release": "April 30, 2025",
     "metacritic": 0
   },
   {
@@ -627,15 +645,6 @@
     "developer": "Rockstar Games",
     "psStudios": false,
     "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Indiana Jones: GC",
-    "id": "IJ: GC",
-    "genre": "Action-Adventure",
-    "developer": "MachineGames",
-    "psStudios": false,
-    "release": "Spring, 2025",
     "metacritic": 0
   },
   {
