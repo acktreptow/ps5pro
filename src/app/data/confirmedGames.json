@@ -378,6 +378,15 @@
     "metacritic": 0
   },
   {
+    "name": "Pathfinder: WOTR",
+    "id": "Pathfinder",
+    "genre": "Isometric RPG",
+    "developer": "Owlcat Games",
+    "psStudios": false,
+    "release": "March 28, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Phantom Blade Zero",
     "id": "PBZ",
     "genre": "Soulsborne",
