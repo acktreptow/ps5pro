@@ -1055,7 +1055,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Only advantage over base PS5 is a higher resolution. Pro renders 4K much more often compared to 1440p on base PS5. However, all versions (including Xbox/PC) are poorly aliased, so resolution differences are far less noticeable than in other games because there's so much shimmer regardless. At least the 60fps is locked outside of some explosions, which drop to high 50s."
+    "extraInfo": "Pro's internal resolution is always much higher. It hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders an internal low of 1296p a lot of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
   },
   {
     "name": "Spider-Man 1 Remastered",
