@@ -225,7 +225,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro has improved shadow quality, motion blur, texture filtering and depth of field compared to base PS5. There's also longer draw distances and contact shadows on all objects/lights. The framerate is a locked 60fps like base PS5. Pro's resolution has an internal render of above 2000p for the majority of gameplay, including often at native 4K. It can drop down as low as 1620p (technically lower than base PS5's 1728p native), but this is very rare only last a couple of seconds."
+    "extraInfo": "Pro has improved shadow quality, motion blur, texture filtering and depth of field compared to base PS5. There's also longer draw distances and contact shadows on all objects/lights. The framerate is a locked 60fps like base PS5. Pro's resolution is above 2000p for the majority of gameplay, including often at native 4K. It can drop down as low as 1620p (technically lower than base PS5's fixed 1728p), but this is very rare only last a couple of seconds."
   },
   {
     "name": "Dead Rising Deluxe",
@@ -1076,7 +1076,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro's internal resolution is always much higher. It hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders an internal low of 1296p a lot of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
+    "extraInfo": "Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p much of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
   },
   {
     "name": "Spider-Man 1 Remastered",
