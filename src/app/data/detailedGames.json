@@ -991,8 +991,14 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced reflections",
-    "resolution": "1512p PSSR (likely)",
-    "fps": "60fps"
+    "resolution": "1440p to 4K PSSR",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "1440p to 4K PSSR at very unstable 60fps cap. Averages around 45fps in actual gameplay.",
+      "performance": "1070p-1440p to 4K PSSR at nearly locked 60fps with no RT.",
+      "rayTracing": "1440p to 4K PSSR with RT reflections. Same framerate issues as fidelity mode."
+    },
+    "extraInfo": "The Fidelity and RT modes' framerate falls far below the VRR limit for the majority of gameplay. There is also no toggle to cap the framerate to 30fps, so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower resolution in performance mode, Pro's PSSR is a lot less aliased/clearer than base PS5's FSR. Especially in the foliage which regularly fills the screen."
   },
   {
     "name": "Rogue Flight",
