@@ -311,7 +311,7 @@
       "balanced": "1080p to 4K PSSR at relatively locked 60fps (lows of low 50s).",
       "performance": "720p to 4K PSSR at mostly locked 60fps. Usually around 70-85fps with VRR."
     },
-    "extraInfo": "All modes can toggle RTGI on/off. Due to PSSR, RT is noisy/aliased and looks worse as the base resolution lowers in subsequent modes. PSSR results extend to the image as a whole, even when regular occlusion is used over RT, although PSSR creates a sharper image. Pro also hits its target framerate much more often than base PS5."
+    "extraInfo": "All modes can toggle RTGI on/off. Due to PSSR, RT is noisy/aliased and looks worse as the base resolution lowers in subsequent modes. This exacerbation is also true with regular occlusion, although PSSR creates a sharper image and significantly improves ghosting, texture detail and material quality. Pro also hits its target framerate much more often than base PS5."
   },
   {
     "name": "Dying Light 2: Stay Human",
