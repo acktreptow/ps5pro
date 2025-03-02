@@ -147,15 +147,15 @@
     "psStudios": false,
     "release": "September 6, 2023",
     "metacritic": 96,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
     "modes": {
       "fidelity": "4K at 30fps.",
-      "performance": "1440p upscaled to 4K at 60fps."
+      "performance": "1440p to 4K PSSR at 60fps."
     },
-    "extraInfo": "Split screen can now run at either 30fps or 60fps. Performance mode is better than base PS5 fidelity mode. Approx 10% higher framerate in chapter 3 due to game boost."
+    "extraInfo": "Pro performance mode looks better than even base PS5 fidelity mode due to upscalers used. PSSR is a bit softer than base PS5's FSR, but much more stable with less artifacting/flicker. This is especially seen in motion like moving shadows. Pro also has around a 10% higher framerate, so runs at 60fps more often than base PS5. Split screen can now run at either 30fps or 60fps."
   },
   {
     "name": "Black Myth: Wukong",
