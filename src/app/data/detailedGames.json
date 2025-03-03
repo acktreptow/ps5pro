@@ -50,12 +50,13 @@
     "metacritic": 84,
     "pssr": false,
     "rt": false,
-    "resolution": "2040p",
-    "fps": "120fps",
+    "resolution": "4096p",
+    "fps": "90fps",
     "modes": {
-      "fidelity": "90fps with 15% increase in resolution compared to base PS5.",
-      "performance": "60fps to 120fps reprojection with 25% increase in resolution compared to base PS5."
-    }
+      "fidelity": "4096p per eye at 60fps re-projected",
+      "performance": "2240p per eye at 90fps native"
+    },
+    "extraInfo": "Developers recommend the performance mode, likely due to the native motion. Base PS5 resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
   },
   {
     "name": "Arma Reforger",
