@@ -103,8 +103,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced Global Illumination",
-    "resolution": "TBA",
-    "fps": "60fps"
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Pro has a higher quality implementation of RTGI than base PS5."
   },
   {
     "name": "Astro Bot",
