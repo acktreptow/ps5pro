@@ -276,9 +276,15 @@
     "release": "June 2, 2023",
     "metacritic": 86,
     "pssr": false,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections and shadows",
     "resolution": "4K",
-    "fps": "60fps"
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "Up to 4K native at 30fps. RT shadows and reflections. Improves quality of fur, hair and fog compared to performance mode.",
+      "performance": "Upscaled 4K at 60fps."
+    },
+    "extraInfo": "Fidelity mode hovers around 45-50fps with VRR, so VRR isn't recommended as that's below the 48fps VRR threshold on PlayStation. Pro's fidelity mode also has higher resolutions, improved ambient occlusion and higher quality RT reflections compared to the same mode on base PS5."
   },
   {
     "name": "Dragon Age: The Veilguard",
