@@ -720,15 +720,16 @@
     "psStudios": false,
     "release": "October 13, 2023",
     "metacritic": 70,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
-    "rtTypes": "Global Illumination",
+    "rtTypes": "UE5 Lumen Global Illumination",
     "resolution": "4K",
     "fps": "60fps",
     "modes": {
-      "fidelity": "4K native at 30fps.",
-      "performance": "1440p upscaled to 4K with PSSR at 60fps."
-    }
+      "fidelity": "4K at locked 30fps.",
+      "performance": "1440p to 4K via a custom version of UE5's upscaling at 60fps."
+    },
+    "extraInfo": "Hexworks state a 40% increase in pixel density compared to the base PS5 modes, resulting in sharper distant details and more refined textures on characters and environments. In practice, this increase could be even larger as base PS5 performance mode was between 648p-1152p and fidelity mode was 1296p-1620p. Pro also hits its target framerate more often than base PS5 and is equivalent to the highest graphical settings on PC."
   },
   {
     "name": "Madden NFL 25",
