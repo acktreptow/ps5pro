@@ -701,10 +701,15 @@
     "psStudios": false,
     "release": "September 19, 2023",
     "metacritic": 80,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
-    "resolution": "4K PSSR (likely)",
-    "fps": "60fps"
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K at 40fps+ depending on if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance mode.",
+      "performance": "4K at 60fps. HFR is disabled in this mode."
+    },
+    "extraInfo": "Pro performance mode is a native 4K, whereas the same mode on base PS5 renders at 1512p-1800p internally before being upscaled to 4K. Pro quality mode also has a 30% increase in FPS compared to base PS5 fidelity mode."
   },
   {
     "name": "Lords Of The Fallen",
