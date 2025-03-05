@@ -1330,9 +1330,15 @@
     "metacritic": 52,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections and shadows",
-    "resolution": "4K",
-    "fps": "120fps"
+    "rtTypes": "Ray-traced shadows, reflections on translucent and opaque surfaces, ambient occlusion, and radiance cache.",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "modes": {
+      "fidelity": "4K PSSR at 30fps, or up to 60fps with frame generation on. Has all RT if turned on.",
+      "balanced": "Same as fidelity mode, but aims for 40fps by having a lower internal resolution before being upscaled to 4K PSSR.",
+      "performance": "1440p PSSR at 60fps, which is achieved more often with frame gen on. Has all RT except for RT shadows and translucent surface reflections."
+    },
+    "extraInfo": "One of the few Pro games to combine PSSR with AMD's FSR frame generation, whereas base PS5 uses FSR for upscaling. You can toggle both RT and frame generation on/off in all modes. Frame generation increases framerates, but isn't recommended as the base framerate is too low, resulting in too much input lag."
   },
   {
     "name": "The Last Of Us Part I",
