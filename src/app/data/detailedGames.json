@@ -940,10 +940,15 @@
     "psStudios": false,
     "release": "October 28, 2024",
     "metacritic": 74,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
-    "resolution": "4K PSSR",
-    "fps": "120fps"
+    "resolution": "8K",
+    "fps": "120fps",
+    "modes": {
+      "fidelity": "4K at 120fps with supersampling.",
+      "performance": "8K at 60fps"
+    },
+    "extraInfo": "Base PS5 doesn't have an 8K mode. It also can't run at 120fps when rendering at 4K."
   },
   {
     "name": "Resident Evil 4",
