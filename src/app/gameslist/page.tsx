@@ -106,6 +106,14 @@ const GamesListPage = async () => {
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
         Games With Details
       </h2>
+      <h3>
+        The vast majority (more than 95%) of information regarding PS5 Pro
+        enhancements have been collated from primary sources (press releases,
+        developer comments on social media etc) or extremely well regarded
+        secondary sources (Digital Foundry, NX Gamer etc). It will be explicitly
+        stated if any information doesn&#39;t fall into these categories and are
+        therefore more speculative in nature.
+      </h3>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:text-xl">
         {detailedGames.map((game) => (
           <div
