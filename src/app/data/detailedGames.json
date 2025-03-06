@@ -1173,6 +1173,21 @@
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the upscaler on base PS5. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution as opposed to 50% in Performance Pro, and RTAO has more contact shadows, adding depth to assets all over the screen. Draw distance/distant reflections are also improved over Performance Pro (at base PS5 Fidelity level), e.g. more onscreen distant objects like trees."
   },
   {
+    "name": "Split Fiction",
+    "id": "Split Fiction",
+    "urlPath": "split-fiction",
+    "genre": "Co-Op Adventure",
+    "developer": "Hazelight Studios",
+    "psStudios": false,
+    "release": "March 6, 2025",
+    "metacritic": 91,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "The framerate is a locked 60fps. Base PS5 renders at 1800p compared to 4K native on Pro. However due to the current aliasing implementation Pro (and PC) use, certain assets like railings can look more jagged despite the higher resolution. This is likely a bug that will be an easy fix in a future patch. Despite being on Unreal Engine 5, the Pro (and again, even on PC) doesn't use RT."
+  },
+  {
     "name": "Star Wars Jedi: Survivor",
     "id": "SWJ: Survivor",
     "urlPath": "star-wars-jedi-survivor",

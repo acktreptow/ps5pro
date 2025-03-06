@@ -486,15 +486,6 @@
     "metacritic": 0
   },
   {
-    "name": "Split Fiction",
-    "id": "SF",
-    "genre": "Co-Op Adventure",
-    "developer": "Hazelight Studios",
-    "psStudios": false,
-    "release": "March 6, 2025",
-    "metacritic": 91
-  },
-  {
     "name": "The Finals",
     "id": "The Finals",
     "genre": "Multiplayer FPS",
