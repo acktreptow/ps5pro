@@ -4,6 +4,7 @@
     "id": "A Plague Tale 2",
     "genre": "Action-Adventure, Stealth",
     "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
     "psStudios": false,
     "release": "October 18, 2022",
     "metacritic": 82
@@ -13,6 +14,7 @@
     "id": "A Quiet Place",
     "genre": "Survival Horror",
     "developer": "Stormind Games",
+    "publisher": "Saber Interactive",
     "psStudios": false,
     "release": "October 17, 2024",
     "metacritic": 67
@@ -22,6 +24,7 @@
     "id": "A: RI",
     "genre": "VR Survival Horror",
     "developer": "Survios",
+    "publisher": "Survios",
     "psStudios": false,
     "release": "December 19, 2024",
     "metacritic": 74
@@ -31,6 +34,7 @@
     "id": "AitD",
     "genre": "Survival Horror",
     "developer": "Pieces Interactive",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "March 20, 2024",
     "metacritic": 63
@@ -40,6 +44,7 @@
     "id": "Control UE",
     "genre": "Action-Adventure",
     "developer": "Remedy Entertainment",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "February 2, 2021",
     "metacritic": 85
@@ -49,6 +54,7 @@
     "id": "Cyberpunk",
     "genre": "FPS Action RPG",
     "developer": "CD Projekt Red",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "February 15, 2022",
     "metacritic": 75
@@ -58,6 +64,7 @@
     "id": "DS",
     "genre": "Survival Horror",
     "developer": "EA Motive",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "January 27, 2023",
     "metacritic": 89
@@ -67,6 +74,7 @@
     "id": "DS: DC",
     "genre": "Action Strand",
     "developer": "Kojima Productions",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "September 24, 2021",
     "metacritic": 85
@@ -76,6 +84,7 @@
     "id": "D2",
     "genre": "MMO FPS",
     "developer": "Bungie",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "December 8, 2020",
     "metacritic": 85
@@ -85,6 +94,7 @@
     "id": "Doom: E",
     "genre": "First-Person Shooter",
     "developer": "id Software",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "June 29, 2021",
     "metacritic": 87
@@ -94,6 +104,7 @@
     "id": "ER",
     "genre": "Soulsborne",
     "developer": "FromSoftware",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "February 25, 2022",
     "metacritic": 96
@@ -103,6 +114,7 @@
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
     "developer": "Square Enix CBU III",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "June 22, 2023",
     "metacritic": 87
@@ -112,6 +124,7 @@
     "id": "GoT",
     "genre": "Action-Adventure",
     "developer": "Sucker Punch",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "August 20, 2021",
     "metacritic": 87
@@ -121,6 +134,7 @@
     "id": "GTA 5",
     "genre": "Action-Adventure",
     "developer": "Rockstar Games",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "March 15, 2022",
     "metacritic": 81
@@ -130,6 +144,7 @@
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
     "developer": "Firesprite",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "February 22, 2023",
     "metacritic": 79
@@ -139,6 +154,7 @@
     "id": "IoA",
     "genre": "Magic FPS",
     "developer": "Ascendant Studios",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "August 22, 2023",
     "metacritic": 69
@@ -148,6 +164,7 @@
     "id": "Lego Horizon",
     "genre": "Action-Adventure",
     "developer": "Studio Gobo",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "November 14, 2024",
     "metacritic": 70
@@ -157,6 +174,7 @@
     "id": "LiS: DE",
     "genre": "Interactive Drama",
     "developer": "Deck Nine",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "October 29, 2024",
     "metacritic": 73
@@ -166,6 +184,7 @@
     "id": "MA",
     "genre": "VR FPS",
     "developer": "Vertigo Games",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "November 7, 2024",
     "metacritic": 74
@@ -185,6 +204,7 @@
     "id": "Returnal",
     "genre": "TPS Roguelike",
     "developer": "Housemarque",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "April 30, 2021",
     "metacritic": 86
@@ -194,6 +214,7 @@
     "id": "SWtD",
     "genre": "Psychological Horror",
     "developer": "The Chinese Room",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "June 18, 2024",
     "metacritic": 74
@@ -203,6 +224,7 @@
     "id": "Tekken 8",
     "genre": "Fighting",
     "developer": "Bandai Namco Arika",
+    "publisher": "Electronic Arts",
     "psStudios": false,
     "release": "January 25, 2024",
     "metacritic": 90
@@ -212,6 +234,7 @@
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
+    "publisher": "Electronic Arts",
     "psStudios": true,
     "release": "January 28, 2022",
     "metacritic": 87
