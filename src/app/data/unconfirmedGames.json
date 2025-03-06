@@ -74,7 +74,7 @@
     "id": "DS: DC",
     "genre": "Action Strand",
     "developer": "Kojima Productions",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "September 24, 2021",
     "metacritic": 85
@@ -104,7 +104,7 @@
     "id": "ER",
     "genre": "Soulsborne",
     "developer": "FromSoftware",
-    "publisher": "Bandai Namco Entertainment",
+    "publisher": "Bandai Namco",
     "psStudios": false,
     "release": "February 25, 2022",
     "metacritic": 96
@@ -124,7 +124,7 @@
     "id": "GoT",
     "genre": "Action-Adventure",
     "developer": "Sucker Punch",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "August 20, 2021",
     "metacritic": 87
@@ -144,7 +144,7 @@
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
     "developer": "Firesprite",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "February 22, 2023",
     "metacritic": 79
@@ -164,7 +164,7 @@
     "id": "Lego Horizon",
     "genre": "Action-Adventure",
     "developer": "Studio Gobo",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "November 14, 2024",
     "metacritic": 70
@@ -204,7 +204,7 @@
     "id": "Returnal",
     "genre": "TPS Roguelike",
     "developer": "Housemarque",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "April 30, 2021",
     "metacritic": 86
@@ -224,7 +224,7 @@
     "id": "Tekken 8",
     "genre": "Fighting",
     "developer": "Bandai Namco Arika",
-    "publisher": "Bandai Namco Entertainment",
+    "publisher": "Bandai Namco",
     "psStudios": false,
     "release": "January 25, 2024",
     "metacritic": 90
@@ -234,7 +234,7 @@
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
-    "publisher": "Sony Interactive Entertainment",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "January 28, 2022",
     "metacritic": 87
