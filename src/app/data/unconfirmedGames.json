@@ -114,7 +114,7 @@
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
     "developer": "Square Enix CBU III",
-    "publisher": "Electronic Arts",
+    "publisher": "Square Enix",
     "psStudios": false,
     "release": "June 22, 2023",
     "metacritic": 87
@@ -124,7 +124,7 @@
     "id": "GoT",
     "genre": "Action-Adventure",
     "developer": "Sucker Punch",
-    "publisher": "Electronic Arts",
+    "publisher": "Sony Interactive Entertainment",
     "psStudios": true,
     "release": "August 20, 2021",
     "metacritic": 87
@@ -133,8 +133,8 @@
     "name": "Grand Theft Auto 5",
     "id": "GTA 5",
     "genre": "Action-Adventure",
-    "developer": "Rockstar Games",
-    "publisher": "Electronic Arts",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
     "psStudios": false,
     "release": "March 15, 2022",
     "metacritic": 81
@@ -144,7 +144,7 @@
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
     "developer": "Firesprite",
-    "publisher": "Electronic Arts",
+    "publisher": "Sony Interactive Entertainment",
     "psStudios": true,
     "release": "February 22, 2023",
     "metacritic": 79
