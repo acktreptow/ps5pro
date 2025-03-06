@@ -204,7 +204,7 @@
     "id": "Returnal",
     "genre": "TPS Roguelike",
     "developer": "Housemarque",
-    "publisher": "Electronic Arts",
+    "publisher": "Sony Interactive Entertainment",
     "psStudios": true,
     "release": "April 30, 2021",
     "metacritic": 86
@@ -214,7 +214,7 @@
     "id": "SWtD",
     "genre": "Psychological Horror",
     "developer": "The Chinese Room",
-    "publisher": "Electronic Arts",
+    "publisher": "Secret Mode",
     "psStudios": false,
     "release": "June 18, 2024",
     "metacritic": 74
@@ -224,7 +224,7 @@
     "id": "Tekken 8",
     "genre": "Fighting",
     "developer": "Bandai Namco Arika",
-    "publisher": "Electronic Arts",
+    "publisher": "Bandai Namco Entertainment",
     "psStudios": false,
     "release": "January 25, 2024",
     "metacritic": 90
@@ -234,7 +234,7 @@
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
     "developer": "Naughty Dog",
-    "publisher": "Electronic Arts",
+    "publisher": "Sony Interactive Entertainment",
     "psStudios": true,
     "release": "January 28, 2022",
     "metacritic": 87
