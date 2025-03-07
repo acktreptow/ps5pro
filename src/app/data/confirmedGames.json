@@ -4,6 +4,7 @@
     "id": "90s ES",
     "genre": "Sports, Skiing",
     "developer": "Tunermaxx Media",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "January 23, 2025",
     "metacritic": 0
@@ -13,6 +14,7 @@
     "id": "Albatroz",
     "genre": "Immersive Sim RPG",
     "developer": "Among Giants",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 1, 2024",
     "metacritic": 76
@@ -22,6 +24,7 @@
     "id": "ALU",
     "genre": "Racing, Arcade",
     "developer": "Gameloft Barcelona",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "July 17, 2024",
     "metacritic": 63
@@ -31,6 +34,7 @@
     "id": "Atomfall",
     "genre": "Survival Action",
     "developer": "Rebellion",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 27, 2025",
     "metacritic": 0
@@ -40,6 +44,7 @@
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
     "developer": "Feardemic",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -49,6 +54,7 @@
     "id": "Biped",
     "genre": "Co-Op Adventure",
     "developer": "Next Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "December 17, 2024",
     "metacritic": 0
@@ -58,6 +64,7 @@
     "id": "Biped 2",
     "genre": "Co-Op Adventure",
     "developer": "Postmeta Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -67,6 +74,7 @@
     "id": "BD",
     "genre": "MMORPG",
     "developer": "Pearl Abyss",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -76,6 +84,7 @@
     "id": "CS",
     "genre": "Puzzle, Adventure",
     "developer": "Gameloft",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 4, 2025",
     "metacritic": 79
@@ -85,6 +94,7 @@
     "id": "CO: E33",
     "genre": "JRPG",
     "developer": "Sandfall Interactive",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 24, 2025",
     "metacritic": 0
@@ -94,6 +104,7 @@
     "id": "CD",
     "genre": "Action-Adventure",
     "developer": "Pearl Abyss",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Late 2025",
     "metacritic": 0
@@ -103,6 +114,7 @@
     "id": "CyubeVR",
     "genre": "VR Adventure",
     "developer": "Stonebrick Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 16, 2024",
     "metacritic": 0
@@ -122,6 +134,7 @@
     "id": "Doom: TDA",
     "genre": "First-Person Shooter",
     "developer": "id Software",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "May 15, 2025",
     "metacritic": 0
@@ -131,6 +144,7 @@
     "id": "DoA",
     "genre": "VR Exploration-Action",
     "developer": "Q-Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -140,6 +154,7 @@
     "id": "College Football 26",
     "genre": "Sports, American Football",
     "developer": "EA Orlando",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -149,6 +164,7 @@
     "id": "EWC",
     "genre": "Strategy, Tower Defense",
     "developer": "Clockwork Origins",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -158,6 +174,7 @@
     "id": "ES",
     "genre": "Top-Down Roguelike",
     "developer": "Moving Pieces",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "December 5, 2024",
     "metacritic": 82
@@ -167,6 +184,7 @@
     "id": "Everspace 2",
     "genre": "Space Combat Shooter",
     "developer": "Rockfish Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "August 15, 2023",
     "metacritic": 80
@@ -176,6 +194,7 @@
     "id": "FS 25",
     "genre": "Simulation, Farming",
     "developer": "Giants Software",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 12, 2024",
     "metacritic": 64
@@ -185,6 +204,7 @@
     "id": "FH5",
     "genre": "Driving, Arcade",
     "developer": "Playground Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 29, 2025",
     "metacritic": 0
@@ -194,6 +214,7 @@
     "id": "HiU",
     "genre": "Action-Adventure",
     "developer": "Rogue Factor",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 4, 2025",
     "metacritic": 0
@@ -203,6 +224,7 @@
     "id": "HS 1896",
     "genre": "Extraction Shooter",
     "developer": "Crytek",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "August 15, 2024",
     "metacritic": 80
@@ -212,6 +234,7 @@
     "id": "HS 3",
     "genre": "Simulation, Shooter",
     "developer": "Nacon Studio Ghent",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -231,6 +254,7 @@
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
     "developer": "BlackMill Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 20, 2022",
     "metacritic": 67
@@ -240,6 +264,7 @@
     "id": "Karma: TDW",
     "genre": "First-Person Horror",
     "developer": "Pollard Studio",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 27, 2025",
     "metacritic": 0
@@ -249,6 +274,7 @@
     "id": "KF3",
     "genre": "Action-Horror FPS",
     "developer": "Tripwire Interactive",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 25, 2025",
     "metacritic": 0
@@ -258,6 +284,7 @@
     "id": "Pirate Yakuza",
     "genre": "Action RPG",
     "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "February 21, 2025",
     "metacritic": 79
@@ -267,6 +294,7 @@
     "id": "Lost Islands",
     "genre": "Action-Adventure",
     "developer": "Glitch Studio",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 8, 2023",
     "metacritic": 0
@@ -286,6 +314,7 @@
     "id": "ME",
     "genre": "Sci-Fi FPS",
     "developer": "Reikon Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "May 6, 2025",
     "metacritic": 0
@@ -305,6 +334,7 @@
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",
     "developer": "Dark Ocean Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBC",
     "metacritic": 0
@@ -314,6 +344,7 @@
     "id": "MindsEye",
     "genre": "Action-Adventure",
     "developer": "Build A Rocket Boy",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Summer, 2025",
     "metacritic": 0
@@ -333,6 +364,7 @@
     "id": "MES 25",
     "genre": "Sports, Supercross Racing",
     "developer": "Milestone",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 10, 2025",
     "metacritic": 0
@@ -342,6 +374,7 @@
     "id": "Moto 25",
     "genre": "Sports, Bike Road Racing",
     "developer": "Milestone",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 30, 2025",
     "metacritic": 0
@@ -351,6 +384,7 @@
     "id": "MTaS",
     "genre": "Simulation, Farming",
     "developer": "Pathea Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 2, 2023",
     "metacritic": 80
@@ -360,6 +394,7 @@
     "id": "OtG",
     "genre": "Multiplayer TPS",
     "developer": "Gunzilla Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "October 8, 2024",
     "metacritic": 0
@@ -369,6 +404,7 @@
     "id": "Oniriam",
     "genre": "VR Puzzle Adventure",
     "developer": "My World",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 22, 2024",
     "metacritic": 0
@@ -378,6 +414,7 @@
     "id": "Paladin's Passage",
     "genre": "Puzzle, Platformer",
     "developer": "Bent Vector Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 10, 2024",
     "metacritic": 0
@@ -387,6 +424,7 @@
     "id": "Palworld",
     "genre": "Survival, Monster Taming",
     "developer": "Pocketpair",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 24, 2024",
     "metacritic": 0
@@ -396,6 +434,7 @@
     "id": "Party Animals",
     "genre": "MP Party Brawler",
     "developer": "Recreate Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "January 23, 2025",
     "metacritic": 0
@@ -405,6 +444,7 @@
     "id": "PoE 2",
     "genre": "Top-Down Action RPG",
     "developer": "Grinding Gear Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "December 6, 2024",
     "metacritic": 0
@@ -414,6 +454,7 @@
     "id": "Pathfinder",
     "genre": "Isometric RPG",
     "developer": "Owlcat Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 28, 2024",
     "metacritic": 0
@@ -423,6 +464,7 @@
     "id": "PBZ",
     "genre": "Soulsborne",
     "developer": "S-Game",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBC",
     "metacritic": 0
@@ -432,6 +474,7 @@
     "id": "Pipistrello",
     "genre": "2D Top-Down Adventure",
     "developer": "Pocket Trap",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBC",
     "metacritic": 0
@@ -441,6 +484,7 @@
     "id": "PC 2",
     "genre": "Simulation, City Builder",
     "developer": "Frontier Developments",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 6, 2024",
     "metacritic": 76
@@ -450,6 +494,7 @@
     "id": "Pro Baseball 24",
     "genre": "Sports, Baseball",
     "developer": "Konami",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "October 16, 2024",
     "metacritic": 0
@@ -459,6 +504,7 @@
     "id": "PMA",
     "genre": "Adventure RPG",
     "developer": "Kaizen Game Works",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 10, 2025",
     "metacritic": 0
@@ -468,6 +514,7 @@
     "id": "Quantum Error",
     "genre": "Action, Horror",
     "developer": "TeamKill Media",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 3, 2023",
     "metacritic": 40
@@ -487,6 +534,7 @@
     "id": "SPINE",
     "genre": "Action, Beat 'em Up",
     "developer": "Nekki",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -496,6 +544,7 @@
     "id": "The Finals",
     "genre": "Multiplayer FPS",
     "developer": "Embark Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "December 7, 2023",
     "metacritic": 80
@@ -505,6 +554,7 @@
     "id": "First Berserker",
     "genre": "Action RPG",
     "developer": "Neople & Nexon",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "March 27, 2025",
     "metacritic": 0
@@ -514,6 +564,7 @@
     "id": "ToA",
     "genre": "Action-Adventure",
     "developer": "Eclipse Glow Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -523,6 +574,7 @@
     "id": "TH 3+4",
     "genre": "Sports, Skateboarding",
     "developer": "Iron Galaxy Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "July 11, 2025",
     "metacritic": 0
@@ -532,6 +584,7 @@
     "id": "TopSpin 25",
     "genre": "Sports, Tennis",
     "developer": "Hangar 13",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "April 26, 2024",
     "metacritic": 76
@@ -541,6 +594,7 @@
     "id": "ToA",
     "genre": "Action-Adventure",
     "developer": "Dreamlit",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 19, 2024",
     "metacritic": 0
@@ -550,6 +604,7 @@
     "id": "UFL",
     "genre": "Sports, Football",
     "developer": "Strikerz",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "December 5, 2024",
     "metacritic": 68
@@ -559,6 +614,7 @@
     "id": "Unreal Kingdoms",
     "genre": "Metaverse MMORPG",
     "developer": "Cyber Apes Yacht Club",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "TBD",
     "metacritic": 0
@@ -578,6 +634,7 @@
     "id": "Warframe",
     "genre": "Action RPG, Looter FPS",
     "developer": "Digital Extremes",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "November 26, 2020",
     "metacritic": 85
@@ -587,6 +644,7 @@
     "id": "Anno 117",
     "genre": "Strategy, City-building",
     "developer": "Ubisoft Mainz",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -596,6 +654,7 @@
     "id": "Borderlands 4",
     "genre": "Looter Shooter",
     "developer": "Gearbox Software",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 23, 2025",
     "metacritic": 0
@@ -605,6 +664,7 @@
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
     "developer": "Firaxis Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "February 11, 2025",
     "metacritic": 0
@@ -614,6 +674,7 @@
     "id": "Dune: A",
     "genre": "Open-World Survival MMO",
     "developer": "Funcom",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -623,6 +684,7 @@
     "id": "ER: Nightreign",
     "genre": "Co-Op Soulsborne",
     "developer": "FromSoftware",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "May 30, 2025",
     "metacritic": 0
@@ -632,6 +694,7 @@
     "id": "Firebreak",
     "genre": "PvE Co-Op FPS",
     "developer": "Remedy Entertainment",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -651,6 +714,7 @@
     "id": "GTA 6",
     "genre": "Action-Adventure",
     "developer": "Rockstar Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -660,6 +724,7 @@
     "id": "Mafia: TOC",
     "genre": "Action-Adventure",
     "developer": "Hangar 13",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Summer, 2025",
     "metacritic": 0
@@ -669,6 +734,7 @@
     "id": "Marvel 1943",
     "genre": "Action-Adventure",
     "developer": "Skydance New Media",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -678,6 +744,7 @@
     "id": "NG4",
     "genre": "Action-Adventure",
     "developer": "Team Ninja & Platinum",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Fall, 2025",
     "metacritic": 0
@@ -687,6 +754,7 @@
     "id": "The Alters",
     "genre": "Survival, Action-Adventure",
     "developer": "11 Bit Studios",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Q1, 2025",
     "metacritic": 0
@@ -696,6 +764,7 @@
     "id": "The DPA: D-8020",
     "genre": "Horror, Interactive Drama",
     "developer": "Supermassive Games",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "September 30, 2025",
     "metacritic": 0
@@ -705,6 +774,7 @@
     "id": "ToW 2",
     "genre": "Action Western RPG",
     "developer": "Obsidian",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -714,6 +784,7 @@
     "id": "TSC 2",
     "genre": "Survival Horror",
     "developer": "Frogwares",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -723,6 +794,7 @@
     "id": "TTP: Reawakened",
     "genre": "Puzzle",
     "developer": "Croteam",
+    "publisher": "Placeholder",
     "psStudios": false,
     "release": "Early 2025",
     "metacritic": 0
