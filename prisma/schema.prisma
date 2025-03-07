@@ -15,6 +15,7 @@ model ConfirmedGame {
   title       String
   genre       String
   developer   String
+  publisher   String?
   psStudios   Boolean @default(false)
   psvr2       Boolean @default(false)
   release     String
