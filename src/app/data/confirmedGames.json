@@ -221,6 +221,7 @@
     "id": "IJ: GC",
     "genre": "Action-Adventure",
     "developer": "MachineGames",
+    "publisher": "Bethesda Softworks",
     "psStudios": false,
     "release": "April, 2025",
     "metacritic": 0
@@ -275,6 +276,7 @@
     "id": "LSA",
     "genre": "Action RPG",
     "developer": "Ultizero Games",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "May 30, 2025",
     "metacritic": 0
@@ -293,6 +295,7 @@
     "id": "MMC",
     "genre": "Multiplayer FPS",
     "developer": "Velan Studios",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "March 13, 2025",
     "metacritic": 0
@@ -474,6 +477,7 @@
     "id": "Saros",
     "genre": "TPA Roguelite",
     "developer": "Housemarque",
+    "publisher": "Sony Interactive",
     "psStudios": true,
     "release": "2026",
     "metacritic": 0
