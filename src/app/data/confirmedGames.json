@@ -43,8 +43,8 @@
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
-    "developer": "Feardemic",
-    "publisher": "Placeholder",
+    "developer": "Simon Lukasik",
+    "publisher": "Feardemic",
     "psStudios": false,
     "release": "2025",
     "metacritic": 0
@@ -54,7 +54,7 @@
     "id": "Biped",
     "genre": "Co-Op Adventure",
     "developer": "Next Studios",
-    "publisher": "Placeholder",
+    "publisher": "Postmeta Games",
     "psStudios": false,
     "release": "December 17, 2024",
     "metacritic": 0
@@ -63,8 +63,8 @@
     "name": "Biped 2",
     "id": "Biped 2",
     "genre": "Co-Op Adventure",
-    "developer": "Postmeta Games",
-    "publisher": "Placeholder",
+    "developer": "Next Studios",
+    "publisher": "Postmeta Games",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
@@ -74,7 +74,7 @@
     "id": "BD",
     "genre": "MMORPG",
     "developer": "Pearl Abyss",
-    "publisher": "Placeholder",
+    "publisher": "Pearl Abyss",
     "psStudios": false,
     "release": "TBA",
     "metacritic": 0
