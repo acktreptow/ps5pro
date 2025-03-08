@@ -80,6 +80,16 @@
     "metacritic": 0
   },
   {
+    "name": "Blades Of Fire",
+    "id": "BoF",
+    "genre": "Action-Adventure",
+    "developer": "MercurySteam",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "release": "May 22, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Carmen Sandiego",
     "id": "CS",
     "genre": "Puzzle, Adventure",
