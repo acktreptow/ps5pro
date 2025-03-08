@@ -45,6 +45,7 @@ async function getDetailedGames() {
         urlPath: true,
         genre: true,
         developer: true,
+        publisher: true,
         psStudios: true,
         psvr2: true,
         release: true,
@@ -130,6 +131,10 @@ const GamesListPage = async () => {
             </p>
             <p>
               <span className="font-semibold">Developer:</span> {game.developer}
+            </p>
+            <p>
+              <span className="font-semibold">Publisher:</span>{" "}
+              {game.publisher ? game.publisher : "N/A"}
             </p>
             <p>
               <span className="font-semibold">Release:</span> {game.release}
