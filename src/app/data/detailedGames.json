@@ -94,7 +94,8 @@
     "pssr": false,
     "rt": false,
     "resolution": "4K",
-    "fps": "60fps"
+    "fps": "60fps",
+    "extraInfo": "Pro combines the resolution and upgraded geometry/LODs of base PS5 fidelity mode with the framerate of base PS5 performance mode. Pro also achieves a locked native 4K at 60fps, whereas base PS5 can drop as low as 1440p."
   },
   {
     "name": "Assassin's Creed Shadows",
