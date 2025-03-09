@@ -1174,6 +1174,22 @@
     "extraInfo": "Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p much of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
   },
   {
+    "name": "Smash Drums",
+    "id": "SD",
+    "urlPath": "smash-drums",
+    "genre": "VR Rhythm, Arcade Drumming",
+    "developer": "PotamWorks SAS",
+    "publisher": "PotamWorks SAS",
+    "psStudios": false,
+    "release": "TBC",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "120fps native",
+    "extraInfo": "Developers have confirmed 120fps native on the Pro and that there will be other enhancements."
+  },
+  {
     "name": "Spider-Man 1 Remastered",
     "pageTitle": "Spider-Man",
     "id": "Spider-Man",
