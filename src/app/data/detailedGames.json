@@ -455,11 +455,11 @@
     "psStudios": false,
     "release": "October 27, 2023",
     "metacritic": 78,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "KO replays now at 60fps instead of 30fps."
+    "extraInfo": "Pro's resolution during gameplay is slightly higher than base PS5. Pro also renders KO replays at 60fps instead base PS5's 30fps. Other cutscenes like ring entrances remain at 30fps."
   },
   {
     "name": "Empire Of The Ants",
