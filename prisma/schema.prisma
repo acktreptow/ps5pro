@@ -30,7 +30,7 @@ model DetailedGame {
   urlPath     String  @unique
   genre       String
   developer   String
-  publisher   String?
+  publisher   String
   psStudios   Boolean @default(false)
   psvr2       Boolean @default(false)
   release     String
