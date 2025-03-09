@@ -109,10 +109,15 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced Global Illumination",
-    "resolution": "4K PSSR (likely)",
+    "rtTypes": "Ray-traced global illumination and reflections.",
+    "resolution": "4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro has a higher quality implementation of RTGI than base PS5."
+    "modes": {
+      "fidelity": "Upscaled 4K PSSR at 30fps. RT reflections and RTGI used for diffuse lighting throughout the game world. Higher quality draw distances, shadows, hair quality etc than performance mode.",
+      "balanced": "Upscaled 4K PSSR at 40fps. Lower base resolution than fidelity mode before upscale. Same RT/graphical settings as fidelity mode.",
+      "performance": "Upscaled 4K PSSR at 60fps. No RT reflections, but RTGI remains throughout the world."
+    },
+    "extraInfo": "Base PS5 performance mode has worse RT implementation than Pro's, as its RTGI is only used in the hideout, not throughout the world. There are also no RT reflections on any mode for base PS5."
   },
   {
     "name": "Astro Bot",
