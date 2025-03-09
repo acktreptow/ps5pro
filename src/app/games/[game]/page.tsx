@@ -7,6 +7,7 @@ interface Game {
   urlPath: string;
   genre: string;
   developer: string;
+  publisher: string;
   psStudios: boolean;
   release: string;
   metacritic: number;
@@ -59,6 +60,9 @@ const GamesPage = async ({ params }: PageProps) => {
           </p>
           <p className="text-lg">
             <span className="font-semibold">Developer:</span> {game.developer}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">Publisher:</span> {game.publisher}
           </p>
           <p className="text-lg">
             <span className="font-semibold">Release Date:</span> {game.release}
@@ -116,9 +120,7 @@ const GamesPage = async ({ params }: PageProps) => {
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Extra Information
             </h2>
-            <p className="text-lg whitespace-pre-line">
-              {game.extraInfo}
-            </p>
+            <p className="text-lg whitespace-pre-line">{game.extraInfo}</p>
           </div>
         )}
       </div>
