@@ -6,6 +6,7 @@
     "developer": "Asobo Studio",
     "publisher": "Focus Entertainment",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 18, 2022",
     "metacritic": 82
   },
@@ -16,6 +17,7 @@
     "developer": "Stormind Games",
     "publisher": "Saber Interactive",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 17, 2024",
     "metacritic": 67
   },
@@ -26,6 +28,7 @@
     "developer": "Survios",
     "publisher": "Survios",
     "psStudios": false,
+    "psvr2": true,
     "release": "December 19, 2024",
     "metacritic": 74
   },
@@ -36,6 +39,7 @@
     "developer": "Pieces Interactive",
     "publisher": "THQ Nordic",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 20, 2024",
     "metacritic": 63
   },
@@ -46,6 +50,7 @@
     "developer": "Remedy Entertainment",
     "publisher": "505 Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "February 2, 2021",
     "metacritic": 85
   },
@@ -56,6 +61,7 @@
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
     "psStudios": false,
+    "psvr2": false,
     "release": "February 15, 2022",
     "metacritic": 75
   },
@@ -66,6 +72,7 @@
     "developer": "EA Motive",
     "publisher": "Electronic Arts",
     "psStudios": false,
+    "psvr2": false,
     "release": "January 27, 2023",
     "metacritic": 89
   },
@@ -76,6 +83,7 @@
     "developer": "Kojima Productions",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "September 24, 2021",
     "metacritic": 85
   },
@@ -86,6 +94,7 @@
     "developer": "Bungie",
     "publisher": "Bungie",
     "psStudios": true,
+    "psvr2": false,
     "release": "December 8, 2020",
     "metacritic": 85
   },
@@ -96,6 +105,7 @@
     "developer": "id Software",
     "publisher": "Bethesda Softworks",
     "psStudios": false,
+    "psvr2": false,
     "release": "June 29, 2021",
     "metacritic": 87
   },
@@ -106,6 +116,7 @@
     "developer": "FromSoftware",
     "publisher": "Bandai Namco",
     "psStudios": false,
+    "psvr2": false,
     "release": "February 25, 2022",
     "metacritic": 96
   },
@@ -116,6 +127,7 @@
     "developer": "Square Enix CBU III",
     "publisher": "Square Enix",
     "psStudios": false,
+    "psvr2": false,
     "release": "June 22, 2023",
     "metacritic": 87
   },
@@ -126,6 +138,7 @@
     "developer": "Sucker Punch",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "August 20, 2021",
     "metacritic": 87
   },
@@ -136,6 +149,7 @@
     "developer": "Rockstar North",
     "publisher": "Rockstar Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 15, 2022",
     "metacritic": 81
   },
@@ -146,6 +160,7 @@
     "developer": "Firesprite",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": true,
     "release": "February 22, 2023",
     "metacritic": 79
   },
@@ -156,6 +171,7 @@
     "developer": "Ascendant Studios",
     "publisher": "Electronic Arts",
     "psStudios": false,
+    "psvr2": false,
     "release": "August 22, 2023",
     "metacritic": 69
   },
@@ -166,6 +182,7 @@
     "developer": "Studio Gobo",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "November 14, 2024",
     "metacritic": 70
   },
@@ -176,6 +193,7 @@
     "developer": "Deck Nine",
     "publisher": "Square Enix",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 29, 2024",
     "metacritic": 73
   },
@@ -186,6 +204,7 @@
     "developer": "Vertigo Games",
     "publisher": "Deep Silver",
     "psStudios": false,
+    "psvr2": true,
     "release": "November 7, 2024",
     "metacritic": 74
   },
@@ -196,6 +215,7 @@
     "developer": "EA Vancouver",
     "publisher": "Electronic Arts",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 4, 2024",
     "metacritic": 66
   },
@@ -206,6 +226,7 @@
     "developer": "Housemarque",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "April 30, 2021",
     "metacritic": 86
   },
@@ -216,6 +237,7 @@
     "developer": "The Chinese Room",
     "publisher": "Secret Mode",
     "psStudios": false,
+    "psvr2": false,
     "release": "June 18, 2024",
     "metacritic": 74
   },
@@ -226,6 +248,7 @@
     "developer": "Bandai Namco Arika",
     "publisher": "Bandai Namco",
     "psStudios": false,
+    "psvr2": false,
     "release": "January 25, 2024",
     "metacritic": 90
   },
@@ -236,6 +259,7 @@
     "developer": "Naughty Dog",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "January 28, 2022",
     "metacritic": 87
   }
