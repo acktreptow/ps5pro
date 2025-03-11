@@ -6,6 +6,7 @@
     "developer": "Tunermaxx Media",
     "publisher": "Tunermaxx Media",
     "psStudios": false,
+    "psvr2": true,
     "release": "January 23, 2025",
     "metacritic": 0
   },
@@ -16,6 +17,7 @@
     "developer": "Among Giants",
     "publisher": "Soedesco",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 1, 2024",
     "metacritic": 76
   },
@@ -26,6 +28,7 @@
     "developer": "Gameloft Barcelona",
     "publisher": "Gameloft",
     "psStudios": false,
+    "psvr2": false,
     "release": "July 17, 2024",
     "metacritic": 63
   },
@@ -36,6 +39,7 @@
     "developer": "Rebellion",
     "publisher": "Rebellion",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 27, 2025",
     "metacritic": 0
   },
@@ -46,6 +50,7 @@
     "developer": "Simon Lukasik",
     "publisher": "Feardemic",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -66,6 +71,7 @@
     "developer": "Next Studios",
     "publisher": "Postmeta Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBA",
     "metacritic": 0
   },
@@ -76,6 +82,7 @@
     "developer": "Pearl Abyss",
     "publisher": "Pearl Abyss",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBA",
     "metacritic": 0
   },
@@ -86,6 +93,7 @@
     "developer": "MercurySteam",
     "publisher": "505 Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "May 22, 2025",
     "metacritic": 0
   },
@@ -96,6 +104,7 @@
     "developer": "Gameloft Brisbane",
     "publisher": "Gameloft",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 4, 2025",
     "metacritic": 69
   },
@@ -106,6 +115,7 @@
     "developer": "Sandfall Interactive",
     "publisher": "Kepler Interactive",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 24, 2025",
     "metacritic": 0
   },
@@ -116,6 +126,7 @@
     "developer": "Pearl Abyss",
     "publisher": "Pearl Abyss",
     "psStudios": false,
+    "psvr2": false,
     "release": "Late 2025",
     "metacritic": 0
   },
@@ -126,6 +137,7 @@
     "developer": "Stonebrick Studios",
     "publisher": "Stonebrick Studios",
     "psStudios": false,
+    "psvr2": true,
     "release": "March 16, 2024",
     "metacritic": 0
   },
@@ -136,6 +148,7 @@
     "developer": "Kojima Productions",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "June 26, 2025",
     "metacritic": 0
   },
@@ -146,6 +159,7 @@
     "developer": "id Software",
     "publisher": "Bethesda Softworks",
     "psStudios": false,
+    "psvr2": false,
     "release": "May 15, 2025",
     "metacritic": 0
   },
@@ -156,6 +170,7 @@
     "developer": "Q-Games",
     "publisher": "Q-Games",
     "psStudios": false,
+    "psvr2": true,
     "release": "2025",
     "metacritic": 0
   },
@@ -166,6 +181,7 @@
     "developer": "EA Orlando",
     "publisher": "Electronic Arts",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -176,6 +192,7 @@
     "developer": "Clockwork Origins",
     "publisher": "Clockwork Origins",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -186,6 +203,7 @@
     "developer": "Moving Pieces",
     "publisher": "First Break Labs",
     "psStudios": false,
+    "psvr2": false,
     "release": "December 5, 2024",
     "metacritic": 82
   },
@@ -196,6 +214,7 @@
     "developer": "Rockfish Games",
     "publisher": "Rockfish Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "August 15, 2023",
     "metacritic": 80
   },
@@ -206,6 +225,7 @@
     "developer": "Historia",
     "publisher": "Historia",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 20, 2024",
     "metacritic": 64
   },
@@ -216,6 +236,7 @@
     "developer": "Giants Software",
     "publisher": "Giants Software",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 12, 2024",
     "metacritic": 64
   },
@@ -226,6 +247,7 @@
     "developer": "Playground Games",
     "publisher": "Xbox Game Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 29, 2025",
     "metacritic": 0
   },
@@ -236,6 +258,7 @@
     "developer": "Rogue Factor",
     "publisher": "Nacon",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 4, 2025",
     "metacritic": 0
   },
@@ -246,6 +269,7 @@
     "developer": "Crytek",
     "publisher": "Crytek",
     "psStudios": false,
+    "psvr2": false,
     "release": "August 15, 2024",
     "metacritic": 80
   },
@@ -256,6 +280,7 @@
     "developer": "Nacon Studio Ghent",
     "publisher": "Nacon",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBA",
     "metacritic": 0
   },
@@ -266,6 +291,7 @@
     "developer": "MachineGames",
     "publisher": "Bethesda Softworks",
     "psStudios": false,
+    "psvr2": false,
     "release": "April, 2025",
     "metacritic": 0
   },
@@ -276,6 +302,7 @@
     "developer": "BlackMill Games",
     "publisher": "BlackMill Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 20, 2022",
     "metacritic": 67
   },
@@ -286,6 +313,7 @@
     "developer": "Pollard Studio",
     "publisher": "Wired Productions",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 27, 2025",
     "metacritic": 0
   },
@@ -296,6 +324,7 @@
     "developer": "Tripwire Interactive",
     "publisher": "Tripwire Interactive",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -306,6 +335,7 @@
     "developer": "Ryu Ga Gotoku Studio",
     "publisher": "Sega",
     "psStudios": false,
+    "psvr2": false,
     "release": "February 21, 2025",
     "metacritic": 79
   },
@@ -316,6 +346,7 @@
     "developer": "Glitch Studio",
     "publisher": "Glitch Studio",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 8, 2023",
     "metacritic": 0
   },
@@ -326,6 +357,7 @@
     "developer": "Ultizero Games",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "May 30, 2025",
     "metacritic": 0
   },
@@ -336,6 +368,7 @@
     "developer": "Reikon Games",
     "publisher": "Deep Silver",
     "psStudios": false,
+    "psvr2": false,
     "release": "May 6, 2025",
     "metacritic": 0
   },
@@ -346,6 +379,7 @@
     "developer": "Velan Studios",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "March 13, 2025",
     "metacritic": 0
   },
@@ -356,6 +390,7 @@
     "developer": "Dark Ocean Games",
     "publisher": "GoGo Games Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBC",
     "metacritic": 0
   },
@@ -366,6 +401,7 @@
     "developer": "Build A Rocket Boy",
     "publisher": "IO Interactive Partners",
     "psStudios": false,
+    "psvr2": false,
     "release": "Summer, 2025",
     "metacritic": 0
   },
@@ -376,6 +412,7 @@
     "developer": "San Diego Studio",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "March 18, 2025",
     "metacritic": 0
   },
@@ -386,6 +423,7 @@
     "developer": "Milestone",
     "publisher": "Milestone",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 10, 2025",
     "metacritic": 0
   },
@@ -396,6 +434,7 @@
     "developer": "Milestone",
     "publisher": "Milestone",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 30, 2025",
     "metacritic": 0
   },
@@ -406,6 +445,7 @@
     "developer": "Pathea Games",
     "publisher": "Focus Entertainment",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 2, 2023",
     "metacritic": 80
   },
@@ -416,6 +456,7 @@
     "developer": "Gunzilla Games",
     "publisher": "Gunzilla Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 8, 2024",
     "metacritic": 0
   },
@@ -426,6 +467,7 @@
     "developer": "My World",
     "publisher": "My World",
     "psStudios": false,
+    "psvr2": true,
     "release": "November 22, 2024",
     "metacritic": 0
   },
@@ -436,6 +478,7 @@
     "developer": "Bent Vector Studios",
     "publisher": "Bent Vector Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 10, 2024",
     "metacritic": 0
   },
@@ -446,6 +489,7 @@
     "developer": "Pocketpair",
     "publisher": "Pocketpair",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 24, 2024",
     "metacritic": 0
   },
@@ -456,6 +500,7 @@
     "developer": "Recreate Games",
     "publisher": "Source Technology",
     "psStudios": false,
+    "psvr2": false,
     "release": "January 23, 2025",
     "metacritic": 0
   },
@@ -466,6 +511,7 @@
     "developer": "Grinding Gear Games",
     "publisher": "Grinding Gear Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "December 6, 2024",
     "metacritic": 0
   },
@@ -476,6 +522,7 @@
     "developer": "Owlcat Games",
     "publisher": "Postmeta Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 28, 2024",
     "metacritic": 0
   },
@@ -486,6 +533,7 @@
     "developer": "S-Game",
     "publisher": "S-Game",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBC",
     "metacritic": 0
   },
@@ -496,6 +544,7 @@
     "developer": "Pocket Trap",
     "publisher": "PM Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBC",
     "metacritic": 0
   },
@@ -506,6 +555,7 @@
     "developer": "Frontier Developments",
     "publisher": "Frontier Developments",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 6, 2024",
     "metacritic": 76
   },
@@ -516,6 +566,7 @@
     "developer": "Konami",
     "publisher": "Konami",
     "psStudios": false,
+    "psvr2": false,
     "release": "October 16, 2024",
     "metacritic": 0
   },
@@ -526,6 +577,7 @@
     "developer": "Kaizen Game Works",
     "publisher": "Kaizen Game Works",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 10, 2025",
     "metacritic": 0
   },
@@ -536,6 +588,7 @@
     "developer": "TeamKill Media",
     "publisher": "TeamKill Media",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 3, 2023",
     "metacritic": 40
   },
@@ -546,6 +599,7 @@
     "developer": "Housemarque",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "2026",
     "metacritic": 0
   },
@@ -556,6 +610,7 @@
     "developer": "Nekki",
     "publisher": "Nekki",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBA",
     "metacritic": 0
   },
@@ -566,6 +621,7 @@
     "developer": "Embark Studios",
     "publisher": "Embark Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "December 7, 2023",
     "metacritic": 90
   },
@@ -576,6 +632,7 @@
     "developer": "Neople & Nexon",
     "publisher": "Nexon",
     "psStudios": false,
+    "psvr2": false,
     "release": "March 27, 2025",
     "metacritic": 0
   },
@@ -586,6 +643,7 @@
     "developer": "Eclipse Glow Games",
     "publisher": "Chengdu Ophiuchus",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBA",
     "metacritic": 0
   },
@@ -596,6 +654,7 @@
     "developer": "Iron Galaxy Studios",
     "publisher": "Activision",
     "psStudios": false,
+    "psvr2": false,
     "release": "July 11, 2025",
     "metacritic": 0
   },
@@ -606,6 +665,7 @@
     "developer": "Hangar 13",
     "publisher": "2K Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "April 26, 2024",
     "metacritic": 76
   },
@@ -616,6 +676,7 @@
     "developer": "Dreamlit",
     "publisher": "Dreamlit",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 19, 2024",
     "metacritic": 0
   },
@@ -626,6 +687,7 @@
     "developer": "Strikerz",
     "publisher": "XTen",
     "psStudios": false,
+    "psvr2": false,
     "release": "December 5, 2024",
     "metacritic": 68
   },
@@ -636,6 +698,7 @@
     "developer": "Cyber Apes Yacht Club",
     "publisher": "Eight Galaxies",
     "psStudios": false,
+    "psvr2": false,
     "release": "TBD",
     "metacritic": 0
   },
@@ -646,6 +709,7 @@
     "developer": "Ballistic Moon",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "October 4, 2024",
     "metacritic": 70
   },
@@ -656,6 +720,7 @@
     "developer": "Digital Extremes",
     "publisher": "Digital Extremes",
     "psStudios": false,
+    "psvr2": false,
     "release": "November 26, 2020",
     "metacritic": 85
   },
@@ -666,6 +731,7 @@
     "developer": "Ubisoft Mainz",
     "publisher": "Ubisoft",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -676,6 +742,7 @@
     "developer": "Gearbox Software",
     "publisher": "2K Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 23, 2025",
     "metacritic": 0
   },
@@ -686,6 +753,7 @@
     "developer": "Firaxis Games",
     "publisher": "2K Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "February 11, 2025",
     "metacritic": 78
   },
@@ -696,6 +764,7 @@
     "developer": "Supermassive Games",
     "publisher": "Supermassive Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "September 30, 2025",
     "metacritic": 0
   },
@@ -706,6 +775,7 @@
     "developer": "Funcom",
     "publisher": "Funcom",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -716,6 +786,7 @@
     "developer": "FromSoftware",
     "publisher": "Bandai Namco",
     "psStudios": false,
+    "psvr2": false,
     "release": "May 30, 2025",
     "metacritic": 0
   },
@@ -726,6 +797,7 @@
     "developer": "Remedy Entertainment",
     "publisher": "Remedy Entertainment",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -736,6 +808,7 @@
     "developer": "Sucker Punch",
     "publisher": "Sony Interactive",
     "psStudios": true,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -746,6 +819,7 @@
     "developer": "Rockstar Games",
     "publisher": "Rockstar Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -756,6 +830,7 @@
     "developer": "Hangar 13",
     "publisher": "2K Games",
     "psStudios": false,
+    "psvr2": false,
     "release": "Summer, 2025",
     "metacritic": 0
   },
@@ -766,6 +841,7 @@
     "developer": "Skydance New Media",
     "publisher": "Plaion",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -776,6 +852,7 @@
     "developer": "Team Ninja & Platinum",
     "publisher": "Xbox Game Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "Fall, 2025",
     "metacritic": 0
   },
@@ -786,6 +863,7 @@
     "developer": "11 Bit Studios",
     "publisher": "11 Bit Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "Q1, 2025",
     "metacritic": 0
   },
@@ -796,6 +874,7 @@
     "developer": "Obsidian",
     "publisher": "Xbox Game Studios",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -806,6 +885,7 @@
     "developer": "Frogwares",
     "publisher": "Frogwares",
     "psStudios": false,
+    "psvr2": false,
     "release": "2025",
     "metacritic": 0
   },
@@ -816,6 +896,7 @@
     "developer": "Croteam",
     "publisher": "Devolver Digital",
     "psStudios": false,
+    "psvr2": false,
     "release": "Early 2025",
     "metacritic": 0
   }
