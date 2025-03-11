@@ -9,6 +9,7 @@ interface Game {
   developer: string;
   publisher: string;
   psStudios: boolean;
+  psvr2: boolean;
   release: string;
   metacritic: number;
   pssr: boolean;
@@ -70,6 +71,10 @@ const GamesPage = async ({ params }: PageProps) => {
           <p className="text-lg">
             <span className="font-semibold">PS Studios Game?</span>{" "}
             {game.psStudios ? "Yes" : "No"}
+          </p>
+          <p className="text-lg">
+            <span className="font-semibold">PSVR2 Compatible?</span>{" "}
+            {game.psvr2 ? "Yes" : "No"}
           </p>
           <p className="text-lg">
             <span className="font-semibold">Metacritic Score:</span>{" "}
