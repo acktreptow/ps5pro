@@ -498,10 +498,11 @@
     "release": "November 7, 2024",
     "metacritic": 77,
     "pssr": false,
-    "rt": false,
-    "resolution": "1440p upscaled to 4K",
+    "rt": true,
+    "rtTypes": "UE5 Lumen",
+    "resolution": "1440p to 4K TSR",
     "fps": "60fps",
-    "extraInfo": "The base PS5 version can technically have a higher resolution as it ranges from 1400-1600p that's upscaled to 4K. However, the base PS5 version only runs at 30fps."
+    "extraInfo": "Base PS5 can have a higher internal resolution as it ranges from 1400p-1600p to 4K TSR, but it only runs at 30fps. Pro's base resolution of 1440p is also high enough that  there is barely a difference between the consoles once UE5's TSR upscaling is implemented."
   },
   {
     "name": "Enlisted",
