@@ -1163,10 +1163,10 @@
     "resolution": "8K",
     "fps": "120fps",
     "modes": {
-      "fidelity": "Runs at 4K 120fps.",
-      "performance": "Runs at 8K 60fps"
+      "fidelity": "4K at very stable 120fps.",
+      "performance": "8K at 60fps"
     },
-    "extraInfo": "According to Truant Pixel, outside of the resolution/framerate increases in each mode, there's also 'additional small graphical touches'."
+    "extraInfo": "According to Truant Pixel, outside of the resolution and framerate increases in each mode compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
     "name": "Shredders",
