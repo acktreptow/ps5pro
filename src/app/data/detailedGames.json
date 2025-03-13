@@ -1016,7 +1016,7 @@
     "rtTypes": "Ray-traced reflections and shadows.",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Uses PSSR to hit 4K. Pro version has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5. All with 60fps."
+    "extraInfo": "Uses PSSR to hit 4K (base resolution unknown, but almost certainly above 1080p due to final output). Pro also has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5, and hits 60fps more often."
   },
   {
     "name": "Ratchet & Clank: Rift Apart",
