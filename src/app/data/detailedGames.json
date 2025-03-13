@@ -1183,7 +1183,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Shredders on PS5 Pro runs at 4K 60, whereas the base PS5 version runs at 1440p/60fps."
+    "extraInfo": "Base PS5 and Pro both achieve a nearly locked 60fps. However, Pro runs at 4K native compared to base PS5's 1440p, which is a 2x resolution increase."
   },
   {
     "name": "Silent Hill 2",
