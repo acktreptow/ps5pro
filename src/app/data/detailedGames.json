@@ -832,9 +832,9 @@
     "metacritic": 70,
     "pssr": true,
     "rt": false,
-    "resolution": "4K PSSR (likely)",
+    "resolution": "1440p to 4K PSSR (likely)",
     "fps": "60fps",
-    "extraInfo": "Combines the resolution, performance and visual quality modes seen in base PS5."
+    "extraInfo": "Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode (especially grass), but it causes certain assets like crowd handrails to be more noisy/unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps."
   },
   {
     "name": "Marvel Rivals",
