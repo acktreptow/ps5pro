@@ -911,7 +911,7 @@
     "metacritic": 83,
     "pssr": false,
     "rt": true,
-    "rtType": "Ray-traced reflections",
+    "rtTypes": "Ray-traced reflections",
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Only big difference between the PS5 Pro and base PS5 versions is that the Pro version uses ray-tracing for reflections. The pro version still has DRS that can go as low as 1800p, but hits 4K more often than base PS5."
