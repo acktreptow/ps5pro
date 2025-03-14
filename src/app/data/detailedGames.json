@@ -1744,5 +1744,22 @@
     "resolution": "4K",
     "fps": "120fps",
     "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. PS5 Pro runs at 4K."
+  },
+  {
+    "name": "Zombie Derby 2",
+    "id": "Zombie Derby 2",
+    "urlPath": "zombie-derby-2",
+    "genre": "Racing, Vehicle Combat",
+    "developer": "Brinemedia",
+    "publisher": "Brinemedia",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 20, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. PS5 Pro runs at 4K."
   }
 ]
