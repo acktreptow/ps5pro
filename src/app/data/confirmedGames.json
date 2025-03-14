@@ -604,6 +604,17 @@
     "metacritic": 0
   },
   {
+    "name": "Silent Hill F",
+    "id": "SH: F",
+    "genre": "Survival Horror",
+    "developer": "NeoBards",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat 'em Up",
