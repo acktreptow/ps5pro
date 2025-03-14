@@ -1457,13 +1457,13 @@
     "metacritic": 53,
     "pssr": false,
     "rt": false,
-    "resolution": "4K TAA",
+    "resolution": "1440p to 4K TAA",
     "fps": "60fps",
     "modes": {
-      "fidelity": "4K (upscaled with TAA) at 30fps.",
+      "fidelity": "1440p to 4K TAA at 30fps.",
       "performance": "1440p at 60fps"
     },
-    "extraInfo": "The base PS5 quality mode is only 1440p."
+    "extraInfo": "Base PS5 quality mode only renders at 1440p, but there is little difference in practice. Pro is also able to achieve its target framerate more often."
   },
   {
     "name": "The Callisto Protocol",
