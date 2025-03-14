@@ -1483,10 +1483,10 @@
     "fps": "60fps",
     "modes": {
       "fidelity": "6K to 8K TAAU at locked 30fps with RT. Can be down-sampled back to 4K for a clearer image on 4K screens.",
-      "balanced": "4K at a very stable 40fps with RT. Higher internal res that performance mode.",
+      "balanced": "4K TAAU at a very stable 40fps with RT. Higher internal res that performance mode.",
       "performance": "1296p - 1440p to 4K TAAU at locked 60fps with RT."
     },
-    "extraInfo": "Performance mode the biggest jump from base PS5 as that performance mode has no RT and a more unstable 60fps."
+    "extraInfo": "Performance mode the biggest jump from base PS5 as that performance mode has no RT and a more unstable 60fps. RT quality is the same on Pro and base PS5, so there isn't much difference in the fidelity modes outside of resolution."
   },
   {
     "name": "The Crew Motorfest",
