@@ -386,10 +386,10 @@
     "resolution": "4k",
     "fps": "120fps",
     "modes": {
-      "balanced": "Upscaled 4K at 60 FPS. Increased base resolution (1512p) compared to base PS5.",
       "resolution": "Native 4K at 30 FPS. Better Contact Shadows compared to base PS5.",
-      "performance": "Upscaled 4K with VRR, up to 120 FPS. Increased base resolution (1440p), better Contact Shadows, Spot Shadows, and Fog Quality compared to base PS5.",
-      "fidelity": "Upscaled 4K at 30 FPS with Ray Tracing. Now with increased base resolution (1440p) and better Contact Shadows compared to base PS5."
+      "fidelity": "Upscaled 4K at 30 FPS with Ray Tracing. Now with increased base resolution (1440p) and better Contact Shadows compared to base PS5.",
+      "balanced": "Upscaled 4K at 60 FPS. Increased base resolution (1512p) compared to base PS5.",
+      "performance": "Upscaled 4K with VRR, up to 120 FPS. Increased base resolution (1440p), better Contact Shadows, Spot Shadows, and Fog Quality compared to base PS5."
     },
     "extraInfo": "All modes also have improved Global Illumination, Screen Space Reflections (except quality mode due to RT) and Sub Surface Scattering compared to their equivalent base PS5 mode."
   },
