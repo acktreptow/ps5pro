@@ -19,6 +19,7 @@ interface Game {
   fps: string;
   modes?: {
     fidelity: string;
+    balanced?: string;
     performance: string;
   };
   extraInfo?: string;
@@ -113,6 +114,10 @@ const GamesPage = async ({ params }: PageProps) => {
             <p className="text-lg">
               <span className="font-semibold">Fidelity:</span>{" "}
               {game.modes.fidelity}
+            </p>
+            <p className="text-lg">
+              <span className="font-semibold">Balanced:</span>{" "}
+              {game.modes.balanced}
             </p>
             <p className="text-lg">
               <span className="font-semibold">Performance:</span>{" "}
