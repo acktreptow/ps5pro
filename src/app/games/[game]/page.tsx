@@ -18,9 +18,7 @@ interface Game {
   resolution: string;
   fps: string;
   modes?: {
-    fidelity: string;
-    balanced?: string;
-    performance: string;
+    [key: string]: string;
   };
   extraInfo?: string;
 }
@@ -111,21 +109,11 @@ const GamesPage = async ({ params }: PageProps) => {
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Modes
             </h2>
-            <p className="text-lg">
-              <span className="font-semibold">Fidelity:</span>{" "}
-              {game.modes.fidelity}
-            </p>
-            {game.modes.balanced && (
-              <p className="text-lg">
-                <span className="font-semibold">Balanced:</span>{" "}
-                {game.modes.balanced}
+            {Object.entries(game.modes).map(([key, value]) => (
+              <p className="text-lg" key={key}>
+                <span className="font-semibold capitalize">{key}:</span> {value}
               </p>
-            )}
-
-            <p className="text-lg">
-              <span className="font-semibold">Performance:</span>{" "}
-              {game.modes.performance}
-            </p>
+            ))}
           </div>
         )}
         {game.extraInfo && (
