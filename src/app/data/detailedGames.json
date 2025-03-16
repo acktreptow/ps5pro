@@ -610,8 +610,8 @@
     "resolution": "1440p to 4K PSSR/TAA",
     "fps": "105fps",
     "modes": {
-      "fidelity": "(PS5 Pro Enhanced mode): Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps.",
-      "performance": "(High Frame Rate mode): Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
+      "ps5 pro enhanced": "Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps.",
+      "high frame rate": "Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
     },
     "extraInfo": "HFR mode can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
   },
