@@ -1688,6 +1688,7 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
+    "rtTypes": "Ray-traced reflections, shadows & ambient occlusion (based off Spider-Man 2)",
     "resolution": "4K (likely)",
     "fps": "120fps (likely)",
     "extraInfo": "Please note the above technical information is subject to change as Wolverine is still in development. However, this information is based off leaked internal Insomniac documents, so as a primary source, I decided it was worth including in the detailed games list."
