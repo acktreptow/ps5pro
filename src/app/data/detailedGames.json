@@ -1041,8 +1041,8 @@
     "resolution": "4K PSSR",
     "fps": "90fps",
     "modes": {
-      "fidelity": "(Fidelity Pro): 4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or nearly 60fps with VRR. Highest quality RT (explained below).",
-      "performance": "(Performance Pro): 1584p to 4K PSSR at locked 60fps, or around 80-90fps with VRR."
+      "fidelity pro": "4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or nearly 60fps with VRR. Highest quality RT (explained below).",
+      "performance pro": "1584p to 4K PSSR at locked 60fps, or around 80-90fps with VRR."
     },
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the upscaler on base PS5. Especially in motion with less aliasing etc, but can be noisier in stills. Performance Pro mode has much sharper RT reflections than base PS5 Performance RT mode. Fidelity Pro RT reflections looked even less aliased as they are full resolution and its RTAO has more contact shadows, adding depth to assets all over the screen."
   },
