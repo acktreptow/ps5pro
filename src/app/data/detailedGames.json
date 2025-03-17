@@ -1107,8 +1107,8 @@
     "resolution": "864p to 4K PSSR",
     "fps": "120fps",
     "modes": {
-      "fidelity": "(RT mode) 864p to 4K PSSR at locked 60fps with RT.",
-      "performance": "(High Frame Rate mode) 864p to 4K PSSR at locked 120fps with no RT."
+      "ray tracing": "864p to 4K PSSR at locked 60fps with RT.",
+      "high frame rate": "864p to 4K PSSR at locked 120fps with no RT."
     },
     "extraInfo": "You can actually toggle both RT and HFR on, with the framerate generally ranging from from 65-90fps. 120fps is not available on base PS5, which uses 4K checkerboarding (1920x2160) and also can't hold a stable 60fps. PSSR is less sharp compared to base PS5 checkerboarding, but also less noisy, with less artifacting on moving objects like tree branches."
   },
