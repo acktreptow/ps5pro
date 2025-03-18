@@ -1231,23 +1231,6 @@
     "extraInfo": "A native 4K and more stable 60fps compared to base PS5, especially in later boss fights. \n*Above technical information is aggregated off anecdotal remarks by gamers who have completed Slitterhead, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing."
   },
   {
-    "name": "Sniper Elite: Resistance",
-    "id": "SE: Resistance",
-    "urlPath": "sniper-elite-resistance",
-    "genre": "TPS, Sniper Simulation",
-    "developer": "Rebellion",
-    "publisher": "Rebellion",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "January 30, 2025",
-    "metacritic": 75,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p much of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
-  },
-  {
     "name": "Smash Drums",
     "id": "SD",
     "urlPath": "smash-drums",
@@ -1263,6 +1246,23 @@
     "resolution": "4K (likely)",
     "fps": "120fps native",
     "extraInfo": "Developers have confirmed 120fps native on the Pro and that there will be other enhancements."
+  },
+  {
+    "name": "Sniper Elite: Resistance",
+    "id": "SE: Resistance",
+    "urlPath": "sniper-elite-resistance",
+    "genre": "TPS, Sniper Simulation",
+    "developer": "Rebellion",
+    "publisher": "Rebellion",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 30, 2025",
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p much of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
   },
   {
     "name": "Spider-Man 1 Remastered",
@@ -1282,8 +1282,8 @@
     "resolution": "4K PSSR",
     "fps": "70fps",
     "modes": {
-      "fidelity": "(Fidelity Pro): 4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or mid 50s with VRR. Highest quality RT (explained below).",
-      "performance": "(Performance Pro): 1440p to 4K PSSR at locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality."
+      "fidelity pro": "4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or mid 50s with VRR. Highest quality RT (explained below).",
+      "performance pro": "1440p to 4K PSSR at locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality."
     },
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the upscaler on base PS5. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution as opposed to 50% in Performance Pro, and RTAO has more contact shadows, adding depth to assets all over the screen. Draw distance/distant reflections are also improved over Performance Pro (at base PS5 Fidelity level), e.g. more onscreen distant objects like trees."
   },
