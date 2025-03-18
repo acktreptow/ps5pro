@@ -1697,7 +1697,11 @@
     "rtTypes": "Ray-traced reflections, shadows & ambient occlusion (based off Spider-Man 2)",
     "resolution": "4K (likely)",
     "fps": "120fps (likely)",
-    "extraInfo": "Please note the above technical information is subject to change as Wolverine is still in development. However, this information is based off leaked internal Insomniac documents, so as a primary source, I decided it was worth including in the detailed games list."
+    "modes": {
+      "fidelity pro": "4K PSSR at locked 30fps/40fps for 60hz/120hz screens, or mid 50s with VRR. Highest quality RT (based off Spider-Man 2).",
+      "performance pro": "1440p to 4K PSSR at locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality (based off Spider-Man 2)."
+    },
+    "extraInfo": "Please note the above technical information is subject to change as Wolverine is still in development. However, this information is from leaked internal Insomniac documents and/or what Insomniac did with Spider-Man 2, so I decided it was worth including in the detailed games list to get a baseline of expectations."
   },
   {
     "name": "World Of Warships: L",
