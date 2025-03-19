@@ -1,19 +1,39 @@
-import prisma from "../../../../lib/prisma";
+import postableGames from "../../data/detailedGames.json";
 
-async function getGameDetails(urlPath: string) {
-  try {
-    const game = await prisma.detailedGame.findUnique({
-      where: { published: true, urlPath },
-    });
-    return game;
-  } catch (error) {
-    console.error("Error fetching game details:", error);
-    return null;
-  }
+interface Game {
+  name: string;
+  pageTitle?: string;
+  id: string;
+  urlPath: string;
+  genre: string;
+  developer: string;
+  publisher: string;
+  psStudios: boolean;
+  psvr2: boolean;
+  release: string;
+  metacritic: number;
+  pssr: boolean;
+  rt: boolean;
+  rtTypes?: string;
+  resolution: string;
+  fps: string;
+  modes?: {
+    [key: string]: string;
+  };
+  extraInfo?: string;
 }
 
-const GamesPage = async ({ params }: { params: { game: string } }) => {
-  const game = await getGameDetails(params.game);
+interface PageProps {
+  params: Promise<{
+    game: string;
+  }>;
+}
+
+const GamesPage = async ({ params }: PageProps) => {
+  const resolvedParams = await params;
+  const game: Game | undefined = postableGames.find(
+    (game) => game.urlPath === resolvedParams.game
+  );
 
   if (!game) {
     return (
@@ -28,7 +48,7 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
       <h1 className="text-center text-4xl font-extrabold my-8 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-        {game.pageTitle ? game.pageTitle : game.title}
+        {game.pageTitle ? game.pageTitle : game.name}
       </h1>
       <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
         <div className="mb-12">
@@ -78,10 +98,10 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
           )}
           <p className="text-lg">
             <span className="font-semibold">Highest Resolution:</span>{" "}
-            {game.topRes}{" "}
+            {game.resolution}{" "}
           </p>
           <p className="text-lg">
-            <span className="font-semibold">Highest FPS:</span> {game.topFps}{" "}
+            <span className="font-semibold">Highest FPS:</span> {game.fps}{" "}
           </p>
         </div>
         {game.modes && (
