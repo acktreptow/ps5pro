@@ -46,10 +46,16 @@
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "Targets 4k/60fps with high visual quality.",
-      "performance": "Targets 1080p/120fps with reduced visual quality."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "Targets 4K at 60fps with high visual quality."
+      },
+      {
+        "name": "performance",
+        "description": "Targets 1080p at 120fps with reduced visual quality."
+      }
+    ],
     "extraInfo": "These modes are also on base PS5, but Pro hits the target framerate more often than their base PS5 counterparts."
   },
   {
