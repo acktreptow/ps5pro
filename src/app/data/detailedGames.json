@@ -15,11 +15,20 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "1224p to 4K PSSR/FSR",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "1224p to 4K PSSR/FSR. Mostly stable 30fps with RT reflections.",
-      "performance": "864p to 4K PSSR/FSR. Mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5 fidelity mode (more foliage/better lighting etc).",
-      "balanced": "864p to 4K PSSR/FSR at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120hz display."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1224p to 4K PSSR/FSR. Mostly stable 30fps with RT reflections."
+      },
+      {
+        "name": "balanced",
+        "description": "864p to 4K PSSR/FSR at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120hz display."
+      },
+      {
+        "name": "performance",
+        "description": "864p to 4K PSSR/FSR. Mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5 fidelity mode (more foliage/better lighting etc)."
+      }
+    ],
     "extraInfo": "Can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K like in stills. PSSR looks sharper in motion with less artifacting. Differences are less obvious in quality mode as base resolution is 1224p (others look relatively soft regardless as 864p to 4K is a big jump). There's no RT on base PS5 and Pro also has higher quality shadows/more stable framerate."
   },
   {
