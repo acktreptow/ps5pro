@@ -213,7 +213,6 @@
         "description": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
       }
     ],
-
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the fidelity 30fps mode. Fidelity/balanced/performance are all the legacy modes from base PS5, but will run at the higher resolution bounds (1800p for fidelity etc) more often due to the Pro's extra power."
   },
   {
@@ -231,10 +230,16 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "4K at 30fps.",
-      "performance": "1440p to 4K PSSR at 60fps."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at nearly locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K PSSR at a mostly stable 60fps."
+      }
+    ],
     "extraInfo": "Pro performance mode looks better than even base PS5 fidelity mode due to upscalers used. PSSR is a bit softer than base PS5's FSR, but much more stable with less artifacting/flicker. This is especially seen in motion like moving shadows. Pro also has around a 10% higher framerate, so runs at 60fps more often than base PS5. Split screen can now run at either 30fps or 60fps."
   },
   {
@@ -253,11 +258,20 @@
     "rtTypes": "UE5 Lumen software-based global illumination",
     "resolution": "1296p to 4K PSSR",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "1296p to 4K PSSR at a very stable 30fps.",
-      "balanced": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than fidelity mode.",
-      "performance": "1080p to 1440p FSR3. Frame-gen used to hit a still unstable 60ps."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1296p to 4K PSSR at a very stable 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than fidelity mode."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
+      }
+    ],
     "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. Its balanced and quality modes however only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
   },
   {
