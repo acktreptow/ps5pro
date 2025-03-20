@@ -73,10 +73,16 @@
     "rt": false,
     "resolution": "4096p",
     "fps": "90fps",
-    "modes": {
-      "fidelity": "4096p per eye at 60fps re-projected",
-      "performance": "2240p per eye at 90fps native"
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4096p per eye at 60fps re-projected."
+      },
+      {
+        "name": "performance",
+        "description": "2240p per eye at 90fps native (no-reprojection)."
+      }
+    ],
     "extraInfo": "Developers recommend the performance mode, likely due to the native motion. Base PS5 resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
   },
   {
@@ -94,10 +100,16 @@
     "rt": false,
     "resolution": "1944p",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "1944p upscaled to 4K using FSR 1 at 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode.",
-      "performance": "1440p upscaled to 4K using FSR 1 at 60fps."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1944p upscaled to 4K using FSR 1 at locked 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode."
+      },
+      {
+        "name": "performance",
+        "description": "1440p upscaled to 4K using FSR 1 at 60fps."
+      }
+    ],
     "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively."
   },
   {
