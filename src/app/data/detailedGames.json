@@ -195,12 +195,25 @@
     "rtTypes": "Ray-traced reflections & Global Illumination",
     "resolution": "1800p to 4K PSSR or FSR3",
     "fps": "60fps",
-    "modes": {
-      "fidelity pro": "900p - 1152p at mostly stable 60fps.",
-      "fidelity": "Sharper than fidelity pro (1512p - 1800p) but at locked 30fps.",
-      "balanced": "Visual quality downgraded compared to fidelity but now at locked 40fps.",
-      "performance": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
-    },
+    "modes": [
+      {
+        "name": "fidelity pro",
+        "description": "900p - 1152p at mostly stable 60fps."
+      },
+      {
+        "name": "fidelity",
+        "description": "Sharper than fidelity pro (1512p - 1800p) but at locked 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "Visual quality downgraded compared to fidelity but now at locked 40fps."
+      },
+      {
+        "name": "performance",
+        "description": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
+      }
+    ],
+
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the fidelity 30fps mode. Fidelity/balanced/performance are all the legacy modes from base PS5, but will run at the higher resolution bounds (1800p for fidelity etc) more often due to the Pro's extra power."
   },
   {
