@@ -1370,10 +1370,16 @@
     "rtTypes": "Ray-traced global illumination, ambient occlusion & reflections",
     "resolution": "864p to 4K PSSR",
     "fps": "120fps",
-    "modes": {
-      "ray tracing": "864p to 4K PSSR at locked 60fps with RT.",
-      "high frame rate": "864p to 4K PSSR at locked 120fps with no RT."
-    },
+    "modes": [
+      {
+        "name": "ray tracing",
+        "description": "864p to 4K PSSR at a locked 60fps with RT."
+      },
+      {
+        "name": "high frame rate",
+        "description": "864p to 4K PSSR at a locked 120fps with no RT."
+      }
+    ],
     "extraInfo": "You can actually toggle both RT and HFR on, with the framerate generally ranging from from 65-90fps. 120fps is not available on base PS5, which uses 4K checkerboarding (1920x2160) and also can't hold a stable 60fps. PSSR is less sharp compared to base PS5 checkerboarding, but also less noisy, with less artifacting on moving objects like tree branches."
   },
   {
@@ -1410,11 +1416,20 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "1440p to 4K PSSR",
     "fps": "60fps",
-    "modes": {
-      "ray tracing": "1440p to 4K PSSR with RT reflections. Same framerate issues as fidelity mode.",
-      "fidelity": "1440p to 4K PSSR at very unstable 60fps cap. Averages around 45fps in actual gameplay.",
-      "performance": "1070p-1440p to 4K PSSR at nearly locked 60fps with no RT."
-    },
+    "modes": [
+      {
+        "name": "ray tracing",
+        "description": "1440p to 4K PSSR with RT reflections. Same framerate issues as fidelity mode."
+      },
+      {
+        "name": "fidelity",
+        "description": "1440p to 4K PSSR at a very unstable 60fps cap. Averages around 45fps in actual gameplay."
+      },
+      {
+        "name": "performance",
+        "description": "1070p-1440p to 4K PSSR at a nearly locked 60fps with no RT."
+      }
+    ],
     "extraInfo": "The Fidelity and RT modes' framerate falls far below the VRR limit for the majority of gameplay. There is also no toggle to cap the framerate to 30fps, so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower resolution in performance mode, Pro's PSSR is a lot less aliased/clearer than base PS5's FSR. Especially in the foliage which regularly fills the screen."
   },
   {
