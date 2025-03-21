@@ -1068,10 +1068,16 @@
     "rtTypes": "UE5 Lumen Global Illumination & Lumen Reflections",
     "resolution": "1440p to 4K PSSR",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "1440p to 4K PSSR at locked 60fps with Lumen Reflections & GI.",
-      "performance": "1440p at nearly locked 120fps."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1440p to 4K PSSR at a locked 60fps with Lumen Reflections & GI."
+      },
+      {
+        "name": "performance",
+        "description": "1440p at a nearly locked 120fps."
+      }
+    ],
     "extraInfo": "Base PS5 only has Lumen GI in its fidelity mode, whereas Pro also has Lumen Reflections. Pro's PSSR implementation renders a sharper image than possible on base PS5, but is also a bit noisier/unstable. Pro also not only hits 120fps in performance mode much more often than base PS5, which regularly dips to around 110fps, but does so at a higher resolution too."
   },
   {
@@ -1107,11 +1113,20 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "1944p to 4K PSSR",
     "fps": "80fps",
-    "modes": {
-      "fidelity": "1728p-1944p to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR.",
-      "balanced": "1404p to 4K PSSR with very slightly worse RT. Nearly locked 40fps, or low 40s in VRR.",
-      "performance": "1080p to 4K PSSR with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1728p-1944p to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
+      },
+      {
+        "name": "balanced",
+        "description": "1404p to 4K PSSR with very slightly worse RT. Nearly locked 40fps, or low 40s in VRR."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 4K PSSR with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes."
+      }
+    ],
     "extraInfo": "RT reflections look significantly better than SSR due to no occlusion issues. Pro's PSSR looks much better than base PS5's FSR1 as the image (though slightly softer) has a lot less aliasing/breakup and more temporal stability. This contrast is widened as the base resolution lowers to as low as 720p on base PS5. Pro performance mode also hits 60fps more often than base PS5. LFC doesn't trigger in fidelity/balanced modes, so VRR isn't recommended."
   },
   {
