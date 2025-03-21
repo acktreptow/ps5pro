@@ -1162,11 +1162,20 @@
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "4K at 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'.",
-      "balanced": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap. - 'balancing both visual quality and smoothness'.",
-      "performance": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'."
+      },
+      {
+        "name": "balanced",
+        "description": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap - 'balancing both visual quality and smoothness'.."
+      },
+      {
+        "name": "performance",
+        "description": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
+      }
+    ],
     "extraInfo": "According to the developers, 60fps at a native 4K wasn't possible on base PS5. The performance mode has toggles for both a 240fps cap or unlimited fps, but the PS5 Pro is not capable of going above 120fps. So in reality, performance mode has the same 60/120fps cap toggles as balanced mode."
   },
   {
@@ -1203,10 +1212,16 @@
     "rtTypes": "Software-based UE5 Lumen",
     "resolution": "4K TSR",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "Upscaled 4K TSR at locked 60fps except for some cutscenes (lows of mid 50s).",
-      "performance": "Upscaled 1080p TSR at somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "Upscaled 4K TSR at locked 60fps except for some cutscenes (lows of mid 50s)"
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 1080p TSR at somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
+      }
+    ],
     "extraInfo": "Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Both modes are the same as the two on base PS5. However, the Pro has a higher base resolution before upscaling and hits its target framerate more often."
   },
   {
