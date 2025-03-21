@@ -725,10 +725,16 @@
     "rtTypes": "Hardware-based RT reflections, shadows & global illumination",
     "resolution": "1350p to 4K TSR",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "1350p to 4K TSR at near locked 60fps with hardware-based RT reflections, shadows & global illumination.",
-      "performance": "1080p to 4K TSR at basically locked 120fps with no RT."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1350p to 4K TSR at near locked 60fps with hardware-based RT reflections, shadows & global illumination."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 4K TSR at basically locked 120fps, but with no RT."
+      }
+    ],
     "extraInfo": "Performance mode looks practically identical to base PS5. Fidelity mode on base PS5 uses software-based RT, meaning Pro has better RT implementation due to being hardware-based (less breakup/shimmering/pop-in, more detailed/stable assets, character models in reflections, more accurate indirect lighting etc)."
   },
   {
@@ -747,10 +753,16 @@
     "rtTypes": "Very light RT for scene-aligned cube maps.",
     "resolution": "1440p to 4K PSSR/TAA",
     "fps": "105fps",
-    "modes": {
-      "ps5 pro enhanced": "Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps.",
-      "high frame rate": "Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
-    },
+    "modes": [
+      {
+        "name": "PS5 pro enhanced",
+        "description": "Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps."
+      },
+      {
+        "name": "high frame rate",
+        "description": "Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
+      }
+    ],
     "extraInfo": "HFR mode can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
   },
   {
