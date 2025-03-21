@@ -1937,11 +1937,20 @@
     "rt": false,
     "resolution": "4K",
     "fps": "110fps",
-    "modes": {
-      "pro": "1440p to 4K PSSR at locked 60fps, or around 70-90fps with VRR.",
-      "fidelity": "4K at locked 30fps, 40fps with a 120Hz display, or 50-60fps with VRR.",
-      "performance": "1440p to 4K TAA at locked 60fps, or around 80-110fps with VRR."
-    },
+    "modes": [
+      {
+        "name": "pro",
+        "description": "1440p to 4K PSSR at a locked 60fps, or around 70-90fps with VRR."
+      },
+      {
+        "name": "fidelity",
+        "description": "4K at a locked 30fps, 40fps with a 120Hz display, or 50-60fps with VRR."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
+      }
+    ],
     "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS."
   },
   {
@@ -1961,11 +1970,20 @@
     "rtTypes": "Ray-traced reflections, ambient occlusion and lighting (RTAO & RTGI)",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "TBA",
-      "performance": "Up to 4K PSSR 60fps with RT.",
-      "performance RT pro": "Uses quality mode of base PS5 + RT to while targeting 60fps."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "TBA"
+      },
+      {
+        "name": "performance RT pro",
+        "description": "Uses quality mode of base PS5 + RT to while targeting 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Up to 4K PSSR 60fps with RT."
+      }
+    ],
     "extraInfo": "PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
   },
   {
