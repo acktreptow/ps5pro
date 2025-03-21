@@ -781,11 +781,20 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "4K to 8K PSSR",
     "fps": "120fps",
-    "modes": {
-      "resolution": "4K to 8K PSSR at locked 60fps, but with no RT. Requires PSSR to upscale.",
-      "fidelity": "4K PSSR/TAA at locked 60fps with RT reflections.",
-      "performance": "1800p to 4K PSSR/TAA at locked 120fps with no RT."
-    },
+    "modes": [
+      {
+        "name": "resolution",
+        "description": "4K to 8K PSSR at locked 60fps, but with no RT. Requires PSSR to upscale."
+      },
+      {
+        "name": "fidelity",
+        "description": "4K PSSR/TAA at locked 60fps with RT reflections."
+      },
+      {
+        "name": "performance",
+        "description": "1800p to 4K PSSR/TAA at locked 120fps with no RT."
+      }
+    ],
     "extraInfo": "Unlike base PS5, RT reflections are now available during gameplay. Its excellent implementation is far superior to the cube maps used when RT is disabled. Both TAA and PSSR are available for upscaling. RT is available with both except for cockpit mode, which is only PSSR. PSSR still looks great, but can can produce additional shimmer/noise in thin objects and artifacting on a few cars compared to TAA. All framerates are locked 99% of the time in gameplay, but replays can drop the framerate more often. Finally, Pro significantly improves motion clarity and image quality inside PSVR2."
   },
   {
@@ -803,10 +812,16 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "4K at an improperly paced, but stable 30fps",
-      "performance": "1440p at a mostly stable 60fps"
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at an improperly paced, but stable 30fps"
+      },
+      {
+        "name": "performance",
+        "description": "1440p at a mostly stable 60fps (drops to 50s with explosions etc)"
+      }
+    ],
     "extraInfo": "Resolution increases in both modes as on base PS5, fidelity mode is 1728p and performance is 1080p. However, all 4 modes' images are relatively unstable due to mediocre TAA. Resulting in a larger gap between performance modes than fidelity modes (less shimmering/clearer text etc). 60fps on Pro is also more stable than on base PS5, with only the hardest difficulties causing drops (usually still in the VRR window). Both fidelity modes remain improperly paced, but the Pro version is more stable."
   },
   {
