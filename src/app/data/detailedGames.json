@@ -1875,11 +1875,20 @@
     "rtTypes": "Ray-traced shadows, reflections on translucent and opaque surfaces, ambient occlusion, and radiance cache.",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "4K PSSR at 30fps, or up to 60fps with frame generation on. Has all RT if turned on.",
-      "balanced": "Same as fidelity mode, but aims for 40fps by having a lower internal resolution before being upscaled to 4K PSSR.",
-      "performance": "1440p PSSR at 60fps, which is achieved more often with frame gen on. Has all RT except for RT shadows and translucent surface reflections."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K PSSR at 30fps, or up to 60fps with frame generation on. Has all RT if turned on."
+      },
+      {
+        "name": "balanced",
+        "description": "Same as fidelity mode, but aims for 40fps via a lower internal resolution before upscaling to 4K PSSR."
+      },
+      {
+        "name": "performance",
+        "description": "1440p PSSR at 60fps, which is achieved more often with frame gen on. Has all RT except for RT shadows and translucent surface reflections."
+      }
+    ],
     "extraInfo": "One of the few Pro games to combine PSSR with AMD's FSR frame generation, whereas base PS5 uses FSR for upscaling. You can toggle both RT and frame generation on/off in all modes. Frame generation increases framerates, but isn't recommended as the base framerate is too low, resulting in too much input lag."
   },
   {
@@ -1897,11 +1906,20 @@
     "rt": false,
     "resolution": "4K",
     "fps": "110fps",
-    "modes": {
-      "pro": "1440p to 4K PSSR at locked 60fps, or around 70-90fps with VRR.",
-      "fidelity": "4K at locked 30fps, 40fps with a 120Hz display, or 50-60fps with VRR.",
-      "performance": "1440p to 4K TAA at locked 60fps, or around 80-110fps with VRR."
-    },
+    "modes": [
+      {
+        "name": "pro",
+        "description": "1440p to 4K PSSR at a locked 60fps, or around 70-90fps with VRR."
+      },
+      {
+        "name": "fidelity",
+        "description": "4K at a locked 30fps, 40fps with a 120Hz display, or 50-60fps with VRR."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
+      }
+    ],
     "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS."
   },
   {
