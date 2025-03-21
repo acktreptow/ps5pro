@@ -2037,10 +2037,16 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "4K at 30fps.",
-      "performance": "1080p at 60fps"
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at  nearly locked 30fps"
+      },
+      {
+        "name": "performance",
+        "description": "1080p at 60fps"
+      }
+    ],
     "extraInfo": "Base PS5 can't run the game at a native 4K, so there is only one mode. Pro also has a much more stable framerate in both of its modes compared to base PS5."
   },
   {
@@ -2059,10 +2065,16 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "1080p-2160p to 4K PSSR at a locked 30fps.",
-      "performance": "1080p-1440p to 4K PSSR at relatively stable 60fps. Drops to around 50fps in more chaotic scenes."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1080p-2160p to 4K PSSR at a locked 30fps"
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1440p to 4K PSSR at a relatively stable 60fps. Drops to around 50fps in more chaotic scenes."
+      }
+    ],
     "extraInfo": "Base PS5 uses FSR2 to upscale its modes, and both have a lower base resolution before upscaling (720p for performance). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
