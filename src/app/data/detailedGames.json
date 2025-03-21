@@ -1314,10 +1314,16 @@
     "rt": false,
     "resolution": "8K",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "4K at 120fps with supersampling.",
-      "performance": "8K at 60fps"
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a locked 120fps with supersampling"
+      },
+      {
+        "name": "performance",
+        "description": "8K at a locked 60fps"
+      }
+    ],
     "extraInfo": "Base PS5 doesn't have an 8K mode. It also can't run at 120fps when rendering at 4K."
   },
   {
@@ -1336,10 +1342,16 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "4K",
     "fps": "120fps",
-    "modes": {
-      "resolution": "4K at locked 60 with RT/Hair. Can also toggle HFR on which then increases framerate to 70-90fps.",
-      "high frame rate": "864p to 4K PSSR without RT/Hair. 85-105fps usually, but can be a locked 120fps in interiors."
-    },
+    "modes": [
+      {
+        "name": "resolution",
+        "description": "4K at locked 60 with RT/Hair. Can also toggle HFR on which then increases the framerate to 70-90fps."
+      },
+      {
+        "name": "high frame rate",
+        "description": "864p to 4K PSSR without RT/Hair. 85-105fps usually, but can be a locked 120fps in interiors."
+      }
+    ],
     "extraInfo": "There's a lot of toggles in this game for RT/HFR/better hair quality etc, so the 2 modes above represent the image quality with all the toggles either on or off. Fidelity mode holds a much more stable 60fps than base PS5, which hovered around 45fps."
   },
   {
