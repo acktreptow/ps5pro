@@ -1447,10 +1447,16 @@
     "rt": false,
     "resolution": "8K",
     "fps": "120fps",
-    "modes": {
-      "fidelity": "4K at very stable 120fps.",
-      "performance": "8K at 60fps"
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a very stable 120fps"
+      },
+      {
+        "name": "performance",
+        "description": "8K at 60fps"
+      }
+    ],
     "extraInfo": "According to Truant Pixel, outside of the resolution and framerate increases in each mode compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
@@ -1486,10 +1492,16 @@
     "rtTypes": "Hardware-based ray-traced reflections, global illumination.",
     "resolution": "1152p to 4K TSR",
     "fps": "60fps",
-    "modes": {
-      "fidelity": "1080p to 4K PSSR at locked 30fps with RT.",
-      "performance": "1152p to 4K TSR. Relatively locked 60fps (lows of high 40s) with RT."
-    },
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1080p to 4K PSSR at a locked 30fps with RT"
+      },
+      {
+        "name": "performance",
+        "description": "1152p to 4K TSR. Relatively locked 60fps (lows of high 40s) with RT."
+      }
+    ],
     "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit target framerate more often than the base PS5 version. Pro performance mode also has a higher base resolution. Pro fidelity mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 fidelity mode looks better due to TSR. Bloober should either improve PSSR implementation or revert to TSR (as they did for performance)."
   },
   {
