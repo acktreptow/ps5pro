@@ -241,6 +241,17 @@
     "metacritic": 64
   },
   {
+    "name": "Forever Skies",
+    "id": "Forever Skies",
+    "genre": "Survival, Action",
+    "developer": "Far From Home",
+    "publisher": "Far From Home",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 14, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Forza Horizon 5",
     "id": "FH5",
     "genre": "Driving, Arcade",
