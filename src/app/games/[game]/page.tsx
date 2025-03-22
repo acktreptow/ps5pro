@@ -84,35 +84,21 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
             <span className="font-semibold">Highest FPS:</span> {game.topFps}{" "}
           </p>
         </div>
-        {game.modes && (
+        {Array.isArray(game.modes) && (
           <div className="mb-12">
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Modes
             </h2>
-            {/* Check if modes is an array */}
-            {Array.isArray(game.modes)
-              ? (game.modes as { name: string; description: string }[]).map(
-                  (mode, index) => (
-                    <p className="text-lg" key={index}>
-                      <span className="font-semibold capitalize">
-                        {mode.name}:
-                      </span>{" "}
-                      {mode.description}
-                    </p>
-                  )
-                )
-              : /* If modes is an object, use Object.entries() */
-                Object.entries(game.modes as Record<string, string>).map(
-                  ([key, value]) => (
-                    <p className="text-lg" key={key}>
-                      <span className="font-semibold capitalize">{key}:</span>{" "}
-                      {value}
-                    </p>
-                  )
-                )}
+            {(game.modes as { name: string; description: string }[]).map(
+              (mode, index) => (
+                <p className="text-lg" key={index}>
+                  <span className="font-semibold capitalize">{mode.name}:</span>{" "}
+                  {mode.description}
+                </p>
+              )
+            )}
           </div>
         )}
-
         {game.extraInfo && (
           <div>
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
