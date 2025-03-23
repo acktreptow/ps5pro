@@ -1209,7 +1209,7 @@
     "metacritic": 80,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Software-based UE5 Lumen",
+    "rtTypes": "Software-based UE5 Lumen reflections and GI",
     "resolution": "4K TSR",
     "fps": "120fps",
     "modes": [
