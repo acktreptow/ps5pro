@@ -1967,7 +1967,7 @@
     "metacritic": 40,
     "pssr": true,
     "rt": false,
-    "rtTypes": "Ray-traced reflections, ambient occlusion and lighting (RTAO & RTGI)",
+    "rtTypes": "Ray-traced reflections, ambient occlusion and global illumination.",
     "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": [
