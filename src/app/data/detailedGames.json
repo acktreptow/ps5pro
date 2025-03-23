@@ -42,7 +42,7 @@
     "psvr2": false,
     "release": "March 29, 2022",
     "metacritic": 89,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
