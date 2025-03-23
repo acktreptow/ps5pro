@@ -1169,7 +1169,7 @@
       },
       {
         "name": "balanced",
-        "description": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap - 'balancing both visual quality and smoothness'.."
+        "description": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap - 'balancing both visual quality and smoothness'."
       },
       {
         "name": "performance",
