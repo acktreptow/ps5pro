@@ -1071,11 +1071,11 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "1440p to 4K PSSR at a locked 60fps with Lumen Reflections & GI."
+        "description": "1440p to 4K PSSR at a locked 60fps, with Lumen Reflections & GI"
       },
       {
         "name": "performance",
-        "description": "1440p at a nearly locked 120fps."
+        "description": "1440p at a nearly locked 120fps"
       }
     ],
     "extraInfo": "Base PS5 only has Lumen GI in its fidelity mode, whereas Pro also has Lumen Reflections. Pro's PSSR implementation renders a sharper image than possible on base PS5, but is also a bit noisier/unstable. Pro also not only hits 120fps in performance mode much more often than base PS5, which regularly dips to around 110fps, but does so at a higher resolution too."
