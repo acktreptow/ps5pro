@@ -75,7 +75,7 @@
     "fps": "90fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "4096p per eye at 60fps re-projected."
       },
       {
