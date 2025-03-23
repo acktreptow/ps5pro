@@ -651,11 +651,11 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "4K at 60fps."
+        "description": "4K at a basically locked 60fps"
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K at 120fps."
+        "description": "Upscaled 4K at a stable 120fps"
       }
     ],
     "extraInfo": "Performance mode now hits a solid 120fps whereas the base PS5 version is usually around 90fps. There's also higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality has improved."
