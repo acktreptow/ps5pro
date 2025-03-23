@@ -912,7 +912,7 @@
         "description": "1440p-1584 to 4K at locked 60fps, or around 65fps with VRR. Very slightly more blurry than fidelity mode (particularly SSR) due to lower base resolution before upscaling, but looks less aliased in motion."
       }
     ],
-    "extraInfo": "Both modes have improved shadows, depth-of-field, skin/hair shaders, clouds, god rays etc compared to base PS5, and these improvements are even more noticeable in motion. Base PS5 hits max 1800p checkerboarding in performance mode which looks far blurrier (especially foliage and SSR in bodies of water) and more aliased/unstable than Pro performance mode. Pro performance even beats base PS5 fidelity mode except for slightly blurrier SSR. Digital Foundry thinks it's the best looking console game (along with Horizon 2) ever! Equivalent to a high-end PC game and even beats DLSS in places like SSR."
+    "extraInfo": "All 3 modes have improved shadows, depth-of-field, skin/hair shaders, clouds, god rays etc compared to base PS5, and these improvements are even more noticeable in motion. Base PS5 hits max 1800p checkerboarding in performance mode which looks far blurrier (especially foliage and SSR in bodies of water) and more aliased/unstable than Pro performance mode. Pro performance even beats base PS5 fidelity mode except for slightly blurrier SSR. Digital Foundry thinks it's the best looking console game (along with Horizon 2) ever! Equivalent to a high-end PC game and even beats DLSS in places like SSR."
   },
   {
     "name": "Horizon 2 Forbidden West",
@@ -944,7 +944,7 @@
         "description": "1440p-1584 to 4K at locked 60fps, or around 65fps with VRR. Very slightly more blurry than fidelity mode (particularly SSR) due to lower base resolution before upscaling, but looks less aliased in motion."
       }
     ],
-    "extraInfo": "Both modes have improved shadows, depth-of-field, skin/hair shaders, clouds, god rays etc compared to base PS5, and these improvements are even more noticeable in motion. Base PS5 hits max 1800p checkerboarding in performance mode which looks far blurrier (especially foliage and SSR in bodies of water) and more aliased/unstable than Pro performance mode. Pro performance even beats base PS5 fidelity mode except for slightly blurrier SSR. Digital Foundry thinks it's the best looking console game (along with Horizon 1) ever! Equivalent to a high-end PC game and even beats DLSS in places like SSR."
+    "extraInfo": "All 3 modes have improved shadows, depth-of-field, skin/hair shaders, clouds, god rays etc compared to base PS5, and these improvements are even more noticeable in motion. Base PS5 hits max 1800p checkerboarding in performance mode which looks far blurrier (especially foliage and SSR in bodies of water) and more aliased/unstable than Pro performance mode. Pro performance even beats base PS5 fidelity mode except for slightly blurrier SSR. Digital Foundry thinks it's the best looking console game (along with Horizon 1) ever! Equivalent to a high-end PC game and even beats DLSS in places like SSR."
   },
   {
     "name": "Kayak VR: Mirage",
