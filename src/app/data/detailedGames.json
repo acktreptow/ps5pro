@@ -752,7 +752,7 @@
     "rt": true,
     "rtTypes": "Very light RT for scene-aligned cube maps.",
     "resolution": "1440p to 4K PSSR/TAA",
-    "fps": "105fps",
+    "fps": "120fps",
     "modes": [
       {
         "name": "PS5 pro enhanced",
