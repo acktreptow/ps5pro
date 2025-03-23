@@ -997,7 +997,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "4K at 40fps+ depending on if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance mode."
       },
       {
