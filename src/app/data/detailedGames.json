@@ -1821,7 +1821,7 @@
     "psvr2": false,
     "release": "December 2, 2022",
     "metacritic": 69,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
     "rtTypes": "Ray-traced reflections and shadows",
     "resolution": "6K to 8K TAAU",
