@@ -114,12 +114,10 @@ const GamesListPage = async () => {
           Disclaimer
         </h3>
         <h3 className="mx-4 md:mx-8 lg:text-lg">
-          The vast majority (more than 95%) of information regarding PS5 Pro
-          enhancements have been collated from primary sources (press releases,
-          developer comments on social media etc) or extremely well regarded
-          secondary sources (Digital Foundry, NX Gamer etc). It will be
-          explicitly stated if any information doesn&#39;t fall into these
-          categories and are therefore more speculative in nature.
+          Over 95% of the information on PS5 Pro enhancements comes from primary
+          sources (like press releases and developer comments on X) or highly
+          reputable secondary sources (Digital Foundry, NX Gamer etc). Any
+          information that&#39;s more speculative in nature is clearly noted.
         </h3>
       </div>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:text-xl">
