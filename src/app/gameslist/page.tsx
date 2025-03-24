@@ -110,10 +110,10 @@ const GamesListPage = async () => {
         Games With Details
       </h2>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-        <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
+        <h3 className="text-xl text-center font-semibold mb-2 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
           Disclaimer
         </h3>
-        <h3>
+        <h3 className="mx-4 md:mx-8 lg:text-lg">
           The vast majority (more than 95%) of information regarding PS5 Pro
           enhancements have been collated from primary sources (press releases,
           developer comments on social media etc) or extremely well regarded
