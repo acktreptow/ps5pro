@@ -1855,9 +1855,9 @@
     "metacritic": 76,
     "pssr": true,
     "rt": false,
-    "resolution": "4K PSSR",
+    "resolution": "1700p (approx) to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Looks much more detailed than even base PS5's 30fps fidelity mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 4K PSSR, which is a big improvement over base PS5's 1080p."
+    "extraInfo": "Looks much more detailed than even base PS5's 30fps fidelity mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 1700p (approx) to 4K PSSR, which is a big improvement over base PS5's 1080p in performance and even its 30fps mode which renders at 1440p."
   },
   {
     "name": "The First Descendant",
