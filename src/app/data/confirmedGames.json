@@ -109,6 +109,17 @@
     "metacritic": 69
   },
   {
+    "name": "Chess Infinity",
+    "id": "CI",
+    "genre": "Chess, Strategy",
+    "developer": "Rockwater Games",
+    "publisher": "Ripstone Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 11, 2024",
+    "metacritic": 0
+  },
+  {
     "name": "Clair O: Expedition 33",
     "id": "CO: E33",
     "genre": "JRPG",
