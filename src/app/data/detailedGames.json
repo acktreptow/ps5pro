@@ -2019,7 +2019,7 @@
     "rt": false,
     "resolution": "1270p to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "The base PS5 can either do 1440p/60fps (936p internal) or 4K/30fps (1440p internal), whereas the Pro version can hit 4K/60fps (1270p internal) due to PSSR. The framerate on Pro is also more stable in areas where base PS5 isn't, but can become unstable at higher difficulty levels due to more enemies onscreen. The Pro version also runs most graphical settings equivalent to 'high' on PC."
+    "extraInfo": "Base PS5 renders either 1440p/60fps (936p internal) or 4K/30fps (1440p internal). Pro renders at 4K/60fps (1270p internal) and looks even sharper (especially in motion) than base PS5 fidelity mode, despite the lower internal resolution, due to PSSR. The framerate on Pro is also more stable in areas where base PS5 isn't, but can become unstable at higher difficulty levels due to more enemies onscreen. The Pro version also runs most graphical settings equivalent to 'high' on PC."
   },
   {
     "name": "Warhammer 40,000: RT",
