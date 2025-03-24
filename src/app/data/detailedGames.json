@@ -260,7 +260,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "1296p to 4K PSSR at a very stable 30fps."
       },
       {
@@ -272,7 +272,7 @@
         "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
       }
     ],
-    "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. Its balanced and quality modes however only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
+    "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. However due to frame gen, the quality/balanced modes have less input lag and therefore feel more responsive despite fewer frames. Base PS5 balanced and quality modes only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
