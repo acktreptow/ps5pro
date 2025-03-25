@@ -143,23 +143,23 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray-traced global illumination and reflections.",
-    "resolution": "4K PSSR",
+    "resolution": "1656p to 4K TAAU",
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "Upscaled 4K PSSR at 30fps. RT reflections and RTGI used for diffuse lighting throughout the game world. Higher quality draw distances, shadows, textures, hair quality etc than performance mode."
+        "name": "quality",
+        "description": "Usually around 1584p to 4K TAAU at a locked 30fps. Has both RT reflections and RTGI for diffuse lighting throughout the game world. Higher quality draw distances, foliage density, shadows, textures, hair quality etc than performance mode."
       },
       {
         "name": "balanced",
-        "description": "Upscaled 4K PSSR at 40fps. Lower base resolution than fidelity mode before upscale. Same RT/graphical settings as fidelity mode."
+        "description": "Usually around 1440p to 4K TAAU at a locked 40fps. Graphical settings straddle between quality and performance modes (no RT reflections but has RTGI, shadow resolution of performance mode, hair strands of quality mode etc)."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K PSSR at 60fps. No RT reflections, but RTGI remains throughout the world."
+        "description": "Usually around 1080p to 4K TAAU at a very stable 60fps (lows of low 50s). No RT reflections, but RTGI remains throughout the world."
       }
     ],
-    "extraInfo": "Base PS5 performance mode has worse RT implementation than Pro's, as its RTGI is only used in the hideout, not throughout the world. There are also no RT reflections on any mode for base PS5, which uses TAAU instead of PSSR."
+    "extraInfo": "Cutscenes and the hideout run at 30fps in all modes. PSSR will be coming in a future patch that will allow balanced mode to also render RT reflections. RTGI is far more important to the image quality than RT reflections. Base PS5 performance mode only has RTGI in the hideout, making the Pro performance mode a generational leap in image quality due to the improved lighting. There's also no RT reflections on base PS5."
   },
   {
     "name": "Astro Bot",
