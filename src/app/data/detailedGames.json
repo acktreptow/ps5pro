@@ -738,6 +738,34 @@
     "extraInfo": "Performance mode looks practically identical to base PS5. Fidelity mode on base PS5 uses software-based RT, meaning Pro has better RT implementation due to being hardware-based (less breakup/shimmering/pop-in, more detailed/stable assets, character models in reflections, more accurate indirect lighting etc)."
   },
   {
+    "name": "Forza Horizon 5",
+    "id": "FH5",
+    "urlPath": "forza-horizon-5",
+    "genre": "Driving, Arcade",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 29, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray-traced reflections",
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K (likely) at 30fps with RT reflections in races/free roam."
+      },
+      {
+        "name": "performance",
+        "description": "Higher fidelity graphics 60fps."
+      }
+    ],
+    "extraInfo": "The above information comes directly from the Forza support page. So although accurate, the details will be more extensive once the game has released and we have the opportunity to test out the modes ourselves."
+  },
+  {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
     "urlPath": "god-of-war-ragnarok",
