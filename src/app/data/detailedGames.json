@@ -283,7 +283,7 @@
       },
       {
         "name": "balanced",
-        "description": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than fidelity mode."
+        "description": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than quality mode."
       },
       {
         "name": "performance",
@@ -313,11 +313,11 @@
         "description": "1440p to 4K PSSR at a mostly locked 60fps, or typically around 70-90fps with VRR. Improved global illumination (biggest improvement), ambient occlusion, reflections and 2-4x shadow resolution compared to performance mode."
       },
       {
-        "name": "performance",
+        "name": "120 hz refresh rate",
         "description": "1440p to 4K TAA at relatively stable 120fps. Graphics settings the same as base PS5 fidelity mode that runs at 60fps."
       }
     ],
-    "extraInfo": "The anti-lag VRR implementation in fidelity mode means it actually has lower input latency than performance mode, despite fewer frames. An improved PSSR implementation also arrived in a patch that significantly reduced artifacting/white dots in some areas, although they're still somewhat visible on rare occasions. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5)."
+    "extraInfo": "The anti-lag VRR implementation in fidelity mode (120hz refresh rate toggle off) means it actually has lower input latency than the 120hz mode, despite fewer frames. An improved PSSR implementation also arrived in a patch that significantly reduced artifacting/white dots in some areas, although they're still somewhat visible on rare occasions. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5)."
   },
   {
     "name": "Days Gone Remastered",
