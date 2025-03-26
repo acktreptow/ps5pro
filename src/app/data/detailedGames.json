@@ -796,20 +796,20 @@
     "metacritic": 94,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Very light RT for scene-aligned cube maps.",
+    "rtTypes": "Very light RT reflections for scene-aligned cube maps.",
     "resolution": "1440p to 4K PSSR/TAA",
     "fps": "120fps",
     "modes": [
       {
         "name": "PS5 pro enhanced",
-        "description": "Quality settings of base PS5 (RT etc) but runs at 4K/60+fps instead of 30fps."
+        "description": "Quality settings of base PS5 (RT, better shadows/ambient occlusion/textures & longer draw distance than HFR) but runs at 4K/60+fps instead of 30fps."
       },
       {
         "name": "high frame rate",
         "description": "Unlocks framerate for up to 120fps (often around 70-105fps depending on upscaler) on VRR displays."
       }
     ],
-    "extraInfo": "HFR mode can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
+    "extraInfo": "Can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution."
   },
   {
     "name": "Gran Turismo 7",
