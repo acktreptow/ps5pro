@@ -179,6 +179,24 @@
     "extraInfo": "1872p to 4K PSSR at a locked 60fps. Despite Pro's DRS regularly having a lower base resolution than base PS5 (1872p vs 2160p etc), the Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to the TAA on base PS5, but also noisier (especially SSR) and more unstable. The introduced noise isn't particularly visible at normal viewing distances however."
   },
   {
+    "name": "Atomfall",
+    "id": "Atomfall",
+    "urlPath": "atomfall",
+    "genre": "Survival Action",
+    "developer": "Rebellion",
+    "publisher": "Rebellion",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 27, 2025",
+    "metacritic": 75,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray-traced soft shadows (obscurance fields setting on PC)",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro can render a full 4K at a locked 60fps, whereas base PS5 renders a maximum of 1800p. However, both have a low of 1440p and neither hit their top resolution most of the time. All versions are also poorly aliased (even PC), so resolution differences are less noticeable than in other games because there's so much shimmer/jaggies regardless. There's also low resolution surfaces and very poor SSR (equivalent to PC low settings) that exacerbate the shimmer. Finally, the overkill AO (including the RT) overly silhouettes the image (especially characters) and can't be turned off."
+  },
+  {
     "name": "Avatar: Pandora Frontiers",
     "pageTitle": "Avatar: Frontiers of Pandora",
     "id": "Avatar: FoP",
