@@ -1390,7 +1390,7 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "4K at a locked 120fps with supersampling"
       },
       {
