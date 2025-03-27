@@ -1315,7 +1315,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "8K resolution",
         "description": "2592-2700p to 8K PSSR at locked 30fps"
       },
       {
