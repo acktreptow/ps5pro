@@ -1749,7 +1749,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "1584p to 4K PSSR. Locked 30fps with more detailed RT implementation compared to performance mode."
       },
       {
@@ -1757,7 +1757,7 @@
         "description": "900p average to 1800p PSSR. Nearly locked at 60fps with RT."
       }
     ],
-    "extraInfo": "Pro now has the latest PSSR version, which is far less noisy/unstable/shimmery than the original, objectively ugly patch. Flickering in foliage and RT reflections are especially improved and is now on par with FSR on base PS5.  PSSR is also sharper than FSR (and even DLSS on PC) in motion, though softest in stills. Pro performance mode also brings back RT that's not in the base PS5 version, but the implementation is still worse than either PS5's fidelity mode."
+    "extraInfo": "Pro now has the latest PSSR version, which is far less noisy/unstable/shimmery than the original, objectively ugly patch. Flickering in foliage and RT reflections are especially improved and is now on par with FSR on base PS5. PSSR is also sharper than FSR (and even DLSS on PC) in motion, though softest in stills. Pro performance mode also brings back RT that's not in the base PS5 version, but the implementation is still worse than either PS5's quality mode."
   },
   {
     "name": "Star Wars Outlaws",
