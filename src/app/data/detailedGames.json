@@ -1523,12 +1523,12 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "4K at a very stable 120fps"
+        "name": "quality",
+        "description": "8K at a very stable 60fps."
       },
       {
         "name": "performance",
-        "description": "8K at 60fps"
+        "description": "4K at a very stable 120fps."
       }
     ],
     "extraInfo": "According to Truant Pixel, outside of the resolution and framerate increases in each mode compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
