@@ -477,7 +477,7 @@
     "fps": "90fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "prioritize graphics",
         "description": "1440p to 4K PSSR at an unevenly paced 30fps. Around 40-50fps with VRR."
       },
       {
@@ -485,7 +485,7 @@
         "description": "1080p to 4K PSSR at relatively locked 60fps (lows of low 50s)."
       },
       {
-        "name": "performance",
+        "name": "prioritize performance",
         "description": "720p to 4K PSSR at mostly locked 60fps. Usually around 70-85fps with VRR."
       }
     ],
