@@ -1820,7 +1820,7 @@
         "description": "1800p to 4K PSSR. A very nearly locked 80fps on 120hz screens and 60fps on 60hz screens."
       }
     ],
-    "extraInfo": "The fidelity/balanced/performance modes from base PS5 are still present, but like Pro Max mode, they use TAA. The 80fps Pro mode is the only one that uses PSSR. The PSSR implementation is far better than TAA at de-noising/sharpening/stabilizing/de-shimmering the image, so even with a lower base resolution (1800p), the 4K PSSR Pro mode looks better than the native 4K TAA in Pro Max. With the best image quality and highest framerate, Pro mode makes all the others redundant."
+    "extraInfo": "The resolution/balanced/performance modes from base PS5 are still present, but like Pro Max mode, they use TAA. The 80fps Pro mode is the only one that uses PSSR. The PSSR implementation is far better than TAA at de-noising/sharpening/stabilizing/de-shimmering the image, so even with a lower base resolution (1800p), the 4K PSSR Pro mode looks better than the native 4K TAA in Pro Max. With the best image quality and highest framerate, Pro mode makes all the others redundant."
   },
   {
     "name": "Stunt Paradise",
