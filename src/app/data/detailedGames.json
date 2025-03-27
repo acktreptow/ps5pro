@@ -1011,7 +1011,7 @@
       },
       {
         "name": "balanced pro",
-        "description": "Looks almost identical to performance mode, but is capped at 40fps."
+        "description": "Looks almost identical to favor performance pro mode, but is capped at 40fps."
       },
       {
         "name": "favor performance pro",
