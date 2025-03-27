@@ -857,15 +857,15 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "resolution",
+        "name": "8K 60hz",
         "description": "4K to 8K PSSR at locked 60fps, but with no RT. Requires PSSR to upscale."
       },
       {
-        "name": "fidelity",
+        "name": "prioritize ray-tracing/resolution",
         "description": "4K PSSR/TAA at locked 60fps with RT reflections."
       },
       {
-        "name": "performance",
+        "name": "prioritize framerate",
         "description": "1800p to 4K PSSR/TAA at locked 120fps with no RT."
       }
     ],
