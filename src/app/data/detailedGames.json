@@ -1071,15 +1071,15 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "quality",
-        "description": "4K at 40fps+ depending on if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance mode."
+        "name": "quality-centered",
+        "description": "4K at 40fps+ depending on if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance-centered mode."
       },
       {
-        "name": "performance",
+        "name": "performance-centered",
         "description": "4K at a basically locked 60fps. HFR is disabled in this mode."
       }
     ],
-    "extraInfo": "Pro performance mode is a native 4K, whereas the same mode on base PS5 renders at 1512p-1800p internally before being upscaled to 4K. Pro quality mode also has a 30% increase in FPS compared to base PS5 fidelity mode."
+    "extraInfo": "Pro performance mode is a native 4K, whereas the same mode on base PS5 renders at 1512p-1800p internally before being upscaled to 4K. Pro quality mode also has a 30% increase in FPS compared to base PS5 quality mode."
   },
   {
     "name": "Lords Of The Fallen",
