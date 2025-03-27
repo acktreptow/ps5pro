@@ -1189,7 +1189,7 @@
     "fps": "80fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "prioritize resolution",
         "description": "1728p-1944p to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
       },
       {
@@ -1197,11 +1197,11 @@
         "description": "1404p to 4K PSSR with very slightly worse RT. Nearly locked 40fps, or low 40s in VRR."
       },
       {
-        "name": "performance",
+        "name": "prioritize framerate",
         "description": "1080p to 4K PSSR with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes."
       }
     ],
-    "extraInfo": "RT reflections look significantly better than SSR due to no occlusion issues. Pro's PSSR looks much better than base PS5's FSR1 as the image (though slightly softer) has a lot less aliasing/breakup and more temporal stability. This contrast is widened as the base resolution lowers to as low as 720p on base PS5. Pro performance mode also hits 60fps more often than base PS5. LFC doesn't trigger in fidelity/balanced modes, so VRR isn't recommended."
+    "extraInfo": "RT reflections look significantly better than SSR due to no occlusion issues. Pro's PSSR looks much better than base PS5's FSR1 as the image (though slightly softer) has a lot less aliasing/breakup and more temporal stability. This contrast is widened as the base resolution lowers to as low as 720p on base PS5. Pro prioritize framerate mode also hits 60fps more often than base PS5. LFC doesn't trigger in prioritize resolution/balanced modes, so VRR isn't recommended."
   },
   {
     "name": "Mortal Kombat 1",
