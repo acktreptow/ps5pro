@@ -2067,16 +2067,20 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "TBA"
+        "name": "fidelity pro 30fps",
+        "description": "Prioritizes resolution over framerate. Dynamic 4K PSSR at locked 30fps. Has improved shadows, lighting and draw distance compared to performance modes. Also has RTAO/GI/reflections."
+      },
+      {
+        "name": "fidelity pro unlocked",
+        "description": "Prioritizes framerate over resolution. Dynamic 4K PSSR at 60/120fps. Has improved shadows, lighting and draw distance compared to performance modes. Also has RTAO/GI/reflections."
       },
       {
         "name": "performance RT pro",
-        "description": "Uses quality mode of base PS5 + RT to while targeting 60fps."
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p, but with"
       },
       {
         "name": "performance",
-        "description": "Up to 4K PSSR 60fps with RT."
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p. No RT."
       }
     ],
     "extraInfo": "PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
