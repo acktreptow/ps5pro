@@ -370,7 +370,7 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Base PS5 doesn't have any RT implementation. Reflections are a big improvement with RT due to the shopping mall setting (storefront windows etc). Pro also has a locked 60fps, whereas base PS5 dips into the low 50s in the most demanding scenarios. Both base PS5 and Pro run at a native 4K however."
+    "extraInfo": "Base PS5 doesn't have any RT implementation. Reflections are a big improvement with RT due to the shopping mall setting (storefront windows etc). You can toggle RT off, but Pro has a locked 60fps regardless. Whereas base PS5 dips into the low 50s in the most demanding scenarios. Both base PS5 and Pro run at a native 4K however."
   },
   {
     "name": "Demon's Souls",
