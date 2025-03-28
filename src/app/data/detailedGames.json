@@ -2103,6 +2103,23 @@
     "extraInfo": "According to the War Thunder press release, the Pro version also gets 'more improvements and additional optimization'. The base PS5 can also only run at 1080p when aiming for 120fps."
   },
   {
+    "name": "Warframe",
+    "id": "Warframe",
+    "urlPath": "warframe",
+    "genre": "Action RPG, Looter FPS",
+    "developer": "Digital Extremes",
+    "publisher": "Digital Extremes",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 26, 2020",
+    "metacritic": 85,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "There's no strict quality/performance modes. Instead, Warframe's menus are very PC-like in UI. For example, you can decide between upscalers as well as the quality of upscaling. You can also toggle graphical settings of aspects like particle quality and volumetric fog."
+  },
+  {
     "name": "Warhammer 40,000: DT",
     "pageTitle": "Warhammer 40,000: Darktide",
     "id": "Darktide",
