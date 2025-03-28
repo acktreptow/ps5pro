@@ -2113,15 +2113,15 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "4K at  nearly locked 30fps"
+        "name": "graphics",
+        "description": "4K at a nearly locked 30fps."
       },
       {
         "name": "performance",
-        "description": "1080p at 60fps"
+        "description": "1080p at 60fps."
       }
     ],
-    "extraInfo": "Base PS5 can't run the game at a native 4K, so there is only one mode. Pro also has a much more stable framerate in both of its modes compared to base PS5."
+    "extraInfo": "Base PS5 doesn't have a graphics mode equivalent as it can't run the game at a native 4K, so there is only one mode. Pro also has a much more stable framerate in both of its modes compared to base PS5."
   },
   {
     "name": "Warhammer 40K SM2",
