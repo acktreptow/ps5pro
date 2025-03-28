@@ -393,7 +393,7 @@
         "description": "1440p-1584p to 4K PSSR with improved shadows at a locked 60fps."
       },
       {
-        "name": "quality",
+        "name": "cinematic",
         "description": "Legacy base PS5 mode. 4K native at locked 30fps."
       },
       {
@@ -401,7 +401,7 @@
         "description": "Legacy base PS5 mode. 1440p at locked 60fps."
       }
     ],
-    "extraInfo": "While the native 4K in base PS5's quality mode is a little sharper than the Pro mode, it's also far more noisy, more aliased, and less temporally stable than the 1440p-1584p to 4K PSSR in the Pro mode, which therefore has the better image quality despite the lower base resolution. The Pro mode also has improved shadows and a locked 60fps."
+    "extraInfo": "While the native 4K in base PS5's cinematic (quality) mode is a little sharper than the Pro mode, it's also far more noisy, more aliased, and less temporally stable than the 1440p-1584p to 4K PSSR in the Pro mode, which therefore has the better image quality despite the lower base resolution. The Pro mode also has improved shadows and a locked 60fps."
   },
   {
     "name": "Diablo IV",
