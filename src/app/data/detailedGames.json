@@ -1874,7 +1874,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "graphics",
         "description": "1440p to 4K TAA at 30fps"
       },
       {
@@ -1882,7 +1882,7 @@
         "description": "1440p at a nearly locked 60fps"
       }
     ],
-    "extraInfo": "Base PS5 quality mode only renders at 1440p, but there is little difference in practice. Pro is also able to achieve its target framerate more often."
+    "extraInfo": "Base PS5 graphics mode only renders at 1440p, but there is little difference in practice. Pro is also able to achieve its target framerate more often."
   },
   {
     "name": "The Callisto Protocol",
