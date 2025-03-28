@@ -2141,15 +2141,15 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "1080p-2160p to 4K PSSR at a locked 30fps"
       },
       {
-        "name": "performance",
+        "name": "speed",
         "description": "1080p-1440p to 4K PSSR at a relatively stable 60fps. Drops to around 50fps in more chaotic scenes."
       }
     ],
-    "extraInfo": "Base PS5 uses FSR2 to upscale its modes, and both have a lower base resolution before upscaling (720p for performance). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
+    "extraInfo": "Base PS5 uses FSR2 to upscale its modes, and both have a lower base resolution before upscaling (e.g. 720p for speed mode). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
     "name": "Wolverine",
