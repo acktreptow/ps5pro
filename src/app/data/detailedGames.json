@@ -450,14 +450,14 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "Roughly 1296p to 4K PSSR at nearly locked 30fps with RTAO"
+        "description": "Roughly 1296p to 4K PSSR at nearly locked 30fps with RTAO."
       },
       {
         "name": "performance",
         "description": "Roughly 864p-1296p to 1800p PSSR at nearly locked 60fps with RTAO. Can flicker a lot/look very aliased due to low base resolution."
       }
     ],
-    "extraInfo": "Base PS5 uses FSR instead of PSSR. Is 1080p to 1800p FSR and 864p to 1440p FSR respectively. Base PS5 is a lot softer, but less flickering/aliasing can make foliage/reflections etc look better compared to Pro."
+    "extraInfo": "Base PS5 uses FSR instead of PSSR. Is 1080p to 1800p FSR and 864p to 1440p FSR respectively. Base PS5 is a lot softer, but less flickering/aliasing can make foliage/reflections etc look better compared to Pro. You can see the differences in the background of the menu when toggling between the modes (AO on foliage etc)."
   },
   {
     "name": "Dragon's Dogma 2",
