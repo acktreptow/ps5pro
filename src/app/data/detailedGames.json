@@ -98,19 +98,19 @@
     "metacritic": 75,
     "pssr": false,
     "rt": false,
-    "resolution": "1944p",
+    "resolution": "1944p to 4K FSR 1",
     "fps": "60fps",
     "modes": [
       {
         "name": "fidelity",
-        "description": "1944p upscaled to 4K using FSR 1 at locked 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode."
+        "description": "1944p to 4K FSR 1 at a nearly locked 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode."
       },
       {
         "name": "performance",
-        "description": "1440p upscaled to 4K using FSR 1 at 60fps."
+        "description": "1440p to 4K FSR 1 at a relatively unstable 60fps."
       }
     ],
-    "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively."
+    "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively. Performance mode has a decent amount of screen tearing. You can add an FPS counter to the HUD."
   },
   {
     "name": "Assassin's Creed Mirage",
