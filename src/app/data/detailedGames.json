@@ -2049,6 +2049,23 @@
     "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality and some reflections can even look better. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS."
   },
   {
+    "name": "TopSpin 2K25",
+    "id": "TopSpin 25",
+    "urlPath": "topspin-2k25",
+    "genre": "Sports, Tennis",
+    "developer": "Hangar 13",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 26, 2024",
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro now runs cutscenes/replays at 60fps instead of the 30fps on base PS5. This is the only upgrade as there's no resolution/gameplay differences between Pro and base PS5 (4K/60fps on both)."
+  },
+  {
     "name": "Truck Driver: TAD",
     "pageTitle": "Truck Driver: The American Dream",
     "id": "TD: TAD",
