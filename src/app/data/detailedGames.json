@@ -1354,6 +1354,34 @@
     "extraInfo": "Uses PSSR to hit 4K (base resolution unknown, but almost certainly above 1080p due to final output). Pro also has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5, and hits 60fps more often."
   },
   {
+    "name": "Pathfinder: WOTR",
+    "pageTitle": "Pathfinder: Wrath of the Righteous",
+    "id": "Pathfinder WOTR",
+    "urlPath": "pathfinder-wrath-of-the-righteous",
+    "genre": "Isometric RPG",
+    "developer": "Owlcat Games",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 28, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K at a relatively stable 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode can dip below 60fps, but it's not common. Even when it happens, it's around the low 50's which is well within the VRR window. Performance mode is a locked 60fps, but at 1/4 of the resolution. Base PS5 only has one mode which is 4K, but with a far more unstable framerate that is regularly below the VRR window."
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
