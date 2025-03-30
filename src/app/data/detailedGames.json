@@ -1108,6 +1108,24 @@
     "extraInfo": "Pro performance mode is a native 4K, whereas the same mode on base PS5 renders at 1512p-1800p internally before being upscaled to 4K. Pro quality mode also has a 30% increase in FPS compared to base PS5 quality mode."
   },
   {
+    "name": "Like A Dragon: Pirate Yakuza In Hawaii",
+    "pageTitle": "Like A Dragon: Pirate Yakuza In Hawaii",
+    "id": "Pirate Yakuza",
+    "urlPath": "like-a-dragon-pirate-yakuza-in-hawaii",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 21, 2025",
+    "metacritic": 79,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p to 4K",
+    "fps": "60fps",
+    "extraInfo": "The framerate is a basically locked 60fps. There is noticeably less fizzle in things like hair compared to the base PS5 version."
+  },
+  {
     "name": "Lords Of The Fallen",
     "id": "LoTF",
     "urlPath": "lords-of-the-fallen",
