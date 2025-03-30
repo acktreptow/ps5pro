@@ -1030,6 +1030,23 @@
     "extraInfo": "All 3 modes have improved shadows, depth-of-field, skin/hair shaders, clouds, god rays etc compared to base PS5, and these improvements are even more noticeable in motion. Base PS5 hits max 1800p checkerboarding in performance mode which looks far blurrier (especially foliage and SSR in bodies of water) and more aliased/unstable than Pro performance mode. Pro performance even beats base PS5 resolution mode except for slightly blurrier SSR. Digital Foundry thinks it's the best looking console game (along with Horizon 1) ever! Equivalent to a high-end PC game and even beats DLSS in places like SSR."
   },
   {
+    "name": "Hunt: Showdown 1896",
+    "id": "HS 1896",
+    "urlPath": "hunt-showdown-1896",
+    "genre": "Extraction Shooter",
+    "developer": "Crytek",
+    "publisher": "Crytek",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 15, 2024",
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p (likely) to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, the PSSR implementation (which you can't toggle off) results in a lot more shimmering/flickering than FSR2. To the point that many feel the image actually looks worse despite the sharper render. There's also anecdotal comments throughout the community that Pro suffers from crashes more often."
+  },
+  {
     "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "urlPath": "kayak-vr-mirage",
