@@ -1983,6 +1983,34 @@
     "extraInfo": "Looks much more detailed than even base PS5's 30fps resolution mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 1700p (approx) to 4K PSSR, which is a big improvement over base PS5's 1080p in performance and even its 30fps mode which renders at 1440p."
   },
   {
+    "name": "The First Berserker: K",
+    "pageTitle": "The First Berserker: Khazan",
+    "id": "First Berserker",
+    "urlPath": "the-first-berserker-khazan",
+    "genre": "Action RPG",
+    "developer": "Neople & Nexon",
+    "publisher": "Nexon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 27, 2025",
+    "metacritic": 79,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p (likely) to 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1440p (likely) to 4K at a relatively stable 60fps. At least when it matters most (see extra info)."
+      },
+      {
+        "name": "performance",
+        "description": "Around 1220p (approx) to 4K at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode holds a 60fps for the majority of combat. It can dip when lots of graphical effects are onscreen, but still stays above the 48fps VRR window. However, it can fall below that threshold in cutscenes. You can remove the framerate limit, but the game recommends that you keep it at 60fps or below."
+  },
+  {
     "name": "The First Descendant",
     "id": "First Descendant",
     "urlPath": "the-first-descendant",
