@@ -2407,7 +2407,7 @@
     "rtTypes": "Ray-traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The game runs at a native 4K and relatively stable 60fps. At times when it dips under, it's still around 10 frames higher than the base PS5 version. The Pro version also introduces ray-traced reflections, ambient occlusion, and improved diffuse lighting."
+    "extraInfo": "The game runs at a native 4K and relatively stable 60fps. At times when it dips under, it's still around 10 frames higher than the base PS5 version. The Pro version also introduces ray-traced reflections, ambient occlusion, and improved diffuse lighting. You can toggle off RT for a much more locked 60fps."
   },
   {
     "name": "Zombie Derby",
