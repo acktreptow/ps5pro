@@ -725,6 +725,23 @@
     "extraInfo": "Base PS5 quality mode has no RT during gameplay, whereas Pro has 3/4 RT which dramatically improves image realism. Pro even brings back shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5 quality mode resolution is 1800p-4K, yet PSSR very nearly matches its sharpness despite a much lower base DRS. Base 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p."
   },
   {
+    "name": "Farming Simulator 25",
+    "id": "FS 25",
+    "urlPath": "farming-simulator-25",
+    "genre": "Simulation, Farming",
+    "developer": "Giants Software",
+    "publisher": "Giants Software",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 12, 2024",
+    "metacritic": 64,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Whereas base PS5 has a quality (1600p to 4K at 30fps) and performance 60fps mode, Pro just has a singular mode that runs at a native 4K at 60fps."
+  },
+  {
     "name": "Final Fantasy 7 Rebirth",
     "id": "FF7 Rebirth",
     "urlPath": "final-fantasy-7-rebirth",
