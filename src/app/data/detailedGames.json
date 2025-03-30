@@ -739,7 +739,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Whereas base PS5 has a quality (1600p to 4K at 30fps) and performance 60fps mode, Pro just has a singular mode that runs at a native 4K at 60fps."
+    "extraInfo": "Whereas base PS5 has a quality (1600p to 4K at 30fps) and performance 60fps mode, Pro just has a singular mode that runs at a native 4K at a basically locked 60fps."
   },
   {
     "name": "Final Fantasy 7 Rebirth",
@@ -2209,6 +2209,33 @@
       }
     ],
     "extraInfo": "PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
+  },
+  {
+    "name": "Until Dawn",
+    "id": "Until Dawn",
+    "urlPath": "until-dawn",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Ballistic Moon",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "October 4, 2024",
+    "metacritic": 70,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K at a stable 60fps."
+      }
+    ],
+    "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
     "name": "War Thunder",
