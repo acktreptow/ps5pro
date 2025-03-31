@@ -252,6 +252,17 @@
     "metacritic": 0
   },
   {
+    "name": "Ghost Of Yōtei",
+    "id": "GoY",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Hell Is Us",
     "id": "HiU",
     "genre": "Action-Adventure",
@@ -709,17 +720,6 @@
     "developer": "Remedy Entertainment",
     "publisher": "Remedy Entertainment",
     "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "metacritic": 0
-  },
-  {
-    "name": "Ghost Of Yōtei",
-    "id": "GoY",
-    "genre": "Action-Adventure",
-    "developer": "Sucker Punch",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
     "psvr2": false,
     "release": "2025",
     "metacritic": 0
