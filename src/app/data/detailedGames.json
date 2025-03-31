@@ -2035,6 +2035,24 @@
     "extraInfo": "Looks much more detailed than even base PS5's 30fps resolution mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 1700p (approx) to 4K PSSR, which is a big improvement over base PS5's 1080p in performance and even its 30fps mode which renders at 1440p."
   },
   {
+    "name": "The Finals",
+    "id": "The Finals",
+    "urlPath": "the-finals",
+    "genre": "Multiplayer FPS",
+    "developer": "Embark Studios",
+    "publisher": "Embark Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 7, 2023",
+    "metacritic": 90,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray-traced Global Illumination",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "The only difference between the Pro and base PS5 is a resolution increase. General gameplay looks slightly sharper on Pro with a more stable 60fps due to the extra GPU horsepower. The RTGI quality remains the same and there is no option for 120fps."
+  },
+  {
     "name": "The First Berserker: K",
     "pageTitle": "The First Berserker: Khazan",
     "id": "First Berserker",
