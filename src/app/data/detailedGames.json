@@ -2297,7 +2297,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
-    "extraInfo": "According to the War Thunder press release, the Pro version also gets 'more improvements and additional optimization'. The base PS5 can also only run at 1080p when aiming for 120fps."
+    "extraInfo": "Pro can render up to 4K native, whereas base PS5 only runs at 1080p when aiming for 120fps.According to Gaijin, Pro also gets 'more improvements and additional optimization'. However, there's still a good amount of shimmer on assets like railings despite the up to 4x increase in resolution."
   },
   {
     "name": "Warframe",
