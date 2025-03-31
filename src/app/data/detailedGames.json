@@ -2313,8 +2313,8 @@
     "pssr": true,
     "rt": false,
     "resolution": "4K",
-    "fps": "120fps",
-    "extraInfo": "There's no strict quality/performance modes. Instead, Warframe's menus are very PC-like in UI. For example, you can decide between upscalers as well as the quality of upscaling. You can also toggle graphical settings of aspects like particle quality and volumetric fog."
+    "fps": "60fps",
+    "extraInfo": "There's no strict quality/performance modes, nor can you go above 60fps. Instead, Warframe's menus are very PC-like in UI. For example, you can toggle graphical settings of aspects like particle quality and volumetric fog. You can also toggle PSSR on/off. If on and all graphical settings so to their highest, the framerate is a basically locked 60fps. If toggled off/no upscaler used, it will rarely maintain 60fps, but will stay above the 48fps VRR window for the vast majority of gameplay."
   },
   {
     "name": "Warhammer 40,000: DT",
