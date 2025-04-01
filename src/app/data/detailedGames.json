@@ -323,7 +323,7 @@
     "name": "Biped",
     "id": "Biped",
     "urlPath": "biped",
-    "genre": "Co-Op Adventure",
+    "genre": "Adventure, Co-Op",
     "developer": "Next Studios",
     "publisher": "Postmeta Games",
     "psStudios": false,
@@ -335,6 +335,23 @@
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. If the game does fall below a native 4K render, the dip is very minor and still looks very sharp."
+  },
+  {
+    "name": "Biped 2",
+    "id": "Biped 2",
+    "urlPath": "biped-2",
+    "genre": "Adventure, Co-Op",
+    "developer": "Next Studios",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Biped 2 isn't out yet, but the Biped 1 information below should give us at least a good base of what to expect. \nBiped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. If the game does fall below a native 4K render, the dip is very minor and still looks very sharp."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
