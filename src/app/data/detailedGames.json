@@ -320,6 +320,23 @@
     "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. However due to frame gen, the quality/balanced modes have less input lag and therefore feel more responsive despite fewer frames. Base PS5 balanced and quality modes only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
   },
   {
+    "name": "Biped",
+    "id": "Biped",
+    "urlPath": "biped",
+    "genre": "Co-Op Adventure",
+    "developer": "Next Studios",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 17, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. If the game does fall below a native 4K render, the dip is very minor and still looks very sharp."
+  },
+  {
     "name": "Call Of Duty: Black Ops 6",
     "id": "COD: BO6",
     "urlPath": "call-of-duty-black-ops-6",
