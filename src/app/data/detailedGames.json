@@ -332,9 +332,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "1440p",
     "fps": "60fps",
-    "extraInfo": "Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. If the game does fall below a native 4K render, the dip is very minor and still looks very sharp."
+    "extraInfo": "Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. Pro renders a 1440p image compared to base PS5's more 1080p-like image. The difference can be quite noticeable on things like railings where there's more jaggies on base PS5."
   },
   {
     "name": "Biped 2",
@@ -349,9 +349,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "1440p",
     "fps": "60fps",
-    "extraInfo": "Biped 2 isn't out yet, but the following Biped 1 information should give us at least a good base of what to expect. Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. If the game does fall below a native 4K render, the dip is very minor and still looks very sharp."
+    "extraInfo": "Biped 2 isn't out yet, but the following Biped 1 information should give us at least a good base of what to expect. Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. Pro renders a 1440p image compared to base PS5's more 1080p-like image. The difference can be quite noticeable on things like railings where there's more jaggies on base PS5."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
