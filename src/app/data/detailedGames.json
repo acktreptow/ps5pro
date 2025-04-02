@@ -744,11 +744,11 @@
     "modes": [
       {
         "name": "high quality",
-        "description": "4K at a basically locked 60fps"
+        "description": "4K at a basically locked 60fps."
       },
       {
         "name": "high performance",
-        "description": "Upscaled 4K at a stable 120fps"
+        "description": "Upscaled 4K at a stable 120fps."
       }
     ],
     "extraInfo": "High performance mode now hits a solid 120fps whereas the base PS5 version is usually around 90fps. There's also higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality has improved."
@@ -993,11 +993,11 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at an improperly paced, but stable 30fps"
+        "description": "4K at an improperly paced, but stable 30fps."
       },
       {
         "name": "performance",
-        "description": "1440p at a mostly stable 60fps (drops to 50s with explosions etc)"
+        "description": "1440p at a mostly stable 60fps (drops to 50s with explosions etc)."
       }
     ],
     "extraInfo": "Resolution increases in both modes as on base PS5, quality mode is 1728p and performance is 1080p. However, all 4 modes' images are relatively unstable due to mediocre TAA. Resulting in a larger gap between performance modes than quality modes (less shimmering/clearer text etc). 60fps on Pro is also more stable than on base PS5, with only the hardest difficulties causing drops (usually still in the VRR window). Both quality modes remain improperly paced, but the Pro version is more stable."
