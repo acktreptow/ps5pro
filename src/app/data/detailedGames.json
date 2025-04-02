@@ -2526,10 +2526,11 @@
     "release": "April 4, 2021",
     "metacritic": 83,
     "pssr": false,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Hardware-based ray-traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 50% increase in resolution for Pro."
+    "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 50% increase in resolution for Pro. There's also an RT toggle for hardware-based reflections. This causes the framerate to dip more often, but the 60fps is still stable enough most of the time."
   },
   {
     "name": "Zenless Zone Zero",
