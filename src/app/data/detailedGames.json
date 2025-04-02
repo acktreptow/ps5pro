@@ -1039,11 +1039,11 @@
     "modes": [
       {
         "name": "fidelity ray-tracing",
-        "description": "1728p to 4K PSSR at nearly locked 30fps with RT reflections and shadows"
+        "description": "1728p to 4K PSSR at nearly locked 30fps with RT reflections and shadows."
       },
       {
         "name": "fidelity",
-        "description": "1728p to 4K PSSR at locked 30fps without RT"
+        "description": "1728p to 4K PSSR at locked 30fps without RT."
       },
       {
         "name": "balanced",
@@ -1051,7 +1051,7 @@
       },
       {
         "name": "performance",
-        "description": "1440p to 4K PSSR at nearly locked 60fps without RT"
+        "description": "1440p to 4K PSSR at nearly locked 60fps without RT."
       },
       {
         "name": "high frame rate",
@@ -1243,7 +1243,7 @@
       },
       {
         "name": "performance",
-        "description": "1440p to 4K via a custom version of UE5's upscaling at 60fps plus Lumen"
+        "description": "1440p to 4K via a custom version of UE5's upscaling at 60fps plus Lumen."
       }
     ],
     "extraInfo": "Hexworks state a 40% increase in pixel density compared to the base PS5 modes, resulting in sharper distant details and more refined textures on characters and environments. In practice, this increase could be even larger as base PS5 performance mode was between 648p-1152p and quality mode was 1296p-1620p. Pro also hits its target framerate more often than base PS5 and is equivalent to the highest graphical settings on PC."
