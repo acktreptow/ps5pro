@@ -385,17 +385,6 @@
     "metacritic": 80
   },
   {
-    "name": "Off The Grid",
-    "id": "OtG",
-    "genre": "Multiplayer TPS",
-    "developer": "Gunzilla Games",
-    "publisher": "Gunzilla Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 8, 2024",
-    "metacritic": 0
-  },
-  {
     "name": "Oniriam",
     "id": "Oniriam",
     "genre": "VR Puzzle Adventure",
