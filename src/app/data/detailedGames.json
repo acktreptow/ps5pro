@@ -2334,6 +2334,23 @@
     "extraInfo": "PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
   },
   {
+    "name": "UFL",
+    "id": "UFL",
+    "urlPath": "ufl",
+    "genre": "Sports, Football",
+    "developer": "Strikerz",
+    "publisher": "XTen",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 5, 2024",
+    "metacritic": 68,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro runs at a locked 60fps and native 4K. The display options are very similar to what you seen in FIFA/EA FC games. Therefore, there's no options for things like a 120fps mode."
+  },
+  {
     "name": "Until Dawn",
     "id": "Until Dawn",
     "urlPath": "until-dawn",
