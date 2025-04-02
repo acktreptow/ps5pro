@@ -642,15 +642,15 @@
     "modes": [
       {
         "name": "native 4K",
-        "description": "4K at very unstable 60fps"
+        "description": "4K at a very unstable 60fps."
       },
       {
         "name": "prioritize graphics",
-        "description": "1512p-4K at nearly locked 60fps"
+        "description": "1512p-4K at a nearly locked 60fps."
       },
       {
         "name": "prioritize framerate",
-        "description": "1440p at locked 60fps"
+        "description": "1440p at a locked 60fps."
       }
     ],
     "extraInfo": "Prioritize graphics mode averages around 1700p during actual gameplay and the framerate can dip into high 50s. Native 4K mode barely hits 60fps and is usually around 50fps during combat."
