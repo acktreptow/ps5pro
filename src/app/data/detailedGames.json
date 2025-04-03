@@ -1455,11 +1455,11 @@
     "modes": [
       {
         "name": "8K resolution",
-        "description": "2592-2700p to 8K PSSR at locked 30fps"
+        "description": "2592-2700p to 8K PSSR at locked 30fps."
       },
       {
         "name": "performance",
-        "description": "4K PSSR at a basically locked 60fps"
+        "description": "4K PSSR at a basically locked 60fps."
       }
     ],
     "extraInfo": "Both modes also have improved lighting, ultra quality reflections and higher quality ambient occlusion compared to base PS5. These improvements are also seen in the PSVR2 version. PSSR implementation works very well due to the high base resolution."
@@ -1585,11 +1585,11 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at a locked 120fps with supersampling"
+        "description": "4K at a locked 120fps with supersampling."
       },
       {
         "name": "performance",
-        "description": "8K at a locked 60fps"
+        "description": "8K at a locked 60fps."
       }
     ],
     "extraInfo": "Base PS5 doesn't have an 8K mode. It also can't run at 120fps when rendering at 4K. You can choose quality mode on a non-8K screen, but the game makes it clear that the game will be down-sampled to the resolution of your screen and therefore make this choice pointless."
