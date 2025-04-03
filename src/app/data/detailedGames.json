@@ -2324,7 +2324,7 @@
       },
       {
         "name": "performance RT pro",
-        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p, but with"
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p, but with RT."
       },
       {
         "name": "performance",
@@ -2476,7 +2476,7 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1080p-2160p to 4K PSSR at a locked 30fps"
+        "description": "1080p-2160p to 4K PSSR at a locked 30fps."
       },
       {
         "name": "speed",
