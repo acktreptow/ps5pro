@@ -1266,6 +1266,34 @@
     "extraInfo": "Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode (especially grass), but it causes certain assets like crowd handrails to be more noisy/unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps."
   },
   {
+    "name": "Mandragora: WOTWT",
+    "pageTitle": "Mandragora: Whispers of the Witch Tree",
+    "id": "Mandragora",
+    "urlPath": "mandragora-whispers-of-the-witch-tree",
+    "genre": "2.5D Action RPG",
+    "developer": "Primal Game Studio",
+    "publisher": "Knights Peak",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 17, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality pro",
+        "description": "4K native at a stable 60fps."
+      },
+      {
+        "name": "performance pro",
+        "description": "1440p native that targets 120fps."
+      }
+    ],
+    "extraInfo": "Base PS5 comes close to quality pro with its one mode running at 1800p/60fps. However, Pro therefore has an exclusive 120fps mode for people who prefer to maximize the framerate."
+  },
+  {
     "name": "Marvel Rivals",
     "id": "Marvel Rivals",
     "urlPath": "marvel-rivals",
