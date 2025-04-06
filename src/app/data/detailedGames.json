@@ -2368,6 +2368,23 @@
     "extraInfo": "Pro runs at a locked 60fps and native 4K. The display options are very similar to what you seen in FIFA/EA FC games. Therefore, there's no options for things like a 120fps mode."
   },
   {
+    "name": "Undisputed",
+    "id": "Undisputed",
+    "urlPath": "undisputed",
+    "genre": "Sports, Boxing",
+    "developer": "Steel City Interactive",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 11, 2024",
+    "metacritic": 70,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "According to Steel City's patch notes, Pro has 'revamped lighting and improved gameplay graphics'. This likely means an 120fps option isn't in the cards."
+  },
+  {
     "name": "Until Dawn",
     "id": "Until Dawn",
     "urlPath": "until-dawn",
