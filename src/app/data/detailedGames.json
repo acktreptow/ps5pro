@@ -1492,6 +1492,23 @@
     "extraInfo": "Pro can choose between FSR3, TSR or PSSR for upscaling. All 3 run at a similar fps (give or take 5-10fps) and can be capped at 30/40/60fps. However, while FSR3 and TSR (a bit more stable) render a good image, PSSR results in shimmering/flickering, as well as strobing in assets like foliage. Similar to horror stories from games like SW Jedi: Survivor when Pro launched, before getting patched. Fidelity mode renders quite a 4K-looking image and is 99% locked above the 48fps VRR window. Performance mode has a roughly 20fps increase and even hits 120fps sometimes, but the 1080p-like image is much blurrier regardless of upscaler."
   },
   {
+    "name": "Oppidum",
+    "id": "Oppidum",
+    "urlPath": "oppidum",
+    "genre": "Co-Op Survival Adventure",
+    "developer": "EP Games",
+    "publisher": "EP Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 23, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro is a native 4K at 60fps. This combines the best of base PS5's performance (1440p/60fps) and quality (4K/30fps) modes."
+  },
+  {
     "name": "Outbreak: SOHCS",
     "pageTitle": "Outbreak: Shades of Horror Chromatic Split",
     "id": "Outbreak",
