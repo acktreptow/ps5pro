@@ -1344,6 +1344,23 @@
     "extraInfo": "Base PS5 comes close to quality pro with its one mode running at 1800p/60fps. However, Pro therefore has an exclusive 120fps mode for people who prefer to maximize the framerate."
   },
   {
+    "name": "Marathon",
+    "id": "Marathon",
+    "urlPath": "marathon",
+    "genre": "Extraction Shooter",
+    "developer": "Bungie",
+    "publisher": "Bungie",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 23, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR (likely)",
+    "fps": "120fps (likely)",
+    "extraInfo": "The only technical information Bungie has disclosed is that Marathon will be using PSSR on Pro. Both 4K and 120fps are likely however due to their past work on Destiny 2. While Sony owns Bungie, they're not technically part of PS Studios and are allowed other exception not grated to other PlayStation first-party developers (releasing on Xbox etc)."
+  },
+  {
     "name": "Marvel Rivals",
     "id": "Marvel Rivals",
     "urlPath": "marvel-rivals",
