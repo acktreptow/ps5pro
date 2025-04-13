@@ -739,7 +739,7 @@
     "metacritic": 77,
     "pssr": false,
     "rt": true,
-    "rtTypes": "UE5 Lumen",
+    "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "1440p to 4K TSR",
     "fps": "60fps",
     "extraInfo": "Base PS5 can have a higher internal resolution as it ranges from 1400p-1600p to 4K TSR, but it only runs at 30fps. Pro's base resolution of 1440p is also high enough that  there is barely a difference between the consoles once UE5's TSR upscaling is implemented."
@@ -784,7 +784,7 @@
     "metacritic": 79,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
+    "rtTypes": "Ray traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
     "resolution": "4K to 8K TAAU",
     "fps": "120fps",
     "modes": [
@@ -816,7 +816,7 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
+    "rtTypes": "Ray traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
     "resolution": "4K to 8K TAAU",
     "fps": "120fps",
     "modes": [
