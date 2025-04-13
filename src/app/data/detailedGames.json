@@ -913,7 +913,7 @@
     "metacritic": 80,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Hardware-based RT reflections, shadows & global illumination",
+    "rtTypes": "Hardware-based ray traced reflections, shadows and global illumination",
     "resolution": "1350p to 4K TSR",
     "fps": "120fps",
     "modes": [
@@ -941,7 +941,7 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "4K (likely)",
     "fps": "60fps",
     "modes": [
@@ -969,7 +969,7 @@
     "metacritic": 94,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Very light RT reflections for scene-aligned cube maps.",
+    "rtTypes": "Very light ray traced reflections for scene-aligned cube maps",
     "resolution": "1440p to 4K PSSR/TAA",
     "fps": "120fps",
     "modes": [
