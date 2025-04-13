@@ -12,7 +12,7 @@
     "metacritic": 89,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "1224p to 4K PSSR/FSR",
     "fps": "60fps",
     "modes": [
@@ -169,7 +169,7 @@
     "metacritic": 81,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced global illumination and reflections.",
+    "rtTypes": "Ray traced global illumination and reflections",
     "resolution": "1656p to 4K TAAU",
     "fps": "60fps",
     "modes": [
@@ -218,7 +218,7 @@
     "metacritic": 75,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray-traced soft shadows (obscurance fields setting on PC)",
+    "rtTypes": "Ray traced soft shadows (obscurance fields setting on PC)",
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Pro can render a full 4K at a locked 60fps, whereas base PS5 renders a maximum of 1800p. However, both have a low of 1440p and neither hit their top resolution most of the time. All versions are also poorly aliased (even PC), so resolution differences are less noticeable than in other games because there's so much shimmer/jaggies regardless. There's also low resolution surfaces and very poor SSR (equivalent to PC low settings) that exacerbate the shimmer. Finally, the overkill AO (including the RT) overly silhouettes the image (especially characters) and can't be turned off."
