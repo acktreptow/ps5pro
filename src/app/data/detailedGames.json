@@ -1794,7 +1794,7 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "4K PSSR",
     "fps": "60fps",
     "extraInfo": "The Pro version will have more detailed environments, higher quality RT reflections and a sharper resolution compared to the base PS5 version. All at a more stable 60fps."
@@ -1812,7 +1812,7 @@
     "metacritic": 76,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "1440p to 4K PSSR",
     "fps": "60fps",
     "modes": [
@@ -1888,7 +1888,7 @@
     "metacritic": 86,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Hardware-based ray-traced reflections, global illumination.",
+    "rtTypes": "Hardware-based ray traced reflections and global illumination",
     "resolution": "1152p to 4K TSR",
     "fps": "60fps",
     "modes": [
