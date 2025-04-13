@@ -237,7 +237,7 @@
     "metacritic": 72,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections & Global Illumination",
+    "rtTypes": "Ray traced reflections and global illumination",
     "resolution": "1800p to 4K PSSR or FSR3",
     "fps": "60fps",
     "modes": [
@@ -300,7 +300,7 @@
     "metacritic": 76,
     "pssr": true,
     "rt": true,
-    "rtTypes": "UE5 Lumen software-based global illumination",
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination",
     "resolution": "1296p to 4K PSSR",
     "fps": "60fps",
     "modes": [
@@ -428,7 +428,7 @@
     "metacritic": 83,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Base PS5 doesn't have any RT implementation. Reflections are a big improvement with RT due to the shopping mall setting (storefront windows etc). You can toggle RT off, but Pro has a locked 60fps regardless. Whereas base PS5 dips into the low 50s in the most demanding scenarios. Both base PS5 and Pro run at a native 4K however."
