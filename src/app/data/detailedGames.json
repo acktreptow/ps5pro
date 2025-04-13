@@ -1006,7 +1006,7 @@
     "metacritic": 87,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections",
+    "rtTypes": "Ray traced reflections",
     "resolution": "4K to 8K PSSR",
     "fps": "120fps",
     "modes": [
@@ -1083,7 +1083,7 @@
     "metacritic": 84,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections & shadows",
+    "rtTypes": "Ray traced reflections and shadows",
     "resolution": "1728p to 4K PSSR",
     "fps": "60fps",
     "modes": [
@@ -1302,7 +1302,7 @@
     "metacritic": 70,
     "pssr": false,
     "rt": true,
-    "rtTypes": "UE5 Lumen Global Illumination",
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
     "resolution": "4K",
     "fps": "60fps",
     "modes": [
