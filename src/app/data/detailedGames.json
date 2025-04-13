@@ -1968,7 +1968,7 @@
     "metacritic": 87,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections, shadows & ambient occlusion",
+    "rtTypes": "Ray traced reflections, shadows and ambient occlusion",
     "resolution": "4K",
     "fps": "110fps",
     "modes": [
@@ -1996,7 +1996,7 @@
     "metacritic": 85,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections, shadows & ambient occlusion",
+    "rtTypes": "Ray traced reflections, shadows and ambient occlusion",
     "resolution": "4K",
     "fps": "110fps",
     "modes": [
@@ -2024,7 +2024,7 @@
     "metacritic": 90,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced reflections, shadows & ambient occlusion",
+    "rtTypes": "Ray traced reflections, shadows (key light) and ambient occlusion",
     "resolution": "4K PSSR",
     "fps": "90fps",
     "modes": [
