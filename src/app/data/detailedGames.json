@@ -477,7 +477,7 @@
     "metacritic": 86,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray-traced reflections and shadows",
+    "rtTypes": "Ray traced reflections and shadows",
     "resolution": "4K",
     "fps": "60fps",
     "modes": [
@@ -505,7 +505,7 @@
     "metacritic": 82,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced Ambient Occlusion",
+    "rtTypes": "Ray traced ambient occlusion",
     "resolution": "1296p to 4K PSSR",
     "fps": "60fps",
     "modes": [
@@ -533,7 +533,7 @@
     "metacritic": 86,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced Global Illumination",
+    "rtTypes": "Ray traced global illumination",
     "resolution": "1440p to 4K PSSR",
     "fps": "90fps",
     "modes": [
