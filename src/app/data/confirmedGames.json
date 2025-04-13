@@ -220,17 +220,6 @@
     "metacritic": 0
   },
   {
-    "name": "Indiana Jones: GC",
-    "id": "IJ: GC",
-    "genre": "Action-Adventure",
-    "developer": "MachineGames",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 17, 2025",
-    "metacritic": 0
-  },
-  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",

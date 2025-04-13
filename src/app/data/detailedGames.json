@@ -1192,6 +1192,25 @@
     "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, the PSSR implementation (which you can't toggle off) results in a lot more shimmering/flickering than FSR2. To the point that many feel the image actually looks worse despite the sharper render. There's also anecdotal comments throughout the community that Pro suffers from crashes more often."
   },
   {
+    "name": "Indiana Jones: GC",
+    "pageTitle": "Indiana Jones And The Great Circle",
+    "id": "IJ: GC",
+    "urlPath": "indiana-jones-and-the-great-circle",
+    "genre": "Action-Adventure",
+    "developer": "MachineGames",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 17, 2025",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro has 'advanced' RTGI over base PS5. Pro also renders a native 4K compared to the 1800p DRS on Series X. Even with the 60fps and even better RT."
+  },
+  {
     "name": "Kayak VR: Mirage",
     "id": "Kayak VR",
     "urlPath": "kayak-vr-mirage",
