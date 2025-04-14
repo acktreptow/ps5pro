@@ -2054,7 +2054,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The framerate is a locked 60fps. Base PS5 renders at 1800p compared to 4K native on Pro. However due to the current aliasing implementation Pro (and PC) use, certain assets like railings can look more jagged despite the higher resolution. This is likely a bug that will be an easy fix in a future patch. Despite being on Unreal Engine 5, the Pro (and again, even on PC) doesn't use RT."
+    "extraInfo": "The framerate is a locked 60fps. Base PS5 renders at 1800p compared to 4K native on Pro. However due to the current aliasing implementation Pro (and PC) use, certain assets like railings can look more jagged despite the higher resolution. This is likely a bug that will be an easy fix in a future patch. Despite being on Unreal Engine 5, the Pro (and again, even on PC) doesn't use any form of ray tracing (including UE5's Lumen)."
   },
   {
     "name": "Star Wars Jedi: Survivor",
