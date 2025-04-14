@@ -2283,7 +2283,7 @@
     "metacritic": 90,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray-traced Global Illumination",
+    "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "The only difference between the Pro and base PS5 is a resolution increase. General gameplay looks slightly sharper on Pro with a more stable 60fps due to the extra GPU horsepower. The RTGI quality remains the same and there is no option for 120fps."
@@ -2329,7 +2329,7 @@
     "metacritic": 52,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray-traced shadows, reflections on translucent and opaque surfaces, ambient occlusion, and radiance cache.",
+    "rtTypes": "Ray traced shadows, reflections on translucent and opaque surfaces, ambient occlusion and radiance cache",
     "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": [
@@ -2441,7 +2441,7 @@
     "metacritic": 40,
     "pssr": true,
     "rt": false,
-    "rtTypes": "Ray-traced reflections, ambient occlusion and global illumination.",
+    "rtTypes": "Ray traced reflections, ambient occlusion and global illumination",
     "resolution": "4K PSSR",
     "fps": "60fps",
     "modes": [
