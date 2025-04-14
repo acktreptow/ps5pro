@@ -1422,7 +1422,7 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "Konami have confirmed that there will be both a quality and performance mode on Pro. They also confirmed that Pro will use PSSR, but didn't mention if it's just for performance mode or for both. Based off the PC requirements, it's likely that the Pro will also have some form of RT (traditional or UE5-specific Lumen) but this has yet to be confirmed."
+    "extraInfo": "Konami have confirmed that there will be both a quality and performance mode on Pro. They also confirmed that Pro will use PSSR, but didn't mention if it's just for performance mode or for both. RT is currently labelled as false, but based off the PC requirements (minimum specs require at least a 2060 Super GPU), it's very possible that Pro will also have some form of ray tracing (traditional or Unreal Engine 5's Lumen), but this has yet to be confirmed."
   },
   {
     "name": "Monster Hunter Wilds",
