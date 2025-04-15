@@ -286,6 +286,17 @@
     "metacritic": 82
   },
   {
+    "name": "Tony Hawk's PS 1 + 2",
+    "id": "TH 1+2",
+    "genre": "Sports, Skateboarding",
+    "developer": "Vicarious Visions",
+    "publisher": "Activision",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2021",
+    "metacritic": 90
+  },
+  {
     "name": "Uncharted: LOTC",
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
