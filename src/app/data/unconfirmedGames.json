@@ -44,6 +44,17 @@
     "metacritic": 63
   },
   {
+    "name": "Arizona Sunshine 2",
+    "id": "AS2",
+    "genre": "VR FPS",
+    "developer": "Vertigo Games",
+    "publisher": "Vertigo Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "December 5, 2023",
+    "metacritic": 73
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
