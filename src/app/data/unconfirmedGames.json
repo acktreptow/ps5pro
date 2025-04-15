@@ -286,6 +286,17 @@
     "metacritic": 86
   },
   {
+    "name": "RoboCop: Rogue City",
+    "id": "RoboCop: RC",
+    "genre": "FPS",
+    "developer": "Teyon",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 2, 2023  ",
+    "metacritic": 72
+  },
+  {
     "name": "Still Wakes The Deep",
     "id": "SWtD",
     "genre": "Psychological Horror",
