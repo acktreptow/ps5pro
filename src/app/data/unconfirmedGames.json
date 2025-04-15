@@ -44,6 +44,17 @@
     "metacritic": 63
   },
   {
+    "name": "Civilization 7",
+    "id": "Civ 7",
+    "genre": "4X Turn-Based Strategy",
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 11, 2025",
+    "metacritic": 80
+  },
+  {
     "name": "Control Ultimate Edition",
     "id": "Control UE",
     "genre": "Action-Adventure",
