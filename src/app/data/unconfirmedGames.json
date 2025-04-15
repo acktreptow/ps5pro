@@ -99,17 +99,6 @@
     "metacritic": 89
   },
   {
-    "name": "Deathloop",
-    "id": "Deathloop",
-    "genre": "FPS, Immersive Sim",
-    "developer": "Arkane Lyon",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 14, 2021",
-    "metacritic": 88
-  },
-  {
     "name": "Death Stranding: DC",
     "id": "DS: DC",
     "genre": "Action Strand",
@@ -119,6 +108,17 @@
     "psvr2": false,
     "release": "September 24, 2021",
     "metacritic": 85
+  },
+  {
+    "name": "Deathloop",
+    "id": "Deathloop",
+    "genre": "FPS, Immersive Sim",
+    "developer": "Arkane Lyon",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 14, 2021",
+    "metacritic": 88
   },
   {
     "name": "Destiny 2",
@@ -165,17 +165,6 @@
     "metacritic": 87
   },
   {
-    "name": "Ghostwire: Tokyo",
-    "id": "Ghostwire",
-    "genre": "Action, Horror",
-    "developer": "Tango Gameworks",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 25, 2022",
-    "metacritic": 75
-  },
-  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
@@ -185,6 +174,17 @@
     "psvr2": false,
     "release": "August 20, 2021",
     "metacritic": 87
+  },
+  {
+    "name": "Ghostwire: Tokyo",
+    "id": "Ghostwire",
+    "genre": "Action, Horror",
+    "developer": "Tango Gameworks",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 25, 2022",
+    "metacritic": 75
   },
   {
     "name": "Grand Theft Auto 5",
