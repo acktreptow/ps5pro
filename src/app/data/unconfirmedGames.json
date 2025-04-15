@@ -154,6 +154,17 @@
     "metacritic": 87
   },
   {
+    "name": "Ghostwire: Tokyo",
+    "id": "Ghostwire",
+    "genre": "Action, Horror",
+    "developer": "Tango Gameworks",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 25, 2022",
+    "metacritic": 75
+  },
+  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
