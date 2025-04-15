@@ -242,6 +242,17 @@
     "metacritic": 66
   },
   {
+    "name": "Resident Evil 2",
+    "id": "RE2",
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 14, 2022",
+    "metacritic": 85
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "genre": "TPS Roguelike",
