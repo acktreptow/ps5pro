@@ -220,6 +220,17 @@
     "metacritic": 74
   },
   {
+    "name": "MLB The Show 25",
+    "id": "MLB 25",
+    "genre": "Sports, Baseball",
+    "developer": "San Diego Studio",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "March 18, 2025",
+    "metacritic": 83
+  },
+  {
     "name": "NHL 25",
     "id": "NHL 25",
     "genre": "Sports, Ice Hockey",
