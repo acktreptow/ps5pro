@@ -253,6 +253,17 @@
     "metacritic": 90
   },
   {
+    "name": "The Talos Principle",
+    "id": "TTP: Reawakened",
+    "genre": "Puzzle",
+    "developer": "Croteam",
+    "publisher": "Devolver Digital",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 10, 2025",
+    "metacritic": 82
+  },
+  {
     "name": "Uncharted: LOTC",
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
