@@ -99,6 +99,17 @@
     "metacritic": 89
   },
   {
+    "name": "Deathloop",
+    "id": "Deathloop",
+    "genre": "FPS, Immersive Sim",
+    "developer": "Arkane Lyon",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 14, 2021",
+    "metacritic": 88
+  },
+  {
     "name": "Death Stranding: DC",
     "id": "DS: DC",
     "genre": "Action Strand",
