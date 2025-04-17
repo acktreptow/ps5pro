@@ -381,6 +381,34 @@
     "extraInfo": "The anti-lag VRR implementation in fidelity mode (120hz refresh rate toggle off) means it actually has lower input latency than the 120hz mode, despite fewer frames. An improved PSSR implementation also arrived in a patch that significantly reduced artifacting/white dots in some areas, although they're still somewhat visible on rare occasions. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5)."
   },
   {
+    "name": "Chess Infinity",
+    "id": "CI",
+    "urlPath": "chess-infinity",
+    "genre": "Chess, Strategy",
+    "developer": "Ripstone Games",
+    "publisher": "Ripstone Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 11, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen lighting, reflections and shadows",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1440p-4K native at 30fps with all RT."
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1440p to 4K TSR at 60fps with all RT."
+      }
+    ],
+    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc). Performance can vary depending on scene complexity."
+  },
+  {
     "name": "Days Gone Remastered",
     "id": "DG Remastered",
     "urlPath": "days-gone-remastered",
