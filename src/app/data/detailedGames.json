@@ -2481,7 +2481,7 @@
         "description": "1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
       }
     ],
-    "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality and some reflections can even look better. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS."
+    "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality and some reflections can even look better. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows which is a tier below."
   },
   {
     "name": "TopSpin 2K25",
