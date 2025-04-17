@@ -170,23 +170,23 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination and reflections",
-    "resolution": "1656p to 4K TAAU",
+    "resolution": "1656p to 4K TAAU/PSSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Usually around 1584p to 4K TAAU at a locked 30fps. Has both RT reflections and RTGI for diffuse lighting throughout the game world. Higher quality draw distances, foliage density, shadows, textures, hair quality etc than performance mode."
+        "description": "Usually around 1584p to 4K TAAU/PSSR at a mostly locked 30fps. Has both RT reflections and RTGI for diffuse lighting throughout the game world. Higher quality draw distances, foliage density, shadows, textures, hair quality etc than performance mode."
       },
       {
         "name": "balanced",
-        "description": "Usually around 1440p to 4K TAAU at a locked 40fps. Graphical settings straddle between quality and performance modes (no RT reflections but has RTGI, shadow resolution of performance mode, hair strands of quality mode etc)."
+        "description": "Usually around 1440p to 4K TAAU/PSSR at a stable 40fps. Graphical settings straddle between quality and performance modes (shadow resolution of performance mode, hair strands of quality mode with both RTGI and reflections (PSSR only) etc)."
       },
       {
         "name": "performance",
-        "description": "Usually around 1080p to 4K TAAU at a very stable 60fps (lows of low 50s). No RT reflections, but RTGI remains throughout the world."
+        "description": "Usually around 1080p to 4K TAAU/PSSR at a stable 60fps (lows of low 50s). No RT reflections, but RTGI remains throughout the world."
       }
     ],
-    "extraInfo": "Cutscenes and the hideout run at 30fps in all modes. PSSR will be coming in a future patch that will allow balanced mode to also render RT reflections. RTGI is far more important to the image quality than RT reflections. Base PS5 performance mode only has RTGI in the hideout, making the Pro performance mode a generational leap in image quality due to the improved lighting. There's also no RT reflections on base PS5."
+    "extraInfo": "You can toggle between PSSR and TAAU as the upscaler. PSSR looks a little softer, but is much more stable with less aliasing/breakup/shimmer. Foliage and SSR is sharper with TAAU, but also more grainy with noticeable artifacting. PSSR does have particle trails, which is more noticeable in performance mode. PSSR usually has a slightly lower internal resolution with and fails to hit target framerate as often, but still remains in the VRR window. RTGI is far more important to the image quality than RT reflections. Base PS5 performance mode only has RTGI in the hideout, making the Pro performance mode a generational leap in image quality due to the improved lighting. There's also no RT reflections on base PS5."
   },
   {
     "name": "Astro Bot",
