@@ -57,7 +57,7 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
           </p>
           <p className="text-lg">
             <span className="font-semibold">Metacritic Score:</span>{" "}
-            {game.metacritic}
+            {game.metacritic ? game.metacritic : "N/A (No Scored Reviews)"}
           </p>
         </div>
         <div className="mb-12">
