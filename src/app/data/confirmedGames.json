@@ -22,6 +22,39 @@
     "metacritic": 76
   },
   {
+    "name": "Bad Cheese",
+    "id": "Bad Cheese",
+    "genre": "Psychological Horror",
+    "developer": "Simon Lukasik",
+    "publisher": "Feardemic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Black Desert",
+    "id": "BD",
+    "genre": "MMORPG",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
+    "name": "Blades Of Fire",
+    "id": "BoF",
+    "genre": "Action-Adventure",
+    "developer": "MercurySteam",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 22, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Carmen Sandiego",
     "id": "CS",
     "genre": "Puzzle, Adventure",
@@ -33,14 +66,25 @@
     "metacritic": 69
   },
   {
-    "name": "Chess Infinity",
-    "id": "CI",
-    "genre": "Chess, Strategy",
-    "developer": "Rockwater Games",
-    "publisher": "Ripstone Games",
+    "name": "Clair O: Expedition 33",
+    "id": "CO: E33",
+    "genre": "JRPG",
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
     "psStudios": false,
     "psvr2": false,
-    "release": "December 11, 2024",
+    "release": "April 24, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Crimson Desert",
+    "id": "CD",
+    "genre": "Action-Adventure",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Late 2025",
     "metacritic": 0
   },
   {
@@ -52,6 +96,50 @@
     "psStudios": false,
     "psvr2": true,
     "release": "March 16, 2024",
+    "metacritic": 0
+  },
+  {
+    "name": "Death Stranding 2: OTB",
+    "id": "DS2: OtB",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "June 26, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Doom: The Dark Ages",
+    "id": "Doom: TDA",
+    "genre": "First-Person Shooter",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 15, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Dreams Of Another",
+    "id": "DoA",
+    "genre": "VR Exploration-Action",
+    "developer": "Q-Games",
+    "publisher": "Q-Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Elemental War Clash",
+    "id": "EWC",
+    "genre": "Strategy, Tower Defense",
+    "developer": "Clockwork Origins",
+    "publisher": "Clockwork Origins",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
     "metacritic": 0
   },
   {
@@ -88,6 +176,39 @@
     "metacritic": 0
   },
   {
+    "name": "Ghost Of Yōtei",
+    "id": "GoY",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Hell Is Us",
+    "id": "HiU",
+    "genre": "Action-Adventure",
+    "developer": "Rogue Factor",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 4, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Hunting Simulator 3",
+    "id": "HS 3",
+    "genre": "Simulation, Shooter",
+    "developer": "Nacon Studio Ghent",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
@@ -110,6 +231,17 @@
     "metacritic": 73
   },
   {
+    "name": "Killing Floor 3",
+    "id": "KF3",
+    "genre": "Action-Horror FPS",
+    "developer": "Tripwire Interactive",
+    "publisher": "Tripwire Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
     "name": "Lost Islands",
     "id": "Lost Islands",
     "genre": "Action-Adventure",
@@ -118,6 +250,28 @@
     "psStudios": false,
     "psvr2": false,
     "release": "November 8, 2023",
+    "metacritic": 0
+  },
+  {
+    "name": "Lost Soul Aside",
+    "id": "LSA",
+    "genre": "Action RPG",
+    "developer": "Ultizero Games",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "May 30, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Metal Eden",
+    "id": "ME",
+    "genre": "Sci-Fi FPS",
+    "developer": "Reikon Games",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 6, 2025",
     "metacritic": 0
   },
   {
@@ -132,6 +286,28 @@
     "metacritic": 0
   },
   {
+    "name": "Midnight Town Stories",
+    "id": "Midnight Town Stories",
+    "genre": "FPS, Horror, Visual Novel",
+    "developer": "Dark Ocean Games",
+    "publisher": "GoGo Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBC",
+    "metacritic": 0
+  },
+  {
+    "name": "MindsEye",
+    "id": "MindsEye",
+    "genre": "Action-Adventure",
+    "developer": "Build A Rocket Boy",
+    "publisher": "IO Interactive Partners",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 10, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Monster E Supercross 25",
     "id": "MES 25",
     "genre": "Sports, Supercross Racing",
@@ -141,6 +317,17 @@
     "psvr2": false,
     "release": "April 10, 2025",
     "metacritic": 72
+  },
+  {
+    "name": "MotoGP 25",
+    "id": "Moto 25",
+    "genre": "Sports, Bike Road Racing",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 30, 2025",
+    "metacritic": 0
   },
   {
     "name": "My Time At Sandrock",
@@ -209,6 +396,28 @@
     "metacritic": 0
   },
   {
+    "name": "Phantom Blade Zero",
+    "id": "PBZ",
+    "genre": "Soulsborne",
+    "developer": "S-Game",
+    "publisher": "S-Game",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBC",
+    "metacritic": 0
+  },
+  {
+    "name": "Pipistrello and Cursed Yoyo",
+    "id": "Pipistrello",
+    "genre": "2D Top-Down Adventure",
+    "developer": "Pocket Trap",
+    "publisher": "PM Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "genre": "Simulation, City Builder",
@@ -264,6 +473,28 @@
     "metacritic": 0
   },
   {
+    "name": "Saros",
+    "id": "Saros",
+    "genre": "TPA Roguelite",
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "2026",
+    "metacritic": 0
+  },
+  {
+    "name": "Silent Hill F",
+    "id": "SH: F",
+    "genre": "Survival Horror",
+    "developer": "NeoBards",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
     "name": "Skull and Bones",
     "id": "S and B",
     "genre": "Action RPG, Naval Combat",
@@ -273,6 +504,17 @@
     "psvr2": false,
     "release": "February 16, 2024",
     "metacritic": 59
+  },
+  {
+    "name": "Spine - This Is Gun Fu",
+    "id": "SPINE",
+    "genre": "Action, Beat 'em Up",
+    "developer": "Nekki",
+    "publisher": "Nekki",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
   },
   {
     "name": "The Elders Scrolls Online",
@@ -286,6 +528,28 @@
     "metacritic": 79
   },
   {
+    "name": "Tides Of Annihilation",
+    "id": "ToA",
+    "genre": "Action-Adventure",
+    "developer": "Eclipse Glow Games",
+    "publisher": "Chengdu Ophiuchus",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "metacritic": 0
+  },
+  {
+    "name": "Tony Hawk's PS 3 + 4",
+    "id": "TH 3+4",
+    "genre": "Sports, Skateboarding",
+    "developer": "Iron Galaxy Studios",
+    "publisher": "Activision",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 11, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
@@ -294,6 +558,160 @@
     "psStudios": false,
     "psvr2": false,
     "release": "November 19, 2024",
+    "metacritic": 0
+  },
+  {
+    "name": "Unreal Kingdoms",
+    "id": "Unreal Kingdoms",
+    "genre": "Metaverse MMORPG",
+    "developer": "Cyber Apes Yacht Club",
+    "publisher": "Eight Galaxies",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "metacritic": 0
+  },
+  {
+    "name": "Anno 117: Pax Romana",
+    "id": "Anno 117",
+    "genre": "Strategy, City-building",
+    "developer": "Ubisoft Mainz",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Borderlands 4",
+    "id": "Borderlands 4",
+    "genre": "Looter Shooter",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 23, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Directive 8020",
+    "id": "D-8020: Dark Pictures",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Supermassive Games",
+    "publisher": "Supermassive Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 30, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Dune: Awakening",
+    "id": "Dune: A",
+    "genre": "Open-World Survival MMO",
+    "developer": "Funcom",
+    "publisher": "Funcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Elden Ring Nightreign",
+    "id": "ER: Nightreign",
+    "genre": "Co-Op Soulsborne",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 30, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "FBC: Firebreak",
+    "id": "Firebreak",
+    "genre": "PvE Co-Op FPS",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Grand Theft Auto 6",
+    "id": "GTA 6",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "id": "Mafia: TOC",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 8, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Marvel 1943: ROH",
+    "id": "Marvel 1943",
+    "genre": "Action-Adventure",
+    "developer": "Skydance New Media",
+    "publisher": "Plaion",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "Ninja Gaiden 4",
+    "id": "NG4",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja & Platinum",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Fall, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Alters",
+    "id": "The Alters",
+    "genre": "Survival, Action-Adventure",
+    "developer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 13, 2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Outer Worlds 2",
+    "id": "ToW 2",
+    "genre": "Action Western RPG",
+    "developer": "Obsidian",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "metacritic": 0
+  },
+  {
+    "name": "The Sinking City 2",
+    "id": "TSC 2",
+    "genre": "Survival Horror",
+    "developer": "Frogwares",
+    "publisher": "Frogwares",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
     "metacritic": 0
   }
 ]
