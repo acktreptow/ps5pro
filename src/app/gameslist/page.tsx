@@ -144,7 +144,7 @@ const GamesListPage = async () => {
             </p>
             <p className="mb-8">
               <span className="font-semibold">Metacritic:</span>{" "}
-              {game.metacritic}
+              {game.metacritic ? game.metacritic : "No Reviews"}
             </p>
             <Link
               href={`/games/${game.urlPath}`}
@@ -186,7 +186,7 @@ const GamesListPage = async () => {
             </p>
             <p>
               <span className="font-semibold">Metacritic:</span>{" "}
-              {game.metacritic}
+              {game.metacritic ? game.metacritic : "No Reviews"}
             </p>
           </div>
         ))}
@@ -243,14 +243,14 @@ const GamesListPage = async () => {
             </p>
             <p>
               <span className="font-semibold">Publisher:</span>{" "}
-              {game.publisher ? game.publisher : "N/A"}
+              {game.publisher ? game.publisher : "No reviews"}
             </p>
             <p>
               <span className="font-semibold">Release:</span> {game.release}
             </p>
             <p>
               <span className="font-semibold">Metacritic:</span>{" "}
-              {game.metacritic}
+              {game.metacritic ? game.metacritic : "N/A"}
             </p>
           </div>
         ))}
