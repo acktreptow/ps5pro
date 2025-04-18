@@ -1236,7 +1236,7 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro has 'advanced' RTGI over base PS5. Pro also renders a native 4K compared to the 1800p DRS on Series X. Even with the 60fps and even better RT."
+    "extraInfo": "Pro renders a native 4K compared to the 1440p-1800p DRS on base PS5. Both consoles have a very stable framerate, but Pro hits 60fps slightly more often. Even with its more advanced RTGI and improved ambient occlusion/shadows implementation."
   },
   {
     "name": "Kayak VR: Mirage",
