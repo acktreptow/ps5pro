@@ -374,6 +374,17 @@
     "metacritic": 90
   },
   {
+    "name": "The Outer Worlds: SCE",
+    "id": "ToW: SCE",
+    "genre": "Western Action RPG",
+    "developer": "Obsidian",
+    "publisher": "Private Division",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 7, 2023",
+    "metacritic": 72
+  },
+  {
     "name": "The Talos Principle",
     "id": "TTP: Reawakened",
     "genre": "Puzzle",
