@@ -198,6 +198,17 @@
     "metacritic": 75
   },
   {
+    "name": "Gotham Knights",
+    "id": "GK",
+    "genre": "Action RPG, Co-Op",
+    "developer": "WB Games Montréal",
+    "publisher": "Warner Bros. Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 21, 2022",
+    "metacritic": 67
+  },
+  {
     "name": "Grand Theft Auto 5",
     "id": "GTA 5",
     "genre": "Action-Adventure",
