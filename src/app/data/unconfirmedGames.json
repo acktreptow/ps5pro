@@ -374,6 +374,17 @@
     "metacritic": 82
   },
   {
+    "name": "TWD: Saints & Sinners 2",
+    "id": "TWD: S&S 2",
+    "genre": "VR Survival Horror",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 21, 2023",
+    "metacritic": 72
+  },
+  {
     "name": "Tony Hawk's PS 1 + 2",
     "id": "TH 1+2",
     "genre": "Sports, Skateboarding",
