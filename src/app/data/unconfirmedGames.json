@@ -209,6 +209,17 @@
     "metacritic": 81
   },
   {
+    "name": "Guardians Of The Galaxy",
+    "id": "GotG",
+    "genre": "Action-Adventure",
+    "developer": "Eidos-Montréal",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 26, 2021",
+    "metacritic": 80
+  },
+  {
     "name": "Horizon COTM",
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
