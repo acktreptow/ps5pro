@@ -199,6 +199,12 @@ const GamesListPage = async () => {
         {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+        <h4 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
+          Disclaimer: I&#39;m fully aware that the vast majority of these games
+          will never receive an official PS5 Pro upgrade. That doesn&#39;t mean
+          they <span className="italic">shouldn&#39;t</span>, however. With that
+          being said...
+        </h4>
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
           Criteria (has to hit at least one):
         </h3>
