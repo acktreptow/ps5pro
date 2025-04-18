@@ -421,9 +421,23 @@
     "metacritic": 0,
     "pssr": true,
     "rt": false,
-    "resolution": "4K (likely)",
+    "resolution": "2880p",
     "fps": "60fps",
-    "extraInfo": "There will be both a performance and quality mode for base PS5. There will be increased foliage draw distance, improved shadow and lighting quality compared to the PS4 version. We will see how those improvements compare between base PS5 and Pro closer to release."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "2880p at 30fps. This will supersample down to 4K (2160p) on 4K displays for an extra clear image."
+      },
+      {
+        "name": "enhanced",
+        "description": "1584p to 4K PSSR at 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1800p at 60fps."
+      }
+    ],
+    "extraInfo": "Compared to the PS4 version, there is new sky simulation for more accurate sunlight and significantly darker night time. There's also increased foliage/draw distance and improved shadow/lighting quality. An additional 40fps mode will be added in a later patch."
   },
   {
     "name": "Dead Island 2",
