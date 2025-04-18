@@ -154,6 +154,17 @@
     "metacritic": 96
   },
   {
+    "name": "Elden Ring Nightreign",
+    "id": "ER: Nightreign",
+    "genre": "Co-Op Soulsborne",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 30, 2025",
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy 16",
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
