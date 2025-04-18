@@ -165,6 +165,17 @@
     "metacritic": 87
   },
   {
+    "name": "Fort Solis",
+    "id": "FS",
+    "genre": "Horror, Adventure",
+    "developer": "Fallen Leaf & BD",
+    "publisher": "Dear Villagers",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 22, 2023",
+    "metacritic": 60
+  },
+  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
