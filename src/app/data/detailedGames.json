@@ -1267,7 +1267,7 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro renders a native 4K compared to the 1440p-1800p DRS on base PS5. Both consoles have a very stable framerate, but Pro hits 60fps slightly more often. Even with its more advanced RTGI and improved ambient occlusion/shadows implementation. There's no option to unlock the framerate, even though Pro looks like it has the headroom for a noticeable increase past 60fps."
+    "extraInfo": "Pro's resolution ranges from 1440p to native 4K, which it regularly hits. Base PS5 can only render up to 1800p and can go as low as 1200p. Both consoles have a very stable framerate, but Pro hits 60fps slightly more often. Even with its more advanced RTGI and slightly improved ambient occlusion/shadows implementation. There's no option to unlock the framerate, even though Pro looks like it has the headroom for a noticeable increase past 60fps."
   },
   {
     "name": "Kayak VR: Mirage",
