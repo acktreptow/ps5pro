@@ -354,6 +354,23 @@
     "extraInfo": "*Biped 2 isn't out yet, but the following Biped 1 information should give us at least a good base of what to expect - 'Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. Pro renders a 1440p image compared to base PS5's more 1080p-like image. The difference can be quite noticeable on things like railings where there's more jaggies on base PS5.'"
   },
   {
+    "name": "Blades Of Fire",
+    "id": "BoF",
+    "urlPath": "blades-of-fire",
+    "genre": "Action-Adventure",
+    "developer": "MercurySteam",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 22, 2025",
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "2160p",
+    "fps": "60fps",
+    "extraInfo": "MercurySteam have confirmed on their website that the framerate will be capped at 60fps. The resolution will also range from 1080p-2160p. With 1080p being the lowest internal resolution value, PSSR should still be able to reconstruct an excellent 4K image."
+  },
+  {
     "name": "Call Of Duty: Black Ops 6",
     "id": "COD: BO6",
     "urlPath": "call-of-duty-black-ops-6",
