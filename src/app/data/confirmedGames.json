@@ -72,18 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "CyubeVR",
-    "id": "CyubeVR",
-    "genre": "VR Adventure",
-    "developer": "Stonebrick Studios",
-    "publisher": "Stonebrick Studios",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "March 16, 2024",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Death Stranding 2: OTB",
     "id": "DS2: OtB",
     "genre": "Action Strand",

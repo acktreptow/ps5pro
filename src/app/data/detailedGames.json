@@ -426,6 +426,23 @@
     "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc). Performance can vary depending on scene complexity."
   },
   {
+    "name": "CyubeVR",
+    "id": "CyubeVR",
+    "urlPath": "cyube-vr",
+    "genre": "VR Adventure",
+    "developer": "Stonebrick Studios",
+    "publisher": "Stonebrick Studios",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 16, 2024",
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "8K textures with dynamic foveated rendering for the rest of the image",
+    "fps": "60fps to 120fps reprojection",
+    "extraInfo": "Pro has increased distance for maximum LOD quality of the landscape and anything the player has built on it. Pro also has higher LOD quality for trees so changes are less noticeable from a distance."
+  },
+  {
     "name": "Days Gone Remastered",
     "id": "DG Remastered",
     "urlPath": "days-gone-remastered",
