@@ -21,6 +21,7 @@ async function getConfirmedGames() {
         psStudios: true,
         psvr2: true,
         release: true,
+        hasShipped: true,
         metacritic: true,
       },
       orderBy: {
@@ -183,6 +184,10 @@ const GamesListPage = async () => {
             </p>
             <p>
               <span className="font-semibold">Release:</span> {game.release}
+            </p>
+            <p>
+              <span className="font-semibold">Has shipped?:</span>{" "}
+              {game.hasShipped ? "Yes" : "No"}
             </p>
             <p>
               <span className="font-semibold">Metacritic:</span>{" "}
