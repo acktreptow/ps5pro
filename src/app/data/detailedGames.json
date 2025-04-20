@@ -427,6 +427,7 @@
   },
   {
     "name": "CyubeVR",
+    "pageTitle": "cyubeVR",
     "id": "CyubeVR",
     "urlPath": "cyube-vr",
     "genre": "VR Adventure",
