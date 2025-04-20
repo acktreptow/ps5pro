@@ -19,6 +19,7 @@ model ConfirmedGame {
   psStudios   Boolean @default(false)
   psvr2       Boolean @default(false)
   release     String
+  hasShipped  Boolean?
   metacritic  Int
   published   Boolean @default(false)
 }
