@@ -186,10 +186,6 @@ const GamesListPage = async () => {
               <span className="font-semibold">Release:</span> {game.release}
             </p>
             <p>
-              <span className="font-semibold">Has shipped?:</span>{" "}
-              {game.hasShipped ? "Yes" : "No"}
-            </p>
-            <p>
               <span className="font-semibold">Metacritic:</span>{" "}
               {game.metacritic ? game.metacritic : "No Reviews"}
             </p>
