@@ -201,11 +201,11 @@ const GamesListPage = async () => {
       </h2>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         <h4 className="text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
-          <span className="block mb-1 text-lg">Disclaimer:</span> I&#39;m fully
+          <span className="block mb-1 text-lg md:text-base md:inline">Disclaimer:</span> I&#39;m fully
           aware that the vast majority of these games will never receive an
           official PS5 Pro upgrade. That doesn&#39;t mean they{" "}
           <span className="italic">shouldn&#39;t</span>.{" "}
-          <span className="block my-4 text-lg">With that being said...</span>
+          <span className="block my-4 text-lg md:text-base md:my-2">With that being said...</span>
         </h4>
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-2">
           Criteria (has to hit at least one):
