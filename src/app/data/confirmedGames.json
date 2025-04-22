@@ -588,6 +588,18 @@
     "metacritic": 0
   },
   {
+    "name": "Wanderer: TFOF",
+    "id": "Wanderer",
+    "genre": "VR Action-Adventure",
+    "developer": "Mighty Eyes",
+    "publisher": "Mighty Eyes",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "April 3, 2025",
+    "hasShipped": true,
+    "metacritic": 85
+  },
+  {
     "name": "Anno 117: Pax Romana",
     "id": "Anno 117",
     "genre": "Strategy, City-building",
