@@ -516,6 +516,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Elder Scrolls IV",
+    "id": "ESO 4",
+    "genre": "Western RPG",
+    "developer": "Bethesda & Virtuos",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 22, 2025",
+    "hasShipped": true,
+    "metacritic": 79
+  },
+  {
     "name": "The Elders Scrolls Online",
     "id": "ESO",
     "genre": "MMORPG",
