@@ -261,7 +261,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "December 7, 2023",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 72,
     "pssr": true,
     "rt": true,
@@ -298,7 +298,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 6, 2023",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 96,
     "pssr": true,
     "rt": false,
@@ -317,39 +317,6 @@
     "extraInfo": "Pro performance mode looks better than even base PS5 quality mode due to upscalers used. PSSR is a bit softer than base PS5's FSR, but much more stable with less artifacting/flicker. This is especially seen in motion like moving shadows. Pro also has around a 10% higher framerate, so runs at 60fps more often than base PS5. Split screen can now run at either 30fps or 60fps."
   },
   {
-    "name": "Black Myth: Wukong",
-    "id": "BM: Wukong",
-    "urlPath": "black-myth-wukong",
-    "genre": "Action RPG",
-    "developer": "Game Science",
-    "publisher": "Game Science",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 20, 2024",
-    "hasShipped": false,
-    "metacritic": 76,
-    "pssr": true,
-    "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination",
-    "resolution": "1296p to 4K PSSR",
-    "fps": "60fps",
-    "modes": [
-      {
-        "name": "quality",
-        "description": "1296p to 4K PSSR at a very stable 30fps."
-      },
-      {
-        "name": "balanced",
-        "description": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than quality mode."
-      },
-      {
-        "name": "performance",
-        "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
-      }
-    ],
-    "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. However due to frame gen, the quality/balanced modes have less input lag and therefore feel more responsive despite fewer frames. Base PS5 balanced and quality modes only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
-  },
-  {
     "name": "Biped",
     "id": "Biped",
     "urlPath": "biped",
@@ -359,7 +326,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "December 17, 2024",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0,
     "pssr": false,
     "rt": false,
@@ -384,6 +351,39 @@
     "resolution": "1440p",
     "fps": "60fps",
     "extraInfo": "*Biped 2 isn't out yet, but the following Biped 1 information should give us at least a good base of what to expect - 'Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. Pro renders a 1440p image compared to base PS5's more 1080p-like image. The difference can be quite noticeable on things like railings where there's more jaggies on base PS5.'"
+  },
+  {
+    "name": "Black Myth: Wukong",
+    "id": "BM: Wukong",
+    "urlPath": "black-myth-wukong",
+    "genre": "Action RPG",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 20, 2024",
+    "hasShipped": true,
+    "metacritic": 76,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination",
+    "resolution": "1296p to 4K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1296p to 4K PSSR at a very stable 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "1296p to 4K PSSR at a very stable 40fps on 120hz screens or 45fps on 60hz. Lower resolution shadows than quality mode."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
+      }
+    ],
+    "extraInfo": "Unlike most Pro games, PSSR isn't much noisier than FSR and offers the clearest image. Base PS5 performance mode is very similar to the Pro and also uses frame generation. However due to frame gen, the quality/balanced modes have less input lag and therefore feel more responsive despite fewer frames. Base PS5 balanced and quality modes only target an upscaled 1440p and use non-frame gen FSR as its upscaler."
   },
   {
     "name": "Blades Of Fire",
