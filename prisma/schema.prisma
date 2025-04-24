@@ -35,7 +35,7 @@ model DetailedGame {
   psStudios   Boolean @default(false)
   psvr2       Boolean @default(false)
   release     String
-  hasShipped  Boolean?
+  hasShipped  Boolean
   metacritic  Int
   pssr        Boolean @default(false)
   rt          Boolean @default(false)
