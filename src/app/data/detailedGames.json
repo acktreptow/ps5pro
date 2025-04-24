@@ -2525,6 +2525,35 @@
     "extraInfo": "Looks much more detailed than even base PS5's 30fps resolution mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 1700p (approx) to 4K PSSR, which is a big improvement over base PS5's 1080p in performance and even its 30fps mode which renders at 1440p."
   },
   {
+    "name": "The Elder Scrolls IV",
+    "pageTitle": "The Elder Scrolls IV: Oblivion Remastered",
+    "id": "ES4",
+    "urlPath": "the-elder-scrolls-iv-oblivion-remastered",
+    "genre": "Western RPG",
+    "developer": "Bethesda & Virtuos",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 22, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Around 1440p to 4K at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Around 1440p to 4K at a somewhat unstable 60fps. Internal resolution can go lower than quality mode when outside."
+      }
+    ],
+    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting that the base PS5 modes."
+  },
+  {
     "name": "The Finals",
     "id": "The Finals",
     "urlPath": "the-finals",
