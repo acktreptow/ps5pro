@@ -1074,23 +1074,23 @@
     "psvr2": false,
     "release": "April 29, 2025",
     "hasShipped": true,
-    "metacritic": 0,
+    "metacritic": 92,
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced reflections",
-    "resolution": "4K (likely)",
+    "resolution": "4K",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "4K (likely) at 30fps with RT reflections in races/free roam."
+        "description": "4K at 30fps with RT reflections in races and free roam gameplay."
       },
       {
         "name": "performance",
-        "description": "Higher fidelity graphics 60fps."
+        "description": "4K at 60fps. Same graphical settings as quality mode, but with no RT reflections."
       }
     ],
-    "extraInfo": "The above information comes directly from the Forza support page. So although accurate, the details will be more extensive once the game has released and we have the opportunity to test out the modes ourselves."
+    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but with a locked 60fps. Base PS5 performance mode is a big step down from all others. It has far less foliage onscreen, there's more pop-in, and can render under 4K (around 1872p). RT on Pro is nice, but hard to notice in general gameplay."
   },
   {
     "name": "God Of War: Ragnarök",
