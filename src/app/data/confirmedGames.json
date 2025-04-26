@@ -12,6 +12,18 @@
     "metacritic": 76
   },
   {
+    "name": "Amer Fighting",
+    "id": "AF",
+    "genre": "Action, Fighting",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 3, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
