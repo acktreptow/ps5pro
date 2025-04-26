@@ -62,14 +62,14 @@
   {
     "name": "Clair O: Expedition 33",
     "id": "CO: E33",
-    "genre": "JRPG",
+    "genre": "French JRPG",
     "developer": "Sandfall Interactive",
     "publisher": "Kepler Interactive",
     "psStudios": false,
     "psvr2": false,
     "release": "April 24, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 92
   },
   {
     "name": "Crimson Desert",
