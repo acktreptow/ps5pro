@@ -1504,6 +1504,24 @@
     "extraInfo": "Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode (especially grass), but it causes certain assets like crowd handrails to be more noisy/unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps."
   },
   {
+    "name": "Madden NFL 26",
+    "id": "Madden 26",
+    "urlPath": "madden-26",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 11, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p to 4K PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "*Madden 26 isn't out yet, but the following Madden 25 information from last year should give us at least a good baseline of what to expect. Especially as this is the first current-gen Madden to not release on PS4 - 'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode (especially grass), but it causes certain assets like crowd handrails to be more noisy/unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
+  },
+  {
     "name": "Mandragora: WOTWT",
     "pageTitle": "Mandragora: Whispers of the Witch Tree",
     "id": "Mandragora",
