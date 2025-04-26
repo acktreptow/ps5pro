@@ -368,7 +368,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 14, 2022",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 70
   },
   {
@@ -380,7 +380,7 @@
     "psStudios": true,
     "psvr2": false,
     "release": "April 30, 2021",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 86
   },
   {
@@ -392,7 +392,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "November 2, 2023  ",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 72
   },
   {
@@ -404,7 +404,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 18, 2024",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 74
   },
   {
@@ -416,7 +416,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "January 25, 2024",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 90
   },
   {
@@ -464,7 +464,7 @@
     "psStudios": false,
     "psvr2": true,
     "release": "March 21, 2023",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 72
   },
   {
