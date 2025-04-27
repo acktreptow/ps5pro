@@ -1083,14 +1083,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at 30fps with RT reflections in races and free roam gameplay."
+        "description": "4K at a locked 30fps with RT reflections on player car in races and free roam gameplay."
       },
       {
         "name": "performance",
-        "description": "4K at 60fps. Same graphical settings as quality mode, but with no RT reflections."
+        "description": "4K at a locked 60fps. Same graphical settings as quality mode, but with no RT reflections."
       }
     ],
-    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but with a locked 60fps. Base PS5 performance mode is a big step down from all others. It has far less foliage onscreen, there's more pop-in, and can render under 4K (around 1872p). RT on Pro is nice, but hard to notice in general gameplay."
+    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but with a locked 60fps. Base PS5 performance mode is a big step down from all others. It has far less foliage onscreen, there's more pop-in, and can render under 4K (around 1872p). RT on Pro is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
     "name": "God Of War: Ragnarök",
