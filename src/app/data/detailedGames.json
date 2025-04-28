@@ -1353,7 +1353,7 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro's resolution ranges from 1440p to native 4K, which it regularly hits. Base PS5 can only render up to 1800p and can go as low as 1200p. Both consoles have a very stable framerate, but Pro hits 60fps slightly more often. Even with its more advanced RTGI and slightly improved ambient occlusion/shadows implementation. There's no option to unlock the framerate, even though Pro looks like it has the headroom for a noticeable increase past 60fps."
+    "extraInfo": "Pro's resolution ranges from 1440p to native 4K, which it regularly hits. Base PS5 can only render up to 1800p and can go as low as 1200p. Both consoles have a very stable framerate, but Pro hits 60fps slightly more often. Even with its slightly improved RTGI and ambient occlusion/shadows implementation. There's no option to unlock the framerate, even though Pro looks like it has the headroom for a noticeable increase past 60fps. Cutscenes are locked to 60fps everywhere (even on PC)."
   },
   {
     "name": "Karma: The Dark World",
