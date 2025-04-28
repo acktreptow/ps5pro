@@ -486,7 +486,7 @@
         "description": "1062p-1386p to 1800p at a locked 60fps."
       }
     ],
-    "extraInfo": "Quality mode's increase in resolution leads to somewhat less shimmer/breakup in hair etc. Base PS5's performance mode can dip more often than Pro (a locked 60fps), but the dips are very minor (1-2 fps) and only last a couple of seconds."
+    "extraInfo": "Quality mode's resolution increase results in less shimmer and breakup in hair. Quality mode also has slightly improved shadows/reflections/textures. Base PS5's performance mode can dip more often than Pro (a locked 60fps), but the dips are very minor (1-2 fps) and only last a couple of seconds. Base PS5's internal resolution can go as low as 720p in performance mode and 900p in quality mode, however, leading to far more shimmer/breakup."
   },
   {
     "name": "CyubeVR",
