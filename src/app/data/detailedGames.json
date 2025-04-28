@@ -461,6 +461,34 @@
     "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc). Performance can vary depending on scene complexity."
   },
   {
+    "name": "Clair Obscur: Expedition 33",
+    "id": "Expedition 33",
+    "urlPath": "clair-obscur-expedition-33",
+    "genre": "French JRPG",
+    "developer": "Sandfall Interactive",
+    "publisher": "Kepler Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 24, 2025",
+    "hasShipped": true,
+    "metacritic": 92,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1552p to 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1080p-1552p to 4K at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1062p-1386p to 1800p at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode's increase in resolution leads to somewhat less shimmer/breakup in hair etc. Base PS5's performance mode can dip more often than Pro (a locked 60fps), but the dips are very minor (1-2 fps) and only last a couple of seconds."
+  },
+  {
     "name": "CyubeVR",
     "pageTitle": "cyubeVR",
     "id": "CyubeVR",
