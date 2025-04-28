@@ -1083,7 +1083,7 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at a locked 30fps with RT reflections on player car in races and free roam gameplay."
+        "description": "4K at a locked 30fps. RT reflections on player car in races and free roam gameplay."
       },
       {
         "name": "performance",
@@ -2556,7 +2556,8 @@
     "hasShipped": true,
     "metacritic": 86,
     "pssr": false,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen global illumination and reflections with dynamic shadows",
     "resolution": "4K",
     "fps": "60fps",
     "modes": [
@@ -2566,10 +2567,10 @@
       },
       {
         "name": "performance",
-        "description": "Around 1440p to 4K at a somewhat unstable 60fps. Internal resolution can go lower than quality mode when outside."
+        "description": "Around 1440p to 4K at an unstable 60fps. Internal resolution can go lower than quality mode when outside."
       }
     ],
-    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting that the base PS5 modes."
+    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes."
   },
   {
     "name": "The Finals",
