@@ -2563,14 +2563,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "Around 1440p to 4K at a locked 30fps."
+        "description": "Around 1440p to 4K at a locked, but improperly paced 30fps."
       },
       {
         "name": "performance",
         "description": "Around 1440p to 4K at an unstable 60fps. Internal resolution can go lower than quality mode when outside."
       }
     ],
-    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes."
+    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Both the resolution as well as the framerate in Pro performance mode are also slightly increased compared to base PS5. Quality mode is improperly paced on every console. There also is currently no HDR support anywhere (even on PC), but certain greyed out options that were originally there at launch suggests HDR could come in a future patch."
   },
   {
     "name": "The Finals",
