@@ -60,6 +60,18 @@
     "metacritic": 73
   },
   {
+    "name": "Borderlands 4",
+    "id": "Borderlands 4",
+    "genre": "Looter Shooter",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 23, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
