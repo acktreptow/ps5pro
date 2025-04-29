@@ -576,30 +576,6 @@
     "metacritic": 85
   },
   {
-    "name": "Anno 117: Pax Romana",
-    "id": "Anno 117",
-    "genre": "Strategy, City-building",
-    "developer": "Ubisoft Mainz",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
-    "name": "Dune: Awakening",
-    "id": "Dune: A",
-    "genre": "Open-World Survival MMO",
-    "developer": "Funcom",
-    "publisher": "Funcom",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Grand Theft Auto 6",
     "id": "GTA 6",
     "genre": "Action-Adventure",
@@ -629,18 +605,6 @@
     "genre": "Action Western RPG",
     "developer": "Obsidian",
     "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
-    "name": "The Sinking City 2",
-    "id": "TSC 2",
-    "genre": "Survival Horror",
-    "developer": "Frogwares",
-    "publisher": "Frogwares",
     "psStudios": false,
     "psvr2": false,
     "release": "2025",
