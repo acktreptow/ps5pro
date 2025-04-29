@@ -624,18 +624,6 @@
     "metacritic": 0
   },
   {
-    "name": "FBC: Firebreak",
-    "id": "Firebreak",
-    "genre": "PvE Co-Op FPS",
-    "developer": "Remedy Entertainment",
-    "publisher": "Remedy Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Summer, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Grand Theft Auto 6",
     "id": "GTA 6",
     "genre": "Action-Adventure",

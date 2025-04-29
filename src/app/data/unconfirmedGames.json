@@ -180,6 +180,18 @@
     "metacritic": 0
   },
   {
+    "name": "FBC: Firebreak",
+    "id": "Firebreak",
+    "genre": "PvE Co-Op FPS",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 17, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy 16",
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
