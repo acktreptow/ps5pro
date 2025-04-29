@@ -221,6 +221,14 @@ const GamesListPage = async () => {
             Has a sequel scheduled to launch in 2025.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            The game is AAA and far enough along to have a release date, but no
+            mention of being PS5 Pro enhanced.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            The game is in a franchise where earlier entries are PS5 Pro
+            enhanced.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             It&#39;s a very popular game that deserves a PS5 Pro upgrade to
             showcase the ecosystem.
           </li>
