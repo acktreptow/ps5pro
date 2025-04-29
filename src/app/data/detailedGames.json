@@ -1121,6 +1121,24 @@
     "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but with a locked 60fps. Base PS5 performance mode is a big step down from all others. It has far less foliage onscreen, there's more pop-in, and can render under 4K (around 1728p-1872p) for a few seconds. RT on Pro is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
+    "name": "Ghost Of Yōtei",
+    "id": "GoY",
+    "urlPath": "ghost-of-yotei",
+    "genre": "Action-Adventure",
+    "developer": "Sucker Punch",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "October 2, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "*The following technical information is based off Digital Foundry's analysis of various Ghost Of Yōtei and Tsushima trailers. It's therefore all subject to change, but gives us a good baseline of what to expect - 'Facial animations of main characters look vastly improved over GoT, with more subtlety and detail. GoY is running at 4K/30fps in trailers, but there's no form of RT. It therefore looks worse when compared to similar games such as AC: Shadows. Shadow resolution does however seems to be much higher compared to GoT. There's no official confirmation of a 60fps mode, but it's likely given Sucker Punch's past work on PS5.'"
+  },
+  {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
     "urlPath": "god-of-war-ragnarok",
