@@ -221,30 +221,29 @@ const GamesListPage = async () => {
             Has a sequel scheduled to launch in 2025.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            The game is AAA and far enough along to have a release date, but no
-            mention of being PS5 Pro enhanced.
+            Is AAA and far enough along to have a release date, but no mention
+            of Pro enhancements.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            The game is in a franchise where earlier entries are PS5 Pro
-            enhanced.
+            In a franchise where earlier entries are Pro enhanced.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            It&#39;s a very popular game that deserves a PS5 Pro upgrade to
-            showcase the ecosystem.
+            Is a very popular game that would showcase the Pro ecosystem to new
+            audiences.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            It&#39;s a showcase for the capabilities of PSVR2.
+            Would be a showcase for the capabilities of PSVR2.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            The game would be significantly enhanced with a resolution and/or
-            framerate boost.
+            Would be significantly enhanced with a resolution and/or framerate
+            boost.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            The game would look much better with either introducing or improving
-            the ray-tracing implementation.
+            Would look much better by introducing or improving the ray tracing
+            implementation.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            I&#39;d want to see one as it&#39;s in my backlog!
+            It&#39;s in my backlog!
           </li>
         </ul>
       </div>
