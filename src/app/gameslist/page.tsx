@@ -215,7 +215,7 @@ const GamesListPage = async () => {
         </h4>
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-6 lg:mb-2">
           Criteria (Has to hit at least one. List is in a rough order of
-          importance.):
+          importance.)
         </h3>
         <ul className="lg:text-lg">
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
@@ -234,14 +234,15 @@ const GamesListPage = async () => {
             audiences.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Has a sequel scheduled to launch in 2025.
+            Is AAA, with a sequel scheduled to launch in 2025.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Is AAA and far enough along to have a release date, but no mention
-            of Pro enhancements.
+            Is AAA, with development far enough along to have a release date,
+            yet no mention of Pro support.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            In a franchise where earlier entries are Pro enhanced.
+            Is part a AAA franchise where there&#39;s already Pro enhanced
+            entries.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             It&#39;s in my backlog!
