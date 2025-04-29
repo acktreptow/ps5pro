@@ -600,18 +600,6 @@
     "metacritic": 0
   },
   {
-    "name": "Directive 8020",
-    "id": "D-8020: Dark Pictures",
-    "genre": "Horror, Interactive Drama",
-    "developer": "Supermassive Games",
-    "publisher": "Supermassive Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 30, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Dune: Awakening",
     "id": "Dune: A",
     "genre": "Open-World Survival MMO",
