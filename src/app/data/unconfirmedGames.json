@@ -396,6 +396,18 @@
     "metacritic": 66
   },
   {
+    "name": "Ninja Gaiden 4",
+    "id": "NG4",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja & Platinum",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Fall, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Resident Evil 2",
     "id": "RE2",
     "genre": "Survival Horror",
