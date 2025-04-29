@@ -214,9 +214,25 @@ const GamesListPage = async () => {
           </span>
         </h4>
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-6 lg:mb-2">
-          Criteria (has to hit at least one):
+          Criteria (Has to hit at least one. List is in a rough order of
+          importance.):
         </h3>
         <ul className="lg:text-lg">
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Would be significantly enhanced with a resolution and/or framerate
+            boost.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Would look much better by introducing or improving the ray tracing
+            implementation.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Would be a showcase for the capabilities of PSVR2.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Is a very popular game that would showcase the Pro ecosystem to new
+            audiences.
+          </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Has a sequel scheduled to launch in 2025.
           </li>
@@ -226,21 +242,6 @@ const GamesListPage = async () => {
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             In a franchise where earlier entries are Pro enhanced.
-          </li>
-          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Is a very popular game that would showcase the Pro ecosystem to new
-            audiences.
-          </li>
-          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Would be a showcase for the capabilities of PSVR2.
-          </li>
-          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Would be significantly enhanced with a resolution and/or framerate
-            boost.
-          </li>
-          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Would look much better by introducing or improving the ray tracing
-            implementation.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             It&#39;s in my backlog!
