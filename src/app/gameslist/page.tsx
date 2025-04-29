@@ -206,10 +206,16 @@ const GamesListPage = async () => {
           <span className="block mb-1 text-lg md:text-base md:inline lg:text-xl">
             Disclaimer:
           </span>{" "}
-          I&#39;m fully aware that the vast majority of these games will never
-          receive an official PS5 Pro upgrade. That doesn&#39;t mean they{" "}
-          <span className="italic">shouldn&#39;t</span>.{" "}
-          <span className="block my-4 text-lg md:text-base md:my-2 lg:text-xl lg:my-1">
+          Whether its limited development resources, the developer has suffered
+          severe layoffs, or a myriad of other reasons, I&#39;m fully aware that
+          the vast majority of these games will never receive an official PS5
+          Pro upgrade. However, that doesn&#39;t mean they{" "}
+          <span className="italic">shouldn&#39;t</span>. As the criteria below
+          shows, the games themselves would greatly benefit from a Pro upgrade.
+          Either by drastically improving the game&#39;s experience itself, or
+          bringing the franchise and/or PS5 Pro ecosystem more into the
+          spotlight etc.{" "}
+          <span className="block my-4 text-lg md:text-base md:my-2 lg:text-xl lg:my-4">
             With that being said...
           </span>
         </h4>
