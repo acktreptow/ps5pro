@@ -574,41 +574,5 @@
     "release": "April 3, 2025",
     "hasShipped": true,
     "metacritic": 85
-  },
-  {
-    "name": "Grand Theft Auto 6",
-    "id": "GTA 6",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar Games",
-    "publisher": "Rockstar Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
-    "name": "Marvel 1943: ROH",
-    "id": "Marvel 1943",
-    "genre": "Action-Adventure",
-    "developer": "Skydance New Media",
-    "publisher": "Plaion",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
-    "name": "The Outer Worlds 2",
-    "id": "TOW 2",
-    "genre": "Action Western RPG",
-    "developer": "Obsidian",
-    "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2025",
-    "hasShipped": false,
-    "metacritic": 0
   }
 ]
