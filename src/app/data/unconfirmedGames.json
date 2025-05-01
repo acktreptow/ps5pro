@@ -360,6 +360,18 @@
     "metacritic": 0
   },
   {
+    "name": "MetaBall",
+    "id": "MetaBall",
+    "genre": "Hoverboard Basketball",
+    "developer": "Bucketplay",
+    "publisher": "Bucketplay",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 8, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Metro Awakening",
     "id": "MA",
     "genre": "VR FPS",
