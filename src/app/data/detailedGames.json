@@ -2100,6 +2100,25 @@
     "extraInfo": "The Pro version will have more detailed environments, higher quality RT reflections and a sharper resolution compared to the base PS5 version. All at a more stable 60fps."
   },
   {
+    "name": "Returnal",
+    "id": "Returnal",
+    "urlPath": "returnal",
+    "genre": "TPS Roguelike",
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "April 30, 2021",
+    "hasShipped": true,
+    "metacritic": 86,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced audio",
+    "resolution": "1728p to 4K",
+    "fps": "60fps",
+    "extraInfo": "Pro has roughly 2.5x the resolution compared to base PS5, resulting in an internal resolution of 1728p that outputs to 4K (base PS5 internal resolution is 1080p). However, it can dip below to a minium of 1514p for a couple seconds sometimes. The framerate remains a solid 60fps. Technically, Returnal uses other forms of RT. However, this is purely for background calculations and not for any visual improvements, so it's not listed here."
+  },
+  {
     "name": "Rise Of The Ronin",
     "id": "RotR",
     "urlPath": "rise-of-the-ronin",

@@ -456,18 +456,6 @@
     "metacritic": 40
   },
   {
-    "name": "Returnal",
-    "id": "Returnal",
-    "genre": "TPS Roguelike",
-    "developer": "Housemarque",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "April 30, 2021",
-    "hasShipped": true,
-    "metacritic": 86
-  },
-  {
     "name": "Sanguis Luna",
     "id": "SL",
     "genre": "Survival Horror",
