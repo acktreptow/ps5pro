@@ -504,18 +504,6 @@
     "metacritic": 0
   },
   {
-    "name": "The Elders Scrolls Online",
-    "id": "ESO",
-    "genre": "MMORPG",
-    "developer": "Zenimax Online",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 15, 2021",
-    "hasShipped": true,
-    "metacritic": 79
-  },
-  {
     "name": "Tides Of Annihilation",
     "id": "ToA",
     "genre": "Action-Adventure",

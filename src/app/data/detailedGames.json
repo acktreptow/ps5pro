@@ -2658,6 +2658,24 @@
     "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Both the resolution as well as the framerate in Pro performance mode are also slightly increased compared to base PS5. Quality mode is improperly paced on every console. There also is currently no HDR support anywhere (even on PC), but certain greyed out options that were originally there at launch suggests HDR could come in a future patch."
   },
   {
+    "name": "The Elders Scrolls Online",
+    "id": "ESO",
+    "urlPath": "the-elder-scrolls-online",
+    "genre": "MMORPG",
+    "developer": "Zenimax Online",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 15, 2021",
+    "hasShipped": true,
+    "metacritic": 79,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro uses variable rate shading to achieve 4K/60fps. This one mode combines the 2 modes seen on base PS5 (a 4K/30fps fidelity mode and 1440p/60fps performance mode that also had lower graphical settings). It's unclear if this is a native 4K, but this can be definitively answered when update 46 releases on June 2. Zenimax Online went very in-depth when the PS5/Series versions were released, going as far as comparing graphical settings like shadows and textures to a PC preset like 'ultra' or 'high'.  Hopefully they do the same for Pro nearer to release."
+  },
+  {
     "name": "The Finals",
     "id": "The Finals",
     "urlPath": "the-finals",
