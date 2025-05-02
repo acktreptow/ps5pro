@@ -1908,6 +1908,34 @@
     "extraInfo": "Uses PSSR to hit 4K (base resolution unknown, but almost certainly above 1080p due to final output). Pro also has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5, and hits 60fps more often."
   },
   {
+    "name": "Paladin's Passage",
+    "id": "Paladin's Passage",
+    "urlPath": "paladins-passage",
+    "genre": "Puzzle, Platformer",
+    "developer": "Bent Vector Studios",
+    "publisher": "Bent Vector Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 10, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "8K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "8K PSSR at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "4K at 60fps."
+      }
+    ],
+    "extraInfo": "According to the game's website, 'advanced shaders' are now on Pro. PSSR is also used to render up to 8K."
+  },
+  {
     "name": "Pathfinder: WOTR",
     "pageTitle": "Pathfinder: Wrath of the Righteous",
     "id": "Pathfinder WOTR",
