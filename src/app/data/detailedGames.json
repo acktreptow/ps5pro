@@ -1682,6 +1682,24 @@
     "extraInfo": "Konami have confirmed that there will be both a quality and performance mode on Pro. They also confirmed that Pro will use PSSR, but didn't mention if it's just for performance mode or for both. RT is currently labelled as false, but based off the PC requirements (minimum specs require at least a 2060 Super GPU), it's very possible that Pro will also have some form of ray tracing (traditional or Unreal Engine 5's Lumen), but this has yet to be confirmed."
   },
   {
+    "name": "Midnight Murder Club",
+    "id": "MMC",
+    "urlPath": "midnight-murder-club",
+    "genre": "Multiplayer FPS",
+    "developer": "Velan Studios",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "March 13, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at 4K. Instead, Pro surpasses the base PS5 version by its ability to maintain a locked 60fps, regardless of what VFX Quality setting is chosen. There is very low, low, medium, high and best, and it's at these higher options where base PS5 can dip below 60fps. Especially if the FOV is also on a wider setting. Pro will however remain a locked 60fps even if both are maxed out."
+  },
+  {
     "name": "Monster Hunter Wilds",
     "id": "MH: Wilds",
     "urlPath": "monster-hunter-wilds",
