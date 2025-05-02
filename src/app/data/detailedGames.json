@@ -473,20 +473,21 @@
     "hasShipped": true,
     "metacritic": 92,
     "pssr": false,
-    "rt": false,
-    "resolution": "1552p to 4K",
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination/reflections and Nanite virtual shadow maps with RT",
+    "resolution": "1552p to 4K TSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "1080p-1552p to 4K at a locked 30fps."
+        "description": "1080p-1552p to 4K TSR at a locked 30fps. Both software-based Lumen GI and reflections, as well as RT shadows via Nanite (though not all shadows receive RT for accurate diffuse)."
       },
       {
         "name": "performance",
-        "description": "1062p-1386p to 1800p at a locked 60fps."
+        "description": "1062p-1386p to 1800p TSR at a nearly locked 60fps. Lower quality Lumen GI/reflections compared to quality mode and no RT shadows."
       }
     ],
-    "extraInfo": "Quality mode's resolution increase results in less shimmer and breakup in hair. Quality mode also has slightly improved shadows/reflections/textures. Base PS5's performance mode can dip more often than Pro (a locked 60fps), but the dips are very minor (1-2 fps) and only last a couple of seconds. Base PS5's internal resolution can go as low as 720p in performance mode and 900p in quality mode, however, leading to far more shimmer/breakup. Real-time cutscenes are locked at 30fps regardless of mode or hardware (even PC) and FMV cutscenes are also very poor quality everywhere (worse than YouTube compression)."
+    "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5's internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and FMV cutscenes are also very poor quality everywhere (visible macroblocking). The game boots in HDR but doesn't actually support it. Ensure HDR is toggled off for a superior SDR (in this case) image."
   },
   {
     "name": "CyubeVR",
