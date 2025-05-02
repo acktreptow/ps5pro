@@ -228,18 +228,6 @@
     "metacritic": 0
   },
   {
-    "name": "Lost Soul Aside",
-    "id": "LSA",
-    "genre": "Action RPG",
-    "developer": "Ultizero Games",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "August 29, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Metal Eden",
     "id": "ME",
     "genre": "Sci-Fi FPS",
