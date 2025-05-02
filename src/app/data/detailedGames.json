@@ -1954,6 +1954,34 @@
     "extraInfo": "According to the game's website, 'advanced shaders' are now on Pro. PSSR is also used to render up to 8K."
   },
   {
+    "name": "Path Of Exile 2",
+    "id": "PoE 2",
+    "urlPath": "path-of-exile-2",
+    "genre": "Top-Down Action RPG",
+    "developer": "Grinding Gear Games",
+    "publisher": "Grinding Gear Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 6, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1662p NIS or PSSR 'quality' to 4K with DRS, at a locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p NIS or PSSR 'balanced' to 4K without DRS, at a relatively stable 120fps. "
+      }
+    ],
+    "extraInfo": "With 4 upscalers that each have multiple quality options within them, a sharpness slider, different lighting toggles, multiple refresh rate options (including 30/40fps), and even experimental options like dynamic culling, PoE2 easily has the most configurations of a PS5 Pro game. Instead of listing 50+ modes, the 2 above represent what the general PoE2 community recommend depending on your framerate target. Performance mode can dip in heavy fights, but should stay above 60fps most of the time. NIS is sharper and more performant that PSSR, but less stable in motion and can look too sharp. Though PSSR's softness results in a loss of texture detail. If you want to maximize frames, ensure lighting is set to just 'shadows' instead of  'shadows + GI'. Dynamic culling is also not recommended as it can cause severe graphical issues."
+  },
+  {
     "name": "Pathfinder: WOTR",
     "pageTitle": "Pathfinder: Wrath of the Righteous",
     "id": "Pathfinder WOTR",
