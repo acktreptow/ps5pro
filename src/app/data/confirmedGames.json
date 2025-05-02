@@ -228,6 +228,18 @@
     "metacritic": 0
   },
   {
+    "name": "Metaball",
+    "id": "Metaball",
+    "genre": "Hoverboard Basketball",
+    "developer": "Bucketplay",
+    "publisher": "Bucketplay",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 8, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Metal Eden",
     "id": "ME",
     "genre": "Sci-Fi FPS",
