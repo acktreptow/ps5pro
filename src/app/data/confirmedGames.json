@@ -504,18 +504,6 @@
     "metacritic": 0
   },
   {
-    "name": "Tides Of Annihilation",
-    "id": "ToA",
-    "genre": "Action-Adventure",
-    "developer": "Eclipse Glow Games",
-    "publisher": "Chengdu Ophiuchus",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Tony Hawk's PS 3 + 4",
     "id": "TH 3+4",
     "genre": "Sports, Skateboarding",
