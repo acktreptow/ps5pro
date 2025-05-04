@@ -586,5 +586,17 @@
     "release": "January 28, 2022",
     "hasShipped": true,
     "metacritic": 87
+  },
+  {
+    "name": "World War Z: Aftermath",
+    "id": "WWZ",
+    "genre": "Co-Op Zombie Shooter",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 24, 2023",
+    "hasShipped": true,
+    "metacritic": 75
   }
 ]
