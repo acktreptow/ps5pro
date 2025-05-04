@@ -203,7 +203,7 @@ const GamesListPage = async () => {
       </h2>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
         <h4 className="text-center mb-4 mx-2 md:text-start lg:text-xl md:mx-8 lg:mt-2">
-          <span className="block mb-2 font-semibold text-xl md:text-base md:inline">
+          <span className="block mb-2 font-semibold text-xl  lg:inline">
             Disclaimer:
           </span>{" "}
           Whether its limited development resources, the developer has suffered
