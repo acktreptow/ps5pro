@@ -232,6 +232,10 @@ const GamesListPage = async () => {
             implementation.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Would look much better with improved or added graphical settings
+            (global illumination, textures etc).
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Would be a showcase for the capabilities of PSVR2.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
