@@ -220,8 +220,7 @@ const GamesListPage = async () => {
           </span>
         </h4>
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-6 lg:mb-2">
-          Criteria (Has to hit at least one. List is in a rough order of
-          importance.)
+          Criteria (in rough order of importance)
         </h3>
         <ul className="lg:text-lg">
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
