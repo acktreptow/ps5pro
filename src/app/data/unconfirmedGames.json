@@ -444,6 +444,18 @@
     "metacritic": 72
   },
   {
+    "name": "Scorn",
+    "id": "Scorn",
+    "genre": "Survival Horror, Puzzle",
+    "developer": "Ebb Software",
+    "publisher": "Kepler Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 3, 2023",
+    "hasShipped": true,
+    "metacritic": 68
+  },
+  {
     "name": "Skydance's Behemoth",
     "id": "Behemoth",
     "genre": "VR Action-Adventure",
