@@ -2341,7 +2341,7 @@
     "name": "Smash Drums",
     "id": "SD",
     "urlPath": "smash-drums",
-    "genre": "VR Rhythm, Arcade Drumming",
+    "genre": "VR Arcade Drumming",
     "developer": "PotamWorks SAS",
     "publisher": "PotamWorks SAS",
     "psStudios": false,
@@ -2351,9 +2351,19 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (likely)",
+    "resolution": "2000 x 2040 per eye (likely)",
     "fps": "120fps native",
-    "extraInfo": "Developers have confirmed 120fps native on the Pro and that there will be other enhancements."
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "120fps with higher resolution and better VFX compared to performance mode."
+      },
+      {
+        "name": "performance",
+        "description": "120fps native."
+      }
+    ],
+    "extraInfo": "Whereas base PS5 is only 90fps in its fidelity mode and 120fps performance mode, Pro is 120fps in both."
   },
   {
     "name": "Sniper Elite: Resistance",
