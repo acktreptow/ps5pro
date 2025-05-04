@@ -456,6 +456,18 @@
     "metacritic": 56
   },
   {
+    "name": "Star Wars: TFTGE",
+    "id": "Star Wars: Tales from the Galaxy's Edge",
+    "genre": "VR FPS Action-Adventure",
+    "developer": "ILMxLab",
+    "publisher": "Disney Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "February 22, 2023",
+    "hasShipped": true,
+    "metacritic": 73
+  },
+  {
     "name": "Still Wakes The Deep",
     "id": "SWtD",
     "genre": "Psychological Horror",
