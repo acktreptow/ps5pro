@@ -60,6 +60,18 @@
     "metacritic": 73
   },
   {
+    "name": "Back 4 Blood",
+    "id": "B4B",
+    "genre": "Co-Op Zombie Shooter",
+    "developer": "Turtle Rock Studios",
+    "publisher": "Warner Bros. Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 12, 2021",
+    "hasShipped": true,
+    "metacritic": 77
+  },
+  {
     "name": "Borderlands 4",
     "id": "Borderlands 4",
     "genre": "Looter Shooter",
