@@ -468,6 +468,18 @@
     "metacritic": 74
   },
   {
+    "name": "Synapse",
+    "id": "Synapse",
+    "genre": "VR FPS Roguelite",
+    "developer": "nDreams",
+    "publisher": "nDreams",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "July 4, 2023",
+    "hasShipped": true,
+    "metacritic": 77
+  },
+  {
     "name": "Tekken 8",
     "id": "Tekken 8",
     "genre": "Fighting",
