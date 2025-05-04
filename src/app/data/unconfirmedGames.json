@@ -444,6 +444,18 @@
     "metacritic": 72
   },
   {
+    "name": "Skydance's Behemoth",
+    "id": "Behemoth",
+    "genre": "VR Action-Adventure",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "December 5, 2024",
+    "hasShipped": true,
+    "metacritic": 56
+  },
+  {
     "name": "Still Wakes The Deep",
     "id": "SWtD",
     "genre": "Psychological Horror",
