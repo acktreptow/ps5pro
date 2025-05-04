@@ -456,6 +456,18 @@
     "metacritic": 56
   },
   {
+    "name": "Sonic Frontiers",
+    "id": "Sonic Frontiers",
+    "genre": "Platform, Action-Adventure",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 8, 2022",
+    "hasShipped": true,
+    "metacritic": 70
+  },
+  {
     "name": "Star Wars: TFTGE",
     "id": "Star Wars: Tales from the Galaxy's Edge",
     "genre": "VR FPS Action-Adventure",
