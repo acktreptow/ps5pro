@@ -202,8 +202,8 @@ const GamesListPage = async () => {
         {unconfirmedGames.length} Games That Most Need PS5 Pro Upgrades
       </h2>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-        <h4 className="text-center font-semibold mb-4 md:text-start lg:text-xl md:mx-8 lg:mt-2">
-          <span className="block mb-1 text-lg md:text-base md:inline lg:text-xl">
+        <h4 className="text-center mb-4 mx-2 md:text-start lg:text-xl md:mx-8 lg:mt-2">
+          <span className="block mb-2 font-semibold text-xl md:text-base md:inline">
             Disclaimer:
           </span>{" "}
           Whether its limited development resources, the developer has suffered
@@ -215,7 +215,7 @@ const GamesListPage = async () => {
           Either by drastically improving the game&#39;s experience itself, or
           bringing the franchise and/or PS5 Pro ecosystem more into the
           spotlight etc.{" "}
-          <span className="block my-4 text-lg md:text-base md:my-2 lg:text-xl lg:my-4">
+          <span className="block my-4 font-semibold text-lg md:text-base md:my-2 lg:text-xl lg:my-4">
             With that being said...
           </span>
         </h4>
