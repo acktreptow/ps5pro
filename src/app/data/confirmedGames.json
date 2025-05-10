@@ -180,18 +180,6 @@
     "metacritic": 0
   },
   {
-    "name": "Gears Of War: Reloaded",
-    "id": "GOW: Reloaded",
-    "genre": "Third-Person Shooter",
-    "developer": "The Coalition",
-    "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 26, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Hell Is Us",
     "id": "HiU",
     "genre": "Action-Adventure",

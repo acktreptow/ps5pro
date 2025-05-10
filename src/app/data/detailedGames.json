@@ -1122,6 +1122,24 @@
     "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but with a locked 60fps. Base PS5 performance mode is a big step down from all others. It has far less foliage onscreen, there's more pop-in, and can render under 4K (around 1728p-1872p) for a few seconds. RT on Pro is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
+    "name": "Gears Of War: Reloaded",
+    "id": "GOW: Reloaded",
+    "urlPath": "gears-of-war-reloaded",
+    "genre": "Third-Person Shooter",
+    "developer": "The Coalition",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 26, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "Xbox have confirmed that even on the base consoles, there will be 4K, 120fps and VRR support. It's therefore safe to assume for the moment that at the very least, Pro will have a higher framerate when running at 4K. This reloaded version will also have improved graphical settings over the Xbox One 2014 remaster like shadows/reflections/textures etc, so this is another area where Pro could improve over base PS5. Again, this is all speculative though and we won't know until the game is released in August."
+  },
+  {
     "name": "Ghost Of Yōtei",
     "id": "GoY",
     "urlPath": "ghost-of-yotei",
