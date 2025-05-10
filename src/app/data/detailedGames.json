@@ -2745,19 +2745,19 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 software-based Lumen global illumination and reflections with dynamic shadows",
-    "resolution": "4K",
+    "resolution": "2016p to 4K",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Around 1440p to 4K at a locked, but improperly paced 30fps."
+        "description": "1440p-2016p DRS (usually around 1620p) to 4K at a locked, but improperly paced 30fps."
       },
       {
         "name": "performance",
-        "description": "Around 1440p to 4K at an unstable 60fps. Internal resolution can go lower than quality mode when outside."
+        "description": "1188p-1620p DRS to 4K at a very unstable 60fps that regularly falls below VRR window. Internal resolution/framerate dips lower when outside."
       }
     ],
-    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Both the resolution as well as the framerate in Pro performance mode are also slightly increased compared to base PS5. Quality mode is improperly paced on every console. There also is currently no HDR support anywhere (even on PC), but certain greyed out options that were originally there at launch suggests HDR could come in a future patch."
+    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Resolution and framerate in Pro performance mode are slightly increased compared to base PS5 (internal res can drop to 900p). There's no HDR and quality mode is improperly paced everywhere. No matter the console, performance gets worse if booting up from rest mode, cycling through saves or a continuous playthrough due to memory leak and needs a fresh start of the app to fix."
   },
   {
     "name": "The Elders Scrolls Online",
