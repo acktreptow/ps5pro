@@ -360,6 +360,18 @@
     "metacritic": 80
   },
   {
+    "name": "Norse: Oath Of Blood",
+    "id": "Norse: OOB",
+    "genre": "Turn-Based Tactics",
+    "developer": "Arctic Hazard",
+    "publisher": "Tripwire Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Oniriam",
     "id": "Oniriam",
     "genre": "VR Puzzle Adventure",
