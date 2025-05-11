@@ -1248,6 +1248,25 @@
     "extraInfo": "Unlike base PS5, RT reflections are now available during gameplay. Its excellent implementation is far superior to the cube maps used when RT is disabled. Both TAA and PSSR are available for upscaling. RT is available with both except for cockpit mode, which is only PSSR. PSSR still looks great, but can can produce additional shimmer/noise in thin objects and artifacting on a few cars compared to TAA. All framerates are locked 99% of the time in gameplay, but replays can drop the framerate more often. Finally, Pro significantly improves motion clarity and image quality inside PSVR2."
   },
   {
+    "name": "Grand Theft Auto 6",
+    "id": "GTA 6",
+    "urlPath": "grand-theft-auto-6",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination and reflections",
+    "resolution": "4K Upscaled (likely)",
+    "fps": "30fps (likely)",
+    "extraInfo": "*GTA 6 isn't even official confirmed to be a PS5 Pro enhanced game yet, but considering its budget, the legacy of the IP, the prestige of Rockstar Games, and the fact that many would consider it the most anticipated game of all time, this is the one game where it's still worth going into full speculation mode. The following information is also based off DF's analysis GTA 6's second trailer which was captured in real-time on base PS5, making it a good baseline of what to expect on Pro. The trailer was running at 1440p, but with 20:9 letter-boxing, leading to 1152p of actual viewable image. There is proper diffuse RTGI for direct/indirect lighting and there was no flickering/more stable that you'd see in something like the software-based UE5 Lumen usually seen on consoles. There is also RT reflections that includes dynamic objects like character, even on rough/opaque surfaces, but can still be combined with SSR and water still looks relatively noisy. RT reflections on transparent surfaces like glass is top-tier as so much is included in the BVH. There's no RT shadows, but they still look great with accurate diffuse and penumbra.The most impressive aspect is the very accurate hair rendering with natural strand movement, regardless of hair type. This also applies to body hair like on the arms. A 60fps is very unlikely, but a 40fps mode is possible."
+  },
+  {
     "name": "Helldivers 2",
     "id": "HD 2",
     "urlPath": "helldivers-2",
