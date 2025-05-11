@@ -640,6 +640,25 @@
     "extraInfo": "Enhanced visuals mode hovers around 45-50fps with VRR, so VRR isn't recommended as that's below the 48fps VRR threshold on PlayStation. Pro's enhanced visuals mode also has higher resolutions, improved ambient occlusion and higher quality RT reflections compared to the same mode on base PS5."
   },
   {
+    "name": "Doom: The Dark Ages",
+    "id": "Doom: TDA",
+    "urlPath": "doom-the-dark-ages",
+    "genre": "First-Person Shooter",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 15, 2025",
+    "hasShipped": false,
+    "metacritic": 84,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination",
+    "resolution": "1800p to 4K TAA",
+    "fps": "60fps",
+    "extraInfo": "Pro drops frames in more demanding open arenas, but stays within the VRR window (mid 50s) and is still generally more stable than base PS5. Base PS5 renders between 1080p-1440p compared to 1296p-1800p on Pro, with the lower bounds only being in the more demanding arenas. RTGI quality is the same on both. Variable rate shading is used on every console (Xbox too), resulting in a blurrier image than the resolution would suggest. VRS is therefore least noticeable on Pro."
+  },
+  {
     "name": "Dragon Age: The Veilguard",
     "id": "Dragon Age 4",
     "urlPath": "dragon-age-the-veilguard",

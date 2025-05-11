@@ -108,18 +108,6 @@
     "metacritic": 0
   },
   {
-    "name": "Doom: The Dark Ages",
-    "id": "Doom: TDA",
-    "genre": "First-Person Shooter",
-    "developer": "id Software",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 15, 2025",
-    "hasShipped": false,
-    "metacritic": 84
-  },
-  {
     "name": "Dreams Of Another",
     "id": "DoA",
     "genre": "VR Exploration-Action",
