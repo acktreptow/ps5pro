@@ -487,7 +487,7 @@
         "description": "1062p-1386p to 1800p TSR at a nearly locked 60fps. Lower quality Lumen GI/reflections compared to quality mode and no RT shadows."
       }
     ],
-    "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5's internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and FMV cutscenes are also very poor quality everywhere (visible macroblocking). The game boots in HDR but doesn't actually support it. Ensure HDR is toggled off for a superior SDR (in this case) image."
+    "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5's internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and FMV cutscenes have visible macroblocking. The game boots in HDR but doesn't actually support it. Ensure HDR is toggled off for a superior SDR (in this case) image."
   },
   {
     "name": "CyubeVR",
