@@ -21,6 +21,34 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
         <h1 className="text-center text-4xl font-extrabold mt-8 mb-12 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
           Game Not Found
         </h1>
+        <div className="container mx-auto flex-grow text-slate-800 flex flex-col items-center justify-center">
+          <div className="max-w-xl bg-slate-100 border-2 rounded shadow-lg mt-8 mb-12 mx-4 p-8 flex flex-col items-center">
+            <span className="text-6xl mb-4">🎮</span>
+            <h1 className="text-center text-4xl font-extrabold mb-4">
+              Game Not Found
+            </h1>
+            <p className="text-center text-lg mb-6 text-slate-600">
+              Sorry, we could&#39;t find the game you&#39;re looking for.
+              <br />
+              It may have been removed, renamed, or never existed.
+            </p>
+            <div className="flex flex-col gap-4 w-full">
+              <a
+                href="/games"
+                className="w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition"
+              >
+                Browse All Games
+              </a>
+              <a
+                href="/"
+                className="w-full text-center bg-slate-300 hover:bg-slate-400 text-slate-800 font-bold py-2 px-4 rounded transition"
+              >
+                Go to Home Page
+              </a>
+            </div>
+            {/* Optional: Add a search bar here if you have search functionality */}
+          </div>
+        </div>
       </div>
     );
   }
