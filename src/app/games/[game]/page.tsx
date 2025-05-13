@@ -1,3 +1,4 @@
+import Link from "next/link";
 import prisma from "../../../../lib/prisma";
 
 async function getGameDetails(urlPath: string) {
@@ -33,20 +34,19 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
               It may have been removed, renamed, or never existed.
             </p>
             <div className="flex flex-col gap-4 w-full">
-              <a
+              <Link
                 href="/games"
                 className="w-full text-center bg-gradient-to-b from-blue-700 to-playstation text-slate-100 hover:text-white hover:underline font-bold py-2 px-4 rounded transition"
               >
                 Browse All Games
-              </a>
-              <a
+              </Link>
+              <Link
                 href="/"
                 className="w-full text-center bg-slate-300 hover:bg-slate-400 text-slate-800 font-bold py-2 px-4 rounded transition"
               >
                 Go to Home Page
-              </a>
+              </Link>
             </div>
-            {/* Optional: Add a search bar here if you have search functionality */}
           </div>
         </div>
       </div>
