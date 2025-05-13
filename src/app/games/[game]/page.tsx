@@ -35,7 +35,7 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
             <div className="flex flex-col gap-4 w-full">
               <a
                 href="/games"
-                className="w-full text-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition"
+                className="w-full text-center bg-gradient-to-b from-blue-700 to-playstation text-slate-100 hover:text-white hover:underline font-bold py-2 px-4 rounded transition"
               >
                 Browse All Games
               </a>
