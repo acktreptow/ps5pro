@@ -13,8 +13,24 @@ async function getGameDetails(urlPath: string) {
   }
 }
 
+async function getRandomGame() {
+  try {
+    const randomGame = await prisma.detailedGame.findMany({
+      where: { published: true },
+      select: {
+        urlPath: true,
+      },
+    });
+    console.log("Detailed games fetched successfully:", randomGame);
+    return randomGame;
+  } catch (error) {
+    console.error("Error fetching detailed games:", error);
+    throw error;
+  }
+}
 const GamesPage = async ({ params }: { params: { game: string } }) => {
   const game = await getGameDetails(params.game);
+  const randomGame = await getRandomGame();
 
   if (!game) {
     return (
@@ -39,6 +55,15 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
                 className="w-full text-center bg-gradient-to-b from-blue-700 to-playstation text-slate-100 hover:text-white hover:underline font-bold py-2 px-4 rounded transition"
               >
                 Browse All Games
+              </Link>
+              <Link
+                href={
+                  randomGame[Math.floor(Math.random() * randomGame.length)]
+                    .urlPath
+                }
+                className="w-full text-center bg-gradient-to-b from-blue-700 to-playstation text-slate-100 hover:text-white hover:underline font-bold py-2 px-4 rounded transition"
+              >
+                Browse Random Game
               </Link>
               <Link
                 href="/"
