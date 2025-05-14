@@ -528,6 +528,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Sinking City: Remastered",
+    "id": "Sinking City Remastered",
+    "genre": "Survival Action Horror",
+    "developer": "Frogwares",
+    "publisher": "Frogwares",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 13, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Tony Hawk's PS 3 + 4",
     "id": "TH 3+4",
     "genre": "Sports, Skateboarding",
