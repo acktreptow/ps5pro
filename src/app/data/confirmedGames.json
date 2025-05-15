@@ -528,6 +528,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Precinct",
+    "id": "Precinct",
+    "genre": "Action-Adventure",
+    "developer": "Fallen Tree Games",
+    "publisher": "Kwalee",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 13, 2025",
+    "hasShipped": true,
+    "metacritic": 65
+  },
+  {
     "name": "The Sinking City",
     "id": "Sinking City Remastered",
     "genre": "Survival Action Horror",
