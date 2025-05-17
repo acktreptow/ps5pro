@@ -401,7 +401,7 @@
     "rt": false,
     "resolution": "2160p",
     "fps": "60fps",
-    "extraInfo": "MercurySteam have confirmed on their website that the framerate will be capped at 60fps. The resolution will also range from 1080p-2160p. With 1080p being the lowest internal resolution value, PSSR should still be able to reconstruct an excellent 4K image."
+    "extraInfo": "MercurySteam have confirmed on their website that the framerate will be capped at 60fps. There will also be dynamic resolution scaling that ranges from 1080p-2160p. With 1080p being the lowest internal resolution value, PSSR should still be able to reconstruct an excellent 4K image."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
