@@ -528,6 +528,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Alters",
+    "id": "Alters",
+    "genre": "Survival, Action-Adventure",
+    "developer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 13, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Precinct",
     "id": "Precinct",
     "genre": "Action-Adventure",
