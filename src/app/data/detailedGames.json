@@ -271,11 +271,11 @@
     "modes": [
       {
         "name": "quality pro",
-        "description": "900p - 1152p at mostly stable 60fps."
+        "description": "900p - 1152p DRS at mostly stable 60fps."
       },
       {
         "name": "quality",
-        "description": "Sharper than quality pro (1512p - 1800p) but at locked 30fps."
+        "description": "Sharper than quality pro (1512p - 1800p DRS) but at locked 30fps."
       },
       {
         "name": "balanced",
@@ -283,10 +283,10 @@
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
+        "description": "Lowest visual quality of all modes. Usually 936p DRS at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the quality 30fps mode. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher resolution bounds (1800p for quality etc) more often due to the Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the quality 30fps mode. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
   },
   {
     "name": "Baldur's Gate 3",
