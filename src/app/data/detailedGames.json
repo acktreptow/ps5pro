@@ -271,11 +271,11 @@
     "modes": [
       {
         "name": "quality pro",
-        "description": "900p - 1152p DRS at mostly stable 60fps."
+        "description": "900p-1152p DRS at mostly stable 60fps."
       },
       {
         "name": "quality",
-        "description": "Sharper than quality pro (1512p - 1800p DRS) but at locked 30fps."
+        "description": "Sharper than quality pro (1512p-1800p DRS) but at locked 30fps."
       },
       {
         "name": "balanced",
