@@ -1494,9 +1494,9 @@
     "metacritic": 73,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "4K with 8K textures",
     "fps": "90fps Native",
-    "extraInfo": "Has 8K textures compared to 4K on base PS5. Also improves post-processing, effects, LOD distance and anti-aliasing. Dynamic resolution only hits a low of 90% of 4K, whereas base PS5 can only render between 60-90% of 4K."
+    "extraInfo": "Has 8K textures compared to 4K on base PS5. Also improves post-processing, effects, LOD distance and anti-aliasing. Both consoles have dynamic resolution scaling, but Pro only hits a low of 90% of 4K, whereas base PS5 can only render between 60%-90% of 4K."
   },
   {
     "name": "Kingdom Come: Deliverance 2",
