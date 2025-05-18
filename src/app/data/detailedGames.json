@@ -922,7 +922,7 @@
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "1440p to 4K TSR",
     "fps": "60fps",
-    "extraInfo": "Base PS5 can have a higher internal resolution as it ranges from 1400p-1600p to 4K TSR, but it only runs at 30fps. Pro's base resolution of 1440p is also high enough that  there is barely a difference between the consoles once UE5's TSR upscaling is implemented."
+    "extraInfo": "Base PS5 has dynamic resolution scaling, which can have a higher internal resolution than Pro as it ranges from 1400p-1600p to 4K TSR, but it only runs at 30fps compared to Pro's locked 60fps. Pro's internal resolution of 1440p is also high enough that there is barely a difference between consoles once UE5's TSR is implemented."
   },
   {
     "name": "Enlisted",
