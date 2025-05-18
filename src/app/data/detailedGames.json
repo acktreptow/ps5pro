@@ -634,7 +634,7 @@
     "modes": [
       {
         "name": "enhanced visuals",
-        "description": "Up to 4K native at 30fps. RT shadows and reflections. Improves quality of fur, hair and fog compared to performance mode."
+        "description": "DRS that reaches up to 4K native at 30fps. RT shadows and reflections. Improves quality of fur, hair and fog compared to performance mode."
       },
       {
         "name": "performance",
