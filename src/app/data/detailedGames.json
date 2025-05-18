@@ -1009,14 +1009,14 @@
       },
       {
         "name": "quality",
-        "description": "1080p-1440p to 4K PSSR. Locked 60fps with all RT in gameplay except shadows."
+        "description": "1080p-1440p DRS to 4K PSSR. Locked 60fps with all RT in gameplay except shadows."
       },
       {
         "name": "120 Hz performance",
-        "description": "1080p-1440p to 4K TAAU. Mostly at a locked 120fps with no RT."
+        "description": "1080p-1440p DRS to 4K TAAU. Mostly at a locked 120fps with no RT."
       }
     ],
-    "extraInfo": "*F1 25 isn't out yet, but the following F1 24 information from last year should give us at least a good baseline of what to expect - 'Base PS5 quality mode has no RT during gameplay, whereas Pro has 3/4 RT which dramatically improves image realism. Pro even brings back shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5 quality mode resolution is 1800p-4K, yet PSSR very nearly matches its sharpness despite a much lower base DRS. Base 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p.'"
+    "extraInfo": "*F1 25 isn't out yet, but the following F1 24 information from last year should give us at least a good baseline of what to expect - 'Base PS5 quality mode has no RT during gameplay, whereas Pro has 3/4 RT which dramatically improves image realism. Pro even brings back shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5 quality mode resolution is 1800p-4K DRS, yet PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p.'"
   },
   {
     "name": "Faaast Penguin",
