@@ -1590,7 +1590,7 @@
         "description": "1440p to 4K via a custom version of UE5's upscaling at 60fps plus Lumen."
       }
     ],
-    "extraInfo": "Hexworks state a 40% increase in pixel density compared to the base PS5 modes, resulting in sharper distant details and more refined textures on characters and environments. In practice, this increase could be even larger as base PS5 performance mode was between 648p-1152p and quality mode was 1296p-1620p. Pro also hits its target framerate more often than base PS5 and is equivalent to the highest graphical settings on PC."
+    "extraInfo": "Hexworks states that there's a 40% increase in pixel density compared to base PS5 modes, resulting in sharper distant details and more refined textures on characters and environments. In practice, this increase could be even larger as base PS5 performance mode is between 648p-1152p DRS and quality mode is 1296p-1620p DRS. Pro also hits its target framerate more often than base PS5 and is equivalent to the highest graphical settings on PC."
   },
   {
     "name": "Lost Soul Aside",
