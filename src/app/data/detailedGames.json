@@ -1779,7 +1779,7 @@
     "modes": [
       {
         "name": "prioritize resolution",
-        "description": "1728p-1944p to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
+        "description": "1728p-1944p DRS to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
       },
       {
         "name": "balanced",
