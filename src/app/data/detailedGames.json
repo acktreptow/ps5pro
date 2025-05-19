@@ -1514,7 +1514,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR",
     "fps": "90fps",
-    "extraInfo": "Pro is 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR enabled. Base PS5 is only 1080p to 1440p FSR when targeting 60fps, though 1440p to 4K FSR at 30fps. However, even with Pro sometimes using a lower base resolution before upscaling, PSSR still produces the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5's fidelity mode, making the Pro mode the best of both worlds."
+    "extraInfo": "Pro is 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR on. Base PS5 is only 1080p to 1440p FSR at 60fps, though 1440p to 4K FSR at 30fps. Even though Pro can have a lower base resolution before upscaling, PSSR still produces the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5's fidelity mode but at 60fps, making Pro's mode the best of both worlds."
   },
   {
     "name": "Lies Of P",
