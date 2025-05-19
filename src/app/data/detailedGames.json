@@ -1910,7 +1910,7 @@
     "modes": [
       {
         "name": "8K resolution",
-        "description": "2592-2700p to 8K PSSR at locked 30fps."
+        "description": "2592-2700p DRS to 8K PSSR at a locked 30fps."
       },
       {
         "name": "performance",
