@@ -2299,10 +2299,10 @@
       },
       {
         "name": "prioritize FPS",
-        "description": "1070p-1440p to 4K PSSR at a nearly locked 60fps with no RT."
+        "description": "1070p-1440p DRS to 4K PSSR at a nearly locked 60fps with no RT."
       }
     ],
-    "extraInfo": "Both graphics modes' framerate falls far below the VRR limit for the majority of gameplay. There is a toggle to cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower resolution in prioritize fps mode, Pro's PSSR is a lot less aliased/more clear than base PS5's FSR (even in its graphics modes). Especially in the foliage which regularly fills the screen."
+    "extraInfo": "Both graphics modes' framerate falls far below the VRR limit for the majority of gameplay. There is a toggle to cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower bound of its dynamic resolution scaling in prioritize fps mode, Pro's PSSR is a lot less aliased/more clear than base PS5's FSR (even in its graphics modes). Especially in the foliage which regularly fills the screen."
   },
   {
     "name": "Rogue Flight",
