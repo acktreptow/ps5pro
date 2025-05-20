@@ -2305,6 +2305,34 @@
     "extraInfo": "Both graphics modes' framerate falls far below the VRR limit for the majority of gameplay. There is a toggle to cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower bound of its dynamic resolution scaling in prioritize fps mode, Pro's PSSR is a lot less aliased/more clear than base PS5's FSR (even in its graphics modes). Especially in the foliage which regularly fills the screen."
   },
   {
+    "name": "RoadCraft",
+    "id": "RC",
+    "urlPath": "road-craft",
+    "genre": "Disaster Vehicle Simulation",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 20, 2025",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1080p-4K native DRS to 4K FSR3 at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1440p DRS to 4K FSR3 at 60fps."
+      }
+    ],
+    "extraInfo": "Base PS5 also uses dynamic resolution scaling. However, its lowest internal resolution is 720p in base PS5 performance mode and it can only reach as high as 1440p in base PS5 quality mode. Pro should therefore look much sharper, but this is the only difference between the PS5 consoles."
+  },
+  {
     "name": "Rogue Flight",
     "id": "RF",
     "urlPath": "rogue-flight",
