@@ -492,6 +492,18 @@
     "metacritic": 0
   },
   {
+    "name": "Senua's Saga: Hellblade 2",
+    "id": "Hellblade 2",
+    "genre": "Action-Adventure, Puzzle",
+    "developer": "Ninja Theory",
+    "publisher": "Xbox Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Silent Hill F",
     "id": "SH: F",
     "genre": "Survival Horror",
