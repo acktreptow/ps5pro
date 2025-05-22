@@ -2654,16 +2654,16 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections and global illumination",
-    "resolution": "4K PSSR",
+    "resolution": "1800p to 4K PSSR or FSR3",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality ",
-        "description": "900p - 1152p at a nearly locked 60fps."
+        "description": "900p-1152p DRS at a nearly locked 60fps."
       },
       {
         "name": "quality",
-        "description": "Sharper than quality pro (1512p - 1800p) but at a locked 30fps."
+        "description": "Sharper than quality pro (1512p-1800p DRS) but at a locked 30fps."
       },
       {
         "name": "balanced",
@@ -2671,10 +2671,10 @@
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p at a nearly locked 60fps compared to base PS5 at 720p."
+        "description": "Lowest visual quality of all modes. Usually 936p DRS at a nearly locked 60fps compared to base PS5 at 720p."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher resolution bounds (1800p for quality etc) more often due to the Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
   },
   {
     "name": "Stellar Blade",
