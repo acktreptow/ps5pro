@@ -3091,14 +3091,14 @@
       },
       {
         "name": "performance RT pro",
-        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p, but with RT."
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS, but with RT."
       },
       {
         "name": "performance",
-        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p. No RT."
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS. No RT."
       }
     ],
-    "extraInfo": "PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
+    "extraInfo": "All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
   },
   {
     "name": "UFL",
