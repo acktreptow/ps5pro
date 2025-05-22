@@ -153,14 +153,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at up to 120fps. Usually around 90fps with VRR during racing."
+        "description": "4K native at up to 120fps. Usually around 90fps with VRR during racing."
       },
       {
         "name": "performance",
-        "description": "Up to native 4K at a locked 120fps."
+        "description": "DRS that reaches up to native 4K at a locked 120fps."
       }
     ],
-    "extraInfo": "Pro performance mode's resolution doesn't dip very far from 4K in order to maintain 120fps. Hard to tell the difference unless looking at each mode side-by-side."
+    "extraInfo": "Pro performance mode's dynamic resolutions scaling doesn't dip very far from 4K in order to maintain 120fps. Hard to tell a difference unless looking at modes side-by-side."
   },
   {
     "name": "Assassin's Creed Mirage",
