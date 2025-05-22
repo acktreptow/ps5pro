@@ -93,7 +93,7 @@
     "pssr": false,
     "rt": false,
     "resolution": "4096p",
-    "fps": "90fps",
+    "fps": "90fps native",
     "modes": [
       {
         "name": "quality",
