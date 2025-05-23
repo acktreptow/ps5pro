@@ -610,5 +610,17 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Warhammer 40,000: DH",
+    "id": "40K: DH",
+    "genre": "CRPG",
+    "developer": "Owlcat Games",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
