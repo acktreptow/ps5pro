@@ -2671,7 +2671,7 @@
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p DRS at a nearly locked 60fps compared to base PS5 at 720p."
+        "description": "Lowest visual quality of all modes. Usually 936p DRS at a nearly locked 60fps compared to base PS5 at 720p DRS."
       }
     ],
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
