@@ -283,7 +283,7 @@
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p DRS at nearly locked 60fps compared to base PS5 at 720p/less stable 60fps."
+        "description": "Lowest visual quality of all modes. Usually 936p DRS at nearly locked 60fps compared to base PS5 at 720p DRS with a less stable 60fps."
       }
     ],
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the quality 30fps mode. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
