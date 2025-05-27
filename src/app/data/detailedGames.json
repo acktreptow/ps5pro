@@ -535,14 +535,14 @@
       },
       {
         "name": "balanced",
-        "description": "4K PSSR at a 40fps, or around 55fps with VRR."
+        "description": "4K PSSR at a 40fps, or around 55fps with VRR. PSSR used for aliasing, not upscaling. Sharper than enhanced mode but less sharp than quality mode."
       },
       {
         "name": "performance",
-        "description": "1800p to 4K at a nearly locked 60fps or around 65fps with VRR. Slightly less sharp than the native PS4 app on PS5, but has more stable LODs/no CBR artifacts."
+        "description": "1800p to 4K at a nearly locked 60fps, or around 65fps with VRR. Slightly blurrier than PS4 app on PS5, but has higher detailed LODs/no CBR artifacts."
       }
     ],
-    "extraInfo": "Compared to PS4, the biggest upgrade is increased realism from the new sky simulation, which renders accurate sunlight and much darker nights. There's also increased foliage/draw distance (past max settings on PC), as well as higher resolution shadows/textures, improved SSR/SSGI and more vibrant general lighting (sub-surface scattering/key lights etc). PSSR in enhanced mode has some additional noise in distant assets and foliage can blur when swaying but looks much better in motion. VRR can be used in all modes and Pro's balanced mode gains a significant advantage over base PS5's balanced mode with VRR toggled on. Base PS5 performance mode looks much blurrier than the 4K CBR PS4 version on PS5."
+    "extraInfo": "Compared to PS4, the biggest upgrade is increased realism from new sky simulation, which renders accurate sunlight and darker nights. There's also increased foliage/draw distance (past PC max settings), as well as higher resolution shadows/textures, improved SSR/SSGI and more vibrant general lighting (sub-surface scattering/key lights). PSSR in enhanced mode is noisier in distant assets and foliage can blur when swaying, but looks much better in motion. VRR can be used in all modes, with Pro's balanced mode getting the most significant advantage over base PS5 when on. Base PS5 performance mode is much blurrier than the PS4 app on PS5."
   },
   {
     "name": "Dead Island 2",
