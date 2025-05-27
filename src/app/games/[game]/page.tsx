@@ -45,9 +45,9 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
               Game Not Found
             </h1>
             <p className="text-center text-lg mb-6 text-slate-600">
-              Sorry, we could&#39;t find the game you&#39;re looking for.
-              <br />
-              It may have been removed, renamed, or never existed.
+              Sorry, we could&#39;t find the game you&#39;re looking for. It may
+              have been removed, renamed, hasn&#39;t yet received detailed
+              analysis, or isn&#39;t a PS5 Pro game.
             </p>
             <div className="flex flex-col gap-4 w-full">
               <Link
