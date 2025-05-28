@@ -2324,18 +2324,18 @@
     "modes": [
       {
         "name": "prioritize graphics + ray tracing",
-        "description": "1440p to 4K PSSR with RT reflections. Same framerate issues as other graphics mode."
+        "description": "1440p to 4K PSSR with RT reflections at a very unstable 60fps (usually around 45fps in actual gameplay)."
       },
       {
         "name": "prioritize graphics",
-        "description": "1440p to 4K PSSR at a very unstable 60fps cap. Averages around 45fps in actual gameplay."
+        "description": "1440p to 4K PSSR. Slightly higher average framerate than prioritize graphics + RT mode."
       },
       {
         "name": "prioritize FPS",
         "description": "1070p-1440p DRS to 4K PSSR at a nearly locked 60fps with no RT."
       }
     ],
-    "extraInfo": "Both graphics modes' framerate falls far below the VRR limit for the majority of gameplay. There is a toggle to cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your screen setup. The superior RT reflections make little difference in this scenario because of the framerate issue. However, even with the lower bound of its dynamic resolution scaling in prioritize fps mode, Pro's PSSR is a lot less aliased/more clear than base PS5's FSR (even in its graphics modes). Especially in the foliage which regularly fills the screen."
+    "extraInfo": "Both graphics modes' framerate fall far below the VRR limit for a majority of gameplay. You can cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your setup. The superior RT reflections make little difference in this scenario because of the framerate issue. Prioritize FPS mode however runs great, and even with the lower bound of its dynamic resolution scaling, Pro's PSSR renders a more clear/less aliased image than base PS5's FSR (even in its graphics modes). Especially with foliage which regularly fills the screen."
   },
   {
     "name": "RoadCraft",
