@@ -2525,14 +2525,14 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "Legacy base PS5 fidelity mode (all RT/ more asset density etc). 4K at locked 30fps/40fps for 60hz/120hz screens."
+        "description": "Legacy base PS5 fidelity mode (all RT/more asset density etc). 4K at locked 30fps/40fps for 60hz/120hz screens."
       },
       {
         "name": "performance pro",
         "description": "1440p to 4K PSSR at a locked 60fps, or usually around 75-90fps with VRR. Fidelity mode level of image quality (RT/increased pedestrian density etc)."
       }
     ],
-    "extraInfo": "Performance Pro (which is the mode Insomniac recommend) also now has RT unlike base PS5 performance mode. Fidelity is sharper/more stable than Performance Pro, especially in areas like reflections, but PSSR in general still resolves more detail than seen on base PS5."
+    "extraInfo": "Performance Pro (which Insomniac recommends) now has RT unlike base PS5 performance mode. Fidelity mode is sharper/more stable than Performance Pro, especially in areas like reflections, but its not at 60fps and PSSR still resolves more detail than seen on base PS5."
   },
   {
     "name": "Spider-Man: Miles Morales",
