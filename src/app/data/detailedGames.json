@@ -2502,7 +2502,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Both PS5 consoles have DRS, but Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p much of the time when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution differences are less noticeable than in other games because there's so much shimmer regardless. 60fps is locked outside of some explosions. This is more stable than base PS5 which drop frames in general play."
+    "extraInfo": "Both PS5 consoles have dynamic resolution scaling, but Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p often when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution gaps are less noticeable than in other games because there's so much shimmer regardless. Pro's 60fps is locked aside from some effect-heavy explosions. This is more stable than base PS5, which can drop to low 50s in general gameplay."
   },
   {
     "name": "Spider-Man 1 Remastered",
