@@ -2094,14 +2094,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at a relatively stable 60fps."
+        "description": "4K at a mostly stable 60fps."
       },
       {
         "name": "performance",
         "description": "1080p at a locked 60fps."
       }
     ],
-    "extraInfo": "Quality mode can dip below 60fps, but it's not common. Even when it happens, it's around the low 50's which is well within the VRR window. Performance mode is a locked 60fps, but at 1/4 of the resolution. Base PS5 only has one mode which is 4K, but with a far more unstable framerate that is regularly below the VRR window."
+    "extraInfo": "Quality mode can dip below 60fps, but it's not common. Even when it happens, it's around the low 50's which is well within the VRR window. Performance mode is a locked 60fps, but at 1/4 of the resolution so looks noticeably blurrier. Base PS5 only has one mode which does render at 4K, but with a far more unstable 60fps framerate that regularly falls below the VRR window."
   },
   {
     "name": "Pure Pool Pro",
