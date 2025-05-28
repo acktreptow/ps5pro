@@ -2210,14 +2210,14 @@
     "modes": [
       {
         "name": "resolution",
-        "description": "4K at locked 60 with RT/Hair. Can also toggle HFR on which then increases the framerate to 70-90fps."
+        "description": "Native 4K at a locked 60fps with RT/better hair quality. Can also toggle HFR on which then increases the framerate to 70-90fps."
       },
       {
         "name": "high frame rate",
-        "description": "864p to 4K PSSR without RT/Hair. 85-105fps usually, but can be a locked 120fps in interiors."
+        "description": "864p to 4K PSSR without RT/better hair quality. 85-105fps usually, but can be a locked 120fps in interiors."
       }
     ],
-    "extraInfo": "There's a lot of toggles in this game for RT/HFR/better hair quality etc, so the 2 modes above represent the image quality with all the toggles either on or off. Resolution mode holds a much more stable 60fps than base PS5, which hovered around 45fps."
+    "extraInfo": "There's a lot of toggles in this game for RT/HFR/better hair quality etc, so the 2 modes above represent the image quality with all the toggles either on or off. Resolution mode holds a much more stable 60fps than same mode on base PS5, which hovers around 45fps."
   },
   {
     "name": "Resident Evil Village",
