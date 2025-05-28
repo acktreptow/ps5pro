@@ -2348,7 +2348,7 @@
     "psvr2": false,
     "release": "May 20, 2025",
     "hasShipped": true,
-    "metacritic": 80,
+    "metacritic": 78,
     "pssr": false,
     "rt": false,
     "resolution": "4K",
@@ -2363,7 +2363,7 @@
         "description": "1080p-1440p DRS to 4K FSR3 at 60fps."
       }
     ],
-    "extraInfo": "Base PS5 also uses dynamic resolution scaling. However, its lowest internal resolution is 720p in base PS5 performance mode and it can only reach as high as 1440p in base PS5 quality mode. Pro should therefore look much sharper, but this is the only difference between the PS5 consoles."
+    "extraInfo": "Base PS5 also uses dynamic resolution scaling. However, its lowest internal resolution is 720p in base PS5 performance mode and it can only reach up to 1440p in its quality mode. Pro is therefore much sharper as its rendering 2x the pixels when both PS5 consoles max out their resolution, but this is the only difference between them."
   },
   {
     "name": "Rogue Flight",
