@@ -1922,7 +1922,7 @@
         "description": "Upscaled 1080p TSR at somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
       }
     ],
-    "extraInfo": "Neither modes are officially named - instead, you switch between the 2 via the FPS limit toggle that has 60 and 120 values. Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Both modes are the same as the two on base PS5. However, the Pro has a higher base resolution before upscaling and hits its target framerate more often."
+    "extraInfo": "There's no actual modes. Instead, you switch between the 2 via the FPS limit toggle that has 60 and 120 values. Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Base PS5 has the same 2 modes, however, Pro has a higher base resolution before upscaling and hits its target framerate more often."
   },
   {
     "name": "No Man's Sky",
