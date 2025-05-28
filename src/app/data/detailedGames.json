@@ -2587,10 +2587,10 @@
       },
       {
         "name": "performance pro",
-        "description": "1440p to 4K PSSR at a locked 60fps, or usually around 70fps with VRR. Base PS5 level of RT quality."
+        "description": "1440p to 4K PSSR at a locked 60fps, or usually around 70fps with VRR. Base PS5's fidelity mode level of RT quality."
       }
     ],
-    "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the upscaler on base PS5. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution as opposed to 50% in Performance Pro, and RTAO has more contact shadows, adding depth to assets all over the screen. RT types can be toggled on/off which affects VRR framerate around +- 10. Draw distance/distant reflections are also improved over Performance Pro (which is at base PS5 Fidelity level), e.g. more onscreen distant objects like trees. Graphics settings in general equivalent to high/very high on PC."
+    "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in Performance Pro still resolves more detail than the upscaler seen in any base PS5 mode. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution (50% in Performance Pro) and RTAO has more contact shadows, adding depth to assets all over the screen. RT types can be toggled on/off which affects VRR framerate approx +- 10. Draw distance/distant reflections are also improved over Performance Pro (which is at base PS5 Fidelity mode), e.g. more onscreen distant objects like trees. Graphics settings are equivalent to PC's high/very high."
   },
   {
     "name": "Split Fiction",
