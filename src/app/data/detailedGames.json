@@ -2246,7 +2246,7 @@
         "description": "864p to 4K PSSR at a locked 120fps with no RT."
       }
     ],
-    "extraInfo": "You can actually toggle both RT and HFR on, with the framerate generally ranging from from 65-90fps. 120fps is not available on base PS5, which uses 4K checkerboarding (1920x2160) and also can't hold a stable 60fps. PSSR is less sharp compared to base PS5 checkerboarding, but also less noisy, with less artifacting on moving objects like tree branches."
+    "extraInfo": "You can actually toggle both RT and HFR on, with the framerate then ranging from from 65-90fps. 120fps is not on base PS5, which uses 4K checkerboard rendering (1920x2160) and can't hold a stable 60fps. PSSR is less sharp compared to base PS5's CBR, but also less noisy, with less artifacting on moving objects like tree branches."
   },
   {
     "name": "Resist",
