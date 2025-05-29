@@ -96,6 +96,18 @@
     "metacritic": 0
   },
   {
+    "name": "Crystal Of Atlan",
+    "id": "CoA",
+    "genre": "MMO Action RPG",
+    "developer": "Nuverse",
+    "publisher": "Nuverse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Death Stranding 2: OTB",
     "id": "DS2: OtB",
     "genre": "Action Strand",
