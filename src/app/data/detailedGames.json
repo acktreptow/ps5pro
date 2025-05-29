@@ -1561,7 +1561,7 @@
     "rt": false,
     "resolution": "1440p to 4K",
     "fps": "60fps",
-    "extraInfo": "The framerate is a basically locked 60fps. There is noticeably less fizzle in things like hair compared to the base PS5 version."
+    "extraInfo": "While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair."
   },
   {
     "name": "Lords Of The Fallen",
