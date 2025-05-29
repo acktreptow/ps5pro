@@ -1809,7 +1809,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The only big difference between the Pro and base PS5 versions are how reflections are rendered. Pro uses ray tracing, whereas base PS5 uses SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but hits 4K more often than base PS5."
+    "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5."
   },
   {
     "name": "My First Gran Turismo",
