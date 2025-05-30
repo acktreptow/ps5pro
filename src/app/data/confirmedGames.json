@@ -564,6 +564,18 @@
     "metacritic": 59
   },
   {
+    "name": "Sonic Racing: CrossWorlds",
+    "id": "Sonic Racing: C",
+    "genre": "Racing, Arcade Kart",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat 'em Up",
