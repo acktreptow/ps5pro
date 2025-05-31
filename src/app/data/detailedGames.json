@@ -1106,14 +1106,14 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "1350p to 4K TSR at near locked 60fps with hardware-based RT reflections, shadows & global illumination."
+        "description": "1350p to 4K TSR at a near locked 60fps with hardware-based RT reflections, shadows & global illumination."
       },
       {
         "name": "120fps performance",
-        "description": "1080p to 4K TSR at basically locked 120fps, but with no RT."
+        "description": "1080p to 4K TSR at a basically locked 120fps, but with no RT."
       }
     ],
-    "extraInfo": "120fps performance mode looks practically identical to base PS5. Fidelity mode on base PS5 uses software-based RT, meaning Pro has better RT implementation due to being hardware-based (less breakup/shimmering/pop-in, more detailed/stable assets, character models in reflections, more accurate indirect lighting etc)."
+    "extraInfo": "Pro's performance mode looks practically identical to base PS5's performance mode. Base PS5's fidelity mode only uses software-based RT, meaning Pro has better RT implementation due to being hardware-based (less breakup/shimmering/pop-in, more detailed/stable assets, character models in reflections, more accurate indirect lighting)."
   },
   {
     "name": "Forza Horizon 5",
