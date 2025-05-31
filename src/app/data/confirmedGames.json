@@ -452,8 +452,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "May 28, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 90
   },
   {
     "name": "Planet Coaster 2",
