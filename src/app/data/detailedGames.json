@@ -1209,14 +1209,14 @@
       },
       {
         "name": "Favor Quality",
-        "description": "Legacy base PS5 quality mode capped at 30fps."
+        "description": "Legacy base PS5 quality mode capped at 30fps. Now redundant."
       },
       {
         "name": "Favor Performance",
-        "description": "Legacy base PS5 quality mode capped at 60fps."
+        "description": "Legacy base PS5 performance mode capped at 60fps. Now redundant."
       }
     ],
-    "extraInfo": "Can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
+    "extraInfo": "Pro can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
   },
   {
     "name": "Gran Turismo 7",
