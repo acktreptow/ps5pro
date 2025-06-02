@@ -903,7 +903,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro's resolution during gameplay is slightly higher than base PS5. Pro also renders KO replays at 60fps instead base PS5's 30fps. Other cutscenes like ring entrances remain at 30fps."
+    "extraInfo": "Pro's resolution during gameplay is slightly higher than base PS5. Pro also renders KO replays at 60fps instead of base PS5's 30fps. However, other cutscenes like ring entrances remain at 30fps on both consoles."
   },
   {
     "name": "Empire Of The Ants",
