@@ -885,7 +885,7 @@
     "rtTypes": "Ray traced ambient occlusion",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Combines the resolution and enhanced visuals modes seen in base PS5 for just one Pro mode. Pro sometimes renders an even sharper image than base PS5 resolution mode, but still has the enhanced visuals mode RTAO on pitch lighting/kits etc. Cutscenes are now also 60fps, as opposed to 30fps on base PS5."
+    "extraInfo": "Pro combines base PS5's 'resolution' and 'enhanced visuals' modes into just one default mode. Pro sometimes renders an even sharper image than base PS5's resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps, as opposed to 30fps on base PS5."
   },
   {
     "name": "EA Sports UFC 5",
