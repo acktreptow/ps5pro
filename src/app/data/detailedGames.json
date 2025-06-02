@@ -866,7 +866,7 @@
     "rtTypes": "GIBS (EA's own global illumination - hardware ray tracing for indirect lighting)",
     "resolution": "1440p to 4K PSSR (likely)",
     "fps": "60fps",
-    "extraInfo": "*College Football 26 isn't out yet, but the following College Football 25 information from last year should give us at least a good baseline of what to expect - 'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode, but it causes certain assets like crowd handrails to be more unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps. Finally, the GIBS RT implementation seems unchanged.'"
+    "extraInfo": "*College Football 26 isn't out yet, but the following information from last year's College Football 25 provides a good baseline of what to expect - 'Pro removes the resolution, performance and visual quality modes seen in base PS5 for just one mode. Pro's PSSR renders a sharper screen than even base PS5's resolution mode, but it causes certain assets like crowd handrails to be more unstable. Pro's cutscenes are now also 60fps like in base PS5's performance mode and gameplay is a locked 60fps. Finally, the GIBS RT implementation seems unchanged.'"
   },
   {
     "name": "EA Sports FC 25",
