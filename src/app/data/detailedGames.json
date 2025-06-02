@@ -682,11 +682,11 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "Roughly 1296p to 4K PSSR at nearly locked 30fps with RTAO."
+        "description": "Roughly 1296p to 4K PSSR at a nearly locked 30fps with RTAO."
       },
       {
         "name": "performance",
-        "description": "Roughly 864p-1296p DRS to 1800p PSSR at nearly locked 60fps with RTAO. Can flicker a lot/look very aliased due to low base resolution."
+        "description": "Roughly 864p-1296p DRS to 1800p PSSR at a nearly locked 60fps with RTAO. Can flicker a lot/look very aliased due to low base resolution."
       }
     ],
     "extraInfo": "Base PS5 uses FSR instead of PSSR, where it's 1080p to 1800p FSR (fidelity) and 864p to 1440p FSR (performance). Base PS5 is a lot softer, but less flickering/aliasing can make foliage/reflections look better compared to Pro. You can see the differences in the background of the menu when toggling between the modes (AO on foliage etc)."
