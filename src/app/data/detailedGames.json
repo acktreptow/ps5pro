@@ -641,7 +641,7 @@
         "description": "Upscaled 4K at 60fps. No RT."
       }
     ],
-    "extraInfo": "Enhanced visuals mode hovers around 45-50fps with VRR, so VRR isn't recommended as that's below the 48fps VRR threshold on PlayStation. Pro's enhanced visuals mode also has higher resolutions, improved ambient occlusion and higher quality RT reflections compared to the same mode on base PS5."
+    "extraInfo": "Enhanced visuals mode hovers around 45-50fps with VRR. It therefore won't always prevent stutter as the framerate can dip below the 48fps VRR threshold on PlayStation. Fortunately, Pro's enhanced visuals mode still has a higher resolution, improved ambient occlusion and higher quality RT reflections compared base PS5's equivalent mode."
   },
   {
     "name": "Doom: The Dark Ages",
