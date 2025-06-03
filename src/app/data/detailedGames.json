@@ -2394,6 +2394,25 @@
     "extraInfo": "According to Truant Pixel, outside of resolution/framerate increases compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
+    "name": "Senua's Saga: Hellblade II",
+    "id": "Hellblade 2",
+    "urlPath": "senuas-saga-hellblade-ii",
+    "genre": "Action-Adventure, Puzzle",
+    "developer": "Ninja Theory",
+    "publisher": "Xbox Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
+    "resolution": "1440p to 4K TSR (likely)",
+    "fps": "60fps (potentially)",
+    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based ray tracing. According to Digital Foundry, these are two key areas where the enhanced PS5 version could see improvements. They speculate that with an additional year of optimization, H2 might now support 40fps/60fps modes that would also come to base PS5/Series X, along with superior hardware-accelerated ray tracing that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p due to H2's extensive use of post-processing, which minimizes the impact of a resolution increase. However, this all remains speculative. We won't know the enhancements until closer to release."
+  },
+  {
     "name": "Shredders",
     "id": "Shredders",
     "urlPath": "shredders",
