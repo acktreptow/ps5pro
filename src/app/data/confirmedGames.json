@@ -504,18 +504,6 @@
     "metacritic": 40
   },
   {
-    "name": "Sanguis Luna",
-    "id": "SL",
-    "genre": "Survival Horror",
-    "developer": "Domynyo",
-    "publisher": "Domynyo",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "January 15, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Saros",
     "id": "Saros",
     "genre": "TPA Roguelite",

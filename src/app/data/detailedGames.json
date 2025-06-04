@@ -2394,6 +2394,24 @@
     "extraInfo": "According to Truant Pixel, outside of resolution/framerate increases compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
+    "name": "Sanguis Luna",
+    "id": "SL",
+    "urlPath": "sanguis-luna",
+    "genre": "Survival Horror",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 15, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
+  },
+  {
     "name": "Senua's Saga: Hellblade II",
     "id": "Hellblade 2",
     "urlPath": "senuas-saga-hellblade-ii",
