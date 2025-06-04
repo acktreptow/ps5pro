@@ -528,18 +528,6 @@
     "metacritic": 0
   },
   {
-    "name": "Skull and Bones",
-    "id": "S and B",
-    "genre": "Action RPG, Naval Combat",
-    "developer": "Ubisoft Singapore",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 16, 2024",
-    "hasShipped": true,
-    "metacritic": 59
-  },
-  {
     "name": "Sonic Racing: C",
     "id": "Sonic Racing: C",
     "genre": "Racing, Arcade Kart",
