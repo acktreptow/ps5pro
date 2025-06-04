@@ -1443,6 +1443,24 @@
     "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, Pro's PSSR implementation results in a lot more shimmering/flickering than FSR2. To the point that many feel Pro's image looks worse despite the sharper render. There's also anecdotal comments throughout the community that Pro crashes more often."
   },
   {
+    "name": "Hypercharge: Unboxed",
+    "id": "Hypercharge",
+    "urlPath": "hypercharge-unboxed",
+    "genre": "FPS/TPS Shooter",
+    "developer": "Digital Cybercherries",
+    "publisher": "Digital Cybercherries",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 30, 2025",
+    "hasShipped": true,
+    "metacritic": 60,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Digital Cybercherries has confirmed that a PS5 Pro patch is in development, though no timeline or specific enhancements have been announced. Given that Hypercharge already runs at native 4K and is primarily a multiplayer-focused title, the most logical upgrade would be the addition of a 120fps mode. Ray tracing reflections could also meaningfully enhance the game's visuals, especially in the campaign, thanks to its cartoon/toy-like aesthetic. However, 120fps support would likely remain the priority as most players engage with the game through PvP."
+  },
+  {
     "name": "Indiana Jones: GC",
     "pageTitle": "Indiana Jones And The Great Circle",
     "id": "IJ: GC",

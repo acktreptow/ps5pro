@@ -240,18 +240,6 @@
     "metacritic": 0
   },
   {
-    "name": "Hypercharge: Unboxed",
-    "id": "Hypercharge",
-    "genre": "FPS/TPS Shooter",
-    "developer": "Digital Cybercherries",
-    "publisher": "Digital Cybercherries",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 30, 2025",
-    "hasShipped": true,
-    "metacritic": 50
-  },
-  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
