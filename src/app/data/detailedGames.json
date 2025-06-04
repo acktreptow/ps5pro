@@ -560,7 +560,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro has improved shadow quality, motion blur, texture filtering and depth of field compared to base PS5. There's also longer draw distances and contact shadows on all objects/lights. The framerate is a locked 60fps like base PS5. Pro has DRS, but the resolution is above 2000p for the majority of gameplay, including often at native 4K. It can drop down as low as 1620p (technically lower than base PS5's fixed 1728p), but this is very rare only last a couple of seconds."
+    "extraInfo": "The framerate is a locked 60fps on both consoles, but Pro improves shadow quality, motion blur, texture filtering and depth of field over base PS5. Pro also has longer draw distances and contact shadows on all objects/lights. Pro uses DRS, but the resolution is above 2000p for the majority of gameplay, including often at native 4K. It can drop down as low as 1620p (technically lower than base PS5's fixed 1728p), but this is very rare and only lasts a couple of seconds."
   },
   {
     "name": "Dead Rising Deluxe",
