@@ -2507,12 +2507,12 @@
     "release": "February 16, 2024",
     "hasShipped": true,
     "metacritic": 59,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced global illumination",
-    "resolution": "1440p to 4K PSSR (likely)",
+    "resolution": "1440p to 4K FSR2 (likely)",
     "fps": "60fps",
-    "extraInfo": "Skull and Bones combines the best of base PS5 quality (4K native with RTGI at 30fps) and performance (720p to 1440p FSR2 at 60fps) modes into one Pro mode. PSSR does mitigate some of the FSR fizzle in base PS5 and looks nearly as sharp as its quality mode, but it's still present. The framerate is not a locked 60fps, but only dips to 55fps-58fps which is well within the VRR window. The RTGI seen in base PS5 quality mode is the same on Pro (just on the ship)."
+    "extraInfo": "Pro combines elements of base PS5 quality mode (4K native with RTGI at 30fps) and performance mode (720p fixed to 1440p FSR2 at 60fps) into one mode (Approx 1440p at 60fps with RTGI). In practice, Pro's framerate is not a locked 60fps on either land or sea, but only dips to 55fps-58fps which is well within the VRR window. The resolution is a clear improvement over base PS5 performance mode, but reflections remain noticeably low-res. Since screen space reflections dominate the ocean surfaces, the overall visual quality still falls short of Pro expectations. Finally, the RTGI implementation is identical to the base PS5 quality mode - limited to the player's ship."
   },
   {
     "name": "Slitterhead",
