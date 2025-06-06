@@ -528,6 +528,18 @@
     "metacritic": 90
   },
   {
+    "name": "The Nioh Collection",
+    "id": "Nioh Collection",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "publisher": "SIE",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "February 5, 2021",
+    "hasShipped": true,
+    "metacritic": 87
+  },
+  {
     "name": "The Outer Worlds: SCE",
     "id": "ToW: SCE",
     "genre": "Western Action RPG",
