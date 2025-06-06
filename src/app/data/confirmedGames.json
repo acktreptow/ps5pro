@@ -1,5 +1,17 @@
 [
   {
+    "name": "007 First Light",
+    "id": "007 FL",
+    "genre": "Stealth, Action",
+    "developer": "IO Interactive",
+    "publisher": "IO Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "ActionCam: SC",
     "id": "ActionCam",
     "genre": "Horror, FPS",
