@@ -79,6 +79,25 @@
     "extraInfo": "These 2 modes are also on base PS5, but Pro hits the target framerate more often than their base PS5 counterparts. Interestingly, Apex Legends doesn't follow the standard naming convention as there's actually no fidelity/graphics mode."
   },
   {
+    "name": "Ark: Survival Ascended",
+    "id": "Ark SA",
+    "urlPath": "ark-survival-ascended",
+    "genre": "Survival, Action-Adventure",
+    "developer": "Studio Wildcard",
+    "publisher": "Studio Wildcard",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 30, 2023",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
+    "resolution": "1440p",
+    "fps": "60fps",
+    "extraInfo": "According to the developers, Pro has a 30% increase in FPS over base PS5 due to its PSSR implementation. While this sounds good, base PS5's framerate hovers at around 35fps. Meaning the 30% increase still won't produce a stable 60fps (will hover around 45fps) and there's no toggle to lock at 30fps/40fps for a stable framerate. Pro also uses UE5's superior virtual shadow maps over base PS5's cascade shadows and it's resolution is 1440p over 1080p. Both are nice but won't help with framerate issues."
+  },
+  {
     "name": "Arken Age",
     "id": "Arken Age",
     "urlPath": "arken-age",

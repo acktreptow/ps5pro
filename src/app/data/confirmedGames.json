@@ -48,18 +48,6 @@
     "metacritic": 0
   },
   {
-    "name": "Ark: Survival Ascended",
-    "id": "Ark SA",
-    "genre": "Survival, Action-Adventure",
-    "developer": "Studio Wildcard",
-    "publisher": "Studio Wildcard",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 30, 2023",
-    "hasShipped": true,
-    "metacritic": 67
-  },
-  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
