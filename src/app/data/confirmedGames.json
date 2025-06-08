@@ -576,6 +576,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Expanse: OR",
+    "id": "TE: OR",
+    "genre": "Action RPG",
+    "developer": "Owlcat Games",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Precinct",
     "id": "Precinct",
     "genre": "Action-Adventure",
