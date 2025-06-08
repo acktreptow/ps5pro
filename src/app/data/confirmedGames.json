@@ -60,6 +60,18 @@
     "metacritic": 0
   },
   {
+    "name": "Blind Descent",
+    "id": "Blind D",
+    "genre": "Adventure, Survival",
+    "developer": "Pokuch",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Borderlands 4",
     "id": "Borderlands 4",
     "genre": "Looter Shooter",
