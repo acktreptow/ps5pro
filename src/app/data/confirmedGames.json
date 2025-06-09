@@ -528,6 +528,18 @@
     "metacritic": 40
   },
   {
+    "name": "Resonance: Plague Tale",
+    "id": "Resonance: APTL",
+    "genre": "Action-Adventure, Stealth",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Saros",
     "id": "Saros",
     "genre": "TPA Roguelite",
