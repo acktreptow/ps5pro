@@ -2533,6 +2533,25 @@
     "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit target framerate more often than their base PS5 version. Pro's performance mode also has a higher base resolution. However, Pro's quality mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 quality mode looks better with TSR. Fortunately, Bloober has confirmed that they're working with Konami on a patch, which will hopefully improve the PSSR implementation or revert to TSR (as they did for performance)."
   },
   {
+    "name": "Silent Hill F",
+    "id": "SH: F",
+    "urlPath": "silent-hill-f",
+    "genre": "Survival Horror",
+    "developer": "NeoBards",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 25, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen",
+    "resolution": "4K TSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Digital Foundry has confirmed that the June 2025 State of Play trailer (captured on PS5 Pro) used UE5's software-based Lumen for RT. While cutscenes ran at 30fps, gameplay maintained a stable 60fps, which likely explains the decision to not use more advanced hardware-based RT. It's possible that hardware-based RT could improve the visual fidelity of Pro's 30fps quality mode, but this is purely speculative."
+  },
+  {
     "name": "Skull And Bones",
     "id": "S and B",
     "urlPath": "skull-and-bones",

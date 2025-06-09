@@ -552,18 +552,6 @@
     "metacritic": 0
   },
   {
-    "name": "Silent Hill F",
-    "id": "SH: F",
-    "genre": "Survival Horror",
-    "developer": "NeoBards",
-    "publisher": "Konami",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 25, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Sonic Racing: C",
     "id": "Sonic Racing: C",
     "genre": "Racing, Arcade Kart",
