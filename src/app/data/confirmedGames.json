@@ -384,6 +384,18 @@
     "metacritic": 80
   },
   {
+    "name": "Ninja Gaiden 4",
+    "id": "NG4",
+    "genre": "Action-Adventure",
+    "developer": "Team Ninja & Platinum",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 22, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Nioh 3",
     "id": "Nioh 3",
     "genre": "Soulsborne",
