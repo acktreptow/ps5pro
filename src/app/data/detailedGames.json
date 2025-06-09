@@ -1033,7 +1033,7 @@
     "psvr2": false,
     "release": "May 30, 2025",
     "hasShipped": true,
-    "metacritic": 79,
+    "metacritic": 80,
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced dynamic diffuse global illumination, ambient occlusion, shadows and reflections",
@@ -1041,8 +1041,8 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "8K",
-        "description": "4K to 8K TAAU at a locked 30fps. Gameplay has all RT, including shadows. Requires an 8K TV as it can't be down-sampled."
+        "name": "resolution",
+        "description": "4K to 8K TAAU at a locked 60fps for gameplay and 30fps for cutscenes. Gameplay has DDGI, whereas cutscenes have all RT, including shadows. Requires an 8K TV as it can't be down-sampled."
       },
       {
         "name": "quality",
@@ -1053,7 +1053,7 @@
         "description": "1080p-1440p DRS to 4K TAAU. Mostly at a locked 120fps with no RT."
       }
     ],
-    "extraInfo": "*F1 25 hasn't had a tech deep dive yet, but the following information from last year's F1 24 provides a good baseline of what to expect - 'Base PS5's quality mode has no RT during gameplay, whereas Pro's quality mode has 3/4 RT which dramatically improves realism. Pro even brings back RT shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5's quality mode resolution is 1800p-4K DRS, yet Pro's PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base PS5 has no 8K mode and its 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p.'"
+    "extraInfo": "*The biggest change from F1 24 to F1 25 is the 8K resolution mode. Whereas F1 24's gameplay included all RT, but ran at 8K/30fps, F1 25 only includes DDGI, but runs at 60fps whilst keeping 24's version for cutscenes/replays etc. Otherwise, the rest of the F1 24 info remains true - 'Base PS5's quality mode has no RT during gameplay, whereas Pro's quality mode has 3/4 RT which dramatically improves realism. Pro even brings back RT shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5's quality mode resolution is 1800p-4K DRS, yet Pro's PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base PS5 has no 8K mode and its 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p.'"
   },
   {
     "name": "Faaast Penguin",
