@@ -308,22 +308,22 @@
     "modes": [
       {
         "name": "quality pro",
-        "description": "900p-1152p DRS at mostly stable 60fps."
+        "description": "900p-1152p DRS to 4K PSSR/FSR at a mostly stable 60fps."
       },
       {
         "name": "quality",
-        "description": "Sharper than quality pro (1512p-1800p DRS) but at locked 30fps."
+        "description": "Sharper than quality pro (1512p-1800p DRS to 4K PSSR/FSR) but at a locked 30fps."
       },
       {
         "name": "balanced",
-        "description": "Visual quality downgraded compared to quality but now at locked 40fps."
+        "description": "Visual quality downgraded compared to quality but now at a locked 40fps."
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p DRS at nearly locked 60fps compared to base PS5 at 720p DRS with a less stable 60fps."
+        "description": "Lowest visual quality. Usually 936p DRS to 4K PSSR/FSR at a nearly locked 60fps, compared to base PS5's 720p DRS to 4K FSR with a less stable 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy and looks sharper in stills. PSSR is less stable but sharper and clearer in motion. PSSR works best with the quality 30fps mode. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to Pro's extra power."
   },
   {
     "name": "Baldur's Gate 3",
