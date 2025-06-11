@@ -266,7 +266,7 @@
     "rt": false,
     "resolution": "1872p to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "1368p-1872p DRS to 4K PSSR at a locked 60fps. Pro is more often in the higher bounds of the DRS. Despite Pro's DRS regularly having a lower base resolution than base PS5, the Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to the TAA on base PS5, but also noisier (especially SSR) and more unstable. The introduced noise isn't particularly visible at normal viewing distances however."
+    "extraInfo": "Pro runs at 1368p-1872p DRS to 4K PSSR, with a locked 60fps, and is more often in the higher bounds of the DRS. Despite Pro's DRS having a lower base resolution than base PS5, Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to base PS5's TAA. PSSR is also slightly noisier (especially SSR) and more unstable, but this isn't particularly visible at normal viewing distances."
   },
   {
     "name": "Atomfall",
