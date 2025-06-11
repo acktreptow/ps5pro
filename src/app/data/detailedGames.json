@@ -134,14 +134,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4096p per eye at 60fps re-projected."
+        "description": "4096p per eye at 60fps re-projected to 120fps."
       },
       {
         "name": "performance",
         "description": "2240p per eye at 90fps native (no-reprojection)."
       }
     ],
-    "extraInfo": "Developers recommend the performance mode, likely due to the native motion. Base PS5 resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
+    "extraInfo": "VitruviusVR recommend Pro's performance mode in the settings menu, likely due to the native motion. Base PS5's resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
   },
   {
     "name": "Arma Reforger",
