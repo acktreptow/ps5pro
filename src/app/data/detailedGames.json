@@ -369,7 +369,7 @@
     "rt": false,
     "resolution": "1440p",
     "fps": "60fps",
-    "extraInfo": "Biped has no display options, so things like an 120fps mode are not available. However, Pro at least maintains a locked 60fps. Pro renders a 1440p image compared to base PS5's more 1080p-like image. The difference can be quite noticeable on things like railings where there's more jaggies on base PS5."
+    "extraInfo": "Biped has no display options, so features like an 120fps mode aren't available. However, Pro at least maintains a locked 60fps. Pro also renders a 1440p image compared to base PS5's more 1080p-like image. The resolution difference can be quite noticeable on assets like railings, where there's more jaggies on base PS5."
   },
   {
     "name": "Biped 2",
