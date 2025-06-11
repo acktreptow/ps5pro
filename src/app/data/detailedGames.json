@@ -197,7 +197,7 @@
         "description": "DRS that reaches up to native 4K at a locked 120fps."
       }
     ],
-    "extraInfo": "Pro performance mode's dynamic resolutions scaling doesn't dip very far from 4K in order to maintain 120fps. Hard to tell a difference unless looking at modes side-by-side."
+    "extraInfo": "Pro performance mode's dynamic resolution scaling doesn't dip very far from 4K in order to maintain 120fps. It's near-impossible to tell a difference from normal viewing distances unless looking at the modes side-by-side."
   },
   {
     "name": "Assassin's Creed Mirage",
