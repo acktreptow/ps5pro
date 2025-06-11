@@ -1071,7 +1071,7 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "The only display setting is a brightness slider. However, Pro has a locked framerate that runs within an 120hz container to improve input lag (base PS5 is only at at 60hz). Pro could potentially render below native 4K sometimes, but it would only be for a very short duration, with dips would be so minor that FP still has a 4K-like image."
+    "extraInfo": "The only display setting is a brightness slider. However, Pro has a locked framerate that runs within an 120 Hz container to improve input lag (base PS5 is only at at 60 Hz). Pro could potentially render below native 4K sometimes, but it would only be for a very short duration, with dips would be so minor that FP still has a 4K-like image."
   },
   {
     "name": "Farming Simulator 25",
