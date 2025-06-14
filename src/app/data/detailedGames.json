@@ -3146,7 +3146,7 @@
       },
       {
         "name": "fidelity",
-        "description": "4K at a locked 30fps, 40fps with a 120Hz display, or 50-60fps with VRR."
+        "description": "4K at a locked 30fps, 40fps with a 120 Hz display, or 50-60fps with VRR."
       },
       {
         "name": "performance",
