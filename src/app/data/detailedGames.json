@@ -1274,7 +1274,7 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "8K 60hz",
+        "name": "8K 60 Hz",
         "description": "4K to 8K PSSR at a locked 60fps, but with no RT. Requires PSSR to upscale."
       },
       {
