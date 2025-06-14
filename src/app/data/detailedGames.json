@@ -2825,7 +2825,7 @@
     "modes": [
       {
         "name": "pro",
-        "description": "1800p to 4K PSSR. A very nearly locked 80fps on 120hz screens and 60fps on 60hz screens."
+        "description": "1800p to 4K PSSR. A very nearly locked 80fps on 120 Hz screens and 60fps on 60 Hz screens."
       },
       {
         "name": "pro max",
