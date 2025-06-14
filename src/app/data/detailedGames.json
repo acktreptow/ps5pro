@@ -2207,7 +2207,7 @@
     "modes": [
       {
         "name": "fidelity pro",
-        "description": "4K PSSR at a locked 30fps/40fps for 60hz/120hz screens, or nearly 60fps with VRR. Highest quality RT (explained below)."
+        "description": "4K PSSR at a locked 30fps/40fps for 60 Hz/120 Hz screens, or nearly 60fps with VRR. Highest quality RT (explained below)."
       },
       {
         "name": "performance pro",
