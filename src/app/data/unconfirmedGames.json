@@ -624,6 +624,18 @@
     "metacritic": 87
   },
   {
+    "name": "Watch Dogs: Legion",
+    "id": "WD3",
+    "genre": "Open-World, Action TPS",
+    "developer": "Ubisoft Toronto",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 12, 2020",
+    "hasShipped": true,
+    "metacritic": 66
+  },
+  {
     "name": "World War Z: Aftermath",
     "id": "WWZ",
     "genre": "Co-Op Zombie Shooter",
