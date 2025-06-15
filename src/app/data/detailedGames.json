@@ -1815,6 +1815,24 @@
     "extraInfo": "Both Pro and base PS5 run at 4K. Instead, Pro surpasses the base PS5 version by its ability to maintain a locked 60fps, regardless of what VFX Quality setting is chosen. There is very low, low, medium, high and best, and it's at these higher options where base PS5 can dip below 60fps. Especially if the FOV is also on a wider setting. Pro will however remain a locked 60fps even if both are maxed out."
   },
   {
+    "name": "MindsEye",
+    "id": "MindsEye",
+    "urlPath": "mindseye",
+    "genre": "Action-Adventure",
+    "developer": "Build A Rocket Boy",
+    "publisher": "IO Interactive Partners",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 10, 2025",
+    "hasShipped": false,
+    "metacritic": 43,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K DRS (likely)",
+    "fps": "30fps",
+    "extraInfo": "MindsEye is one of very few Pro games that doesn't have a 60fps mode. However, it also can't even maintain a stable 30fps - regularly dipping into the low 20s in various open-world and combat scenarios. Its upscaled 4K output can look very blurry, which suggests a low internal resolution. Though the exact figure is TBD. The image quality of cutscenes fare far better however, so hopefully after a lot of patches, the rest of the game can at least get close to that level of rendering."
+  },
+  {
     "name": "Monster Hunter Wilds",
     "id": "MH: Wilds",
     "urlPath": "monster-hunter-wilds",

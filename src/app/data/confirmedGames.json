@@ -336,18 +336,6 @@
     "metacritic": 0
   },
   {
-    "name": "MindsEye",
-    "id": "MindsEye",
-    "genre": "Action-Adventure",
-    "developer": "Build A Rocket Boy",
-    "publisher": "IO Interactive Partners",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 10, 2025",
-    "hasShipped": false,
-    "metacritic": 38
-  },
-  {
     "name": "Monster E Supercross 25",
     "id": "MES 25",
     "genre": "Sports, Supercross Racing",
