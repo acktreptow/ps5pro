@@ -456,6 +456,18 @@
     "metacritic": 68
   },
   {
+    "name": "Sea Of Thieves",
+    "id": "SoT",
+    "genre": "Action-Adventure, Pirates",
+    "developer": "Rare",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 30, 2024",
+    "hasShipped": true,
+    "metacritic": 81
+  },
+  {
     "name": "Skydance's Behemoth",
     "id": "Behemoth",
     "genre": "VR Action-Adventure",
