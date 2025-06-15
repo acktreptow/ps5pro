@@ -204,6 +204,18 @@
     "metacritic": 77
   },
   {
+    "name": "Evil West",
+    "id": "EW",
+    "genre": "TPS, Hack & Slash",
+    "developer": "Flying Wild Hog",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 22, 2022",
+    "hasShipped": true,
+    "metacritic": 73
+  },
+  {
     "name": "FBC: Firebreak",
     "id": "Firebreak",
     "genre": "PvE Co-Op FPS",
