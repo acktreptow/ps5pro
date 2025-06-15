@@ -72,6 +72,18 @@
     "metacritic": 77
   },
   {
+    "name": "Battlefield 2042",
+    "id": "BF 2042",
+    "genre": "First-Person Shooter",
+    "developer": "DICE",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 19, 2021",
+    "hasShipped": true,
+    "metacritic": 63
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
