@@ -240,6 +240,18 @@
     "metacritic": 60
   },
   {
+    "name": "FragPunk",
+    "id": "FragPunk",
+    "genre": "PvP FPS",
+    "developer": "Bad Guitar Studio",
+    "publisher": "NetEase",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 29, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
