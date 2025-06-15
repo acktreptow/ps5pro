@@ -312,6 +312,18 @@
     "metacritic": 80
   },
   {
+    "name": "High On Life",
+    "id": "HoL",
+    "genre": "FPS, Adventure",
+    "developer": "Squanch Games",
+    "publisher": "Squanch Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 23, 2023",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Horizon COTM",
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
