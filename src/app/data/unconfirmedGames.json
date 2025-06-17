@@ -236,8 +236,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 17, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 65
   },
   {
     "name": "Final Fantasy 16",
