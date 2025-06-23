@@ -1824,13 +1824,13 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 10, 2025",
-    "hasShipped": false,
-    "metacritic": 27,
+    "hasShipped": true,
+    "metacritic": 28,
     "pssr": false,
     "rt": false,
-    "resolution": "4K DRS (likely)",
+    "resolution": "1260p to 4K DRS",
     "fps": "30fps",
-    "extraInfo": "MindsEye is one of very few Pro games that doesn't have a 60fps mode. However, it also can't even maintain a stable 30fps - regularly dipping into the low 20s in various open-world and combat scenarios. Its upscaled 4K output can look very blurry, which suggests a low internal resolution. Though the exact figure is TBD. The image quality of cutscenes fare far better however, so hopefully after a lot of patches, the rest of the game can at least get close to that level of rendering."
+    "extraInfo": "MindsEye is one of very few Pro games that doesn't have a 60fps mode. However, it also can't even maintain a stable 30fps - regularly dipping into the low 20s in various open-world and combat scenarios. Although this still beats base PS5 which can drop to around 18fps. Its upscaled 4K output can look very blurry due to its relatively low internal resolution. The image quality of cutscenes fare far better however, so hopefully after a lot of patches, the rest of the game can at least get close to that level of rendering."
   },
   {
     "name": "Monster Hunter Wilds",
