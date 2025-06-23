@@ -564,6 +564,18 @@
     "metacritic": 77
   },
   {
+    "name": "TC: Rainbow Six Siege",
+    "id": "R6 Siege",
+    "genre": "PvP Tactical FPS",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 1, 2020",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Tekken 8",
     "id": "Tekken 8",
     "genre": "Fighting",
@@ -612,18 +624,6 @@
     "metacritic": 85
   },
   {
-    "name": "TWD: Saints & Sinners 2",
-    "id": "TWD: S&S 2",
-    "genre": "VR Survival Horror",
-    "developer": "Skydance Interactive",
-    "publisher": "Skydance Interactive",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "March 21, 2023",
-    "hasShipped": true,
-    "metacritic": 72
-  },
-  {
     "name": "Tony Hawk's PS 1 + 2",
     "id": "TH 1+2",
     "genre": "Sports, Skateboarding",
@@ -634,6 +634,18 @@
     "release": "March 26, 2021",
     "hasShipped": true,
     "metacritic": 90
+  },
+  {
+    "name": "TWD: Saints & Sinners 2",
+    "id": "TWD: S&S 2",
+    "genre": "VR Survival Horror",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 21, 2023",
+    "hasShipped": true,
+    "metacritic": 72
   },
   {
     "name": "Uncharted: LOTC",
