@@ -288,6 +288,18 @@
     "metacritic": 0
   },
   {
+    "name": "Little Nightmares III",
+    "id": "LI 3",
+    "genre": "Puzzle, Horror, Adventure",
+    "developer": "Supermassive Games",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 9, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lost Islands",
     "id": "Lost Islands",
     "genre": "Action-Adventure",
