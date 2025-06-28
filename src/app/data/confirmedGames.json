@@ -204,6 +204,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hellblade 1: SS",
+    "id": "Hellblade 1",
+    "genre": "Action-Adventure, Puzzle",
+    "developer": "Ninja Theory",
+    "publisher": "Xbox Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 12, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Hell Is Us",
     "id": "HiU",
     "genre": "Action-Adventure",
