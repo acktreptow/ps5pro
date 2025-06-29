@@ -608,8 +608,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 13, 2025",
-    "hasShipped": false,
-    "metacritic": 85
+    "hasShipped": true,
+    "metacritic": 83
   },
   {
     "name": "The Expanse: OR",
