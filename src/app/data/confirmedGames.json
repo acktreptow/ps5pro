@@ -96,6 +96,18 @@
     "metacritic": 68
   },
   {
+    "name": "Code Violet",
+    "id": "Code Violet",
+    "genre": "Action, Horror",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crimson Desert",
     "id": "CD",
     "genre": "Action-Adventure",
