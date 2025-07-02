@@ -300,6 +300,18 @@
     "metacritic": 0
   },
   {
+    "name": "Kinki Spiritual Affairs B",
+    "id": "KSAB",
+    "genre": "Horror TPS",
+    "developer": "Noto Muteki",
+    "publisher": "Amata",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Little Nightmares III",
     "id": "LI 3",
     "genre": "Puzzle, Horror, Adventure",
