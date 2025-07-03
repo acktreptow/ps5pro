@@ -24,6 +24,18 @@
     "metacritic": 67
   },
   {
+    "name": "Age Of Mythology: Retold",
+    "id": "AoM",
+    "genre": "Real-Time Strategy",
+    "developer": "World's Edge",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 4, 2025",
+    "hasShipped": true,
+    "metacritic": 81
+  },
+  {
     "name": "Alien: Rogue Incursion",
     "id": "A: RI",
     "genre": "VR Survival Horror",
