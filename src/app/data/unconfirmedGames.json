@@ -60,6 +60,18 @@
     "metacritic": 63
   },
   {
+    "name": "Anno 117: Pax Romana",
+    "id": "Anno 117",
+    "genre": "City-Building, RTS",
+    "developer": "Ubisoft Mainz",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 13, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Arizona Sunshine 2",
     "id": "AS2",
     "genre": "VR FPS",
