@@ -348,6 +348,18 @@
     "metacritic": 54
   },
   {
+    "name": "Grand Theft Auto VC DE",
+    "id": "GTA Vice City DE",
+    "genre": "Action-Adventure",
+    "developer": "Grove Street & VGD",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 11, 2021",
+    "hasShipped": true,
+    "metacritic": 54
+  },
+  {
     "name": "Grand Theft Auto 5",
     "id": "GTA 5",
     "genre": "Action-Adventure",
