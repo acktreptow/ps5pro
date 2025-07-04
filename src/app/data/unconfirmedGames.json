@@ -336,7 +336,7 @@
     "metacritic": 80
   },
   {
-    "name": "Grand Theft Auto III DE",
+    "name": "GTA III: DE",
     "id": "GTA 3 DE",
     "genre": "Action-Adventure",
     "developer": "Grove Street & VGD",
@@ -348,7 +348,7 @@
     "metacritic": 54
   },
   {
-    "name": "Grand Theft Auto VC DE",
+    "name": "GTA Vice City: DE",
     "id": "GTA Vice City DE",
     "genre": "Action-Adventure",
     "developer": "Grove Street & VGD",
@@ -360,7 +360,7 @@
     "metacritic": 54
   },
   {
-    "name": "Grand Theft Auto SA DE",
+    "name": "GTA San Andreas: DE",
     "id": "GTA San Andreas DE",
     "genre": "Action-Adventure",
     "developer": "Grove Street & VGD",
@@ -372,7 +372,7 @@
     "metacritic": 54
   },
   {
-    "name": "Grand Theft Auto 5",
+    "name": "GTA V",
     "id": "GTA 5",
     "genre": "Action-Adventure",
     "developer": "Rockstar North",
