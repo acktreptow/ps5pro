@@ -766,17 +766,5 @@
     "release": "January 24, 2023",
     "hasShipped": true,
     "metacritic": 75
-  },
-  {
-    "name": "Wuchang: Fallen Feathers",
-    "id": "Wuchang: FF",
-    "genre": "Action RPG, Soulsborne",
-    "developer": "Leenzee Games",
-    "publisher": "505 Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 24, 2025",
-    "hasShipped": false,
-    "metacritic": 0
   }
 ]
