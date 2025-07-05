@@ -36,6 +36,18 @@
     "metacritic": 0
   },
   {
+    "name": "Anger Foot",
+    "id": "Anger Foot",
+    "genre": "First-Person Shooter",
+    "developer": "Free Lives",
+    "publisher": "Devolver Digital",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 1, 2025",
+    "hasShipped": true,
+    "metacritic": 75
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
