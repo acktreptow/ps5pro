@@ -2500,8 +2500,8 @@
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
     "resolution": "1440p to 4K TSR (likely)",
-    "fps": "60fps (potentially)",
-    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based ray tracing. According to Digital Foundry, these are two key areas where the enhanced PS5 version could see improvements. They speculate that with an additional year of optimization, H2 might now support 40fps/60fps modes that would also come to base PS5/Series X, along with superior hardware-accelerated ray tracing that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p due to H2's extensive use of post-processing, which minimizes the impact of a resolution increase. However, this all remains speculative. We won't know the enhancements until closer to release."
+    "fps": "60fps",
+    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based ray tracing. These are two key areas where the Pro version could see improvements. It's already been confirmed that after an additional year of optimization, H2 will now include a 60fps mode even on Series X/base PS5, meaning it's also there on Pro. However, there's still no updates on support for superior hardware-accelerated ray tracing that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. This is just speculation though and we won't know the enhancements until closer to release."
   },
   {
     "name": "Shredders",
