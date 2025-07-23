@@ -528,6 +528,18 @@
     "metacritic": 70
   },
   {
+    "name": "Resident Evil 7: Biohazard",
+    "id": "RE7",
+    "genre": "Survival Horror",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 14, 2022",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "RoboCop: Rogue City",
     "id": "RoboCop: RC",
     "genre": "FPS",
