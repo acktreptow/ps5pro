@@ -480,18 +480,6 @@
     "metacritic": 73
   },
   {
-    "name": "Mafia: The Old Country",
-    "id": "Mafia: TOC",
-    "genre": "Action-Adventure",
-    "developer": "Hangar 13",
-    "publisher": "2K Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 8, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Metro Awakening",
     "id": "MA VR",
     "genre": "VR FPS",
