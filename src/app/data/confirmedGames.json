@@ -624,6 +624,18 @@
     "metacritic": 0
   },
   {
+    "name": "Ready Or Not",
+    "id": "Ready or Not",
+    "genre": "Tactical FPS",
+    "developer": "Void Interactive",
+    "publisher": "Void Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 15, 2025",
+    "hasShipped": true,
+    "metacritic": 82
+  },
+  {
     "name": "Resonance: Plague Tale",
     "id": "Resonance: APTL",
     "genre": "Action-Adventure, Stealth",
