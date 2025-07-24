@@ -3284,19 +3284,19 @@
     "metacritic": 82,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "1662p to 4K",
     "fps": "120fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "4K at 60fps."
+        "name": "quality",
+        "description": "1662p to 4K at a basically locked 60fps."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K at 120fps."
+        "description": "1080p-1552p DRS to 4K at a basically locked 120fps."
       }
     ],
-    "extraInfo": "There can be some screen tearing on performance mode."
+    "extraInfo": "Both Pro and base PS5's quality modes have a base resolution that's usually at 1662p. While Pro's performance mode can have a 1080p base resolution at its lowest, base PS5 can drop to as low as 635p to reach 120fps. There can also be some screen tearing in the performance modes on both consoles. All modes can drop a frame, but it's a rare occurrence that only lasts a second."
   },
   {
     "name": "TopSpin 2K25",
