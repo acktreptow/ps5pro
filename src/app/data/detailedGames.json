@@ -3064,7 +3064,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro uses variable rate shading to achieve 4K/60fps. This one mode combines the 2 modes seen on base PS5 (a 4K/30fps fidelity mode and 1440p/60fps performance mode that also had lower graphical settings). It's unclear if this is a native 4K, but this can be definitively answered when update 46 releases on June 2. Zenimax Online went very in-depth when the PS5/Series versions were released, going as far as comparing graphical settings like shadows and textures to a PC preset like 'ultra' or 'high'.  Hopefully they do the same for Pro nearer to release."
+    "extraInfo": "Pro uses variable rate shading to achieve native 4K at 60fps. This one Pro mode combines the 2 modes seen on base PS5 (a 4K/30fps fidelity mode and 1440p/60fps performance mode that also had lower graphical settings such as shadows, textures and ambient occlusion etc)."
   },
   {
     "name": "The Finals",
