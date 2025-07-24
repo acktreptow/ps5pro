@@ -780,18 +780,6 @@
     "metacritic": 70
   },
   {
-    "name": "Tony Hawk's PS 3 + 4",
-    "id": "TH 3+4",
-    "genre": "Sports, Skateboarding",
-    "developer": "Iron Galaxy Studios",
-    "publisher": "Activision",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 11, 2025",
-    "hasShipped": true,
-    "metacritic": 82
-  },
-  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",

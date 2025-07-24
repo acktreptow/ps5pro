@@ -3231,6 +3231,35 @@
     "extraInfo": "Despite releasing in 2026, EGG has confirmed a surprising amount about the Pro version via the PlayStation Blog. There will be a Pro exclusive 'enhanced mode' that utilizes PSSR to achieve all the expected Pro upgrades. This includes a higher resolution, RT, and improved image fidelity, all at 60fps. The most recent February 2025 trailer suggests an internal resolution of 576p-1080p DRS (1080p is far more often) and there's drops to around 35fps, but ToA's launch is around a year away leaving plenty of time for optimization. Using Pro footage for trailers so far from release does inspire confidence that it will get the optimization needed for a great 'enhanced mode'."
   },
   {
+    "name": "Tony Hawk's Pro Skater 3/4",
+    "pageTitle": "Tony Hawk's Pro Skater 3 + 4",
+    "id": "THPS 3 + 4",
+    "urlPath": "tony-hawks-pro-skater-3-4",
+    "genre": "Sports, Skateboarding",
+    "developer": "Iron Galaxy Studios",
+    "publisher": "Activision",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 11, 2025",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at 120fps."
+      }
+    ],
+    "extraInfo": "There can be some screen tearing on performance mode."
+  },
+  {
     "name": "TopSpin 2K25",
     "id": "TopSpin 25",
     "urlPath": "topspin-2k25",
