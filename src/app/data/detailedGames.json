@@ -620,6 +620,35 @@
     "extraInfo": "Pro uses RT reflections, which are a huge improvement over base PS5's screen space reflections due to the shopping mall setting (storefront windows etc). While both base PS5 and Pro run at native 4K, Pro also has a locked 60fps even with RT reflections, whereas base PS5 dips into the low 50s in the most demanding scenarios. This is most likely why base PS5 doesn't support RT."
   },
   {
+    "name": "Death Stranding 2: OTB",
+    "pageTitle": "Death Stranding 2: On The Beach",
+    "id": "DS2",
+    "urlPath": "death-stranding-2-on-the-beach",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "June 26, 2025",
+    "hasShipped": true,
+    "metacritic": 89,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K native at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1620p-4K native at 60fps."
+      }
+    ],
+    "extraInfo": "Pro's performance mode still has a very high base resolution, so Pro fidelity mode doesn't look much sharper despite halving the framerate. Base PS5's performance mode looks significantly blurrier than its fidelity mode, which is about as sharp as Pro performance mode."
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "urlPath": "demons-souls",
