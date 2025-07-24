@@ -638,7 +638,7 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
+        "name": "quality",
         "description": "4K native at 30fps."
       },
       {
@@ -646,7 +646,7 @@
         "description": "1620p-4K native at 60fps."
       }
     ],
-    "extraInfo": "Pro's performance mode still has a very high base resolution, so Pro fidelity mode doesn't look much sharper despite halving the framerate. Base PS5's performance mode looks significantly blurrier than its fidelity mode, which is about as sharp as Pro performance mode."
+    "extraInfo": "Pro's performance mode still has a very high base resolution, so Pro quality mode doesn't look much sharper despite halving the framerate. Base PS5's performance mode looks significantly blurrier than its quality mode, which is about as sharp as Pro performance mode."
   },
   {
     "name": "Demon's Souls",
