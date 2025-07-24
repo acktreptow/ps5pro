@@ -1876,9 +1876,9 @@
     "metacritic": 29,
     "pssr": false,
     "rt": false,
-    "resolution": "1260p to 4K DRS",
+    "resolution": "720p-1260p DRS to 4K",
     "fps": "30fps",
-    "extraInfo": "MindsEye is one of very few Pro games that doesn't have a 60fps mode. However, it also can't even maintain a stable 30fps - regularly dipping into the low 20s in various open-world and combat scenarios. Although this still beats base PS5 which can drop to around 18fps. Its upscaled 4K output can look very blurry due to its relatively low internal resolution. The image quality of cutscenes fare far better however, so hopefully after a lot of patches, the rest of the game can at least get close to that level of rendering."
+    "extraInfo": "MindsEye is one of very few Pro games that doesn't have a 60fps mode. However, it also can't even maintain a stable 30fps - regularly dipping into the low 20s in various open-world and combat scenarios. Although this still beats base PS5 which can drop under 20fps. While Pro also has very slightly improved textures, terrain detail and shadows over base PS5, its upscaled 4K output can look very blurry when hitting its lowest internal resolution. Although image stability is much better on Pro compared to base PS5. Cutscene image quality on both also look much better than gameplay."
   },
   {
     "name": "Monster Hunter Wilds",
