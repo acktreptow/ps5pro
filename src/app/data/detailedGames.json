@@ -638,15 +638,15 @@
     "fps": "60fps",
     "modes": [
       {
-        "name": "quality",
+        "name": "prioritize quality",
         "description": "4K native at 30fps."
       },
       {
-        "name": "performance",
+        "name": "prioritize performance",
         "description": "1620p-4K native at 60fps."
       }
     ],
-    "extraInfo": "Pro's performance mode still has a very high base resolution, so Pro quality mode doesn't look much sharper despite halving the framerate. Base PS5's performance mode looks significantly blurrier than its quality mode, which is about as sharp as Pro performance mode."
+    "extraInfo": "Pro's performance mode still has a very high base resolution resulting in both modes looking nearly identical despite the 2x in framerate. Both Pro and base PS5's performance modes also run in an 120 Hz container resulting in less input lag. Base PS5's quality mode is on par with Pro's performance mode in regards to graphical settings (distant terrain detailed/geometry and texture LODs) and resolution etc. Base PS5's 1440p resolution in its performance mode is noticeably blurrier with more image instability/shimmer than the rest. There can be what look like frame drops in both performance modes, but this is an issue with DS2's camera, not the actual framerate which is at 60fps when these perceived drops occur."
   },
   {
     "name": "Demon's Souls",
