@@ -1243,9 +1243,19 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "1607p to 4K",
     "fps": "120fps",
-    "extraInfo": "Xbox has confirmed that even base consoles will have 4K, 120fps in MP and VRR support. It's therefore safe to assume for now, at the very least, Pro will have a higher framerate when running at 4K in MP. Reloaded also improves visual settings over the 2015 Xbox One Ultimate Edition like shadows/reflections etc. RT is even on the table for Pro and maybe even base PS5 given its inclusion in Gears 5. Again, this is all speculative though and we won't 100% know until its August release."
+    "modes": [
+      {
+        "name": "60 Hz",
+        "description": "1440p-1800p DRS to 4K at a locked 60fps."
+      },
+      {
+        "name": "120 Hz",
+        "description": "1440p-1607p DRS to 4K at a locked 120fps."
+      }
+    ],
+    "extraInfo": "Base PS5's 60 HZ mode has the same lowest base resolution of 1440p, but only goes up to 1552p. Base PS5's internal resolution in 120 HZ mode only goes up to 1080p compared to 1607p on Pro and can drop to 914p. Please note, this information is taken from the multiplayer beta and is likely to be a little different in the final version."
   },
   {
     "name": "Ghost Of Yōtei",
