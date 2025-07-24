@@ -113,7 +113,7 @@
     "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
     "resolution": "720p to 1440p PSSR (likely)",
     "fps": "60fps",
-    "extraInfo": "According to the developers, Pro has a 30% FPS increase over base PS5 due to its PSSR implementation. While this sounds good, base PS5's framerate hovers at around 30-35fps. Therefore, this 30% increase still won't produce a stable 60fps (will hover around 40-45fps) and there's no toggle to lock at 30fps/40fps for stability. Pro also uses UE5's superior virtual shadow maps over base PS5's cascade shadows, which is nice but won't help with framerate issues."
+    "extraInfo": "Pro has a 30% FPS increase over base PS5 due to its PSSR implementation. While an improvement, base PS5's framerate hovers at around 30-35fps. Therefore, this 30% increase still won't produce a stable 60fps (will hover around 40-45fps, though can sometimes go over with frame gen) and there's no toggle to lock at 30fps/40fps for stability. Pro also uses UE5's superior virtual shadow maps over base PS5's cascade shadows."
   },
   {
     "name": "Arken Age",
