@@ -3600,6 +3600,38 @@
     "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections, but the framerate is then capped at a locked 30fps."
   },
   {
+    "name": "Wuchang: Fallen Feathers",
+    "id": "Wuchang: FF",
+    "urlPath": "wuchang-fallen-feathers",
+    "genre": "Action RPG, Soulsborne",
+    "developer": "Leenzee Games",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 24, 2025",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1062p to 1800p",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "900p DRS to 1800p at 65-110fps with VRR (usually around 85fps)."
+      },
+      {
+        "name": "balanced",
+        "description": "720p-900p DRS to 1800p at 65-110fps with VRR (usually around 90fps)."
+      },
+      {
+        "name": "performance",
+        "description": "600p-1062p DRS to 1800p at 75-120fps with VRR (usually around 95fps). Worse shadows/textures/draw distance etc compared to other modes."
+      }
+    ],
+    "extraInfo": "Pro's quality and balanced modes have similar base resolution ranges to the same mode on base PS5. However, base PS5's performance mode (which also has worse shadows/textures etc compared to its other modes) usually reaches an internal resolution of 720p, whereas that's 1062p on Pro. Pro also increases the framerate by 15-20fps in each mode. There are no graphical setting improvements between Pro and base PS5."
+  },
+  {
     "name": "Zenless Zone Zero",
     "id": "ZZZ",
     "urlPath": "zenless-zone-zero",
