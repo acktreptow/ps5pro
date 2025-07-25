@@ -1140,6 +1140,24 @@
     "extraInfo": "Whereas base PS5 has a quality (1600p to 4K at 30fps) and performance 60fps mode, Pro just has a singular mode that runs at a native 4K at a basically locked 60fps."
   },
   {
+    "name": "FBC: Firebreak",
+    "id": "Firebreak",
+    "urlPath": "fbc-firebreak",
+    "genre": "PvE Co-Op FPS",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 17, 2025",
+    "hasShipped": true,
+    "metacritic": 66,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC Firebreak only has the one mode that's 4K at a mostly locked 60fps with no RT. The only toggle on Pro is whether you want to use PSSR as your upscaler to 4K. This is obviously not an option on base PS5 as it can't use PSSR due to it being an AI upscaler."
+  },
+  {
     "name": "Final Fantasy VII Rebirth",
     "id": "FF7 Rebirth",
     "urlPath": "final-fantasy-vii-rebirth",
