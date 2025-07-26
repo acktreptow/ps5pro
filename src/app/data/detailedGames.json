@@ -1153,9 +1153,9 @@
     "metacritic": 66,
     "pssr": true,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "4K PSSR/FSR2",
     "fps": "60fps",
-    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC Firebreak only has the one mode that's 4K at a mostly locked 60fps with no RT. The only toggle on Pro is whether you want to use PSSR as your upscaler to 4K. This is obviously not an option on base PS5 as it can't use PSSR due to it being an AI upscaler."
+    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. The only toggle on Pro is whether you want to use PSSR or FSR2 as your upscaler to 4K. This isn't an option on base PS5 (which uses FSR2 to upscale to 1440p) as it can't use PSSR."
   },
   {
     "name": "Final Fantasy VII Rebirth",
