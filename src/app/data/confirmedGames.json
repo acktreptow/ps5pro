@@ -672,18 +672,6 @@
     "metacritic": 0
   },
   {
-    "name": "Sword Of The Sea",
-    "id": "SOTS",
-    "genre": "Action, Adventure",
-    "developer": "Giant Squid",
-    "publisher": "Giant Squid",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 19, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "The Alters",
     "id": "Alters",
     "genre": "Survival, Action-Adventure",

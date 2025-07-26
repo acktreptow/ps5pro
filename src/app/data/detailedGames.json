@@ -3024,6 +3024,24 @@
     "extraInfo": "Both base PS5 and Pro run at 90fps with no reprojection. However, Pro has dynamic shadows and an edge blur effect. Pro also has a 2.5x foveated resolution increase compared to the 2.25x increase on base PS5. Finally, the developers believe Pro's dynamic shadows is the most significant improvement."
   },
   {
+    "name": "Sword Of The Sea",
+    "id": "SOTS",
+    "urlPath": "sword-of-the-sea",
+    "genre": "Action, Adventure",
+    "developer": "Giant Squid",
+    "publisher": "Giant Squid",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 19, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Giant Squid hasn't said much about the technical performance of the game. However, they did suggest on the PS Blog that at the very least, both base PS5 and Pro will have a 60fps mode. We will have to wait until launch to find out if other improvements (120fps mode, improved resolution) is in the cards for Pro."
+  },
+  {
     "name": "Test Drive Unlimited: SC",
     "pageTitle": "Test Drive Unlimited: Solar Crown",
     "id": "TDU: Solar Crown",
