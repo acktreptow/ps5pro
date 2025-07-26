@@ -2330,6 +2330,34 @@
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than FSR  seen in every base PS5 mode. Especially in motion with less aliasing etc, but can be noisier in stills. Performance Pro mode has much sharper RT reflections than base PS5 Performance RT mode. Fidelity Pro RT reflections look even less aliased as they're full resolution and its RTAO has more contact shadows, adding depth to assets all over the screen."
   },
   {
+    "name": "Ready Or Not",
+    "id": "Ready or Not",
+    "urlPath": "ready-or-not",
+    "genre": "Tactical FPS",
+    "developer": "Void Interactive",
+    "publisher": "Void Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 15, 2025",
+    "hasShipped": true,
+    "metacritic": 81,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K native at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K at 60fps."
+      }
+    ],
+    "extraInfo": "VOID state in a Gaming Bolt interview that Ready or Not uses PSSR in the Pro version. However, the game doesn't having the Pro enhanced confirmation on the PSN store and they only provide resolution/framerate target for the Series X and base PS5 versions, even though they were also specifically asked about Pro too. It's therefore uncertain if the game is even Pro enhanced, let alone just how well it takes advantage of the hardware. At the very least Pro will help Ready or Not maintain its framerate targets more often."
+  },
+  {
     "name": "Redacted",
     "pageTitle": "[REDACTED]",
     "id": "Redacted",
