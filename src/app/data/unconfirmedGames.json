@@ -288,6 +288,18 @@
     "metacritic": 80
   },
   {
+    "name": "Frostpunk 2",
+    "id": "Frostpunk 2",
+    "genre": "City Builder, Survival",
+    "developer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 18, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
