@@ -3297,6 +3297,24 @@
     "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality and some reflections can even look better. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows which is a tier below."
   },
   {
+    "name": "The Precinct",
+    "id": "Precinct",
+    "urlPath": "the-precinct",
+    "genre": "Top-Down Action-Adventure",
+    "developer": "Fallen Tree Games",
+    "publisher": "Kwalee",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 13, 2025",
+    "hasShipped": true,
+    "metacritic": 66,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "30fps",
+    "extraInfo": "Both Pro and base PS5 render at native 4K with a locked 30fps. However, Pro has numerous improved graphical settings over base PS5. These include, but isn't limited to lighting, textures, shadows (resolution & quality), reflections, animation, effects and crowds. Pro's graphical settings are equivalent to high/very high on PC."
+  },
+  {
     "name": "Tides Of Annihilation",
     "id": "ToA",
     "urlPath": "tides-of-annihilation",
