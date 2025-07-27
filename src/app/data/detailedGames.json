@@ -2705,9 +2705,9 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
-    "resolution": "1440p to 4K TSR (likely)",
+    "resolution": "1440p to 4K TSR/PSSR (likely)",
     "fps": "60fps",
-    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based ray tracing. These are two key areas where the Pro version could see improvements. It's already been confirmed that after an additional year of optimization, H2 will now include a 60fps mode even on Series X/base PS5, meaning it's also there on Pro. However, there's still no updates on support for superior hardware-accelerated ray tracing that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. This is just speculation though and we won't know the enhancements until closer to release."
+    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based RT. It's already been confirmed that H2 will now include a 60fps mode that has a lower resolution and worse graphical settings, but won't strip out features like RT. This mode will be on Series X/base PS5, meaning it's also there on Pro. However, there's still no confirmation for superior hardware-accelerated RT that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. Ninja Theory have also confirmed that Pro can use either PSSR or UE5's TSR as the upscaler, so it will be interesting to see which performs better especially as PSSR isn't possible on base PS5."
   },
   {
     "name": "Shredders",
