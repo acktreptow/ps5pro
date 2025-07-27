@@ -144,18 +144,6 @@
     "metacritic": 0
   },
   {
-    "name": "Crystal Of Atlan",
-    "id": "CoA",
-    "genre": "MMO Action RPG",
-    "developer": "Nuverse",
-    "publisher": "Nuverse",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 28, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Dreams Of Another",
     "id": "DoA",
     "genre": "VR Exploration-Action",

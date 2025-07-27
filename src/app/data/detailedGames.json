@@ -546,6 +546,24 @@
     "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5 also has DRS and its internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and FMV cutscenes have visible macroblocking. The game boots in HDR but doesn't actually support it. Ensure HDR is toggled off for a superior SDR (in this case) image."
   },
   {
+    "name": "Crystal Of Atlan",
+    "id": "CoA",
+    "urlPath": "crystal-of-atlan",
+    "genre": "MMO Action RPG",
+    "developer": "Nuverse",
+    "publisher": "Nuverse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K Upscaled (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Nuverse has confirmed that Pro uses PSSR to upscale to a 4K image. This isn't possible on base PS5 as PSSR is an AI upscaler."
+  },
+  {
     "name": "CyubeVR",
     "pageTitle": "cyubeVR",
     "id": "CyubeVR",
