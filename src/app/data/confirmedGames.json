@@ -72,18 +72,6 @@
     "metacritic": 78
   },
   {
-    "name": "Black Desert Online",
-    "id": "BD",
-    "genre": "MMORPG",
-    "developer": "Pearl Abyss",
-    "publisher": "Pearl Abyss",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 26, 2025",
-    "hasShipped": true,
-    "metacritic": 75
-  },
-  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",

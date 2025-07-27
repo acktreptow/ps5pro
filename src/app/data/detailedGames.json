@@ -409,6 +409,34 @@
     "extraInfo": "*Biped 2 isn't out until Q3 2025 (potentially September 30), but the following Biped 1 information provides a good baseline of what to expect - 'Biped has no display options, so features like an 120fps mode aren't available. However, Pro at least maintains a locked 60fps. Pro also renders a 1440p image compared to base PS5's more 1080p-like image. The resolution difference can be quite noticeable on assets like railings, where there's more jaggies on base PS5.'"
   },
   {
+    "name": "Black Desert",
+    "id": "BD",
+    "urlPath": "black-desert",
+    "genre": "MMORPG",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 26, 2025",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a mostly locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Black Desert (likely) doesn't have Pro enhancements yet despite confirmation that Pearl Abyss are working on it. At the very least, the fidelity mode's 60fps will be more stable on Pro due to the extra horsepower. However, both modes suffer from severe pop in that includes texture quality and actual assets. This makes the image rather poor regardless of mode and can't be fixed on console."
+  },
+  {
     "name": "Black Myth: Wukong",
     "id": "BM: Wukong",
     "urlPath": "black-myth-wukong",
