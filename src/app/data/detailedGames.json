@@ -1695,6 +1695,24 @@
     "extraInfo": "Pro has 8K textures compared to 4K on base PS5. Pro also has improved post-processing, effects, LOD distance and anti-aliasing. Both consoles have dynamic resolution scaling, but Pro only hits a low of 90% of 4K, whereas base PS5 can only render between 60%-90% of 4K."
   },
   {
+    "name": "Killing Floor 3",
+    "id": "KF3",
+    "urlPath": "killing-floor-3",
+    "genre": "Action-Horror FPS",
+    "developer": "Tripwire Interactive",
+    "publisher": "Tripwire Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 24, 2025",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1800p",
+    "fps": "60fps",
+    "extraInfo": "The framerate can dip below 60fps but should stay within the VRR window for most of the time it does dip."
+  },
+  {
     "name": "Kingdom Come: Deliverance 2",
     "id": "KC:D2",
     "urlPath": "kingdom-come-deliverance-2",

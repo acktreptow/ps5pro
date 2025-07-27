@@ -276,18 +276,6 @@
     "metacritic": 0
   },
   {
-    "name": "Killing Floor 3",
-    "id": "KF3",
-    "genre": "Action-Horror FPS",
-    "developer": "Tripwire Interactive",
-    "publisher": "Tripwire Interactive",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 24, 2025",
-    "hasShipped": true,
-    "metacritic": 69
-  },
-  {
     "name": "Kinki Spiritual Affairs B",
     "id": "KSAB",
     "genre": "Horror TPS",
