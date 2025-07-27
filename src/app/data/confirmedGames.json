@@ -24,18 +24,6 @@
     "metacritic": 76
   },
   {
-    "name": "Alien: Rogue Incursion",
-    "id": "A: RI",
-    "genre": "Survival Horror",
-    "developer": "Survios",
-    "publisher": "Survios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 30, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Amer Fighting",
     "id": "AF",
     "genre": "Action, Fighting",

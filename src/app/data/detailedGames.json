@@ -69,6 +69,25 @@
     "extraInfo": "Pro can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K like in stills. PSSR looks sharper in motion with less artifacting. Differences are less obvious in quality mode as base resolution is 1224p (others look relatively soft regardless as 864p to 4K is a big jump). There's no RT on base PS5 and Pro's quality mode also has higher quality shadows, volumetric lighting and fog. All Pro modes have a more stable framerate than their base PS5 equivalent."
   },
   {
+    "name": "Alien: Rogue Incursion",
+    "pageTitle": "Alien: Rogue Incursion Evolved Edition",
+    "id": "A: RI",
+    "urlPath": "alien-rogue-incursion-evolved-edition",
+    "genre": "Survival Horror",
+    "developer": "Survios",
+    "publisher": "Survios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 30, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Very little is known about the technical performance of the non-VR version of Alien: Rogue Incursion. The only information Survios has provided is via a Gaming Bolt interview, where they said that Pro will have 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'. Hopefully, we learn more not too long before the game's September launch."
+  },
+  {
     "name": "Apex Legends",
     "id": "Apex",
     "urlPath": "apex-legends",
