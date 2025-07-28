@@ -576,6 +576,18 @@
     "metacritic": 83
   },
   {
+    "name": "New World: Aeternum",
+    "id": "New World",
+    "genre": "MMORPG",
+    "developer": "Amazon Games OC",
+    "publisher": "Amazon Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 15, 2024",
+    "hasShipped": true,
+    "metacritic": 75
+  },
+  {
     "name": "NHL 25",
     "id": "NHL 25",
     "genre": "Sports, Ice Hockey",
