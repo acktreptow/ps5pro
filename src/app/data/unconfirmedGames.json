@@ -492,6 +492,18 @@
     "metacritic": 74
   },
   {
+    "name": "Metro Exodus",
+    "id": "Metro E",
+    "genre": "Open-World FPS",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "June 18, 2021",
+    "hasShipped": true,
+    "metacritic": 83
+  },
+  {
     "name": "MLB The Show 25",
     "id": "MLB 25",
     "genre": "Sports, Baseball",
