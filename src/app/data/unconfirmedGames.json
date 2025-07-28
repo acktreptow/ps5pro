@@ -792,6 +792,18 @@
     "metacritic": 85
   },
   {
+    "name": "Thief: Legacy Of Shadow",
+    "id": "Thief VR",
+    "genre": "VR Action-Adventure",
+    "developer": "Maze Theory",
+    "publisher": "Vertigo Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Tony Hawk's PS 1 + 2",
     "id": "TH 1+2",
     "genre": "Sports, Skateboarding",
