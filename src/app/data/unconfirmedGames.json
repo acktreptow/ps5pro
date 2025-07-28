@@ -252,6 +252,18 @@
     "metacritic": 73
   },
   {
+    "name": "Final Fantasy 14",
+    "id": "FF14",
+    "genre": "MMORPG",
+    "developer": "Square Enix CBU III",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 13, 2021",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy 16",
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
