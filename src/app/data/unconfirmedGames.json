@@ -108,6 +108,18 @@
     "metacritic": 63
   },
   {
+    "name": "Bulletstorm VR",
+    "id": "Bulletstorm VR",
+    "genre": "VR FPS",
+    "developer": "Incuvo",
+    "publisher": "People Can Fly",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "January 18, 2024",
+    "hasShipped": true,
+    "metacritic": 58
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
