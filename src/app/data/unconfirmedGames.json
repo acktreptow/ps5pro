@@ -720,6 +720,18 @@
     "metacritic": 90
   },
   {
+    "name": "Tropico 6",
+    "id": "Tropico 6",
+    "genre": "City Builder, Strategy",
+    "developer": "Limbic Entertainment",
+    "publisher": "Kalypso Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 31, 2022",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "TWD: Saints & Sinners 2",
     "id": "TWD: S&S 2",
     "genre": "VR Survival Horror",
