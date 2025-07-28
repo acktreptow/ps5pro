@@ -504,6 +504,18 @@
     "metacritic": 70
   },
   {
+    "name": "Lego Star Wars: TSS",
+    "id": "Lego Star Wars",
+    "genre": "Action-Adventure",
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 5, 2022",
+    "hasShipped": true,
+    "metacritic": 82
+  },
+  {
     "name": "Life Is Strange: DE",
     "id": "LiS: DE",
     "genre": "Interactive Drama",
