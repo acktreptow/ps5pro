@@ -720,6 +720,18 @@
     "metacritic": 67
   },
   {
+    "name": "Star Ocean: Divine Force",
+    "id": "Star Ocean: TDF",
+    "genre": "Action JRPG",
+    "developer": "Tri-Ace",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 27, 2022",
+    "hasShipped": true,
+    "metacritic": 69
+  },
+  {
     "name": "Star Wars: TFTGE",
     "id": "Star Wars: Tales from the Galaxy's Edge",
     "genre": "VR FPS Action-Adventure",
