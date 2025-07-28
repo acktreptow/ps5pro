@@ -790,5 +790,17 @@
     "release": "January 24, 2023",
     "hasShipped": true,
     "metacritic": 75
+  },
+  {
+    "name": "Zombie Army VR",
+    "id": "Zombie Army",
+    "genre": "VR Zombie FPS",
+    "developer": "Rebellion & XR Games",
+    "publisher": "Rebellion",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "June 12, 2025",
+    "hasShipped": true,
+    "metacritic": 68
   }
 ]
