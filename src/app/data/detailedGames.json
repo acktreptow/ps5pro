@@ -1449,6 +1449,26 @@
     "extraInfo": "*GTA 6 isn't confirmed to be Pro enhanced yet, but considering its budget, IP legacy, how Rockstar Games are perfectionists, and it's currently the most anticipated game, it's the one game worth fully speculating. All info is from DF's analysis of the second trailer which was real-time on base PS5, making it a good baseline of what to expect on Pro. GTA 6 rendered at 1440p including letter-boxing, which won't make it into the game. There's diffuse RTGI for direct/indirect lighting and it's more stable compared to software UE5 Lumen that's popular on consoles. There's RT reflections that includes dynamic objects like people, even on rough/opaque surfaces (water etc), but SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) is top-tier. There's no RT shadows, but still looks great with accurate diffuse. The trailer's most impressive aspect is the accurate/natural hair rendering, regardless of hairstyle and even body hair. A 60fps mode is unlikely, but 40fps could be possible."
   },
   {
+    "name": "Hellblade 2: Senua's Saga",
+    "pageTitle": "Senua's Saga: Hellblade II",
+    "id": "Hellblade 2",
+    "urlPath": "senuas-saga-hellblade-ii",
+    "genre": "Action-Adventure, Puzzle",
+    "developer": "Ninja Theory",
+    "publisher": "Xbox Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 12, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
+    "resolution": "1440p to 4K TSR/PSSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based RT. It's already been confirmed that H2 will now include a 60fps mode that has a lower resolution and worse graphical settings, but won't strip out features like RT. This mode will be on Series X/base PS5, meaning it's also there on Pro. However, there's still no confirmation for superior hardware-accelerated RT that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. Ninja Theory have also confirmed that Pro can use either PSSR or UE5's TSR as the upscaler, so it will be interesting to see which performs better especially as PSSR isn't possible on base PS5."
+  },
+  {
     "name": "Helldivers 2",
     "id": "HD 2",
     "urlPath": "helldivers-2",
@@ -2689,25 +2709,6 @@
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
-  },
-  {
-    "name": "Senua's Saga: Hellblade II",
-    "id": "Hellblade 2",
-    "urlPath": "senuas-saga-hellblade-ii",
-    "genre": "Action-Adventure, Puzzle",
-    "developer": "Ninja Theory",
-    "publisher": "Xbox Games Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 12, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
-    "resolution": "1440p to 4K TSR/PSSR (likely)",
-    "fps": "60fps",
-    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps with software-based RT. It's already been confirmed that H2 will now include a 60fps mode that has a lower resolution and worse graphical settings, but won't strip out features like RT. This mode will be on Series X/base PS5, meaning it's also there on Pro. However, there's still no confirmation for superior hardware-accelerated RT that would be exclusive to Pro/PC. While Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. Ninja Theory have also confirmed that Pro can use either PSSR or UE5's TSR as the upscaler, so it will be interesting to see which performs better especially as PSSR isn't possible on base PS5."
   },
   {
     "name": "Shredders",
