@@ -624,6 +624,18 @@
     "metacritic": 70
   },
   {
+    "name": "Splitgate 2",
+    "id": "Splitgate 2",
+    "genre": "F2P FPS",
+    "developer": "1047 Games",
+    "publisher": "1047 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 22, 2022",
+    "hasShipped": true,
+    "metacritic": 67
+  },
+  {
     "name": "Star Wars: TFTGE",
     "id": "Star Wars: Tales from the Galaxy's Edge",
     "genre": "VR FPS Action-Adventure",
