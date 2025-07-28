@@ -648,6 +648,18 @@
     "metacritic": 71
   },
   {
+    "name": "Scarlet Nexus",
+    "id": "Scarlet Nexus",
+    "genre": "Action JRPG",
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 25, 2021",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Scorn",
     "id": "Scorn",
     "genre": "Survival Horror, Puzzle",
