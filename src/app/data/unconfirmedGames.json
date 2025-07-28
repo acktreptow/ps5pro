@@ -576,6 +576,18 @@
     "metacritic": 66
   },
   {
+    "name": "Phasmophobia VR",
+    "id": "Phasmophobia VR",
+    "genre": "VR Co-Op Horror, Puzzle",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "October 29, 2024",
+    "hasShipped": true,
+    "metacritic": 76
+  },
+  {
     "name": "Resident Evil 2",
     "id": "RE2",
     "genre": "Survival Horror",
