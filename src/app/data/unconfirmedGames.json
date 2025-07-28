@@ -559,9 +559,21 @@
     "publisher": "Nacon",
     "psStudios": false,
     "psvr2": false,
-    "release": "November 2, 2023  ",
+    "release": "November 2, 2023",
     "hasShipped": true,
     "metacritic": 72
+  },
+  {
+    "name": "RoboCop: Rogue City UB",
+    "id": "RoboCop: RC - UB",
+    "genre": "FPS",
+    "developer": "Teyon",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 17, 2025",
+    "hasShipped": true,
+    "metacritic": 71
   },
   {
     "name": "Scorn",
