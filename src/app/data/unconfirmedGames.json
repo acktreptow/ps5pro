@@ -852,6 +852,18 @@
     "metacritic": 90
   },
   {
+    "name": "The Dark Pictures VR",
+    "id": "The Dark Pictures VR",
+    "genre": "VR Horror, Rail Shooter",
+    "developer": "Supermassive Games",
+    "publisher": "Supermassive Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 16, 2023",
+    "hasShipped": true,
+    "metacritic": 64
+  },
+  {
     "name": "The Nioh Collection",
     "id": "Nioh Collection",
     "genre": "Soulsborne",
