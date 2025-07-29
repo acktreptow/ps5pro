@@ -276,6 +276,18 @@
     "metacritic": 73
   },
   {
+    "name": "Far Cry 6",
+    "id": "FC6",
+    "genre": "Open-World FPS",
+    "developer": "Ubisoft Toronto",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 7, 2021",
+    "hasShipped": true,
+    "metacritic": 73
+  },
+  {
     "name": "Final Fantasy 14",
     "id": "FF14",
     "genre": "MMORPG",
