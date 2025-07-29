@@ -480,6 +480,18 @@
     "metacritic": 60
   },
   {
+    "name": "It Takes Two",
+    "id": "It takes Two",
+    "genre": "Co-Op Adventure",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2021",
+    "hasShipped": true,
+    "metacritic": 88
+  },
+  {
     "name": "Immortals Of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",
