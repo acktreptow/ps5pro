@@ -336,6 +336,18 @@
     "metacritic": 0
   },
   {
+    "name": "Genshin Impact",
+    "id": "Genshin Impact",
+    "genre": "F2P Action RPG, Gacha",
+    "developer": "miHoYo",
+    "publisher": "Cognosphere",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 27, 2021",
+    "hasShipped": true,
+    "metacritic": 86
+  },
+  {
     "name": "Ghost Of Tsushima: DC",
     "id": "GoT",
     "genre": "Action-Adventure",
