@@ -456,6 +456,18 @@
     "metacritic": 80
   },
   {
+    "name": "Honkai: Star Rail",
+    "id": "Honkai: SR",
+    "genre": "F2P Role-Playing, Gacha",
+    "developer": "miHoYo",
+    "publisher": "Cognosphere",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 10, 2023",
+    "hasShipped": true,
+    "metacritic": 82
+  },
+  {
     "name": "Horizon COTM",
     "id": "H: CotM",
     "genre": "VR Action-Adventure",
