@@ -1449,6 +1449,26 @@
     "extraInfo": "*GTA 6 isn't confirmed to be Pro enhanced yet, but considering its budget, IP legacy, how Rockstar Games are perfectionists, and it's currently the most anticipated game, it's the one game worth fully speculating. All info is from DF's analysis of the second trailer which was real-time on base PS5, making it a good baseline of what to expect on Pro. GTA 6 rendered at 1440p including letter-boxing, which won't make it into the game. There's diffuse RTGI for direct/indirect lighting and it's more stable compared to software UE5 Lumen that's popular on consoles. There's RT reflections that includes dynamic objects like people, even on rough/opaque surfaces (water etc), but SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) is top-tier. There's no RT shadows, but still looks great with accurate diffuse. The trailer's most impressive aspect is the accurate/natural hair rendering, regardless of hairstyle and even body hair. A 60fps mode is unlikely, but 40fps could be possible."
   },
   {
+    "name": "Hellblade 1",
+    "pageTitle": "Hellblade: Senua's Sacrifice",
+    "id": "Hellblade 1",
+    "urlPath": "hellblade-senuas-sacrifice",
+    "genre": "Action-Adventure, Puzzle",
+    "developer": "Ninja Theory",
+    "publisher": "Xbox Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 12, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections (likely)",
+    "resolution": "4K (likely)",
+    "fps": "120fps (likely)",
+    "extraInfo": "Hellblade 1 was re-released on Series X in 2021 and had 3 modes - a 4K/30fps with RT reflections mode, a 4K/60fps with no RT mode, and a 1080p/nearly locked 120fps mode. Based on this release, it's likely that base PS5 will have almost identical modes. For Pro, its extra power could lead to a 4K/30fps mode with additional RT features like AO, a 4K/60fps mode but with RT as well, and a more locked 120fps mode but at 1440p. This is just an educated guess however and we won't know until closer to Hellblade 1's PS5 launch."
+  },
+  {
     "name": "Hellblade 2: Senua's Saga",
     "pageTitle": "Senua's Saga: Hellblade II",
     "id": "Hellblade 2",
