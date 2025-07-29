@@ -468,6 +468,18 @@
     "metacritic": 79
   },
   {
+    "name": "Hubris",
+    "id": "Hubris",
+    "genre": "VR Action-Adventure",
+    "developer": "Cyborn",
+    "publisher": "Cyborn",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "June 22, 2023",
+    "hasShipped": true,
+    "metacritic": 60
+  },
+  {
     "name": "Immortals Of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",
