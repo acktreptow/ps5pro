@@ -2466,19 +2466,19 @@
     "metacritic": 81,
     "pssr": true,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "1552p to 4K",
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "4K native at 30fps."
+        "name": "quality",
+        "description": "1440p-1552p DRS to 4K native at an unevenly paced 30fps."
       },
       {
         "name": "performance",
-        "description": "1440p to 4K at 60fps."
+        "description": "1350p-1440p DRS to 4K at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "VOID state in a Gaming Bolt interview that Ready or Not uses PSSR in the Pro version. However, the game doesn't having the Pro enhanced confirmation on the PSN store and they only provide resolution/framerate target for the Series X and base PS5 versions, even though they were also specifically asked about Pro too. It's therefore uncertain if the game is even Pro enhanced, let alone just how well it takes advantage of the hardware. At the very least Pro will help Ready or Not maintain its framerate targets more often."
+    "extraInfo": "VOID stated in a pre-launch interview that Ready or Not uses PSSR in the Pro version. However, it's very unlikely that it's currently Pro enhanced. For one, it doesn't have the Pro enhanced confirmation on the PSN store. It also uses similar DRS bounds compared to the same mode on base PS5. The Series X fares even worse, with downgraded  graphical settings/resolution compared to base PS5. Fortunately, VOID have acknowledged these issues and said this will be fixed in a future patch, which hopefully also comes with proper Pro enhancements. At the very least right now, Pro helps Ready or Not maintain its 60fps more often. Although the unevenly paced 30ps in quality mode results in a sub-optimal experience on both PS5 consoles."
   },
   {
     "name": "Redacted",
