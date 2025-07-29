@@ -540,6 +540,18 @@
     "metacritic": 76
   },
   {
+    "name": "Metaphor: ReFantazio",
+    "id": "Metaphor",
+    "genre": "JRPG",
+    "developer": "Atlus",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 11, 2024",
+    "hasShipped": true,
+    "metacritic": 94
+  },
+  {
     "name": "Metro Awakening",
     "id": "MA VR",
     "genre": "VR FPS",
