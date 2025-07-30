@@ -2408,20 +2408,20 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "TBD",
-    "resolution": "8K",
+    "rtTypes": "Ray traced reflections",
+    "resolution": "8K native",
     "fps": "120fps",
     "modes": [
       {
         "name": "quality",
-        "description": "8K at 60fps."
+        "description": "8K native at 60fps."
       },
       {
         "name": "performance",
         "description": "4K at 120fps."
       }
     ],
-    "extraInfo": "Ripstone's Reddit account confirmed that the above modes is what Pro will be targeting. We'll see if this holds true when the games releases in the announced end of Q3/start of Q4 2025 window."
+    "extraInfo": "Ripstone's Reddit/Steam account confirmed that the above modes is what Pro will be targeting. This will be Pro's first and (currently) only game to run at native 8K."
   },
   {
     "name": "Ratchet & Clank: Rift Apart",
