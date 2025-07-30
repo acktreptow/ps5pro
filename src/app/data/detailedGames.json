@@ -3253,7 +3253,7 @@
         "description": "1188p-1620p DRS to 4K at a very unstable 60fps that regularly falls below VRR window. Internal resolution/framerate dips lower when outside."
       }
     ],
-    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Resolution and framerate in Pro performance mode are slightly increased compared to base PS5 (internal res can drop to 900p). There's no HDR and quality mode is improperly paced everywhere. No matter the console, performance gets worse if booting up from rest mode, cycling through saves or a continuous playthrough due to memory leak and needs a fresh start of the app to fix."
+    "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Resolution and framerate in Pro performance mode are slightly increased compared to base PS5 (internal res can drop to 900p). There's no HDR and quality mode is improperly paced everywhere. No matter the console, performance gets worse if booting up from rest mode, cycling through saves or a continuous playthrough due to memory leak and needs a fresh start of the app to fix. These issues are still present as of patch 1.2/Aug 2025."
   },
   {
     "name": "The Elders Scrolls Online",
