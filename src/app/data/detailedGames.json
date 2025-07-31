@@ -1324,7 +1324,7 @@
     "release": "August 26, 2025",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
     "resolution": "1607p to 4K",
     "fps": "120fps",
@@ -1338,7 +1338,7 @@
         "description": "1440p-1607p DRS to 4K at a locked 120fps."
       }
     ],
-    "extraInfo": "Base PS5's 60 HZ mode has the same lowest base resolution of 1440p, but only goes up to 1552p. Base PS5's internal resolution in 120 HZ mode only goes up to 1080p compared to 1607p on Pro and can drop to 914p. Please note, this information is taken from the multiplayer beta and is likely to be a little different in the final version."
+    "extraInfo": "Base PS5's 60 HZ mode has the same lowest base resolution of 1440p, but only goes up to 1552p. Base PS5's internal resolution in 120 HZ mode only goes up to 1080p compared to 1607p on Pro and can drop to 914p. Please note, this information is taken from the multiplayer beta and is likely to be a little different in the final version. The PSN store also confirms PSSR and improved shadow/reflections quality, so we'll see how these implementations fare too."
   },
   {
     "name": "Ghost Of Yōtei",
