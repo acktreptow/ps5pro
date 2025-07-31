@@ -1748,9 +1748,9 @@
     "metacritic": 67,
     "pssr": false,
     "rt": false,
-    "resolution": "1800p",
+    "resolution": "1800p TSR",
     "fps": "60fps",
-    "extraInfo": "The framerate can dip below 60fps but should stay within the VRR window for most of the time it does dip."
+    "extraInfo": "While Pro utilizes UE5's TSR to target an upscaled 1800p, base PS5 only targets 1440p. These outputs are however dynamic, but at least Pro targets a noticeably higher ceiling. The framerate does dip below 60fps on both Pro and base PS5, but should stay within the VRR window for most of the instances it does dip."
   },
   {
     "name": "Kingdom Come: Deliverance 2",
