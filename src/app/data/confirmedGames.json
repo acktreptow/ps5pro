@@ -156,18 +156,6 @@
     "metacritic": 0
   },
   {
-    "name": "Dreams Of Another",
-    "id": "DoA",
-    "genre": "VR Exploration-Action",
-    "developer": "Q-Games",
-    "publisher": "Q-Games",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "October 10, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Elemental War Clash",
     "id": "EWC",
     "genre": "Strategy, Tower Defense",

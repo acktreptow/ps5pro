@@ -856,6 +856,24 @@
     "extraInfo": "All modes can toggle RTGI on/off and the framerate is around 10 fewer with it activated. Due to PSSR, RT is noisy/aliased and looks worse as the internal resolution lowers in subsequent modes. This exacerbation is also true with regular occlusion, although PSSR creates a sharper image and significantly improves ghosting, texture detail and material quality. Pro also hits its target framerate much more often than base PS5 in all modes."
   },
   {
+    "name": "Dreams Of Another",
+    "id": "DoA",
+    "urlPath": "dreams-of-another",
+    "genre": "VR Exploration-Action",
+    "developer": "Q-Games",
+    "publisher": "Q-Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "October 10, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "120fps native (likely)",
+    "extraInfo": "Q-Games has only briefly mentioned the Pro enhancements. For example, Pro will have 'detailed point cloud visuals'. They've also brought up resolution numerous times, which combined with the more artistic graphics, makes it likely that Pro can render DoA at PSVR2's maximum resolution/framerate. This is pure speculation however and we won't know for sure until closer to launch."
+  },
+  {
     "name": "Dying Light 2: Stay Human",
     "id": "DL2: SH",
     "urlPath": "dying-light-2-stay-human",
