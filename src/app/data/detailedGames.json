@@ -2460,6 +2460,24 @@
     "extraInfo": "Ripstone's Reddit/Steam account confirmed that the above modes is what Pro will be targeting. This will be Pro's first and (currently) only game to run at native 8K."
   },
   {
+    "name": "Quisisana",
+    "id": "Quisisana",
+    "urlPath": "quisisana",
+    "genre": "Survival Horror",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 23, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal."
+  },
+  {
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
