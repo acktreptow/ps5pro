@@ -2460,6 +2460,25 @@
     "extraInfo": "Ripstone's Reddit/Steam account confirmed that the above modes is what Pro will be targeting. This will be Pro's first and (currently) only game to run at native 8K."
   },
   {
+    "name": "Quantum Error",
+    "id": "Quantum Error",
+    "urlPath": "quantum-error",
+    "genre": "Action, Horror",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 3, 2023",
+    "hasShipped": true,
+    "metacritic": 40,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections, global illumination and shadows (base PS5)",
+    "resolution": "1440p to 4K (base PS5)",
+    "fps": "60fps (base PS5)",
+    "extraInfo": "While TeamKill confirmed they're working on a PS5 Pro update as early as October 2024, this has yet to come to fruition (the above tech info is taken from the base PS5 version). The last time they discussed this update was in May and they currently seem to be focused on their upcoming game 'Code Violet', which launches in November 2025. Hopefully when that game releases, TeamKill will have the bandwidth to make good on their promise of Pro support for Quantum Error."
+  },
+  {
     "name": "Quisisana",
     "id": "Quisisana",
     "urlPath": "quisisana",
