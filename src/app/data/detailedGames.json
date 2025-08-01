@@ -1920,6 +1920,24 @@
     "extraInfo": "*Madden 26 isn't out yet, but the following Madden 25 information from last year should give us at least a good baseline of what to expect. Especially as this is the first current-gen Madden to not release on PS4 - 'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper screen than even base PS5 resolution mode (especially grass), but it causes certain assets like crowd handrails to be more noisy/unstable. All cutscenes are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
   },
   {
+    "name": "Mafia: The Old Country",
+    "id": "Mafia: TOC",
+    "urlPath": "mafia-the-old-country",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 8, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K TSR (likely)",
+    "fps": "60fps",
+    "extraInfo": "Hangar 13 have confirmed that base PS5 will include both a 30fps quality mode and 60fps performance mode at launch. It's therefore likely that Pro has the same modes, but with a higher internal resolution before applying UE5's TSR to upscale to a 4K resolution. Additionally, Hangar 13 have also released their PC specifications and didn't discuss any form of RT. This means it's unlikely that there will be any form of UE5's RT on consoles, but this is just an educated guess. We won't have hard details on potential RT implementation/resolutions until closer to launch."
+  },
+  {
     "name": "Mandragora: WOTWT",
     "pageTitle": "Mandragora: Whispers of the Witch Tree",
     "id": "Mandragora",
