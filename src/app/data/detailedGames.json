@@ -373,6 +373,24 @@
     "extraInfo": "Pro's performance mode looks better than even base PS5's quality mode due to upscalers used. PSSR is a little bit softer than base PS5's FSR, but much more stable with less artifacting/flickering. This instability is especially noticeable with assets in motion, such as moving shadows. Pro also has an approx 10% higher framerate, so manages to reach 60fps more often than base PS5. Finally, Pro can also run split screen at either 30fps or 60fps, compared to just 30fps on base PS5."
   },
   {
+    "name": "Battlefield 6",
+    "id": "Battlefield 6",
+    "urlPath": "battlefield-6",
+    "genre": "First-Person Shooter",
+    "developer": "Battlefield Studios",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 10, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "120fps (likely)",
+    "extraInfo": "Battlefield Studios has confirmed that there will be a quality and performance mode on even base PS5, with 'visual performance enhancements' for Pro. As Battlefield has targeted at least 60fps on PlayStation since PS4, it's likely that quality mode will run at 60fps, with Pro having improved graphical settings and/or resolution over base PS5. Furthermore, as Battlefield 2042 was the first game in the series to support 120fps on a PlayStation, 120fps is likely the target for the performance mode, with Pro probably just having a higher internal resolution over the base PS5. Finally, it's likely neither mode has RT as even on PC, there has only been limited support. What these modes entail is however just educated guesses base off the history of the IP on PlayStation and we won't know for sure until closer to launch."
+  },
+  {
     "name": "Biped",
     "id": "Biped",
     "urlPath": "biped",

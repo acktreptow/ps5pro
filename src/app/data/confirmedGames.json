@@ -72,18 +72,6 @@
     "metacritic": 78
   },
   {
-    "name": "Battlefield 6",
-    "id": "Battlefield 6",
-    "genre": "First-Person Shooter",
-    "developer": "Battlefield Studios",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 10, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Beneath",
     "id": "Beneath",
     "genre": "Survival Horror, FPS",
