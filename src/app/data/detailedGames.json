@@ -391,6 +391,24 @@
     "extraInfo": "Battlefield Studios has confirmed that there will be a quality and performance mode on even base PS5, with 'visual performance enhancements' for Pro. As Battlefield has targeted at least 60fps on PlayStation since PS4, it's likely that quality mode will run at 60fps, with Pro having improved graphical settings and/or resolution over base PS5. Furthermore, as Battlefield 2042 was the first game in the series to support 120fps on a PlayStation, 120fps is likely the target for the performance mode, with Pro probably just having a higher internal resolution over the base PS5. Finally, it's likely neither mode has RT as even on PC, there has only been limited support. What these modes entail is however just educated guesses base off the history of the IP on PlayStation and we won't know for sure until closer to launch."
   },
   {
+    "name": "Beneath",
+    "id": "Beneath",
+    "urlPath": "beneath",
+    "genre": "Survival Horror, FPS",
+    "developer": "Camel 101",
+    "publisher": "Wired Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Late 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Camel 101 have confirmed that they're targeting 4K and 60fps on both base PS5 and Pro. They've also confirmed that Pro will utilize PSSR for 'enhanced visuals'. This potentially means that PSSR is doing a better job of creating a 4K-like image than base PS5's upscaler, or could simply mean that PSSR is using a higher internal resolution than what's on base PS5 due to Pro's extra power. We'll find out closer to the game's late 2025 launch."
+  },
+  {
     "name": "Biped",
     "id": "Biped",
     "urlPath": "biped",

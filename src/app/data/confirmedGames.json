@@ -72,18 +72,6 @@
     "metacritic": 78
   },
   {
-    "name": "Beneath",
-    "id": "Beneath",
-    "genre": "Survival Horror, FPS",
-    "developer": "Camel 101",
-    "publisher": "Wired Productions",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Late 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",
