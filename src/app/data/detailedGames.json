@@ -524,6 +524,24 @@
     "extraInfo": "Both PS5 consoles cap the framerate at 60fps. On Pro, there's dynamic resolution scaling that ranges from 1080p-4K native before being upscaled to 4K PSSR. With 1080p being the lowest internal resolution value, PSSR is still able to reconstruct an excellent 4K image in the most demanding areas."
   },
   {
+    "name": "Borderlands 4",
+    "id": "B4",
+    "urlPath": "borderlands-4",
+    "genre": "Looter First-Person Shooter",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 12, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "120fps (potentially)",
+    "extraInfo": "Randy Pitchford has stated that B4 is targeting 60fps on all consoles. Based on B3's and TTW's quality modes on base PS5, B4 would presumably render at native 4K - though this hasn't been confirmed. B3/TTW also featured a 120fps performance mode, which will hopefully carry over to B4. However, B3 was originally a PS4 title, and its PS5 update could drop below 1080p to hit 120fps. Since B4 is a current-gen only game, 120fps might not be possible without the internal resolution falling to an unacceptable level. In any case, 120fps remains speculative, and we won't know for sure until closer to B4's launch."
+  },
+  {
     "name": "Call Of Duty: Black Ops 6",
     "id": "COD: BO6",
     "urlPath": "call-of-duty-black-ops-6",
