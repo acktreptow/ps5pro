@@ -2295,6 +2295,24 @@
     "extraInfo": "*NBA 2K26 isn't out yet, but the following information from last year's NBA 2K25 provides a good baseline of what to expect - 'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
   },
   {
+    "name": "Nioh 3",
+    "id": "Nioh 3",
+    "urlPath": "nioh-3",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Early 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "When Nioh 1 & 2 came to PS5, they had a 4K/60fps mode, a 1080p DRS/60fps mode (with higher graphical settings like shadows) and a reduced fidelity 120fps mode. However, Nioh 3's June 2025 demo didn't support 120fps on either Pro or base PS5. Additionally, Nioh 3 was unable to maintain a stable 60fps or a consistent 1080p+ resolution in either its prioritize framerate or prioritize graphics modes on both consoles, though the Pro performed better on average. That said, this was just a demo, so these issues will likely improve by Nioh 3's launch. Unfortunately, given Nioh 3's current-gen only, and now open-world design, hitting 120fps may not be feasible without unacceptable resolution tradeoffs. Hopefully, this also changes with improved optimization before the early 2026 release."
+  },
+  {
     "name": "Ninja Gaiden 2 Black",
     "id": "NG2 Black",
     "urlPath": "ninja-gaiden-2-black",
