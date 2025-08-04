@@ -2521,6 +2521,24 @@
     "extraInfo": "Quality mode can dip below 60fps, but it's not common. Even when it happens, it's around the low 50's which is well within the VRR window. Performance mode is a locked 60fps, but at 1/4 of the resolution so looks noticeably blurrier. Base PS5 only has one mode which does render at 4K, but with a far more unstable 60fps framerate that regularly falls below the VRR window."
   },
   {
+    "name": "Phantom Blade Zero",
+    "id": "PBZ",
+    "urlPath": "phantom-blade-zero",
+    "genre": "Soulsborne",
+    "developer": "S-Game",
+    "publisher": "S-Game",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "S-Game have stated that Pro will have enhanced visuals over base PS5, which is targeting a 1440p/60fps mode and a 4K/30fps mode. However, in their Feb 2025 comments to Vice, this base PS5 performance mode can drop to as low as 40fps right now. Between their Pro comments and current base PS5 performance, it's unlikely that Pro will support 120fps. Potentially, the Pro performance mode will have 'enhanced visuals' with a resolution above 1440p and a more stable 60fps. S-Game have also stated that AMD have provided hardware-base RT solutions for PS5, so perhaps a Pro quality mode will support RT in a way that base PS5 can't. This is just conjecture though and we don't know if PBZ will end up with RT at all. We will find out closer to its 2026 launch."
+  },
+  {
     "name": "Pure Pool Pro",
     "id": "PPP",
     "urlPath": "pure-pool-pro",
