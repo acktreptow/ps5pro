@@ -947,19 +947,19 @@
     "modes": [
       {
         "name": "resolution",
-        "description": "Native 4K at 30 FPS. Better contact shadows compared to base PS5."
+        "description": "Native 4K at a locked 30 FPS with no RT. Better contact shadows compared to base PS5."
       },
       {
         "name": "quality",
-        "description": "Upscaled 4K at 30 FPS with RT. Now with increased base resolution (1440p) and better contact shadows compared to base PS5."
+        "description": "Upscaled 4K at a locked 30 FPS with RT. Now with increased base resolution (1440p) and better contact shadows compared to base PS5."
       },
       {
         "name": "balanced",
-        "description": "Upscaled 4K at 60 FPS. Increased base resolution (1512p) compared to base PS5."
+        "description": "Upscaled 4K at nearly locked 60 FPS with no RT. Increased base resolution (1512p) compared to base PS5."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K with VRR, up to 120 FPS. Increased base resolution (1440p), better contact shadows, spot shadows, and fog quality compared to base PS5."
+        "description": "Upscaled 4K with no RT and with VRR, up to 120 FPS. Increased base resolution (1440p), better contact shadows, spot shadows, and fog quality compared to base PS5."
       }
     ],
     "extraInfo": "All of Pro's modes also have improved global illumination, screen space reflections (except quality mode due to RT) and sub surface scattering compared to their equivalent base PS5 mode."
