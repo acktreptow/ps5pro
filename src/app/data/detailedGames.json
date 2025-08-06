@@ -291,7 +291,7 @@
     "name": "Atomfall",
     "id": "Atomfall",
     "urlPath": "atomfall",
-    "genre": "Survival Action",
+    "genre": "Survival, Action-Adventure",
     "developer": "Rebellion",
     "publisher": "Rebellion",
     "psStudios": false,
@@ -304,7 +304,7 @@
     "rtTypes": "Ray traced soft shadows",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro has DRS but can render at native 4K with a locked 60fps, whereas base PS5 renders a maximum of 1800p. However, both can dip to 1440p and neither hit their top resolution most of the time. All versions are also poorly aliased (even PC), so resolution differences are less noticeable compared to other games because there's so much shimmer/jaggies regardless. There's also low resolution surfaces and very poor SSR (equivalent to PC low settings) that exacerbate the shimmer. Finally, the overkill AO (including the RT) overly silhouettes the image (especially characters) on all consoles and can't be turned off."
+    "extraInfo": "Pro has DRS but can render at native 4K with a locked 60fps, whereas base PS5 renders a maximum of 1800p and has a less stable framerate. However, both can dip to 1440p and neither hit their top resolution most of the time. All versions are also poorly aliased (even PC), so resolution differences are less noticeable compared to other games because there's so much shimmer/jaggies regardless. There's also low resolution surfaces and very poor SSR (equivalent to PC low settings) that exacerbate the shimmer. Finally, the overkill AO (including the RT) overly silhouettes the image (especially characters) on all consoles and can't be turned off."
   },
   {
     "name": "Avatar: Pandora Frontiers",
