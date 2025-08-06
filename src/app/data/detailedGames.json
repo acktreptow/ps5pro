@@ -1067,9 +1067,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "GIBS (EA's own global illumination - hardware ray tracing for indirect lighting)",
-    "resolution": "1440p to 4K PSSR (likely)",
+    "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "CFB 26 on Pro provides the same upgrades over base PS5 that CFB 25 had. Pro removes the resolution, performance and visual quality modes seen in base PS5 for just one mode. Pro's PSSR renders a sharper image than even base PS5's resolution mode, but it causes certain assets like crowd handrails to be more unstable. Pro's cutscenes are now also 60fps like in base PS5's performance mode and gameplay is a locked 60fps. Finally, the GIBS RT implementation seems unchanged."
+    "extraInfo": "CFB 26 on Pro provides the same upgrades over base PS5 that CFB 25 had. Pro removes the resolution, performance and visual quality modes on base PS5 for just one mode. Pro's PSSR renders a sharper image than even base PS5's resolution mode and there's now 3D grass in gameplay, on more zoomed in cameras. However, PSSR also causes assets like crowd handrails to be more unstable. Pro's cutscenes/instant replays are now 60fps like in base PS5's performance mode and gameplay is a locked 60fps. Finally, the GIBS RT implementation seems unchanged."
   },
   {
     "name": "EA Sports FC 25",
