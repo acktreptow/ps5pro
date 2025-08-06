@@ -2176,7 +2176,7 @@
     "name": "Mortal Kombat 1",
     "id": "MK1",
     "urlPath": "mortal-kombat-1",
-    "genre": "Fighting",
+    "genre": "2D Fighter",
     "developer": "NetherRealm Studios",
     "publisher": "Warner Bros. Games",
     "psStudios": false,
@@ -2189,7 +2189,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5."
+    "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5. Finally, both consoles run at a basically locked 60fps."
   },
   {
     "name": "My First Gran Turismo",
