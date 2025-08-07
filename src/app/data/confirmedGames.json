@@ -48,6 +48,18 @@
     "metacritic": 76
   },
   {
+    "name": "Anima: GOM I & II",
+    "id": "Anima I & II",
+    "genre": "Action RPG",
+    "developer": "Anima Project",
+    "publisher": "Anima Publishing",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
