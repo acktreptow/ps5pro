@@ -660,18 +660,6 @@
     "metacritic": 75
   },
   {
-    "name": "NHL 25",
-    "id": "NHL 25",
-    "genre": "Sports, Ice Hockey",
-    "developer": "EA Vancouver",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 4, 2024",
-    "hasShipped": true,
-    "metacritic": 66
-  },
-  {
     "name": "Phasmophobia VR",
     "id": "Phasmophobia VR",
     "genre": "VR Co-Op Horror, Puzzle",
