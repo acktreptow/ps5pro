@@ -583,20 +583,20 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen lighting, reflections and shadows",
+    "rtTypes": "Unreal Engine 5 Lumen hardware-based lighting, reflections and shadows",
     "resolution": "4K native",
     "fps": "60fps",
     "modes": [
       {
         "name": "fidelity",
-        "description": "1440p-4K native DRS at 30fps with all RT."
+        "description": "1440p-4K native DRS at a mostly locked 30fps with all RT."
       },
       {
         "name": "performance",
-        "description": "1080p-1440p DRS to 4K TSR at 60fps with all RT."
+        "description": "1080p-1440p DRS to 4K TSR at a mostly locked 60fps with all RT."
       }
     ],
-    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc). Performance can vary depending on scene complexity, which will then kick in the dynamic resolution scaling."
+    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc). Performance can dip depending on scene complexity, which will then kick in the dynamic resolution scaling."
   },
   {
     "name": "Clair Obscur: Expedition 33",
