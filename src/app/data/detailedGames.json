@@ -1879,14 +1879,14 @@
     "modes": [
       {
         "name": "quality-centered",
-        "description": "4K at 40fps+ depending on if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance-centered mode."
+        "description": "4K at 30fps, or 40fps+ if HFR (VRR) is activated. Higher quality shadows, textures, SSR and volumetric fog than performance-centered mode."
       },
       {
         "name": "performance-centered",
         "description": "4K at a basically locked 60fps. HFR is disabled in this mode."
       }
     ],
-    "extraInfo": "Pro performance-centered mode is a native 4K, whereas base PS5 performance-centered mode has DRS that internally renders between 1512p-1800p, before upscaling to 4K. Pro quality-centered mode also has a 30% increase in FPS compared to base PS5 quality-centered mode's 30fps."
+    "extraInfo": "Pro performance-centered mode is a native 4K, whereas base PS5 performance-centered mode has DRS that internally renders between 1512p-1800p, before upscaling to 4K. Pro quality-centered mode also has at least a 30% increase in FPS (with VRR enabled) compared to base PS5 quality-centered mode's 30fps."
   },
   {
     "name": "Like A Dragon: Pirate Yakuza In Hawaii",
