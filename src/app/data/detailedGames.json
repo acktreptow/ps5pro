@@ -2608,7 +2608,7 @@
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Rift Apart",
     "urlPath": "ratchet-and-clank-rift-apart",
-    "genre": "Action Platformer",
+    "genre": "TPS Action Platformer",
     "developer": "Insomniac Games",
     "publisher": "Sony Interactive",
     "psStudios": true,
@@ -2631,7 +2631,7 @@
         "description": "1584p to 4K PSSR at a locked 60fps, or around 80-90fps with VRR."
       }
     ],
-    "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than FSR  seen in every base PS5 mode. Especially in motion with less aliasing etc, but can be noisier in stills. Performance Pro mode has much sharper RT reflections than base PS5 Performance RT mode. Fidelity Pro RT reflections look even less aliased as they're full resolution and its RTAO has more contact shadows, adding depth to assets all over the screen."
+    "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in general resolves more detail than the FSR upscaling utilized in every base PS5 mode. Especially in motion with less aliasing etc, but PSSR can be noisier in stills. Performance Pro mode has much sharper RT reflections than base PS5 Performance RT mode. Fidelity Pro RT reflections look even less aliased as they're full resolution and its RTAO has more contact shadows - adding depth to assets all over the screen."
   },
   {
     "name": "Ready Or Not",
