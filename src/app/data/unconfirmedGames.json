@@ -144,6 +144,18 @@
     "metacritic": 85
   },
   {
+    "name": "Cronos: The New Dawn",
+    "id": "Cronos",
+    "genre": "Survival Action Horror",
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 5, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crossfire: Sierra Squad",
     "id": "Crossfire VR",
     "genre": "VR FPS",
