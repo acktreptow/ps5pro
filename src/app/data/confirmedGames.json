@@ -228,6 +228,18 @@
     "metacritic": 0
   },
   {
+    "name": "Into Black",
+    "id": "Into Black",
+    "genre": "VR Action-Adventure",
+    "developer": "The Binary Mill",
+    "publisher": "The Binary Mill",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "August 28, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Isonzo",
     "id": "Isonzo",
     "genre": "Multiplayer FPS",
