@@ -1468,7 +1468,7 @@
     "modes": [
       {
         "name": "PS5 pro enhanced",
-        "description": "Quality settings of base PS5 (RT, better shadows/ambient occlusion/textures & longer draw distance than HFR) but runs at 4K/60+fps instead of 30fps."
+        "description": "Graphical settings of favor quality mode (RT, better shadows/ambient occlusion/textures & longer draw distance than HFR) but runs at 4K/60+fps instead of 30fps."
       },
 
       {
