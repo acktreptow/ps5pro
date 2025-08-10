@@ -1468,7 +1468,7 @@
     "modes": [
       {
         "name": "PS5 pro enhanced",
-        "description": "Graphical settings of favor quality mode (RT, better shadows/ambient occlusion/textures & longer draw distance than HFR) but runs at 4K/60+fps instead of 30fps."
+        "description": "Graphical settings of favor quality mode (RT, better shadows/ambient occlusion/textures & longer draw distance than HFR mode), but runs at 60fps."
       },
 
       {
@@ -1484,7 +1484,7 @@
         "description": "Legacy base PS5 performance mode capped at 60fps. Now redundant."
       }
     ],
-    "extraInfo": "Pro can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20 frames fewer. Both upscalers use 1440p as the base resolution. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
+    "extraInfo": "Pro can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20fps fewer in HFR mode. Both upscalers use 1440p as the base resolution but PS5 Pro Enhanced mode can regularly have an internal resolution of around 1800p. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
   },
   {
     "name": "Gran Turismo 7",
