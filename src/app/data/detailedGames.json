@@ -698,7 +698,7 @@
         "description": "1800p to 4K at a nearly locked 60fps, or around 65fps with VRR. Slightly blurrier than PS4 app on PS5, but has higher detailed LODs/no CBR artifacts."
       }
     ],
-    "extraInfo": "Compared to PS4, the biggest upgrade is the new sky simulation, which renders more accurate sunlight and darker nights. There's also increased foliage/draw distance (past PC max settings), as well as higher resolution shadows/textures, improved SSR/SSGI and more vibrant general lighting (sub-surface scattering/key lights). PSSR in enhanced mode is noisier in distant assets and foliage can blur when swaying, but looks much better in motion. VRR can be used in all modes and gives Pro's balanced mode the most significant advantage over its base PS5 equivalent."
+    "extraInfo": "Compared to PS4, the biggest upgrade is the new sky simulation, which renders more accurate sunlight and darker nights. There's also increased foliage/draw distance (past PC max settings), as well as higher resolution shadows/textures, improved SSR/SSGI and more vibrant general lighting (sub-surface scattering/key lights). PSSR in enhanced mode is noisier in distant assets and foliage can blur when swaying, but looks much better in motion. VRR can be used in all modes and gives Pro's balanced mode the most significant advantage over its base PS5 equivalent. Base PS5 performance mode is so blurry that it looks worse than even the native PS4 app."
   },
   {
     "name": "Dead Island 2",
