@@ -1223,7 +1223,7 @@
         "description": "1080p-1440p DRS to 4K TAAU. Mostly at a locked 120fps with no RT."
       }
     ],
-    "extraInfo": "Base PS5's quality mode has no RT during gameplay, whereas Pro's quality mode has 3/4 RT which dramatically improves realism. Pro even brings back RT shadows for cutscenes (which are now at 40fps, instead of 30fps) and replays. Base PS5's quality mode resolution is 1800p-4K DRS, yet Pro's PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base PS5 has no 8K mode and its 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p."
+    "extraInfo": "Base PS5's quality mode has no RT during gameplay, whereas Pro's quality mode has 3/4 RT which dramatically improves realism. Pro even brings back RT shadows for cutscenes (which are now at 40fps, instead of base PS5's 30fps) and replays. Base PS5's quality mode resolution is 1800p-4K DRS, yet Pro's PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base PS5 has no 8K mode and its 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p."
   },
   {
     "name": "F1 25",
