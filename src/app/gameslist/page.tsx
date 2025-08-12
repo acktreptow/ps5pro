@@ -254,6 +254,10 @@ const GamesListPage = async () => {
             entries.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            It provides regional value & promotion to the ecosystem (MiHoYo
+            games to improve Pro sales in China etc).
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             It&#39;s in my backlog!
           </li>
         </ul>
