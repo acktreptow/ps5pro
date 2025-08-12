@@ -708,6 +708,18 @@
     "metacritic": 85
   },
   {
+    "name": "Red Matter 2",
+    "id": "RM 2",
+    "genre": "VR Adventure, Puzzle",
+    "developer": "Vertical Robot",
+    "publisher": "Vertical Robot",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "May 18, 2023",
+    "hasShipped": true,
+    "metacritic": 89
+  },
+  {
     "name": "Resident Evil 2",
     "id": "RE2",
     "genre": "Survival Horror",
