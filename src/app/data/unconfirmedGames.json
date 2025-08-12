@@ -1104,6 +1104,18 @@
     "metacritic": 66
   },
   {
+    "name": "WWE 2K25",
+    "id": "WWE 25",
+    "genre": "Sports, Wrestling",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 14, 2025",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "World War Z: Aftermath",
     "id": "WWZ",
     "genre": "Co-Op Zombie Shooter",
