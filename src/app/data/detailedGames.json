@@ -166,7 +166,7 @@
     "name": "Arma Reforger",
     "id": "Arma R",
     "urlPath": "arma-reforger",
-    "genre": "Multiplayer Shooter",
+    "genre": "PvP FPS",
     "developer": "Bohemia Interactive",
     "publisher": "Bohemia Interactive",
     "psStudios": false,
@@ -181,11 +181,11 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "1944p to 4K FSR 1 at a nearly locked 30fps. Has better ambient occlusion, enabled contact shadows, shadows on terrain surfaces, and improved cloud quality compared to performance mode."
+        "description": "1944p to 4K FSR 1 at a nearly locked 30fps. Better ambient occlusion and cloud quality compared to performance mode."
       },
       {
         "name": "performance",
-        "description": "1440p to 4K FSR 1 at a relatively unstable 60fps."
+        "description": "1440p to 4K FSR 1 at a relatively unstable 60fps. Doesn't have fidelity mode's shadows on terrain surfaces/contact shadows."
       }
     ],
     "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively. Performance mode has a decent amount of screen tearing. You can add an FPS counter to the HUD."
