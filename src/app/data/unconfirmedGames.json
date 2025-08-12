@@ -552,6 +552,18 @@
     "metacritic": 69
   },
   {
+    "name": "Kena: Bridge Of Spirits",
+    "id": "Kena",
+    "genre": "Action-Adventure",
+    "developer": "Ember Lab",
+    "publisher": "Ember Lab",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 21, 2021",
+    "hasShipped": true,
+    "metacritic": 81
+  },
+  {
     "name": "Kunitsu-Gami: POTG",
     "id": "Kunitsu-Gami",
     "genre": "Action, Strategy",
