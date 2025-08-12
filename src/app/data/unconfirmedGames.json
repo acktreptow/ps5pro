@@ -984,6 +984,18 @@
     "metacritic": 85
   },
   {
+    "name": "The Witcher 3: Wild Hunt",
+    "id": "Witcher 3 Complete Edition",
+    "genre": "Action RPG",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 14, 2022",
+    "hasShipped": true,
+    "metacritic": 94
+  },
+  {
     "name": "Thief: Legacy Of Shadow",
     "id": "Thief VR",
     "genre": "VR Action-Adventure",
