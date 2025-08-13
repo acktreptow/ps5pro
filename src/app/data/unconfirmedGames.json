@@ -708,6 +708,18 @@
     "metacritic": 76
   },
   {
+    "name": "Reach",
+    "id": "Reach",
+    "genre": "VR Action-Adventure",
+    "developer": "nDreams Elevation",
+    "publisher": "nDreams",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Red Matter",
     "id": "RM 1",
     "genre": "VR Adventure, Puzzle",
