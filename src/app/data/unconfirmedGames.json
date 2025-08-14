@@ -624,6 +624,18 @@
     "metacritic": 76
   },
   {
+    "name": "Metal: Hellsinger VR",
+    "id": "Metal Hellsinger",
+    "genre": "VR Rhythm FPS",
+    "developer": "Lab42 & The Outsiders",
+    "publisher": "Funcom",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "October 3, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Metaphor: ReFantazio",
     "id": "Metaphor",
     "genre": "JRPG",
