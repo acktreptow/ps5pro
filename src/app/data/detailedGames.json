@@ -3164,7 +3164,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The framerate is a locked 60fps. Base PS5 has DRS which internally renders at 1800p max (lows of around 1523p) compared to a fixed 4K native on Pro. However, due to the current aliasing implementation Pro (and PC) use, certain assets like railings can look more jagged despite the higher resolution. This is likely a bug that will be an easy fix in a future patch (not PSSR as SF doesn't use it). Despite being on Unreal Engine 5, the Pro (and again, even PC) doesn't use any form of RT including UE5's Lumen."
+    "extraInfo": "Base PS5 has dynamic resolution scaling, which internally ranges between 1523p-1800p, then upscales to 4K. Whereas Pro's resolution is native 4K. Fortunately, both consoles run at a locked 60fps. Finally, despite being on Unreal Engine 5, Pro (and even PC) doesn't use any form of RT, including UE5's Lumen."
   },
   {
     "name": "Star Wars Jedi: Survivor",
