@@ -3883,10 +3883,10 @@
       },
       {
         "name": "performance",
-        "description": "1080p at 60fps."
+        "description": "1080p at a relatively stable 60fps."
       }
     ],
-    "extraInfo": "Base PS5 only has a performance mode as it can't render Rogue Trader at native 4K. Pro also has a much more stable framerate in both its modes compared to base PS5."
+    "extraInfo": "Base PS5 only has a singular 1080p/30fps mode as it can't render Rogue Trader at native 4K. Pro also has a more stable framerate (though not perfect) in both modes."
   },
   {
     "name": "Warhammer 40,000: SM2",
