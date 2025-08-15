@@ -3597,7 +3597,7 @@
         "description": "Legacy base PS5 mode. 1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
       }
     ],
-    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. PSSR beats FSR in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows which is a tier below."
+    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. PSSR beats FSR in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows, which is a tier below."
   },
   {
     "name": "The Precinct",
@@ -3615,7 +3615,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "30fps",
-    "extraInfo": "Both Pro and base PS5 render at native 4K with a locked 30fps. However, Pro has numerous improved graphical settings over base PS5. These include, but isn't limited to lighting, textures, shadows (resolution & quality), reflections, animation, effects and crowds. Pro's graphical settings are equivalent to high/very high on PC."
+    "extraInfo": "Both Pro and base PS5 render at native 4K with a locked 30fps. However, Pro has numerous improved graphical settings over base PS5. These include, but aren't limited to, lighting, textures, shadows (resolution & quality), reflections, animation, effects, and crowds. Pro's graphical settings are equivalent to high/very high on PC. Finally, Fallen Tree Games has confirmed there's no plans for a 60fps mode due to CPU limitations on both base and Pro."
   },
   {
     "name": "Tides Of Annihilation",
