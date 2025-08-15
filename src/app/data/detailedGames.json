@@ -3964,7 +3964,7 @@
     "rtTypes": "Hardware-based ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections, but the framerate is then capped at a locked 30fps."
+    "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
   },
   {
     "name": "Wuchang: Fallen Feathers",
