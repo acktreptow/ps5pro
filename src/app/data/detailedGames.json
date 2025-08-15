@@ -1326,7 +1326,7 @@
     "metacritic": 92,
     "pssr": true,
     "rt": false,
-    "resolution": "1440p to 4K PSSR",
+    "resolution": "4K",
     "fps": "60fps",
     "modes": [
       {
@@ -1342,7 +1342,7 @@
         "description": "Legacy base PS5 performance mode(s), with a sharp or smooth variation. 1152p-1440p DRS at a stable 60fps."
       }
     ],
-    "extraInfo": "Pro's new versatility mode runs at 1224p-1440p DRS to 4K PSSR at a very stable 60fps. All base PS5 modes are present and its 30fps graphics mode can have a much higher internal resolution. However Pro's PSSR implementation, though a bit noisier/unstable, still creates a far sharper image (especially distant detail) than graphics mode, with better SSR and less ghosting/artifacting, and at 60fps. Considering versatility mode has both the clearest image and highest/most stable framerate (its 60fps is more stable than the performance mode), all other modes are redundant."
+    "extraInfo": "Pro's new versatility mode runs at 1224p-1440p DRS to 4K PSSR at a very stable 60fps. All legacy base PS5 modes are present and its 30fps graphics mode can have a much higher internal resolution. However Pro's PSSR implementation, though a bit noisier/unstable, still creates a sharper image (especially distant detail) than even graphics mode, with better SSR and less ghosting/artifacting, and at 60fps. Considering versatility mode has both the clearest image and highest/most stable framerate (its 60fps is more stable than the either legacy performance mode), all other modes are redundant unless you really can't stand any image stability."
   },
   {
     "name": "Fortnite",
