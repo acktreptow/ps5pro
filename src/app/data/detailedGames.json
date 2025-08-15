@@ -3458,7 +3458,7 @@
     "name": "The Finals",
     "id": "The Finals",
     "urlPath": "the-finals",
-    "genre": "Multiplayer FPS",
+    "genre": "PvP FPS",
     "developer": "Embark Studios",
     "publisher": "Embark Studios",
     "psStudios": false,
@@ -3471,7 +3471,7 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The only difference between the Pro and base PS5 is a resolution increase. General gameplay looks slightly sharper on Pro with a more stable 60fps due to the extra GPU horsepower. The RTGI quality remains the same and there is no option for 120fps."
+    "extraInfo": "The only difference between Pro and base PS5 is a resolution increase (base PS5 has 1440p-4K DRS). General gameplay looks slightly sharper on Pro as it renders 4K more often, with a more stable 60fps due to the extra GPU horsepower. RTGI quality is the same on both consoles and neither have an option for 120fps."
   },
   {
     "name": "The First Berserker: K",
