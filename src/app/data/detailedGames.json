@@ -2243,7 +2243,7 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K at 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'."
+        "description": "4K at a stable 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'."
       },
       {
         "name": "balanced",
@@ -2254,7 +2254,7 @@
         "description": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
       }
     ],
-    "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution."
+    "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution, which it locks to at 60fps."
   },
   {
     "name": "NBA 2K25",
