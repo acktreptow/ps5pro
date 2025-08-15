@@ -4055,6 +4055,7 @@
   },
   {
     "name": "Zombie Derby: PS",
+    "pageTitle": "Zombie Derby: Pixel Survival",
     "id": "Zombie Derby: PS",
     "urlPath": "zombie-derby-pixel-survival",
     "genre": "Racing, Vehicle Combat",
@@ -4069,6 +4070,6 @@
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
-    "extraInfo": "While both the base PS5 and Pro versions run at 120fps, base PS5 is limited to 1440p. Pro runs at 4K, which is 2x the resolution and with a nearly locked framerate."
+    "extraInfo": "While both base PS5 and Pro run at a basically locked 120fps, base PS5 is limited to 1440p. Pro renders at 4K, which is a 2.25x increase in resolution."
   }
 ]
