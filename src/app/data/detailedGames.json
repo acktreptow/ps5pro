@@ -2367,7 +2367,7 @@
         "description": "4K PSSR at a basically locked 60fps."
       }
     ],
-    "extraInfo": "Both modes also have improved lighting, ultra quality reflections and higher quality ambient occlusion compared to base PS5. These improvements are also seen in the PSVR2 version. PSSR implementation works very well due to the high base resolution."
+    "extraInfo": "While base PS5 has a singular mode that also runs at 4K/60fps, both Pro modes have improved lighting, ultra quality reflections and higher quality ambient occlusion. These improvements are also seen in the PSVR2 version. PSSR implementation works very well due to the high base resolution in both modes."
   },
   {
     "name": "Off The Grid",
