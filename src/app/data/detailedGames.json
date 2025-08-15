@@ -3964,7 +3964,7 @@
     "rtTypes": "Hardware-based ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro runs at 4K/60fps which interestingly, is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
+    "extraInfo": "Pro runs at 4K/60fps, which is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
   },
   {
     "name": "Wuchang: Fallen Feathers",
@@ -4015,7 +4015,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro runs at a native 4K and relatively stable 60fps. At times when it dips under, it's still around 10 frames higher than base PS5. Pro also introduces ray traced reflections, ambient occlusion and improved diffuse lighting. You can however toggle RT off for a much more locked 60fps."
+    "extraInfo": "Pro renders at native 4K, with a relatively stable 60fps. At times when the framerate dips under, it's still around 10fps higher than base PS5 (which upscales to 4K). Pro also introduces RT reflections, adds ambient occlusion between objects, and improves diffuse lighting. You can however toggle RT off for a much more locked 60fps."
   },
   {
     "name": "Zombie Derby",
