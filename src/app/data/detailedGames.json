@@ -3565,7 +3565,7 @@
         "description": "Legacy base PS5 mode. 1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
       }
     ],
-    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. Finally, PSSR beats FSR in the PC version and comes very close to DLSS."
+    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. Finally, PSSR beats FSR in the PC version and comes very close to DLSS."
   },
   {
     "name": "The Last Of Us Part II",
@@ -3590,14 +3590,14 @@
       },
       {
         "name": "fidelity",
-        "description": "4K at a locked 30fps, 40fps with a 120 Hz display, or 50-60fps with VRR."
+        "description": "Legacy base PS5 mode. 4K at a locked 30fps, 40fps with a 120 Hz display, or 50-60fps with VRR."
       },
       {
         "name": "performance",
-        "description": "1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
+        "description": "Legacy base PS5 mode. 1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
       }
     ],
-    "extraInfo": "The fidelity and performance modes are the same as on base PS5. The PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to both, but fidelity mode is still very close in image quality and some reflections can even look better. For VRR, there is usually around a 25fps advantage in comparison to the same mode being run on base PS5. PSSR beats the FSR implementation in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows which is a tier below."
+    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. PSSR beats FSR in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows which is a tier below."
   },
   {
     "name": "The Precinct",
