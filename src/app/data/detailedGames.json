@@ -3500,7 +3500,7 @@
         "description": "Around 1220p (approx) to 4K at a locked 60fps."
       }
     ],
-    "extraInfo": "Quality mode holds a 60fps for the majority of combat. It can dip when lots of graphical effects are onscreen, but still stays above the 48fps VRR window. However, it can fall below that threshold in cutscenes. You can remove the framerate limit, but the game recommends that you keep it at 60fps or below."
+    "extraInfo": "Quality mode holds at 60fps for the majority of combat. It can dip when lots of graphical effects are onscreen, but still stays above the 48fps VRR window. However, it can fall below that threshold in cutscenes. You can remove the framerate limit, but the game recommends that you keep it at 60fps or below."
   },
   {
     "name": "The First Descendant",
