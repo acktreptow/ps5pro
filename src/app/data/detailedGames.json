@@ -3533,7 +3533,7 @@
         "description": "1440p PSSR at 60fps, which is achieved more often with frame gen on. Has all RT except for RT shadows and translucent surface reflections."
       }
     ],
-    "extraInfo": "One of the few Pro games to combine PSSR with AMD's FSR frame generation, whereas base PS5 uses FSR for upscaling. You can toggle both RT and frame generation on/off in all modes. Frame generation increases framerates, but isn't recommended as the base framerate is too low, resulting in too much input lag."
+    "extraInfo": "One of the few Pro games to combine PSSR's upscaling with AMD's FSR frame generation, whereas base PS5 also uses FSR for upscaling. You can toggle both RT and frame gen on/off in all modes. Frame gen increases framerates, but isn't recommended in any mode as the base framerate is too low, resulting in too much input lag."
   },
   {
     "name": "The Last Of Us Part I",
