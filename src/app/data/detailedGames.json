@@ -2005,9 +2005,19 @@
     "metacritic": 72,
     "pssr": false,
     "rt": false,
-    "resolution": "4K TSR (likely)",
+    "resolution": "1552p to 4K TSR",
     "fps": "60fps",
-    "extraInfo": "Hangar 13 have confirmed that base PS5 will include both a 30fps quality mode and 60fps performance mode at launch. It's therefore likely that Pro has the same modes, but with a higher internal resolution before applying UE5's TSR to upscale to a 4K resolution. Additionally, Hangar 13 have also released their PC specifications and didn't discuss any form of RT. This means it's unlikely that there will be any form of UE5's RT on consoles, but this is just an educated guess. We won't have hard details on potential RT implementation/resolutions until closer to launch."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1189p-1552p DRS to 4K TSR at a locked 30fps, or 40-60fps with Vsync off."
+      },
+      {
+        "name": "performance",
+        "description": "1008p-1189p DRS to 4K TSR at a basically locked 60fps. Reduced vegetation, shadows, draw distance, lighting, resolution, terrain, and reflections quality."
+      }
+    ],
+    "extraInfo": "While Pro's performance mode only dips to 1008p, base PS5 performance mode falls to 720p for much of the time. In quality mode, base PS5's 831p-960p DRS is below even Pro's lowest 1189p DRS bounds. Furthermore, base PS5 only upscales to 1440p in both modes, whereas Pro upscales to 4K. Pro also applies fewer cuts to its graphical settings (shadows/lighting etc) in its performance mode, and Pro quality mode's graphical settings are higher than base PS5 quality mode. Base PS5 quality mode has a higher average framerate that primarily stays within the VRR window though, whereas Pro's doesn't, and both maintain a solid 60fps in their performance modes with no option to go higher."
   },
   {
     "name": "Mandragora: WOTWT",
@@ -3667,7 +3677,7 @@
   },
   {
     "name": "TopSpin 2K25",
-    "id": "TopSpin 25",    
+    "id": "TopSpin 25",
     "urlPath": "topspin-2k25",
     "genre": "Sports, Tennis",
     "developer": "Hangar 13",
