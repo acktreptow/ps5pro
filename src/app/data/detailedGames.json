@@ -1549,6 +1549,34 @@
     "extraInfo": "*GTA 6 isn't confirmed to be Pro enhanced yet, but considering its budget, IP legacy, how Rockstar Games are perfectionists, and that it's currently the most anticipated game, it's the one game worth fully speculating. All info is from DF's analysis of the second trailer which was real-time on base PS5, making it a good baseline of what to expect on Pro. GTA 6's resolution was 1440p. There's diffuse RTGI for direct/indirect lighting and it's more stable compared to software UE5 Lumen that's popular on consoles. There's RT reflections that includes dynamic objects like people, even on rough/opaque surfaces (water etc), but SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) is top-tier. There's no RT shadows, but still looks great with accurate diffuse. The trailer's most impressive aspect is the accurate/natural hair rendering, regardless of hairstyle and even body hair. Finally, even on Pro, a 60fps mode is unlikely, but 40fps could be possible."
   },
   {
+    "name": "Hell Is Us",
+    "id": "HiU",
+    "urlPath": "hell-is-us",
+    "genre": "Action-Adventure",
+    "developer": "Rogue Factor",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 4, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "true": false,
+    "rt": false,
+    "resolution": "1440p (likely) to 4K PSSR/TSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1440p (likely) to 4K PSSR/TSR at a stable 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Sub-1440p (likely) to 4K PSSR/TSR at a stable 60fps."
+      }
+    ],
+    "extraInfo": "*All information is based off the demo and is subject to change for the game's September launch. You can toggle between PSSR and TSR as the upscaler. However, there is little difference between the two - certainly less of a difference than the framerate between modes."
+  },
+  {
     "name": "Hellblade 1",
     "pageTitle": "Hellblade: Senua's Sacrifice",
     "id": "Hellblade 1",
