@@ -4027,24 +4027,25 @@
     "hasShipped": true,
     "metacritic": 74,
     "pssr": false,
-    "rt": false,
-    "resolution": "1062p to 1800p",
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "1188p to 4K TSR",
     "fps": "120fps",
     "modes": [
       {
-        "name": "quality",
-        "description": "900p DRS to 1800p at 65-110fps with VRR (usually around 85fps)."
+        "name": "prioritize graphics",
+        "description": "900p-1188p DRS to 4K TSR at a basically locked 60fps, or around 80fps with VRR."
       },
       {
         "name": "balanced",
-        "description": "720p-900p DRS to 1800p at 65-110fps with VRR (usually around 90fps)."
+        "description": "810p to 4K TSR at unlocked/70fps on 60 HZ/120 Hz screens, or around 85fps with VRR."
       },
       {
-        "name": "performance",
-        "description": "600p-1062p DRS to 1800p at 75-120fps with VRR (usually around 95fps). Worse shadows/textures/draw distance etc compared to other modes."
+        "name": "prioritize FPS",
+        "description": "540p-864p DRS to 4K TSR at 60fps/80fps on 60 HZ/120 HZ screens or around 90fps with VRR. Slightly worse ambient occlusion/pop-in/shadows/textures/draw distance etc compared to other modes."
       }
     ],
-    "extraInfo": "Pro's quality and balanced modes have similar base resolution ranges to the same mode on base PS5. However, base PS5's performance mode (which also has worse shadows/textures etc compared to its other modes) usually reaches an internal resolution of 720p, whereas that's 1062p on Pro. Pro also increases the framerate by 15-20fps in each mode. There are no graphical setting improvements between Pro and base PS5."
+    "extraInfo": "There's no graphical improvements between Pro and base PS5 Pro, and all modes use Lumen GI/reflections. Both consoles also share the same DRS ranges in their equivalent modes - it's the target framerate that differs. For example, graphics mode is 900p-1188p on both consoles, but Pro targets 60fps whereas base PS5 targets 30fps. Pro is also able to maintain the higher bounds of the DRS ranges more often. FPS mode can also fall out of the VRR range on base PS5 (which also has worse shadows/textures etc compared to its other modes), whereas on Pro it aims for as high as 80fps on 120 HZ TVs. 540p can result in extreme artifacting regardless of console. Base PS5 can also hitch with sudden resolution changes or autosaves in FPS mode, but this doesn't happen on Pro. Base PS5 also aims for 30fps and 40fps in its graphics/balanced modes, but they are unevenly paced. This make base PS5s FPS mode the only viable option for smooth gameplay, whereas all 3 modes are viable on Pro."
   },
   {
     "name": "Zenless Zone Zero",
