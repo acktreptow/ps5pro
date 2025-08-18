@@ -387,7 +387,7 @@
     "pssr": true,
     "rt": false,
     "resolution": "1440p+ to 4K PSSR",
-    "fps": "120fps",
+    "fps": "110fps",
     "modes": [
       {
         "name": "balanced",
@@ -395,10 +395,10 @@
       },
       {
         "name": "performance",
-        "description": "1440p DRS to 4K PSSR at 70-120fps."
+        "description": "1440p DRS to 4K PSSR at 70-110fps. Slightly worse shadows, lighting, terrain quality, resolution, and level of detail than balanced."
       }
     ],
-    "extraInfo": "*All information is taken from BF6 betas and could change for launch. Base PS5 also has DRS that while a little lower than Pro, still hovers around 1440p in both of its modes. However, Pro uses PSSR instead of base PS5's FSR to upscale, and PSSR does a far better job at creating a sharp 4K-like image. Base PS5 balanced mode does however maintain a locked 60fps, but with Pro only dipping to 58fps for 1-2 seconds, there is essentially no difference with VRR enabled. Base PS5 performance mode also averaged to 85fps which is similar to Pro performance mode. Menus are 30fps regardless of console or mode. There's no RT, even on PC, but PC has improved GI (SSGI instead of SSAO/GTAO on consoles for a more realistic image) that DF believed could make it to Pro but not not base PS5 at launch."
+    "extraInfo": "*All information is taken from BF6 betas and could change for launch. Base PS5 also has DRS that while a little lower than Pro, still hovers around 1440p in both of its modes. However, Pro uses PSSR instead of base PS5's FSR to upscale, and PSSR does a far better job at creating a sharp 4K-like image. Base PS5 balanced mode does however maintain a locked 60fps, but with Pro only dipping to 58fps for 1-2 seconds, there's essentially no difference with VRR enabled. Base PS5 performance mode also averages 85fps, which is similar to Pro performance mode. Menus are 30fps regardless of console or mode. There's no RT, even on PC, but PC has improved GI (SSGI for a more realistic image instead of SSAO/GTAO on consoles), which hopefully makes it to at least Pro for launch."
   },
   {
     "name": "Beneath",
