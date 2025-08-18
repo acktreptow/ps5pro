@@ -384,11 +384,21 @@
     "release": "October 10, 2025",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "120fps (likely)",
-    "extraInfo": "Battlefield Studios has confirmed that there will be a quality and performance mode on even base PS5, with 'visual performance enhancements' for Pro. As Battlefield has targeted at least 60fps on PlayStation since PS4, it's likely that quality mode will run at 60fps, with Pro having improved graphical settings and/or resolution over base PS5. Furthermore, as Battlefield 2042 was the first game in the series to support 120fps on a PlayStation, 120fps is likely the target for the performance mode, with Pro probably just having a higher internal resolution over the base PS5. Finally, it's likely neither mode has RT as even on PC, there has only been limited support. What these modes entail is however just educated guesses base off the history of the IP on PlayStation and we won't know for sure until closer to launch."
+    "resolution": "1440p+ to 4K PSSR",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "balanced",
+        "description": "1440p+ DRS to 4K PSSR at a basically locked 60fps (lows of 58fps)."
+      },
+      {
+        "name": "performance",
+        "description": "1440p DRS to 4K PSSR at 70-120fps."
+      }
+    ],
+    "extraInfo": "*All information is taken from BF6 betas and could change for launch. Base PS5 also has DRS that while a little lower than Pro, still hovers around 1440p in both of its modes. However, Pro uses PSSR instead of base PS5's FSR to upscale, and PSSR does a far better job at creating a sharp 4K-like image. Base PS5 balanced mode does however maintain a locked 60fps, but with Pro only dipping to 58fps for 1-2 seconds, there is essentially no difference with VRR enabled. Base PS5 performance mode also averaged to 85fps which is similar to Pro performance mode. Menus are 30fps regardless of console or mode. There's no RT, even on PC, but PC has improved GI (SSGI instead of SSAO/GTAO on consoles for a more realistic image) that DF believed could make it to Pro but not not base PS5 at launch."
   },
   {
     "name": "Beneath",
