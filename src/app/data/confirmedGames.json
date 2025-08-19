@@ -372,6 +372,18 @@
     "metacritic": 80
   },
   {
+    "name": "Neverness To Everness",
+    "id": "NTE",
+    "genre": "F2P Action RPG",
+    "developer": "Hotta Studio",
+    "publisher": "Perfect World Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "NHL 26",
     "id": "NHL 26",
     "genre": "Sports, Ice Hockey",
