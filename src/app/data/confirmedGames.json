@@ -540,6 +540,18 @@
     "metacritic": 0
   },
   {
+    "name": "Sengoku Dynasty",
+    "id": "Sengoku Dynasty",
+    "genre": "City Builder, Survival",
+    "developer": "Superkami",
+    "publisher": "Toplitz Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 21, 2025",
+    "hasShipped": true,
+    "metacritic": 65
+  },
+  {
     "name": "Sonic Racing: C",
     "id": "Sonic Racing: C",
     "genre": "Racing, Arcade Kart",
