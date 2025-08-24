@@ -3272,6 +3272,25 @@
     "extraInfo": "Base PS5 has dynamic resolution scaling, which internally ranges between 1523p-1800p, then upscales to 4K. Whereas Pro's resolution is native 4K. Fortunately, both consoles run at a locked 60fps. Finally, despite being on Unreal Engine 5, Pro (and even PC) doesn't use any form of RT, including UE5's Lumen."
   },
   {
+    "name": "Stalker 2: Heart Chornobyl",
+    "pageTitle": "Stalker 2: Heart Of Chornobyl",
+    "id": "Stalker 2",
+    "urlPath": "stalker-2-heart-of-chornobyl",
+    "genre": "Open-World FPS",
+    "developer": "GSC Game World",
+    "publisher": "GSC Game World",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 20, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "GSC has confirmed that Pro will have improved shadow quality and resolution, enhanced global illumination, higher-quality reflections, improved volumetric fog, and enhanced volumetric cloud rendering over base PS5. Actual resolution/framerate numbers will hopefully arrive closer to launch."
+  },
+  {
     "name": "Star Wars Jedi: Survivor",
     "id": "SWJ: Survivor",
     "urlPath": "star-wars-jedi-survivor",
