@@ -2200,13 +2200,14 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 28, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
+    "hasShipped": true,
+    "metacritic": 86,
     "pssr": true,
-    "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Konami has confirmed that there will be both a quality and performance mode on Pro. They've also confirmed that Pro will use PSSR, but didn't mention if it's just for performance mode or for both. RT is currently labelled as false, but based off the PC requirements (minimum specs require at least a 2060 Super GPU), it's very possible that Pro could utilize RT, at least in quality mode. Likely Unreal Engine 5's Lumen and hopefully the superior hardware-based version, but this is all speculation."
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen global illumination (likely)",
+    "resolution": "1152p to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Pro only has a singular mode that in theory, combines the best of base PS5's graphics and performance modes. It maintains the improved object/shadow LODs (rock/leaves etc) and GI in base PS5 graphics mode, but at base PS5 performance mode's 60fps. In practice, Pro's image quality has numerous issues. Pro has 756p-1152p DRS and is usually at 756p, which is lower than base PS5 quality mode's 1080p-1584p DRS. This results in a noticeably blurrier image on Pro compared to base PS5 graphics mode (especially in stills), and can even be worse than base PS5 performance mode (720p-1080p DRS). Additionally, Pro's PSSR can cause more GI flickering (both indoors/outdoors) compared to base PS5's TSR. Although PSSR does have an improved image when in motion with less flickering/artifacting in hair/foliage etc and more image stability with occlusion artifacts. Pro's 60fps target also generally runs lower than base PS5 performance mode, which is already unstable and regularly falls outside the VRR window (both range from 30-60fps). Base PS5 quality mode also can't always maintain 30fps and when it does, it's improperly paced. Cutscenes are 30fps with the improved graphics mode settings in both base PS5 modes but at 40-60fps on Pro."
   },
   {
     "name": "Midnight Murder Club",
