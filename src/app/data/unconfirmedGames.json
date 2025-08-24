@@ -1128,6 +1128,18 @@
     "metacritic": 66
   },
   {
+    "name": "Where Winds Meet",
+    "id": "WWM",
+    "genre": "Soulsborne",
+    "developer": "Everstone Studio",
+    "publisher": "NetEase Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 14, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "WWE 2K25",
     "id": "WWE 25",
     "genre": "Sports, Wrestling",
