@@ -2043,12 +2043,12 @@
     "release": "August 29, 2025",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
-    "rtTypes": "Ray traced lighting, shadows and reflections (likely)",
-    "resolution": "4K (placeholder)",
-    "fps": "60fps (placeholder)",
-    "extraInfo": "LSA ships in August, but based off Yang Bing's (LSA creator) comments, we can make educated assumptions on a few things. Firstly, Bing has stated that Pro will run at a higher resolution and more stable framerate than base PS5. Bing is also receiving significant aid from Sony's China Hero Project, who convinced him to stick with the less resource-intensive Unreal Engine 4. The PlayStation official page also hints to RT lighting, shadows and reflections, with PC specs already confirming its happening there. All this suggests there's a good chance Pro will be able to come close to the visual triangle of 4K, 60fps and RT. Perhaps using PSSR (unconfirmed) to achieve this."
+    "rtTypes": "Ray traced reflections, shadows and global illumination",
+    "resolution": "4K upscaled",
+    "fps": "60fps (likely)",
+    "extraInfo": "So far, Ultizero has confirmed that Pro will have RT reflections, shadows and GI while rendering at a dynamic 4K. Pro will also have higher texture quality, more detailed particle effects and faster loading compared to base PS5 - all at a higher/more stable framerate. Actual resolution/framerate numbers will hopefully arrive before launch."
   },
   {
     "name": "Madden NFL 25",
