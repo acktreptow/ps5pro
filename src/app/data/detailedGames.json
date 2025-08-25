@@ -1636,13 +1636,23 @@
     "psvr2": false,
     "release": "August 12, 2025",
     "hasShipped": true,
-    "metacritic": 83,
+    "metacritic": 84,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen reflections (hopefully hardware-based, but at least software-based)",
-    "resolution": "1440p to 4K TSR/PSSR (likely)",
+    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
+    "resolution": "1700p to 4K TSR/PSSR",
     "fps": "60fps",
-    "extraInfo": "Hellblade II launched on Xbox last year, but was limited to 30fps, at 1440p to 4K TSR, with software-based RT. It's already been confirmed that H2 will now include a 60fps mode that has a lower resolution and worse graphical settings, but won't strip out features like RT. This mode will be on Series X/base PS5, meaning it's also there on Pro. But while Pro could probably render at native 4K, it'll likely keep Series X's 1440p for its 60fps mode due to H2's extensive use of post-processing, which minimizes the impact of a base resolution increase. Hopefully instead, Pro incorporates superior hardware-accelerated RT that would be exclusive to Pro/PC, but this is just optimistic speculation. Ninja Theory have also confirmed that Pro can use either PSSR or UE5's TSR as the upscaler, so it will be interesting to see which performs better especially as PSSR isn't possible on base PS5."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1080p-1700p DRS (1696p avg) to 4K PSSR/TSR at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "720p-1200p DRS (1166p avg) to 4K PSSR/TSR at a locked 60fps. Has same graphical fidelity as base PS5 quality mode."
+      }
+    ],
+    "extraInfo": "Base PS5 quality/performance mode averages 1432p/989p, and max out at 1600p/1080p respectively - all of which are lower than Pro's equivalent mode. Pro also utilizes VRS and upscales directly to 4K in both modes, whereas base PS5 performance mode targets 1440p before spatially upscaling to 4K. This all creates a cleaner/sharper image on Pro regardless of mode, especially rock/foliage/distant terrain. And with a more stable 60fps (though base PS5 framerates are still basically locked). PSSR is a little noisier/blurrier than TSR in stills, but has more clarity in motion. However, these differences between the 2 upscalers are minimal due to heavy post-processing (chromatic aberration/lens distortion/film grain etc). Base PS5 quality mode has improved graphics settings (shadows/fog & Lumen lighting/GI etc) over its performance mode, but these upgrades are also in Pro performance mode."
   },
   {
     "name": "Helldivers 2",
