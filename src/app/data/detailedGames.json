@@ -1645,14 +1645,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1080p-1700p DRS (1696p avg) to 4K PSSR/TSR at a locked 30fps."
+        "description": "1080p-1700p DRS (1696p avg) to 4K PSSR/TSR (inc black bars) at a locked 30fps."
       },
       {
         "name": "performance",
-        "description": "720p-1200p DRS (1166p avg) to 4K PSSR/TSR at a locked 60fps. Has same graphical fidelity as base PS5 quality mode."
+        "description": "720p-1200p DRS (1166p avg) to 4K PSSR/TSR (inc black bars) at a locked 60fps. Similar graphical fidelity as base PS5 quality mode."
       }
     ],
-    "extraInfo": "Base PS5 quality/performance mode averages 1432p/989p, and max out at 1600p/1080p respectively - all of which are lower than Pro's equivalent mode. Pro also utilizes VRS and upscales directly to 4K in both modes, whereas base PS5 performance mode targets 1440p before spatially upscaling to 4K. This all creates a cleaner/sharper image on Pro regardless of mode, especially rock/foliage/distant terrain. And with a more stable 60fps (though base PS5 framerates are still basically locked). PSSR is a little noisier/blurrier than TSR in stills, but has more clarity in motion. However, these differences between the 2 upscalers are minimal due to heavy post-processing (chromatic aberration/lens distortion/film grain etc). Base PS5 quality mode has improved graphics settings (shadows/fog & Lumen lighting/GI etc) over its performance mode, but these upgrades are also in Pro performance mode."
+    "extraInfo": "Base PS5 quality/performance modes average 1432p/989p and max out at 1600p/1080p - all of which are lower than Pro's equivalent mode. Pro also utilizes VRS and upscales to 4K in both modes, whereas base PS5 performance mode targets 1440p, then spatially upscales to 4K. This all creates a sharper image on Pro regardless of mode, especially rock/foliage/distant terrain. And with a more stable 60fps (though base PS5 is still good). PSSR is slightly noisier/blurrier than TSR in stills, but clearer in motion. However, any differences between upscalers are minimal due to heavy post-processing (chromatic aberration/film grain etc). Base PS5 performance mode has worse shadows, fog, and Lumen lighting/GI over its quality mode, but these are improved (sometimes back to quality mode settings) for Pro performance mode."
   },
   {
     "name": "Helldivers 2",
