@@ -192,6 +192,18 @@
     "metacritic": 0
   },
   {
+    "name": "Full Metal Schoolgirl",
+    "id": "FMS",
+    "genre": "Action, Third-Person Shooter",
+    "developer": "Yuke's",
+    "publisher": "D3 Publisher",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 23, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Hole Digging Master",
     "id": "HDM",
     "genre": "Simulation, Adventure",
