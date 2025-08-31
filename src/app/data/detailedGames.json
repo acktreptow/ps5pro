@@ -2655,6 +2655,25 @@
     "extraInfo": "S-Game have stated that Pro will have enhanced visuals over base PS5, which is targeting a 1440p/60fps mode and a 4K/30fps mode. However, in their Feb 2025 comments to Vice, this base PS5 performance mode can drop to as low as 40fps right now. Between their Pro comments and current base PS5 performance, it's unlikely that Pro will support 120fps. Potentially, the Pro performance mode will have 'enhanced visuals' with a resolution above 1440p and a more stable 60fps. S-Game have also stated that AMD have provided hardware-base RT solutions for PS5, so perhaps a Pro quality mode will support RT in a way that base PS5 can't. This is just conjecture though and we don't know if PBZ will end up with RT at all. We will find out closer to its 2026 launch."
   },
   {
+    "name": "Pragmata",
+    "id": "Pragmata",
+    "urlPath": "pragmata",
+    "genre": "Sci-Fi, Action-Adventure",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections and global illumination",
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there is full RT support, but there won't be pathtracing. They also confirmed 60fps, and while there were some minor dips during cutscenes, these will likely be ironed out for the final release."
+  },
+  {
     "name": "Pure Pool Pro",
     "id": "PPP",
     "urlPath": "pure-pool-pro",
