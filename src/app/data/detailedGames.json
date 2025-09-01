@@ -2690,7 +2690,7 @@
     "rtTypes": "Ray traced reflections and global illumination",
     "resolution": "4K (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there is full RT support, but there won't be pathtracing. They also confirmed 60fps, and while there were some minor dips during cutscenes, these will likely be ironed out for the final release."
+    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there's full RT support. They also confirmed 60fps, and while there were some minor dips (still within VRR window) during cutscenes, these will likely be ironed out for the final release."
   },
   {
     "name": "Pure Pool Pro",
