@@ -68,7 +68,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 1, 2025",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0
   },
   {
@@ -332,8 +332,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 2, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 74
   },
   {
     "name": "Midnight Town Stories",
