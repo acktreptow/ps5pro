@@ -1454,19 +1454,19 @@
     "metacritic": 79,
     "pssr": true,
     "rt": false,
-    "resolution": "1800p to 4K",
+    "resolution": "1620p to 4K PSSR",
     "fps": "120fps",
     "modes": [
       {
         "name": "60 Hz",
-        "description": "1440p-1800p DRS to 4K at a locked 60fps."
+        "description": "1620p to 4K PSSR at a locked 60fps."
       },
       {
         "name": "120 Hz",
-        "description": "1440p-1607p DRS to 4K at a locked 120fps."
+        "description": "1440p to 4K PSSR at 90-120fps (usually around 100fps)."
       }
     ],
-    "extraInfo": "Base PS5's 60 HZ mode has the same lowest base resolution of 1440p, but only goes up to 1552p. Base PS5's internal resolution in 120 HZ mode only goes up to 1080p compared to 1607p on Pro and can drop to 914p. Please note, this information is taken from the multiplayer beta and is likely to be a little different in the final version. The PSN store also confirms PSSR and improved shadow/reflections quality, so we'll see how these implementations fare too in late August."
+    "extraInfo": "Pro has improved shadows/reflections compared to base PS5. The internal resolution for base PS5's 60 HZ mode is only 1440p compared to Pro's 1620p, and its 120 HZ mode internally renders at 1080p compared to Pro's 1440p. While both consoles then upscale to 4K, Pro uses PSSR, which results in sharper foliage/textures compared to base PS5's FSR3 upscaling. Additionally, while both consoles maintain a locked 60fps in their 60 Hz modes, base PS5 is usually around 20fps lower than Pro in their 120 HZ modes and can go as low as 70fps. Between the same 1440p internal resolution and the superior PSSR upscale, Pro's 120 HZ mode is actually sharper than base PS5's 60 HZ mode, with better graphical settings, at nearly 2x the framerate."
   },
   {
     "name": "Ghost Of Yōtei",
