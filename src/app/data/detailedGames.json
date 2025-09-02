@@ -2690,7 +2690,7 @@
     "rtTypes": "Ray traced reflections and global illumination",
     "resolution": "4K (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there's full RT support. They also confirmed 60fps, and while there were some minor dips (still within VRR window) during cutscenes, these will likely be ironed out for the final release."
+    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there's full RT support. They also confirmed 60fps, and while there were some minor dips (still within VRR window) during cutscenes, these will likely be ironed out for the final release. It's unlikely that there will be an 120fps mode as the very reflective sterile space station aesthetic requires RT reflections to look good. RE engine is also notoriously poor with what would've been the RT fallback in SSR (screen space reflections)."
   },
   {
     "name": "Pure Pool Pro",
