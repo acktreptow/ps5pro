@@ -3524,9 +3524,9 @@
     "metacritic": 88,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Giant Squid hasn't said much about the technical performance of the game. However, they did suggest on the PS Blog that at the very least, both base PS5 and Pro will have a 60fps mode. We will have to wait until launch to find out if other improvements (120fps mode, improved resolution) is in the cards for Pro."
+    "resolution": "4K Upscaled",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 have a singular mode that runs at 60fps. Pro's framerate is more stable than base PS5, but can still dip below when multiple effects are onscreen. Most of these dips should however stay within the VRR window. Both Pro and base PS5 also upscale to 4K as the final output resolution, but the internal resolution is noticeably higher on Pro and results in a sharper image."
   },
   {
     "name": "Test Drive Unlimited: SC",
