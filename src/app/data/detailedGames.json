@@ -1484,7 +1484,7 @@
         "description": "1440p to 4K PSSR at 90-120fps (usually around 100fps)."
       }
     ],
-    "extraInfo": "Pro has improved shadows/reflections compared to base PS5. The internal resolution for base PS5's 60 HZ mode is only 1440p compared to Pro's 1620p, and its 120 HZ mode internally renders at 1080p compared to Pro's 1440p. While both consoles then upscale to 4K, Pro uses PSSR, which results in sharper foliage/textures compared to base PS5's FSR3 upscaling. Additionally, while both consoles maintain a locked 60fps in their 60 Hz modes, base PS5 is usually around 20fps lower than Pro in their 120 HZ modes and can go as low as 70fps. Between the same 1440p internal resolution and the superior PSSR upscale, Pro's 120 HZ mode is actually sharper than base PS5's 60 HZ mode, with better graphical settings, at nearly 2x the framerate."
+    "extraInfo": "Pro has improved shadows/reflections (less noisy etc) over base PS5. The internal resolution for base PS5's 60 HZ mode is only 1440p compared to Pro's 1620p, and its 120 HZ mode internally renders at 1080p compared to Pro's 1440p. While both consoles then upscale to 4K, Pro uses PSSR, which results in sharper foliage/textures compared to base PS5's FSR3. Additionally, while both consoles maintain a locked 60fps in their 60 Hz modes, base PS5 is usually around 20fps lower than Pro in their 120 HZ modes and drops to 70fps. Between the same 1440p internal resolution and the superior PSSR upscale, Pro's 120 HZ mode is actually sharper than base PS5's 60 HZ mode, with better graphical settings, at nearly 2x the framerate."
   },
   {
     "name": "Ghost Of Yōtei",
