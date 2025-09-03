@@ -513,7 +513,7 @@
         "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
       }
     ],
-    "extraInfo": "Base PS5's performance mode is very similar to Pro and also uses frame generation. However due to frame gen, the quality/balanced modes have less input lag and therefore feel more responsive despite fewer frames. Pro's PSSR in these modes also offer a far clearer image (albeit a little noisier) than FSR3 and FSR2, which base PS5 uses in its balanced and quality modes to target an upscaled 1440p."
+    "extraInfo": "Base PS5's performance mode is only 1080p, but like Pro, also uses frame generation. However due to frame gen, the quality/balanced modes on both consoles have less input lag and therefore feel more responsive, despite fewer frames. Pro's PSSR in these modes also offer a far clearer image (albeit a little noisier) than FSR3 and FSR2, which base PS5 uses in its balanced (1080p internal) and quality (1296p internal) modes to target an upscaled 1440p."
   },
   {
     "name": "Blades Of Fire",
