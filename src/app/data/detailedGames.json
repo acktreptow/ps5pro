@@ -806,6 +806,24 @@
     "extraInfo": "Pro's performance and quality modes look nearly identical despite a 2x in framerate. Both Pro and base PS5 performance modes run in an 120 Hz container, resulting in less input lag. Outside of base PS5's higher DRS (1800p-4K) in quality mode, Pro performance mode matches its graphical settings (distant terrain detail/geometry, shadows, AO & texture LODs). Base PS5 performance mode's 1260p-1800p DRS can be noticeably blurrier, with more image instability/shimmer/fizzle as well as worse reflections/shadows/draw distance than all the other modes."
   },
   {
+    "name": "Delta Force",
+    "id": "Delta Force",
+    "urlPath": "delta-force",
+    "genre": "F2P Tactical FPS",
+    "developer": "Team Jade",
+    "publisher": "TiMi Studio Group",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 19, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (with PSSR soon)",
+    "fps": "60fps",
+    "extraInfo": "Delta Force doesn't currently have Pro enhancements. However, the developers have confirmed that one is coming with its next seasonal update. This will provide PSSR support to 'deliver sharper visuals and greater stability'."
+  },
+  {
     "name": "Demon's Souls",
     "id": "DS",
     "urlPath": "demons-souls",
