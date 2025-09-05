@@ -12,18 +12,6 @@
     "metacritic": 50
   },
   {
-    "name": "Albatroz",
-    "id": "Albatroz",
-    "genre": "Immersive Sim RPG",
-    "developer": "Among Giants",
-    "publisher": "Soedesco",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 1, 2024",
-    "hasShipped": true,
-    "metacritic": 76
-  },
-  {
     "name": "Amer Fighting",
     "id": "AF",
     "genre": "Action, Fighting",

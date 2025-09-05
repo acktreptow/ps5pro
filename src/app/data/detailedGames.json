@@ -69,6 +69,24 @@
     "extraInfo": "Pro can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K like in stills. PSSR looks sharper in motion with less artifacting. Differences are less obvious in quality mode as base resolution is 1224p (others look relatively soft regardless as 864p to 4K is a big jump). There's no RT on base PS5 and Pro's quality mode also has higher quality shadows, volumetric lighting and fog. All Pro modes have a more stable framerate than their base PS5 equivalent."
   },
   {
+    "name": "Albatroz",
+    "id": "Albatroz",
+    "urlPath": "albatroz",
+    "genre": "Immersive Sim RPG",
+    "developer": "Among Giants",
+    "publisher": "Soedesco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 1, 2024",
+    "hasShipped": true,
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K TSR",
+    "fps": "60fps",
+    "extraInfo": "Pro can render up to 4K (1080p-4K DRS), compared to 1440p on base PS5 (900p-1440p DRS). Pro also uses Unreal Engine 5's TSR to upscale it final output, whereas base PS5 uses TAAU. The increased resolution and superior upscaler results in a much sharper image on Pro. While both consoles also target 60fps, Pro's framerate is more stable. PSSR as well as RT reflections, ambient occlusion and shadows were experimented with for Pro, but were ultimately not implemented due to time constraints."
+  },
+  {
     "name": "Alien: Rogue Incursion",
     "pageTitle": "Alien: Rogue Incursion Evolved Edition",
     "id": "A: RI",
