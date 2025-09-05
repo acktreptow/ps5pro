@@ -997,9 +997,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "2000 x 2040 per eye (likely)",
-    "fps": "120fps native (likely)",
-    "extraInfo": "Q-Games has only briefly mentioned the Pro enhancements. For example, Pro will have 'detailed point cloud visuals'. They've also brought up resolution numerous times, which combined with the more artistic graphics, makes it likely that Pro can render DoA at PSVR2's maximum resolution/framerate. This is pure speculation however and we won't know for sure until closer to launch."
+    "resolution": "1440p",
+    "fps": "60fps",
+    "extraInfo": "Q-Games has confirmed that Pro will have 'detailed point cloud visuals'. Pro will also render at 1440p compared to 1080p on base PS5. Both consoles use 60 Hz to 120 Hz reprojection in the optional VR mode (exclusive to PSVR2)."
   },
   {
     "name": "Dying Light 2: Stay Human",
