@@ -528,6 +528,18 @@
     "metacritic": 86
   },
   {
+    "name": "Puzzle Quest: Immortal",
+    "id": "Puzzle Quest",
+    "genre": "Puzzle, Match 3",
+    "developer": "Infinity Plus 2",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 18, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Resonance: Plague Tale",
     "id": "Resonance: APTL",
     "genre": "Action-Adventure, Stealth",
