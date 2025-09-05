@@ -1901,6 +1901,24 @@
     "extraInfo": "Pro's dynamic resolution scale ranges from 1440p to native 4K, which it regularly hits. Base PS5's DRS only renders up to 1800p and dips as low as 1200p. Both consoles have a very stable 60fps framerate, but Pro hits 60fps slightly more often. Even with its slightly improved RTGI and ambient occlusion/shadows implementation. There's no option to unlock the framerate, even though Pro looks like it has the headroom for a noticeable increase past 60fps. Cutscenes are locked to 60fps everywhere (even PC)."
   },
   {
+    "name": "Into Black",
+    "id": "Into Black",
+    "urlPath": "into-black",
+    "genre": "VR Action-Adventure",
+    "developer": "The Binary Mill",
+    "publisher": "The Binary Mill",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "August 28, 2025",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "120fps native",
+    "extraInfo": "Pro supports 120 Hz natively whereas base PS5 only supports a 90 Hz refresh rate. Both consoles support remastered environments (enhanced water, flora, fauna, geometry, textures etc) and dynamic real-time shadows."
+  },
+  {
     "name": "Karma: The Dark World",
     "id": "Karma: TDW",
     "urlPath": "karma-the-dark-world",
