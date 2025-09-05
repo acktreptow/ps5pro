@@ -2429,14 +2429,14 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 5, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
+    "hasShipped": true,
+    "metacritic": 82,
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
     "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "*NBA 2K26 isn't out yet, but the following information from last year's NBA 2K25 provides a good baseline of what to expect - 'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
+    "extraInfo": "*NBA 2K26 Pro enhancements haven't been confirmed yet, but the following information from last year's NBA 2K25 (confirmed by 2K) provides a good baseline of what to expect - 'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
   },
   {
     "name": "Nioh 3",
