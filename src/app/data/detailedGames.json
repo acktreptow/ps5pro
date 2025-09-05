@@ -3466,16 +3466,16 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections and global illumination",
-    "resolution": "1800p to 4K PSSR or FSR3",
+    "resolution": "1800p to 4K PSSR/FSR3",
     "fps": "60fps",
     "modes": [
       {
-        "name": "quality ",
-        "description": "900p-1152p DRS at a nearly locked 60fps."
+        "name": "quality pro",
+        "description": "900p-1152p DRS to 4K PSSR/FSR3 at a nearly locked 60fps."
       },
       {
         "name": "quality",
-        "description": "Sharper than quality pro (1512p-1800p DRS) but at a locked 30fps."
+        "description": "Sharper than quality pro (1512p-1800p DRS to 4K PSSR/FSR3) but at a locked 30fps."
       },
       {
         "name": "balanced",
@@ -3483,10 +3483,10 @@
       },
       {
         "name": "performance",
-        "description": "Lowest visual quality of all modes. Usually 936p DRS at a nearly locked 60fps compared to base PS5 at 720p DRS."
+        "description": "Lowest visual quality of all modes. 720p-936p DRS to 4K PSSR/FSR at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5, but will run at the higher DRS bounds (1800p for quality etc) more often due to the Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
     "name": "Stellar Blade",
