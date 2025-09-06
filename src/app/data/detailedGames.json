@@ -2550,6 +2550,34 @@
     "extraInfo": "While base PS5 has a singular mode that also runs at 4K/60fps, both Pro modes have improved lighting, ultra quality reflections and higher quality ambient occlusion. These improvements are also seen in the PSVR2 version. PSSR implementation works very well due to the high base resolution in both modes."
   },
   {
+    "name": "Of Lies And Rain",
+    "id": "OLAR",
+    "urlPath": "of-lies-and-rain",
+    "genre": "VR Action-Adventure, FPS",
+    "developer": "Castello",
+    "publisher": "Castello",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1.5x base resolution",
+    "fps": "120fps native",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "60 Hz to 120 Hz reprojection at 1.5x base resolution and 2.5x dynamic foveated rendering."
+      },
+      {
+        "name": "performance",
+        "description": "120 Hz with no reprojection at 1.0x base resolution and 1.8x dynamic foveated rendering."
+      }
+    ],
+    "extraInfo": "Pro performance mode and base PS5 performance/quality modes are at 1.0x base resolution. Whereas Pro quality mode is 1.5x (actual base resolution figure is unknown, but this is still a significant 50% increase). Pro performance mode is also 120 Hz native, whereas base PS5 performance mode is only 90 Hz. All other settings are the same in the equivalent base PS5 mode."
+  },
+  {
     "name": "Off The Grid",
     "id": "OtG",
     "urlPath": "off-the-grid",
@@ -3486,7 +3514,7 @@
         "description": "Lowest visual quality of all modes. 720p-936p DRS to 4K PSSR/FSR at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in motion. Quality mode is the only one that provides stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in clarity/stability in motion. Quality mode is the only one with stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
     "name": "Stellar Blade",
