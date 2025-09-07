@@ -420,18 +420,6 @@
     "metacritic": 0
   },
   {
-    "name": "Oniriam",
-    "id": "Oniriam",
-    "genre": "VR Puzzle Adventure",
-    "developer": "My World",
-    "publisher": "My World",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "November 22, 2024",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Palworld",
     "id": "Palworld",
     "genre": "Survival, Monster Taming",

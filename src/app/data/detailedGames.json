@@ -2625,6 +2625,24 @@
     "extraInfo": "Based on the demo at Gamescom, DF have confirmed that the framerate is a somewhat unstable 60fps (dips to 55fps) and there's no RT. This is surprising as both Resident Evil Requiem and Pragmata (who also use Onimusha's RE engine) had a more stable 60fps in their respective demos, despite also utilizing RT reflections/GI. Hopefully the framerate is improved when the game launches next year, although VRR will clean up these minor dips if not."
   },
   {
+    "name": "Oniriam",
+    "id": "Oniriam",
+    "urlPath": "oniriam",
+    "genre": "VR Puzzle Adventure",
+    "developer": "My World",
+    "publisher": "My World",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "November 22, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "60 Hz to 120 Hz reprojection",
+    "extraInfo": "Both Pro and base PS5 use reprojection, but Pro has more than a 20% increase in resolution and a more stable framerate."
+  },
+  {
     "name": "Oppidum",
     "id": "Oppidum",
     "urlPath": "oppidum",
