@@ -2122,7 +2122,7 @@
         "description": "1080p-1398p to 4K at a stable 60fps with RT."
       }
     ],
-    "extraInfo": "Base PS5 quality mode also has DRS between 1080p-1662p, but its performance mode is 635p-1189p. With an internal resolution as low as 635p before upscaling to 4K, base PS5 is noticeably blurrier than Pro performance mode. Pro also has a more stable framerate in both of its modes, although there's still some minor drops (within VRR). Ultizero confirmed that Pro also has better RT reflections/shadows/GI, higher texture quality, more detailed particle effects and faster loading compared to base PS5."
+    "extraInfo": "Base PS5 quality mode also has DRS between 1080p-1662p, but its performance mode is 635p-1189p. With an internal resolution as low as 635p before upscaling to 4K, base PS5 is noticeably blurrier, with more instability/fizzle in shadows/reflections/distant assets compared to Pro Performance mode, which is still very sharp/stable. Pro also has a more stable framerate in both of its modes, although there's still some minor drops (within VRR). Pro also has better RT reflections/shadows/GI, higher texture quality, more detailed particle effects and faster loading compared to base PS5."
   },
   {
     "name": "Madden NFL 25",
