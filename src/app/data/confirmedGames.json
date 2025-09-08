@@ -600,18 +600,6 @@
     "metacritic": 0
   },
   {
-    "name": "The Rogue Prince Persia",
-    "id": "Rogue Prince of Persia",
-    "genre": "2D Roguelite Platformer",
-    "developer": "Evil Empire",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 20, 2025",
-    "hasShipped": true,
-    "metacritic": 81
-  },
-  {
     "name": "The Sinking City",
     "id": "Sinking City Remastered",
     "genre": "Survival Action Horror",
