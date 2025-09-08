@@ -2265,6 +2265,24 @@
     "extraInfo": "Base PS5 only has Lumen GI in its quality mode, whereas Pro also has Lumen Reflections. Pro's PSSR implementation renders a sharper image than possible on base PS5, but is also a bit noisier/unstable. Pro also not only hits 120fps in its HFR mode much more often than base PS5, which regularly dips to around 110fps, but does so at a higher resolution too."
   },
   {
+    "name": "Metaball",
+    "id": "Metaball",
+    "urlPath": "metaball",
+    "genre": "Hoverboard Basketball",
+    "developer": "Bucketplay",
+    "publisher": "Bucketplay",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 8, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "Both base PS5 and Pro run at a locked 60fps. However, base PS5's more 1080p-like resolution leads to a blurrier image, with more noticeable aliasing on characters and stadium edges, as well as more instability in reflections. Pro could potentially dip to around 1440p as some jaggies from aliasing are present, but it's never as bad as what you even immediately see on Metaball's main menu on base PS5."
+  },
+  {
     "name": "Metal Gear Solid Delta: SE",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-solid-delta-snake-eater",
