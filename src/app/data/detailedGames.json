@@ -391,6 +391,35 @@
     "extraInfo": "Pro's performance mode looks better than even base PS5's quality mode due to upscalers used. PSSR is a little bit softer than base PS5's FSR, but much more stable with less artifacting/flickering. This instability is especially noticeable with assets in motion, such as moving shadows. Pro also has an approx 10% higher framerate, so manages to reach 60fps more often than base PS5. Finally, Pro can also run split screen at either 30fps or 60fps, compared to just 30fps on base PS5."
   },
   {
+    "name": "Banishers: New Eden",
+    "pageTitle": "Banishers: Ghosts Of New Eden",
+    "id": "Banishers",
+    "urlPath": "banishers-ghosts-of-new-eden",
+    "genre": "Action RPG",
+    "developer": "Don't Nod",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 13, 2024",
+    "hasShipped": true,
+    "metacritic": 78,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K Upscaled FSR",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K FSR at a stable 30fps/40fps on 60 HZ and 120 HZ screens respectively."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K FSR (lower internal resolution than quality mode) at up to 120fps (usually averaging around 90fps)."
+      }
+    ],
+    "extraInfo": "Both base PS5 and Pro have a quality and performance mode that have the same framerate targets. Pro quality mode maintains a stable 40fps more often. Neither performance mode hits 120fps most of the time, but Pro performance mode achieves it far more often in general gameplay and averages around 25fps more than base PS5 mode in like-for-like scenes. Base PS5 performance mode can dip to 60fps more often and only really reaches 120fps when looking up at the sky. While exact figures are unknown, Pro has a higher internal resolution compared to base PS5's equivalent mode, which leads to a sharper (though still not 4K-sharp) looking image."
+  },
+  {
     "name": "Battlefield 6",
     "id": "Battlefield 6",
     "urlPath": "battlefield-6",
