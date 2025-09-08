@@ -57,19 +57,7 @@
     "psvr2": false,
     "release": "September 1, 2025",
     "hasShipped": true,
-    "metacritic": 0
-  },
-  {
-    "name": "Banishers: GONE",
-    "id": "Banishers",
-    "genre": "Action RPG",
-    "developer": "Don't Nod",
-    "publisher": "Focus Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 13, 2024",
-    "hasShipped": true,
-    "metacritic": 78
+    "metacritic": 70
   },
   {
     "name": "Blind Descent",
