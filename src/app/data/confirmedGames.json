@@ -468,18 +468,6 @@
     "metacritic": 0
   },
   {
-    "name": "Promise Mascot Agency",
-    "id": "PMA",
-    "genre": "Adventure RPG",
-    "developer": "Kaizen Game Works",
-    "publisher": "Kaizen Game Works",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 10, 2025",
-    "hasShipped": true,
-    "metacritic": 86
-  },
-  {
     "name": "Puzzle Quest: Immortal",
     "id": "Puzzle Quest",
     "genre": "Puzzle, Match 3",
