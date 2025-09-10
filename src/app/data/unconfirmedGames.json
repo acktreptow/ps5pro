@@ -528,16 +528,16 @@
     "metacritic": 60
   },
   {
-    "name": "It Takes Two",
-    "id": "It takes Two",
-    "genre": "Co-Op Adventure",
-    "developer": "Hazelight Studios",
-    "publisher": "Electronic Arts",
+    "name": "Ill",
+    "id": "Ill",
+    "genre": "Survival Action Horror",
+    "developer": "Team Clout",
+    "publisher": "Mundfish Powerhouse",
     "psStudios": false,
     "psvr2": false,
-    "release": "March 26, 2021",
-    "hasShipped": true,
-    "metacritic": 88
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "Immortals Of Aveum",
@@ -550,6 +550,18 @@
     "release": "August 22, 2023",
     "hasShipped": true,
     "metacritic": 69
+  },
+  {
+    "name": "It Takes Two",
+    "id": "It takes Two",
+    "genre": "Co-Op Adventure",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2021",
+    "hasShipped": true,
+    "metacritic": 88
   },
   {
     "name": "Kena: Bridge Of Spirits",
