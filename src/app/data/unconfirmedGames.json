@@ -264,6 +264,18 @@
     "metacritic": 87
   },
   {
+    "name": "Dune: Awakening",
+    "id": "Dune",
+    "genre": "Open-World Survival RPG",
+    "developer": "Funcom",
+    "publisher": "Funcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Elden Ring",
     "id": "ER",
     "genre": "Soulsborne",
