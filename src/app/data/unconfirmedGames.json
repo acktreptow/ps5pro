@@ -1128,6 +1128,18 @@
     "metacritic": 90
   },
   {
+    "name": "Toxic Commando",
+    "id": "Toxic Commando",
+    "genre": "Co-Op FPS",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Tropico 6",
     "id": "Tropico 6",
     "genre": "City Builder, Strategy",
