@@ -600,6 +600,18 @@
     "metacritic": 80
   },
   {
+    "name": "Lego Batman: LOTDK",
+    "id": "Lego Batman",
+    "genre": "Action-Adventure",
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lego Horizon Adventures",
     "id": "Lego Horizon",
     "genre": "Action-Adventure",
