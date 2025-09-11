@@ -96,6 +96,18 @@
     "metacritic": 73
   },
   {
+    "name": "Atomic Heart",
+    "id": "Atomic Heart",
+    "genre": "First-Person Shooter",
+    "developer": "Mundfish",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 21, 2023",
+    "hasShipped": true,
+    "metacritic": 70
+  },
+  {
     "name": "Back 4 Blood",
     "id": "B4B",
     "genre": "Co-Op Zombie Shooter",
