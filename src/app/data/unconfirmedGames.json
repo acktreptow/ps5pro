@@ -636,6 +636,18 @@
     "metacritic": 82
   },
   {
+    "name": "Lego Voyagers",
+    "id": "Lego Voyagers",
+    "genre": "Co-Op Adventure",
+    "developer": "Light Brick Studios",
+    "publisher": "Annapurna Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 15, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Life Is Strange: DE",
     "id": "LiS: DE",
     "genre": "Interactive Drama",
