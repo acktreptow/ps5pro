@@ -2868,6 +2868,24 @@
     "extraInfo": "PMA's only difference is that base PS5 seems to have a slightly lower resolution, which can lead to a little more instability in assets like railings/shipping containers etc in the driving sections. There's also a little more fizzle in screen space reflections, especially in large bodies of water. However, the difference is imperceptible unless comparing the base PS5 and Pro versions side-by-side, and neither consoles's instability would be distracting to the average player. Otherwise, both base and Pro run at a basically locked 60fps and have the same level of graphical settings (pop-in/vegetation density etc)."
   },
   {
+    "name": "PUBG: Battlegrounds",
+    "id": "PUBG",
+    "urlPath": "pubg-battlegrounds",
+    "genre": "TPS/FPS Battle Royale",
+    "developer": "PUBG Studios",
+    "publisher": "Krafton",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 13, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Dynamic 4K",
+    "fps": "60fps",
+    "extraInfo": "PUBG Studios has confirmed that Pro will render at a dynamic 4K, but base PS5 will only render at a fixed 1440p. Both consoles will run at a 'stable' 60fps and neither will support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play. Hopefully, we find out information like Pro's internal DRS before outputting to 4K, upscalers used, and just how stable the 60fps is, closer to launch."
+  },
+  {
     "name": "Pure Pool Pro",
     "id": "PPP",
     "urlPath": "pure-pool-pro",
