@@ -2850,24 +2850,6 @@
     "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there's full RT support. DF also confirmed 60fps, and while there were some minor dips (still within VRR window) during cutscenes, these will likely be ironed out for the final release. It's unlikely that there will be an 120fps mode as the very reflective sterile space station aesthetic requires RT reflections to look good. RE engine is also notoriously poor with what would've been the RT fallback in SSR (screen space reflections)."
   },
   {
-    "name": "Promise Mascot Agency",
-    "id": "PMA",
-    "urlPath": "promise-mascot-agency",
-    "genre": "Adventure RPG",
-    "developer": "Kaizen Game Works",
-    "publisher": "Kaizen Game Works",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 10, 2025",
-    "hasShipped": true,
-    "metacritic": 86,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps",
-    "extraInfo": "PMA's only difference is that base PS5 seems to have a slightly lower resolution, which can lead to a little more instability in assets like railings/shipping containers etc in the driving sections. There's also a little more fizzle in screen space reflections, especially in large bodies of water. However, the difference is imperceptible unless comparing the base PS5 and Pro versions side-by-side, and neither consoles's instability would be distracting to the average player. Otherwise, both base and Pro run at a basically locked 60fps and have the same level of graphical settings (pop-in/vegetation density etc)."
-  },
-  {
     "name": "PUBG: Battlegrounds",
     "id": "PUBG",
     "urlPath": "pubg-battlegrounds",
