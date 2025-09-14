@@ -209,9 +209,9 @@
     "extraInfo": "Base PS5 is exactly the same, but at 1620p and 1080p respectively. Performance mode has a decent amount of screen tearing. You can add an FPS counter to the HUD."
   },
   {
-    "name": "Asphalt Legends Unite",
-    "id": "ALU",
-    "urlPath": "asphalt-legends-unite",
+    "name": "Asphalt Legends",
+    "id": "AL",
+    "urlPath": "asphalt-legends",
     "genre": "Racing, Arcade",
     "developer": "Gameloft Barcelona",
     "publisher": "Gameloft",
