@@ -3179,7 +3179,7 @@
     "rtTypes": "Ray traced audio",
     "resolution": "1728p to 4K",
     "fps": "60fps",
-    "extraInfo": "Pro has roughly 2.5x the resolution compared to base PS5, resulting in a very frequent internal resolution of 1728p max (infrequent DRS of 1350p min) that outputs to 4K (base PS5 is a fixed 1080p that reconstructs to 1440p before upscaling to a 4K checkerboard). This leads to a less noisy/grainy image with less aliasing/flickering, though some image instability remains. Both PS5 consoles have framerate dips into the low 50s, but this occurs less often on Pro. Technically, Returnal uses other forms of RT outside of audio. However, this is only for background calculations, not for visual improvements, so it's not listed."
+    "extraInfo": "Pro has roughly 2.5x the resolution compared to base PS5, resulting in a very frequent internal resolution of 1728p max (infrequent DRS of 1350p min) that outputs to 4K (base PS5 is a fixed 1080p that reconstructs to 1440p before upscaling to a 4K checkerboard). This leads to a less noisy/grainy image with less aliasing/flickering, though some image instability remains. Both PS5 consoles have framerate dips into the low 50s, but this occurs less often on Pro, and even the largest dips are still in the VRR window. Technically, Returnal uses other forms of RT outside of audio. However, this is only for background calculations, not for visual improvements, so it's not listed."
   },
   {
     "name": "Rise Of The Ronin",
