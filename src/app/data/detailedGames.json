@@ -2139,8 +2139,8 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen global illumination",
-    "resolution": "4K",
-    "fps": "60fps",
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
     "modes": [
       {
         "name": "quality",
@@ -2151,7 +2151,7 @@
         "description": "1440p to 4K via a custom version of UE5's upscaling at 60fps plus Lumen."
       }
     ],
-    "extraInfo": "*LoTF II isn't out yet, but the following information from last year's LoTF Pro patch provides a good baseline of what to expect - 'Hexworks states that Pro has a 40% increase in pixels compared to base PS5, resulting in sharper distant details and more refined textures on characters/environments. In practice, this increase can be even larger as base PS5 performance mode is between 648p-1152p DRS and quality mode is 1296p-1620p DRS. Pro also hits its target framerate more often than base PS5 in both modes and is equivalent to the highest PC graphical settings.'"
+    "extraInfo": "*LOTF II isn't out yet, but the following information from last year's LOTF Pro patch provides a good baseline of what to expect - 'Hexworks states that Pro has a 40% increase in pixels compared to base PS5, resulting in sharper distant details and more refined textures on characters/environments. In practice, this increase can be even larger as base PS5 performance mode is between 648p-1152p DRS and quality mode is 1296p-1620p DRS. Pro also hits its target framerate more often than base PS5 in both modes and is equivalent to the highest PC graphical settings.'"
   },
   {
     "name": "Lost Soul Aside",
