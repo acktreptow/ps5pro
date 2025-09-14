@@ -3749,7 +3749,7 @@
         "description": "1440p at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "Base PS5 graphics mode only renders at 1440p, but there is little difference in practice. Pro is also able to achieve its target framerate more often."
+    "extraInfo": "Base PS5 graphics mode only renders at 1440p, which is Pro's internal resolution before upscaling to 4K. Base PS5 performance mode is only 1080p, which makes a bigger difference in clarity between the consoles equivalent modes. Pro is also able to achieve its target framerate more often."
   },
   {
     "name": "The Callisto Protocol",
