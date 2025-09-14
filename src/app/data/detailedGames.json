@@ -3749,7 +3749,7 @@
         "description": "1440p at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "Base PS5 graphics mode only renders at 1440p, which is Pro's internal resolution before upscaling to 4K. Base PS5 performance mode is only 1080p, which makes a bigger difference in clarity between the consoles equivalent modes. Pro is also able to achieve its target framerate more often."
+    "extraInfo": "Base PS5 graphics mode only renders at 1440p, which is Pro's internal resolution before upscaling to 4K. In practice, the upscale makes little difference as the internal resolution is so high. Base PS5 performance mode is only 1080p, which makes a bigger difference in clarity between the consoles equivalent modes. Pro is also able to achieve its target framerate more often."
   },
   {
     "name": "The Callisto Protocol",
@@ -3848,7 +3848,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro uses variable rate shading to achieve native 4K at 60fps. This one Pro mode combines the 2 modes seen on base PS5 (a 4K/30fps fidelity mode and 1440p/60fps performance mode that also had lower graphical settings such as shadows, textures and ambient occlusion etc)."
+    "extraInfo": "Pro uses variable rate shading to render native 4K at 60fps. This one Pro mode combines the 2 modes on base PS5 (a 4K/30fps fidelity mode with higher graphical settings such as shadows, textures and ambient occlusion etc, and a 1440p/60fps performance mode). Pro also gets the higher graphical settings seen in base PS5 fidelity mode."
   },
   {
     "name": "The Finals",
