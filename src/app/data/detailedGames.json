@@ -590,13 +590,13 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 12, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
+    "hasShipped": true,
+    "metacritic": 82,
     "pssr": false,
     "rt": false,
     "resolution": "4K (likely)",
-    "fps": "120fps (potentially)",
-    "extraInfo": "Randy Pitchford has stated that B4 is targeting 60fps on all consoles. Based on B3's and TTW's quality modes on base PS5, B4 would presumably render at native 4K - though this hasn't been confirmed. B3/TTW also featured a 120fps performance mode, which will hopefully carry over to B4. However, B3 was originally a PS4 title, and its PS5 update could drop below 1080p to hit 120fps. Since B4 is a current-gen only game, 120fps might not be possible without the internal resolution falling to an unacceptable level. In any case, 120fps remains speculative, and we won't know for sure until closer to B4's launch."
+    "fps": "60fps",
+    "extraInfo": "While Borderlands 3 had a 120fps mode, Borderlands 4 only reaches up to 60fps in performance mode and 30fps in its graphics mode. This is likely because Borderlands 3 was originally a a PS4 title, whereas Borderlands 4 is only on PS5 and therefore has much higher graphical settings."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
