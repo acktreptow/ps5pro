@@ -4215,7 +4215,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "120fps",
-    "extraInfo": "Pro has DRS that can render up to 4K native, whereas base PS5 only runs at 1080p when aiming for 120fps. According to Gaijin, Pro also gets 'more improvements and additional optimization'. However, there's still a good amount of shimmer on assets like railings despite the up to 4x increase in resolution."
+    "extraInfo": "Pro has DRS that can render up to 4K native (which it regularly does), whereas base PS5 only renders at 1080p when aiming for 120fps. Base ps5 only runs at 60fps when rendering at 4K. According to Gaijin, Pro also gets 'more improvements and additional optimization'. However, there's still a good amount of shimmer on assets like railings despite the up to 4x increase in resolution."
   },
   {
     "name": "Wanderer: TFOF",
