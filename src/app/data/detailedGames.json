@@ -106,6 +106,35 @@
     "extraInfo": "Very little is known about the technical performance of the non-VR version of Alien: Rogue Incursion. The only information Survios has provided is via a Gaming Bolt interview, where they said that Pro will have 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'. Hopefully, we learn more not too long before the game's September launch."
   },
   {
+    "name": "Anima: GOM I&II Remaster",
+    "pageTitle": "Anima: Gate Of Memories I&II Remaster",
+    "id": "Anima I & II",
+    "urlPath": "anima-gate-of-memories-I-II-remaster",
+    "genre": "Action RPG",
+    "developer": "Anima Project",
+    "publisher": "Anima Publishing",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "stability",
+        "description": "4K at at a locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "A steady 120fps."
+      }
+    ],
+    "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is instead the regular 60fps."
+  },
+  {
     "name": "Apex Legends",
     "id": "Apex",
     "urlPath": "apex-legends",
