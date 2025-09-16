@@ -88,7 +88,6 @@
   },
   {
     "name": "Alien: Rogue Incursion",
-    "pageTitle": "Alien: Rogue Incursion Evolved Edition",
     "id": "A: RI",
     "urlPath": "alien-rogue-incursion-evolved-edition",
     "genre": "Survival Horror",
@@ -104,6 +103,24 @@
     "resolution": "Upscaled 4K (likely)",
     "fps": "60fps (likely)",
     "extraInfo": "Very little is known about the technical performance of the non-VR version of Alien: Rogue Incursion. The only information Survios has provided is via a Gaming Bolt interview, where they said that Pro will have 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'. Hopefully, we learn more not too long before the game's September launch."
+  },
+  {
+    "name": "Anger Foot",
+    "id": "Anger Foot",
+    "urlPath": "anger-foot",
+    "genre": "First-Person Shooter",
+    "developer": "Free Lives",
+    "publisher": "Devolver Digital",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 1, 2025",
+    "hasShipped": true,
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1080p",
+    "fps": "60fps",
+    "extraInfo": "Despite having the PS5 Pro Enhanced label on the PSN store, Free Lives has confirmed to me that Pro has no additional features or optimizations. Instead, Anger Foot has a singular mode on both base PS5 and Pro that runs at 1080p/60fps."
   },
   {
     "name": "Anima: GOM I&II Remaster",
