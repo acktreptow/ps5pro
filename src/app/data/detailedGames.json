@@ -2568,6 +2568,24 @@
     "extraInfo": "*NBA 2K26 Pro enhancements haven't been confirmed yet, but the following information from last year's NBA 2K25 (confirmed by 2K) provides a good baseline of what to expect - 'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
   },
   {
+    "name": "NHL 26",
+    "id": "NHL 26",
+    "urlPath": "nhl-26",
+    "genre": "Sports, Ice Hockey",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 12, 2025",
+    "hasShipped": true,
+    "metacritic": 74,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Base PS5 internally renders at 1440p before upscaling to 4K, whereas Pro renders at native 4K, which is a 2.25x resolution increase. This results in a sharper image on assets like handrails, goal nets, and jerseys. However, this is the only difference - both run at a locked 60fps with no option for 120fps, for example."
+  },
+  {
     "name": "Nioh 3",
     "id": "Nioh 3",
     "urlPath": "nioh-3",
