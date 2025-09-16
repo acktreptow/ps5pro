@@ -1938,6 +1938,24 @@
     "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, Pro's PSSR implementation results in a lot more shimmering/flickering than FSR2. To the point that many feel Pro's image looks worse despite the sharper render."
   },
   {
+    "name": "Hunting Simulator 3",
+    "id": "HS 3",
+    "urlPath": "hunting-simulator-3",
+    "genre": "Simulation, Shooter",
+    "developer": "Nacon Studio Ghent",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBA",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (placeholder)",
+    "fps": "60fps (placeholder)",
+    "extraInfo": "Nacon Studio Ghent have confirmed to me that they have nothing to share about the technical specifications of Hunting Simulator 3 at this time. This is understandable as HS3 doesn't even have a release window yet, let alone a firm date."
+  },
+  {
     "name": "Hypercharge: Unboxed",
     "id": "Hypercharge",
     "urlPath": "hypercharge-unboxed",
