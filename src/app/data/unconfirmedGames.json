@@ -108,18 +108,6 @@
     "metacritic": 70
   },
   {
-    "name": "Back 4 Blood",
-    "id": "B4B",
-    "genre": "Co-Op Zombie Shooter",
-    "developer": "Turtle Rock Studios",
-    "publisher": "Warner Bros. Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 12, 2021",
-    "hasShipped": true,
-    "metacritic": 77
-  },
-  {
     "name": "Battlefield 2042",
     "id": "BF 2042",
     "genre": "First-Person Shooter",
@@ -658,18 +646,6 @@
     "release": "May 2, 2024",
     "hasShipped": true,
     "metacritic": 76
-  },
-  {
-    "name": "Metal: Hellsinger VR",
-    "id": "Metal Hellsinger",
-    "genre": "VR Rhythm FPS",
-    "developer": "Lab42 & The Outsiders",
-    "publisher": "Funcom",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "October 3, 2024",
-    "hasShipped": true,
-    "metacritic": 0
   },
   {
     "name": "Metaphor: ReFantazio",
