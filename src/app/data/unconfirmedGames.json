@@ -276,18 +276,6 @@
     "metacritic": 0
   },
   {
-    "name": "DOOM Eternal",
-    "id": "Doom: E",
-    "genre": "First-Person Shooter",
-    "developer": "id Software",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 29, 2021",
-    "hasShipped": true,
-    "metacritic": 87
-  },
-  {
     "name": "Dune: Awakening",
     "id": "Dune",
     "genre": "Open-World Survival RPG",
@@ -370,18 +358,6 @@
     "release": "June 22, 2023",
     "hasShipped": true,
     "metacritic": 87
-  },
-  {
-    "name": "Fort Solis",
-    "id": "FS",
-    "genre": "Horror, Adventure",
-    "developer": "Fallen Leaf & BD",
-    "publisher": "Dear Villagers",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 22, 2023",
-    "hasShipped": true,
-    "metacritic": 60
   },
   {
     "name": "FragPunk",
@@ -802,18 +778,6 @@
     "release": "October 16, 2025",
     "hasShipped": false,
     "metacritic": 0
-  },
-  {
-    "name": "Red Matter",
-    "id": "RM 1",
-    "genre": "VR Adventure, Puzzle",
-    "developer": "Vertical Robot",
-    "publisher": "Vertical Robot",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "October 5, 2023",
-    "hasShipped": true,
-    "metacritic": 85
   },
   {
     "name": "Red Matter 2",
