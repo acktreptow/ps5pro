@@ -1698,7 +1698,7 @@
     "psvr2": false,
     "release": "September 4, 2025",
     "hasShipped": true,
-    "metacritic": 78,
+    "metacritic": 77,
     "true": false,
     "rt": false,
     "resolution": "1440p (likely) to 4K PSSR/TSR",
@@ -1706,14 +1706,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1440p (likely) to 4K PSSR/TSR at a stable 30fps."
+        "description": "1080p common DRS to 4K PSSR/TSR at a basically locked 30fps. Improved LODs, draw distance, shadows, lighting, reflections, textures over performance mode."
       },
       {
         "name": "performance",
-        "description": "Sub-1440p (likely) to 4K PSSR/TSR at a stable 60fps."
+        "description": "1080p common DRS to 4K PSSR/TSR at a basically locked 60fps."
       }
     ],
-    "extraInfo": "*All information is based off the demo and is subject to change for the game's September launch. You can toggle between PSSR and TSR as the upscaler. However, there is little difference between the two - certainly less of a difference than the framerate between modes."
+    "extraInfo": "Both of base PS5's modes also have a 1080p common internal resolution before upscaling to 4K. The biggest differences are in graphical settings - particularly level of detail, where quality mode on both consoles transform the image due to a significant increase in assets like foliage. Pro is also more stable than base PS5 in both modes, but all modes only dip 1-2fps. It just happens less often on Pro. Pro can also use TSR and PSSR for upscaling, but neither provide a significant advantage in image quality or framerate. As a UE5 game, TSR is likely the safer option in the long-run though."
   },
   {
     "name": "Hellblade 1",
