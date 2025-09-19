@@ -1552,6 +1552,38 @@
     "extraInfo": "Graphics in Pro's performance mode are equivalent to base PS5's quality mode, but at a locked 60fps instead of 30fps. Base PS5's performance mode is a big step down from all others. It has far less foliage onscreen, more pop-in, and can render under 4K (DRS hovers around 1728p-1872p when it drops) for a few seconds. RT on Pro is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
+    "name": "Frostpunk 2",
+    "id": "Frostpunk 2",
+    "urlPath": "frostpunk-2",
+    "genre": "City Builder, Survival",
+    "developer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 18, 2025",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR/TSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K PSSR/TSR at 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "Upscaled 4K PSSR/TSR at 40fps. Requires a 120 Hz display."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR/TSR at 60fps. Lower internal resolution (presumably) than balanced mode to go from 40fps to 60fps."
+      }
+    ],
+    "extraInfo": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler. Based off other UE5 games that also give the choice between PSSR and TSR (like Hellblade 2, Hell Is Us etc), it's likely that TSR upscales a more stable image, but the difference is only slight and neither provide a FPS advantage. Base PS5 has the same modes but at (presumably) worse internal resolutions, though pixel counts aren't currently available."
+  },
+  {
     "name": "Gears Of War: Reloaded",
     "id": "GOW: Reloaded",
     "urlPath": "gears-of-war-reloaded",

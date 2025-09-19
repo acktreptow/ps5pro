@@ -360,18 +360,6 @@
     "metacritic": 80
   },
   {
-    "name": "Frostpunk 2",
-    "id": "Frostpunk 2",
-    "genre": "City Builder, Survival",
-    "developer": "11 Bit Studios",
-    "publisher": "11 Bit Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 18, 2025",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Genshin Impact",
     "id": "Genshin Impact",
     "genre": "F2P Action RPG, Gacha",
