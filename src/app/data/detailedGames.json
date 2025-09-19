@@ -2913,6 +2913,24 @@
     "extraInfo": "S-Game have confirmed that base PS5 is targeting a 1440p/60fps mode and a 4K/30fps mode, but that performance mode is currently dropping to as low as 40fps. S-Game have also stated that Pro will have enhanced visuals. Based off these 2 remarks, it's unlikely that Pro will support 120fps. AMD have also provided hardware-base RT solutions to S-Game for PS5. This falls in line with the Gamescom demo DF conducted on a high-end PC, which didn't use UE5's Lumen reflections/GI (or Virtual Shadow Maps). Instead, it used traditional RT reflections (only in bodies of water like puddles) and shadows, as well as baked (non-RT) GI. This targeted RT approach should allow Pro to include multiple RT implementations (to a higher quality base PS5 can't reach) with a stable, non-frame generated 60fps. Unlike other UE5 games such as Black Myth: Wukong. This is currently just speculation though and we'll find out more closer to launch."
   },
   {
+    "name": "Planet Coaster 2",
+    "id": "PC 2",
+    "urlPath": "planet-coaster-2",
+    "genre": "Simulation, City Builder",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 6, 2024",
+    "hasShipped": true,
+    "metacritic": 76,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "30fps",
+    "extraInfo": "The only difference between Pro and base PS5 is resolution - Pro runs at native 4K, whereas base PS5 internally runs at 1440p before upscaling to 4K. This results in Pro rendering sharper assets like foliage, trees and water reflections, as well as less image instability on assets like railings. Both consoles still run at a locked 30fps, and Pro's pause menu (the controller outline etc) and loading screen animations still have the approx 1080p looking jaggies."
+  },
+  {
     "name": "Pragmata",
     "id": "Pragmata",
     "urlPath": "pragmata",
