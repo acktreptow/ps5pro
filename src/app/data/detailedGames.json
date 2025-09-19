@@ -1123,13 +1123,13 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 18, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
+    "hasShipped": true,
+    "metacritic": 78,
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced shadows, reflections and ambient occlusion",
-    "resolution": "4k",
-    "fps": "120fps",
+    "resolution": "4K (based off DL2)",
+    "fps": "120fps (based off DL2)",
     "modes": [
       {
         "name": "resolution",
@@ -1148,7 +1148,7 @@
         "description": "Upscaled 4K with no RT and with VRR, up to 120 FPS. Increased base resolution (1440p), better contact shadows, spot shadows, and fog quality compared to base PS5."
       }
     ],
-    "extraInfo": "'All of Pro's modes also have improved global illumination, screen space reflections (except quality mode due to RT) and sub surface scattering compared to their equivalent base PS5 mode.' - The aforementioned modes/extra information is taken from Dying Light 2, as DL: The Beast has no hard technical figures just yet. However, Techland have publicly stated that The Beast will take its modes much further than DL2: SH. So we should expect that what's above provides a good baseline of what to expect."
+    "extraInfo": "*Prior to launch, Techland publicly stated that The Beast will not only be Pro enhanced, but will take its modes much further than Dying Light 2. However, despite the proclamations, the game isn't Pro enhanced yet and currently doesn't even have a balanced mode. The game actually had the Pro label on the PSN store during pre-orders, but the Pro Enhanced badge is no longer there! Hopefully, these promised enhancements come soon. But in the meantime, the following DL2 tech information (everything on this page) provides a baseline of what to expect when they eventually (hopefully) arrive - 'All of Pro's modes also have improved global illumination, screen space reflections (except quality mode due to RT) and sub surface scattering compared to their equivalent base PS5 mode.'"
   },
   {
     "name": "Dynasty Warriors: Origins",
