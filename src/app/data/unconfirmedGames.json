@@ -176,8 +176,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 5, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 77
   },
   {
     "name": "Crossfire: Sierra Squad",
@@ -608,8 +608,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 15, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 79
   },
   {
     "name": "Life Is Strange: DE",
