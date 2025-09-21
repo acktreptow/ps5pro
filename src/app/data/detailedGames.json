@@ -3439,6 +3439,24 @@
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
   },
   {
+    "name": "Sengoku Dynasty",
+    "id": "Sengoku Dynasty",
+    "urlPath": "sengoku-dynasty",
+    "genre": "Survival, City Builder",
+    "developer": "Superkami",
+    "publisher": "Toplitz Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 21, 2025",
+    "hasShipped": true,
+    "metacritic": 66,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro has a singular mode than runs at native 4K and a stable 60fps. However, certain assets like foliage as well as ground textures can look quite low-poly. There's also a noticeable amount of fizzle in reflections - specifically in large bodies of water. You can adjust FOV for both first and third-person mode, which could potentially cause a more unstable framerate at higher values. There's no public info about base PS5 performance, but it presumably renders below a native 4K, while still at 60fps."
+  },
+  {
     "name": "Shredders",
     "id": "Shredders",
     "urlPath": "shredders",
