@@ -637,12 +637,23 @@
     "psvr2": false,
     "release": "September 12, 2025",
     "hasShipped": true,
-    "metacritic": 82,
+    "metacritic": 80,
     "pssr": false,
-    "rt": false,
-    "resolution": "4K (likely)",
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "4K Upscaled",
     "fps": "60fps",
-    "extraInfo": "While Borderlands 3 had a 120fps mode, Borderlands 4 only reaches up to 60fps in performance mode and 30fps in its graphics mode. This is likely because Borderlands 3 was originally a a PS4 title, whereas Borderlands 4 is only on PS5 and therefore has much higher graphical settings."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1152p+ DRS to 4K at a basically locked 30fps. Improved/more stable Lumen GI and reflections over performance mode."
+      },
+      {
+        "name": "performance",
+        "description": "864p-1152p DRS to 4K at a mostly locked 60fps (short 1-2fps dips) with a fresh save (check extra info)."
+      }
+    ],
+    "extraInfo": "While Pro can maintain 60fps in performance mode, all consoles (even Xbox) suffer from memory leak, which results in progressively worse framerates. By the hour mark, Pro's framerate hovers at 40fps. In order to fix it, restarting from the main menu roughly every 30 minutes is needed. This leak happens in quality mode too, but isn't as bad due to the 30fps cap. Despite not having the Pro Enhanced label on the PSN store, BL4 is. Firstly, the HUD/menus are 4K in both modes on Pro, but only 1080p on base PS5. Base PS5's internal resolution is also around 746p-810p in performance mode and can dip below the 48fps VRR floor even with a fresh save, whereas Pro is 864p-900p at a stable 60fps in the same scenes. Pro also has boosted draw distance/shading in both modes, but that's only on base PS5's quality mode (that dips to as low as 720p). Finally, there's no motion blur options, which is fine for performance mode but unacceptable for a 30fps quality mode."
   },
   {
     "name": "Call Of Duty: Black Ops 6",
