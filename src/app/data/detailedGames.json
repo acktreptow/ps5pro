@@ -3516,6 +3516,7 @@
   },
   {
     "name": "Silent Hill F",
+    "pageTitle": "Silent Hill f",
     "id": "SH: F",
     "urlPath": "silent-hill-f",
     "genre": "Survival Horror",
@@ -3524,14 +3525,14 @@
     "psStudios": false,
     "psvr2": false,
     "release": "September 25, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
-    "pssr": false,
+    "hasShipped": true,
+    "metacritic": 86,
+    "pssr": true,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 software-based Lumen",
-    "resolution": "4K TSR (likely)",
+    "rtTypes": "Unreal Engine 5 software-based Lumen GI and reflections, as well as UE5's RT version of Virtual Shadow Maps",
+    "resolution": "1080p+ to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Digital Foundry has confirmed that the June 2025 State of Play trailer (captured on PS5 Pro) used UE5's software-based Lumen for RT. While cutscenes ran at 30fps, gameplay maintained a stable 60fps, which likely explains the decision to not use more advanced hardware-based RT. It's possible that hardware-based RT could improve the visual fidelity of Pro's 30fps quality mode, but this is purely speculative."
+    "extraInfo": "Pro has a singular mode that commonly internally renders at just above 1080p, then uses PSSR to upscale to 4K, while also targeting 60fps. In theory, Pro is meant to get close to base PS5's UE5 visual settings and higher 1440p resolution in its 30fps quality mode, but at a framerate that matches base PS5's 60fps performance mode. In practice, Pro PSSR implementation suffers from much of the artifacting/strobing issues on certain assets like foliage, seen with a lot of games at Pro's launch. Whereas base PS5 uses UE5's TSR to upscale. Due to such a poor PSSR implementation, both of base PS5's modes actually look better than Pro. Hopefully, NeoBards patches the Pro version to also use TSR instead of PSSR, or implement PSSR more effectively, as Pro should never be worse than base PS5. Otherwise, both Pro and base PS5 performance mode run at a very stable 60fps except for rare traversal stutters in more open areas that dips into the mid 50s and base PS5 quality mode is a locked 30fps. Cutscenes are 30fps regardless of mode or console."
   },
   {
     "name": "Skull And Bones",
