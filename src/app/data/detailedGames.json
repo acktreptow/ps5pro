@@ -2055,6 +2055,24 @@
     "extraInfo": "Pro supports 120 Hz natively whereas base PS5 only supports a 90 Hz refresh rate. Both consoles support remastered environments (enhanced water, flora, fauna, geometry, textures etc) and dynamic real-time shadows."
   },
   {
+    "name": "Isonzo",
+    "id": "Isonzo",
+    "urlPath": "isonzo",
+    "genre": "Multiplayer FPS",
+    "developer": "BlackMill Games",
+    "publisher": "BlackMill Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 20, 2022",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p to 4K PSSR",
+    "fps": "120fps",
+    "extraInfo": "Pro uses PSSR to upscale to 4K, whereas base PS5 uses FSR 2.2 to upscale to 1800p. While both consoles also use DRS, Pro internally renders between 756p-1440p, whereas base PS5 is between 630p-1200p. Between the higher internal DRS and output resolution, Pro looks noticeably sharper. Pro also runs in High CPU Frequency mode for improved performance (a more stable framerate that targets 60fps, but can go up to 120fps with HFR/VRR)."
+  },
+  {
     "name": "Jurassic World Evolution 3",
     "id": "JWE3",
     "urlPath": "jurassic-world-evolution-3",
@@ -3532,7 +3550,7 @@
     "rtTypes": "Unreal Engine 5 software-based Lumen GI and reflections, as well as UE5's RT version of Virtual Shadow Maps",
     "resolution": "1080p+ to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro has a singular mode that commonly internally renders at just above 1080p, then uses PSSR to upscale to 4K, while also targeting 60fps. In theory, Pro is meant to get close to base PS5's UE5 visual settings and higher 1440p resolution in its 30fps quality mode, but at a framerate that matches base PS5's 60fps performance mode. In practice, Pro PSSR implementation suffers from much of the artifacting/strobing issues on certain assets like foliage, seen with a lot of games at Pro's launch. Whereas base PS5 uses UE5's TSR to upscale. Due to such a poor PSSR implementation, both of base PS5's modes actually look better than Pro. Hopefully, NeoBards patches the Pro version to also use TSR instead of PSSR, or implement PSSR more effectively, as Pro should never be worse than base PS5. Otherwise, both Pro and base PS5 performance mode run at a very stable 60fps except for rare traversal stutters in more open areas that dips into the mid 50s and base PS5 quality mode is a locked 30fps. Cutscenes are 30fps regardless of mode or console."
+    "extraInfo": "Pro has a singular mode that is internally just above 1080p (with DRS) to 4K PSSR at 60fps. Pro is meant to nearly match base PS5's higher UE5 visual settings and 1440p resolution in its 30fps quality mode, but at base PS5's 60fps performance mode. However, Pro's PSSR implementation suffers from the artifacting/strobing issues on certain assets like grass, which was seen with many games at Pro's launch that used early versions of PSSR. Whereas base PS5 uses UE5's TSR to upscale. Due to such a poor PSSR implementation, both of base PS5's modes look better than Pro. Hopefully, NeoBards patches Pro to also use TSR instead of PSSR, or implement PSSR more effectively, as Pro should never be visually worse. Otherwise, both Pro and base PS5 performance mode run at a stable 60fps except for traversal stutters in more open areas (dips to the mid 50s) and base PS5 quality mode is a locked 30fps. Cutscenes are 30fps regardless of mode or console."
   },
   {
     "name": "Skull And Bones",

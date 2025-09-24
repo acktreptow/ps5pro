@@ -168,18 +168,6 @@
     "metacritic": 0
   },
   {
-    "name": "Isonzo",
-    "id": "Isonzo",
-    "genre": "Multiplayer FPS",
-    "developer": "BlackMill Games",
-    "publisher": "BlackMill Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 20, 2022",
-    "hasShipped": true,
-    "metacritic": 67
-  },
-  {
     "name": "Kinki Spiritual Affairs B",
     "id": "KSAB",
     "genre": "Horror TPS",
