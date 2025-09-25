@@ -3468,6 +3468,25 @@
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
   },
   {
+    "name": "Saros",
+    "id": "Saros",
+    "urlPath": "saros",
+    "genre": "TPS Roguelite",
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "March 20, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced audio",
+    "resolution": "1728p to 4K",
+    "fps": "60fps",
+    "extraInfo": "*Saros isn't out yet, and Housemarque hasn't detailed Pro enhancements. They did however update Returnal for Pro in May 2025. The details of that patch (the technical info on this page) should therefore provide a good baseline of what to expect from Saros - 'The Pro has roughly 2.5x the resolution compared to base PS5, resulting in a very frequent internal resolution of 1728p max (infrequent DRS of 1350p min) that outputs to 4K (base PS5 is a fixed 1080p that reconstructs to 1440p before upscaling to a 4K checkerboard). This leads to a less noisy/grainy image with less aliasing/flickering, though some image instability remains. Both PS5 consoles have framerate dips into the low 50s, but this occurs less often on Pro, and even the largest dips are still in the VRR window. Technically, Returnal uses other forms of RT outside of audio. However, this is only for background calculations, not for visual improvements, so it's not listed.'"
+  },
+  {
     "name": "Sengoku Dynasty",
     "id": "Sengoku Dynasty",
     "urlPath": "sengoku-dynasty",
