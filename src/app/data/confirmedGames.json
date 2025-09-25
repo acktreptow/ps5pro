@@ -180,6 +180,18 @@
     "metacritic": 0
   },
   {
+    "name": "Let It Die: Inferno",
+    "id": "Let It Die",
+    "genre": "Action, Roguelite",
+    "developer": "Super Trick Games",
+    "publisher": "GungHo Online",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 3, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lost Islands",
     "id": "Lost Islands",
     "genre": "Action-Adventure",
