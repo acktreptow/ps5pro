@@ -526,5 +526,17 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Yakuza 0 Director's Cut",
+    "id": "Yakuza 0",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 8, 2025",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
