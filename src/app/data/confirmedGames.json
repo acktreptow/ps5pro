@@ -216,6 +216,18 @@
     "metacritic": 73
   },
   {
+    "name": "Microsoft Flight Sim 2024",
+    "id": "MS Flight Simulator 24",
+    "genre": "Simulation, Flight",
+    "developer": "Asobo Studio",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "December 8, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",
