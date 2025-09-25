@@ -2719,14 +2719,14 @@
     "publisher": "Koei Tecmo",
     "psStudios": false,
     "psvr2": false,
-    "release": "Early 2026",
+    "release": "February 6, 2026",
     "hasShipped": false,
     "metacritic": 0,
     "pssr": false,
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "When Nioh 1 & 2 came to PS5, they had a 4K/60fps mode, a 1080p DRS/60fps mode (with higher graphical settings like shadows) and a reduced fidelity 120fps mode. However, Nioh 3's June 2025 demo didn't support 120fps on either Pro or base PS5. Additionally, Nioh 3 was unable to maintain a stable 60fps or a consistent 1080p+ resolution in either its prioritize framerate or prioritize graphics modes on both consoles, though the Pro performed better on average. That said, this was just a demo, so these issues will likely improve by Nioh 3's launch. Unfortunately, given Nioh 3's current-gen only, and now open-world design, hitting 120fps may not be feasible without unacceptable resolution tradeoffs. Hopefully, this also changes with improved optimization before the early 2026 release."
+    "extraInfo": "When Nioh 1 & 2 came to PS5, they had a 4K/60fps mode, a 1080p DRS/60fps mode (with higher graphical settings like shadows) and a reduced fidelity 120fps mode. However, Nioh 3's June 2025 demo didn't support 120fps on either Pro or base PS5. Additionally, Nioh 3 was unable to maintain a stable 60fps or a consistent 1080p+ resolution in either its prioritize framerate or prioritize graphics modes on both consoles, though the Pro performed better on average. That said, this was just a demo, so these issues will likely improve by Nioh 3's launch. Unfortunately, given Nioh 3's current-gen only, and now open-world design, hitting 120fps may not be feasible without unacceptable resolution tradeoffs. Hopefully, this also changes with improved optimization before the February 6, 2026 release."
   },
   {
     "name": "Ninja Gaiden 2 Black",
@@ -4557,7 +4557,7 @@
     "publisher": "Sony Interactive",
     "psStudios": true,
     "psvr2": false,
-    "release": "TBA",
+    "release": "Fall 2026",
     "hasShipped": false,
     "metacritic": 0,
     "pssr": true,
