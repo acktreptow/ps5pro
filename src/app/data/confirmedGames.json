@@ -538,5 +538,17 @@
     "release": "December 8, 2025",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Yakuza Kiwami 3 & DT",
+    "id": "Yakuza 3",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
