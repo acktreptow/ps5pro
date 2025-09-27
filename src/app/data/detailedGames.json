@@ -1137,29 +1137,20 @@
     "hasShipped": true,
     "metacritic": 78,
     "pssr": false,
-    "rt": true,
-    "rtTypes": "Ray traced shadows, reflections and ambient occlusion",
-    "resolution": "4K (based off DL2)",
-    "fps": "120fps (based off DL2)",
+    "rt": false,
+    "resolution": "4K",
+    "fps": "85fps",
     "modes": [
       {
-        "name": "resolution",
-        "description": "Native 4K at a locked 30 FPS with no RT. Better contact shadows compared to base PS5."
-      },
-      {
         "name": "quality",
-        "description": "Upscaled 4K at a locked 30 FPS with RT. Now with increased base resolution (1440p) and better contact shadows compared to base PS5."
-      },
-      {
-        "name": "balanced",
-        "description": "Upscaled 4K at nearly locked 60 FPS with no RT. Increased base resolution (1512p) compared to base PS5."
+        "description": "1944p-4K DRS at a locked 30fps. Improved shadows/LODs (foliage etc) compared to performance mode."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K with no RT and with VRR, up to 120 FPS. Increased base resolution (1440p), better contact shadows, spot shadows, and fog quality compared to base PS5."
+        "description": "1260p-1512p DRS to 4K at a locked 60fps, or around 65fps (outdoors) and 80fps (indoors) with VRR."
       }
     ],
-    "extraInfo": "*Prior to launch, Techland publicly stated that The Beast will not only be Pro enhanced, but will take its modes much further than Dying Light 2. However, despite the proclamations, the game isn't Pro enhanced yet and currently doesn't even have a balanced mode. The game actually had the Pro label on the PSN store during pre-orders, but the Pro Enhanced badge is no longer there! Hopefully, these promised enhancements come soon. But in the meantime, the following DL2 tech information (everything on this page) provides a baseline of what to expect when they eventually (hopefully) arrive - 'All of Pro's modes also have improved global illumination, screen space reflections (except quality mode due to RT) and sub surface scattering compared to their equivalent base PS5 mode.'"
+    "extraInfo": "The main difference between Pro and base PS5 is resolution. In performance mode, base PS5's DRS is 972p-1080p compared to Pro's DRS floor of 1260p. In quality mode, base PS5's DRS is 1620p-1728p, whereas Pro's floor is 1944p and even reaches native 4K. All modes also lock to their framerate target, except for quick 1fps dips during cutscene camera changes. However, base PS5 averages around 5-10fps higher than Pro with VRR (likely due to lower DRS bounds). Prior to launch, Techland stated that The Beast will take its Pro enhancements much further than Dying Light 2. However, despite the proclamation, The Beast doesn't even have DL2's balanced mode or any of its 3 RT implementations. Hopefully, these arrive in a later patch - while resolution increases are nice, its a far cry from what Techland promised."
   },
   {
     "name": "Dynasty Warriors: Origins",
