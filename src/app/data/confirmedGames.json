@@ -432,6 +432,18 @@
     "metacritic": 0
   },
   {
+    "name": "Rush: Apex Edition",
+    "id": "Rush",
+    "genre": "VR Wingsuit Flight, Racing",
+    "developer": "The Binary Mill",
+    "publisher": "The Binary Mill",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "November 6, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sonic Racing: C",
     "id": "Sonic Racing: C",
     "genre": "Racing, Arcade Kart",
