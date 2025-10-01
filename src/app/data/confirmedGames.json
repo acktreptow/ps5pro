@@ -456,6 +456,18 @@
     "metacritic": 0
   },
   {
+    "name": "Satisfactory",
+    "id": "Satisfactory",
+    "genre": "Open-World, Base Building",
+    "developer": "Coffee Stain Studios",
+    "publisher": "Coffee Stain Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 4, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sonic Racing: C",
     "id": "Sonic Racing: C",
     "genre": "Racing, Arcade Kart",
