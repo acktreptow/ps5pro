@@ -468,16 +468,16 @@
     "metacritic": 0
   },
   {
-    "name": "Sonic Racing: C",
-    "id": "Sonic Racing: C",
+    "name": "Sonic R: CrossWorlds",
+    "id": "Sonic Racing",
     "genre": "Racing, Arcade Kart",
     "developer": "Sonic Team",
     "publisher": "Sega",
     "psStudios": false,
     "psvr2": false,
     "release": "September 25, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 82
   },
   {
     "name": "Spine - This Is Gun Fu",
