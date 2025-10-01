@@ -180,6 +180,18 @@
     "metacritic": 0
   },
   {
+    "name": "Kiborg",
+    "id": "Kiborg",
+    "genre": "Roguelite, Beat'em up",
+    "developer": "Sobaka Studio",
+    "publisher": "Sobaka Studio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 30, 2025",
+    "hasShipped": true,
+    "metacritic": 63
+  },
+  {
     "name": "Kinki Spiritual Affairs B",
     "id": "KSAB",
     "genre": "Horror TPS",
