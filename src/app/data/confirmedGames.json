@@ -168,6 +168,18 @@
     "metacritic": 0
   },
   {
+    "name": "Highway Drifter: Hajwala",
+    "id": "Highway Drifter",
+    "genre": "Simulation, Driving/Racing",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 1, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Hole Digging Master",
     "id": "HDM",
     "genre": "Simulation, Adventure",
