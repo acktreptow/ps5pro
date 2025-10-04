@@ -2512,6 +2512,25 @@
     "extraInfo": "Pro's 1 mode has the improved object LODs/shadows/GI in base PS5's graphics mode, while targeting base PS5 performance mode's 60fps. However, it has many issues. Pro's 756p-1260p DRS uses PSSR to upscale to 4K, while base PS5 quality mode's 1080p-1584p DRS uses FSR. Between a bad PSSR implementation and lower DRS, Pro is noticeably blurrier than base PS5 graphics mode, and can even be worse than base PS5 performance mode (720p-1080p DRS). PSSR also has more GI flickering compared to FSR, although PSSR has less artifacting in hair/foliage and reduced ghosting/breakup in motion. Except for interiors, Pro's 60fps also generally runs lower than base PS5 performance mode, which is already unstable and regularly dips under VRR (both consoles range from 35-60fps). DF believes base PS5's less GPU-intensive FSR should replace PSSR, as this should ensure a more stable framerate that mostly stays above the 48fps VRR threshold."
   },
   {
+    "name": "Microsoft Flight Sim 2024",
+    "pageTitle": "Microsoft Flight Simulator 2024",
+    "id": "MS Flight Simulator 24",
+    "urlPath": "microsoft-flight-simulator-2024",
+    "genre": "Simulation, Flight",
+    "developer": "Asobo Studio",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "December 8, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1512p to 4K TAAU (likely)",
+    "fps": "30fps (likely)",
+    "extraInfo": "Tech information is based off DF's analysis of the September 2025 State of Play reveal trailer, so it could change before the December launch. DF also wondered if RT shadows could come to cockpit mode on Pro as it's currently only on PC, or perhaps PC's cloud settings which are higher quality than Series X."
+  },
+  {
     "name": "Midnight Murder Club",
     "id": "MMC",
     "urlPath": "midnight-murder-club",
