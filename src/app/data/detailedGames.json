@@ -1143,14 +1143,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1944p-4K DRS at a locked 30fps. Improved shadows/LODs (foliage etc) compared to performance mode."
+        "description": "1944p-4K DRS at a locked 30fps. Improved shadows/lighting/LODs (foliage etc) compared to performance mode."
       },
       {
         "name": "performance",
         "description": "1260p-1512p DRS to 4K at a locked 60fps, or around 65fps (outdoors) and 80fps (indoors) with VRR."
       }
     ],
-    "extraInfo": "The main difference between Pro and base PS5 is resolution. In performance mode, base PS5's DRS is 972p-1080p compared to Pro's DRS floor of 1260p. In quality mode, base PS5's DRS is 1620p-1728p, whereas Pro's floor is 1944p and even reaches native 4K. All modes also lock to their framerate target, except for quick 1fps dips during cutscene camera changes. However, base PS5 averages around 5-10fps higher than Pro with VRR (likely due to lower DRS bounds). Prior to launch, Techland stated that The Beast will take its Pro enhancements much further than Dying Light 2. However, despite the proclamation, The Beast doesn't even have DL2's balanced mode or any of its 3 RT implementations. Hopefully, these arrive in a later patch - while resolution increases are nice, its a far cry from what Techland promised."
+    "extraInfo": "The main difference between Pro and base PS5 is resolution. In performance mode, base PS5's DRS is 972p-1080p compared to Pro's DRS floor of 1260p. In quality mode, base PS5 is 1620p-1728p, whereas Pro's floor is 1944p. All modes lock to their framerate target except for quick 1fps dips during cutscene camera changes. However, base PS5 averages around 5-10fps higher than Pro with VRR (likely due to lower DRS). Before launch, Techland said The Beast will take Pro enhancements much further than Dying Light 2. However, The Beast doesn't even have DL2's balanced mode or any of its 3 RT features. Hopefully, these come in a patch - resolution increases are nice, but it's a far cry from what Techland promised."
   },
   {
     "name": "Dynasty Warriors: Origins",
