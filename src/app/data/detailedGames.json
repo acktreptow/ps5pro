@@ -709,7 +709,7 @@
         "description": "1440p to 4K TAA at a relatively stable 120fps. Graphics settings the same as base PS5's fidelity mode that runs at 60fps."
       }
     ],
-    "extraInfo": "*Black Ops 7 isn't out yet. However, B07 is by the same teams behind 2024's B06 and both titles were developed simultaneously. B06's Pro enhancements (the info on this page) therefore provide a good baseline of what to expect - 'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. An improved PSSR implementation also arrived in a patch that significantly reduced artifacting/white dots in some areas, although they're still somewhat visible on rare occasions. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5).'"
+    "extraInfo": "*Black Ops 7 isn't out yet. However, B07 is by the same teams behind 2024's B06 and both titles were developed simultaneously. B06's Pro enhancements (the info on this page) therefore provide a good baseline of what to expect. Especially as B07's open beta shows very similar results - 'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. An improved PSSR implementation also arrived in a patch that significantly reduced artifacting/white dots in some areas, although they're still somewhat visible on rare occasions. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5).'"
   },
   {
     "name": "Chess Infinity",
