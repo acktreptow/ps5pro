@@ -1641,14 +1641,14 @@
       },
       {
         "name": "ray tracing",
-        "description": "1728p to 4K TAA at a locked 30fps with RT."
+        "description": "1728p-1800p DRS to 4K TAA at a locked 30fps with RT."
       },
       {
         "name": "ray tracing pro",
         "description": "1080p-1440p DRS to 4K PSSR at a locked 60fps with RT. Exclusive to Pro."
       }
     ],
-    "extraInfo": "The first 3 modes are also on base PS5, but internally renders at 2008p in quality mode, 1080p-1440p DRS in performance mode and 1440p in ray tracing mode. Pro's image is therefore sharper in all 3 modes, and base PS5 is only capable of RTGI at 30fps. RTGI significantly enhances image quality with more realistic lighting and shadows that adds nuance/depth, though it's not used everywhere (e.g. NPCs). Despite the 1080p-1440p internal resolution in RT Pro mode, its excellent PSSR implementation results in an image as sharp as native 4K in quality mode, and also trades blows in image quality. For example, some assets are a little noisier with PSSR, but other assets are more stable with PSSR. Finally, the framerate is basically locked on all modes on both consoles."
+    "extraInfo": "The first 3 modes are also on base PS5, but the internal resolution is as low as 1800p in quality mode, 1080p-1440p DRS in performance mode and 1440p in ray tracing mode. Pro is therefore sharper in all 3 modes, and base PS5 is only capable of RTGI at 30fps. RTGI can significantly enhance image quality (especially scenes with lots of sunlight) with more realistic lighting and shadows that adds nuance/depth. Despite the 1080p-1440p internal resolution in RT Pro mode, its excellent PSSR implementation results in an image as sharp as quality mode's native 4K. PSSR also trades blows in image quality - some assets are a little noisier, but others are more stable. Particles also have less ghosting with PSSR. Finally, the framerate is basically locked on all modes and cutscenes are 30fps regardless of mode/console."
   },
   {
     "name": "God Of War: Ragnarök",
