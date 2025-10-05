@@ -1252,13 +1252,13 @@
     "psvr2": false,
     "release": "September 26, 2025",
     "hasShipped": true,
-    "metacritic": 80,
+    "metacritic": 79,
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced ambient occlusion",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "*FC 26 isn't out yet, but the following information from last year's FC 25 provides a good baseline of what to expect - 'Pro combines base PS5's 'resolution' and 'enhanced visuals' modes into just one default mode. Pro sometimes renders an even sharper image than base PS5's resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps, as opposed to 30fps on base PS5.'"
+    "extraInfo": "FC 26 provides the same Pro enhancements that were seen in last year's FC 25. Pro combines base PS5's 'resolution' and 'enhanced visuals' modes into just one default mode. Pro sometimes renders an even sharper image than base PS5's resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps, as opposed to 30fps on base PS5."
   },
   {
     "name": "EA Sports UFC 5",
