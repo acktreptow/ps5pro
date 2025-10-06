@@ -97,12 +97,12 @@
     "psvr2": false,
     "release": "September 30, 2025",
     "hasShipped": true,
-    "metacritic": 71,
-    "pssr": false,
+    "metacritic": 74,
+    "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Very little is known about the technical performance of the non-VR version of Alien: Rogue Incursion. The only information Survios has provided is via a Gaming Bolt interview, where they said that Pro will have 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'. Hopefully, we learn more not too long before the game's September launch."
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Both base PS5 and Pro run at 60fps and upscale to 4K. Pro however uses PSSR to upscale, whereas base PS5 (likely) uses TSR as it's a UE5 game. While the internal resolution before upscaling is unknown, the game is still very sharp on Pro which suggests that it's at least 1080p. Survios has also told Gaming Bolt that Pro has 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'."
   },
   {
     "name": "Anger Foot",
