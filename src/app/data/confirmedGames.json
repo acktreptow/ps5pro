@@ -84,18 +84,6 @@
     "metacritic": 0
   },
   {
-    "name": "Control Ultimate Edition",
-    "id": "Control UE",
-    "genre": "Action-Adventure",
-    "developer": "Remedy Entertainment",
-    "publisher": "505 Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 2, 2021",
-    "hasShipped": true,
-    "metacritic": 85
-  },
-  {
     "name": "Crimson Desert",
     "id": "CD",
     "genre": "Action-Adventure",

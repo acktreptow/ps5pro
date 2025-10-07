@@ -770,6 +770,35 @@
     "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5 also has DRS and its internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and the early FMV cutscenes have visible macroblocking."
   },
   {
+    "name": "Control: Ultimate Edition",
+    "id": "Control UE",
+    "urlPath": "control-ultimate-edition",
+    "genre": "Action-Adventure",
+    "developer": "Remedy Entertainment",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 2, 2021",
+    "hasShipped": true,
+    "metacritic": 85,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced reflections",
+    "resolution": "1440p to 4K PSSR/TAA",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "graphics",
+        "description": "1440p to 4K PSSR/TAA with RT. Targets 30fps, but can theoretically hit up to 120fps with VRR."
+      },
+      {
+        "name": "performance",
+        "description": "1440p to 4K PSSR/TAA with no RT. Targets 60fps, but can theoretically hit up to 120fps with VRR."
+      }
+    ],
+    "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 can only use TAA. PSSR creates smoother edges, improved hair, and enhanced vegetation visual quality. PSSR also ensures a stable 30fps/60fps depending on mode. However, when unlocking the framerate, its higher compute cost results in a lower framerate than TAA. Finally, Pro's performance mode has better screen space reflections and updated texture/shadow resolution filtering compared to base PS5 performance mode."
+  },
+  {
     "name": "Crystal Of Atlan",
     "id": "CoA",
     "urlPath": "crystal-of-atlan",
