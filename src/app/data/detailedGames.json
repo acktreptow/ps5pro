@@ -2274,7 +2274,7 @@
         "description": "1080p (likely) to 4K at a basically locked 60fps."
       }
     ],
-    "extraInfo": "*All info taken from the demo - 'Graphical settings (shadows/lighting etc) are the same in both modes. While performance mode can have a slightly lower internal resolution before upscaling to 4K, the game's heavy post-processing results in there being very little difference in image quality/sharpness between the 2 modes. By picking beauty mode, you're essentially just halving your framerate for no graphical benefit - unless you can't stand single frame drops on rare occasion. The same is true for base PS5, which also has the same modes and no significant downgrade in resolution compared to the equivalent mode on Pro.'"
+    "extraInfo": "Graphical settings (shadows/lighting etc) are the same in both modes. While performance mode can have a slightly lower internal resolution before upscaling to 4K, the game's heavy post-processing results in there being very little difference in image quality/sharpness between the 2 modes. By picking beauty mode, you're essentially just halving your framerate for no graphical benefit - unless you can't stand single frame drops on rare occasion. The same is true for base PS5, which also has the same modes and no significant downgrade in resolution compared to the equivalent mode on Pro."
   },
   {
     "name": "Lords Of The Fallen",
