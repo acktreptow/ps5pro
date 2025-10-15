@@ -1104,6 +1104,18 @@
     "metacritic": 87
   },
   {
+    "name": "Vampire: Masquerade 2",
+    "id": "Vampire Masquerade 2",
+    "genre": "Action RPG",
+    "developer": "The Chinese Room",
+    "publisher": "Paradox Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 21, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Watch Dogs: Legion",
     "id": "WD3",
     "genre": "Open-World, Action TPS",
