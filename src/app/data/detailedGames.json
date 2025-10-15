@@ -180,6 +180,24 @@
     "extraInfo": "Pro's 2 modes are also on base PS5, but Pro hits the target framerate more often than their base PS5 equivalents. Interestingly, Apex Legends doesn't follow the standard naming convention as there's no fidelity/graphics mode that would have been the 30fps mode in this case."
   },
   {
+    "name": "Arc Raiders",
+    "id": "Arc Raiders",
+    "urlPath": "arc-raiders",
+    "genre": "Extraction TPS",
+    "developer": "Embark Studios",
+    "publisher": "Embark Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 30, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps (likely)",
+    "extraInfo": "According to Embark on their Discord channel, both Pro and base PS5 will use dynamic resolution scaling that can internally dip to as low as 720p. However, Pro can still reach a native 4K, whereas base PS5 can only render a maximum of 1600p (which then upscales to 4K). Pro will also have improved global illumination, shadows, reflections, texture resolution/filtering, VFX and draw distance. Hopefully, other technical aspects like the highest framerate target will be confirmed before launch."
+  },
+  {
     "name": "Ark: Survival Ascended",
     "id": "Ark SA",
     "urlPath": "ark-survival-ascended",
