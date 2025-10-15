@@ -432,6 +432,18 @@
     "metacritic": 80
   },
   {
+    "name": "Halloween",
+    "id": "Halloween",
+    "genre": "Asymmetric MP, Horror",
+    "developer": "IllFonic",
+    "publisher": "Gun Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 8, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "High On Life",
     "id": "HoL",
     "genre": "FPS, Adventure",
