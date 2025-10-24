@@ -4355,18 +4355,18 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1440p+ DRS to 4K at an somewhat unstable 40fps (dips to high 20s in fights)."
+        "description": "1440p-4K DRS to 4K PSSR at a relatively stable 30fps (can dip to high 20s in fights)."
       },
       {
         "name": "balanced",
-        "description": "Resolution of quality mode with the visual settings of performance mode, at an somewhat unstable 40fps (dips to high 30s in fights). Exclusive to 120 Hz screens."
+        "description": "1440p-1800p DRS to 4K PSSR at a relatively stable 40fps (can dip to high 30s in fights). Visual quality mainly of performance mode except foliage GI)"
       },
       {
         "name": "performance",
-        "description": "1080p to 4K at an unstable 60fps (dips to around 45fps in fights). Lower quality graphics settings (check extra info)."
+        "description": "1620p to 4K at a relatively stable 60fps (can dip to around 55fps in fights). Lower quality graphics settings (check extra info)."
       }
     ],
-    "extraInfo": "Performance mode has Less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The higher internal resolution also leads to a noticeably sharper/more stable image. Base PS5 has slightly worse internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup. However, the PSSR implementation leads to more instability/strobing in the UE5 lighting compared to base PS5. Both Pro and base PS5 share the same framerate issues depending on the mode (both dip to around 27fps in quality mode etc). Many of these issues (especially PSSR) should hopefuly be fixed in a future patch as the game is coming in very hot on PlayStation (it was a Xbox console exclusive for much of ToW2's development)."
+    "extraInfo": "Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to noticeably softer/less stable image. Base PS5 has slightly worse internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode. However, the PSSR implementation leads to more instability/strobing in the UE5 lighting compared to base PS5. Framerate stability is roughly the same between consoles. Issues like PSSR implementation should hopefully be fixed in a future patch as ToW2 is coming in very hot on PlayStation (it was a Xbox console exclusive for much its development)."
   },
   {
     "name": "The Precinct",
