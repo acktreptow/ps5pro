@@ -4476,6 +4476,44 @@
     "extraInfo": "All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro."
   },
   {
+    "name": "Truck Driver: TDC",
+    "pageTitle": "Truck Driver: The Dutch Connection",
+    "id": "TD: TDC",
+    "urlPath": "truck-driver-the-dutch-connection",
+    "genre": "Driving, Simulation",
+    "developer": "Kyodai & Soedesco",
+    "publisher": "Soedesco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 31, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced reflections, ambient occlusion and global illumination",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity pro 30fps",
+        "description": "Prioritizes resolution over framerate. Dynamic 4K PSSR at locked 30fps. Has improved shadows, lighting and draw distance compared to performance modes. Also has RTAO/GI/reflections."
+      },
+      {
+        "name": "fidelity pro unlocked",
+        "description": "Prioritizes framerate over resolution. Dynamic 4K PSSR at 60/120fps. Has improved shadows, lighting and draw distance compared to performance modes. Also has RTAO/GI/reflections."
+      },
+      {
+        "name": "performance RT pro",
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS, but with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS. No RT."
+      }
+    ],
+    "extraInfo": "*All tech information is based off Kyodai's Truck Driver: The American Dream. The only aspect that's been confirmed is that Pro will use hardware RT, whereas base PS5 is using software RT. - 'All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro.'"
+  },
+  {
     "name": "UFL",
     "id": "UFL",
     "urlPath": "ufl",
