@@ -288,7 +288,19 @@
     "metacritic": 73
   },
   {
-    "name": "Final Fantasy 14",
+    "name": "Final Fantasy VII Remake",
+    "id": "FF7",
+    "genre": "Cinematic Action JRPG",
+    "developer": "Square Enix CBU I",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 10, 2021",
+    "hasShipped": true,
+    "metacritic": 89
+  },
+  {
+    "name": "Final Fantasy XIV",
     "id": "FF14",
     "genre": "MMORPG",
     "developer": "Square Enix CBU III",
@@ -300,7 +312,7 @@
     "metacritic": 0
   },
   {
-    "name": "Final Fantasy 16",
+    "name": "Final Fantasy XVI",
     "id": "FF16",
     "genre": "Cinematic Action JRPG",
     "developer": "Square Enix CBU III",
