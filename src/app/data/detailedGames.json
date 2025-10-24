@@ -928,6 +928,35 @@
     "extraInfo": "Pro uses RT reflections, which are a huge improvement over base PS5's screen space reflections due to the shopping mall setting (storefront windows etc). While both base PS5 and Pro run at native 4K, Pro also has a locked 60fps even with RT reflections, whereas base PS5 dips into the low 50s in the most demanding scenarios. This is most likely why base PS5 doesn't support RT."
   },
   {
+    "name": "Death Stranding 1: DC",
+    "pageTitle": "Death Stranding: Director's Cut",
+    "id": "DS: DC",
+    "urlPath": "death-stranding-directors-cut",
+    "genre": "Action Strand",
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "September 24, 2021",
+    "hasShipped": true,
+    "metacritic": 85,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (with Decima engine's own TAA solution)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "prioritize quality",
+        "description": "4K native at a locked 30fps."
+      },
+      {
+        "name": "prioritize performance",
+        "description": "1440p-4K DRS at a very nearly locked 60fps."
+      }
+    ],
+    "extraInfo": "*All information is based of DS2 - Pro's performance and quality modes look nearly identical despite a 2x in framerate. Both Pro and base PS5 performance modes run in an 120 Hz container, resulting in less input lag. Outside of base PS5's higher DRS (1800p-4K) in quality mode, Pro performance mode matches its graphical settings (distant terrain detail/geometry, shadows, AO & texture LODs). Base PS5 performance mode's 1260p-1800p DRS can be noticeably blurrier, with more image instability/shimmer/fizzle as well as worse reflections/shadows/draw distance than all the other modes."
+  },
+  {
     "name": "Death Stranding 2: OTB",
     "pageTitle": "Death Stranding 2: On The Beach",
     "id": "DS2",

@@ -192,18 +192,6 @@
     "metacritic": 89
   },
   {
-    "name": "Death Stranding: DC",
-    "id": "DS: DC",
-    "genre": "Action Strand",
-    "developer": "Kojima Productions",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "September 24, 2021",
-    "hasShipped": true,
-    "metacritic": 85
-  },
-  {
     "name": "Deathloop",
     "id": "Deathloop",
     "genre": "FPS, Immersive Sim",
