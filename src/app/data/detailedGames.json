@@ -4336,6 +4336,39 @@
     "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. PSSR beats FSR in the PC version and comes very close to DLSS. Overall, Pro mode is around PC Ultra settings except for shadows, which is a tier below."
   },
   {
+    "name": "The Outer Worlds 2",
+    "id": "ToW 2",
+    "urlPath": "the-outer-worlds-2",
+    "genre": "Western Action RPG",
+    "developer": "Obsidian",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 29, 2025",
+    "hasShipped": false,
+    "metacritic": 81,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1440p+ DRS to 4K at an somewhat unstable 40fps (dips to high 20s in fights)."
+      },
+      {
+        "name": "balanced",
+        "description": "Resolution of quality mode with the visual settings of performance mode, at an somewhat unstable 40fps (dips to high 30s in fights). Exclusive to 120 Hz screens."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 4K at an unstable 60fps (dips to around 45fps in fights). Lower quality graphics settings (check extra info)."
+      }
+    ],
+    "extraInfo": "Performance mode has Less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The higher internal resolution also leads to a noticeably sharper/more stable image. Base PS5 has slightly worse internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup. However, the PSSR implementation leads to more instability/strobing in the UE5 lighting compared to base PS5. Both Pro and base PS5 share the same framerate issues depending on the mode (both dip to around 27fps in quality mode etc). Many of these issues (especially PSSR) should hopefuly be fixed in a future patch as the game is coming in very hot on PlayStation (it was a Xbox console exclusive for much of ToW2's development)."
+  },
+  {
     "name": "The Precinct",
     "id": "Precinct",
     "urlPath": "the-precinct",
