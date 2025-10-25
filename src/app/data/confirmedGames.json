@@ -348,18 +348,6 @@
     "metacritic": 0
   },
   {
-    "name": "Ninja Gaiden 4",
-    "id": "NG4",
-    "genre": "Action-Adventure",
-    "developer": "Team Ninja & Platinum",
-    "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 21, 2025",
-    "hasShipped": true,
-    "metacritic": 81
-  },
-  {
     "name": "Norse: Oath Of Blood",
     "id": "Norse: OOB",
     "genre": "Turn-Based Tactics",
