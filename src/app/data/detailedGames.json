@@ -806,19 +806,19 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
-    "resolution": "1440p to 4K PSSR/TAA",
+    "resolution": "1440p to 4K PSSR",
     "fps": "120fps",
     "modes": [
       {
         "name": "graphics",
-        "description": "1440p to 4K PSSR/TAA with RT at a stable 30fps, or usually around 50fps with VRR."
+        "description": "1440p to 4K PSSR/TAA, with RT, at a locked 30fps. Or usually around 45-55fps with VRR (depending on upscaler)."
       },
       {
         "name": "performance",
-        "description": "1440p to 4K PSSR/TAA with no RT at a stable 60fps, or usually around 80-100fps with VRR (depending on upscaler)."
+        "description": "1440p to 4K PSSR/TAA, with no RT, at a very stable 60fps. Or usually around 80-100fps with VRR (depending on upscaler)."
       }
     ],
-    "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 is TAA only. PSSR delivers smoother edges, better hair/vegetation quality, and superior motion clarity, but introduces more instability in ray traced assets and carries a higher compute cost - typically running 10-20 fps lower than TAA when framerates are unlocked (both upscalers ensure a locked 30/60fps). TAA has sharper, more stable ray-traced assets in stills, but instability issues still creep up in motion. With so many pros and cons, the choice of upscaler therefore really depends on subjective preference. Finally, Pro's performance mode has better screen space reflections and updated texture/shadow resolution filtering compared to base PS5 performance mode."
+    "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 is TAA only. PSSR delivers smoother edges, better hair/vegetation quality, less ghosting, and sharper/smoother motion clarity with less shimmer/pixel crawl. However, PSSR carries a higher compute cost - typically running 5-15 fps lower than TAA when framerates are unlocked. TAA is also sharper/more stable in stills. Both upscalers ensure a locked 30/60fps though and when unlocked, both still run higher than base PS5 (around 70fps in typical gameplay for performance mode and only up to 40fps in graphics mode). Finally, Pro has better SSR (in performance mode) and texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
   },
   {
     "name": "Crystal Of Atlan",
