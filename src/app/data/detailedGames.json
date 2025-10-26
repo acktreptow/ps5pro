@@ -4405,6 +4405,25 @@
     "extraInfo": "Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to noticeably softer/less stable image. Base PS5 has slightly worse internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode. However, the PSSR implementation leads to more instability/strobing in the UE5 lighting compared to base PS5. Framerate stability is roughly the same between consoles. Issues like PSSR implementation should hopefully be fixed in a future patch as ToW2 is coming in very hot on PlayStation (it was a Xbox console exclusive for much its development)."
   },
   {
+    "name": "The Outlast Trials",
+    "id": "Outlast Trials",
+    "urlPath": "the-outlast-trials",
+    "genre": "Co-Op Survival Horror",
+    "developer": "Red Barrels",
+    "publisher": "Red Barrels",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 5, 2024",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 only has screen space reflections. However, Pro's RT can cause the resolution to dip below native 4K in more complex scenes. Otherwise, both Pro and base PS5 are native 4K at 60fps when using SSR."
+  },
+  {
     "name": "The Precinct",
     "id": "Precinct",
     "urlPath": "the-precinct",
