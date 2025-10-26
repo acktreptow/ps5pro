@@ -506,10 +506,10 @@
       },
       {
         "name": "performance",
-        "description": "1440p DRS to 4K PSSR at usually around 100-110fps. Slightly worse shadows, lighting, terrain, SSR, and LODs than balanced mode."
+        "description": "1440p DRS to 4K PSSR at usually around 100-110fps. Lower quality shadows/lighting/occlusion (GTAO instead of SSGI), terrain, SSR, and LODs than balanced mode."
       }
     ],
-    "extraInfo": "Base PS5's balanced mode is 1296p-1440p DRS at a basically locked 60fps and its performance mode is 1080p-1224p DRS at roughly 80-95fps. Base PS5 also uses FSR  to upscale, however, Pro's PSSR does a far better job at  creating a sharper 4K-like image with greater detail outside of foliage, which can look softer. AO can also look worse due to PSSR in performance mode.  Pro has slightly improved LODs, shadows, textures, lighting and post-processing effects compared to base PS5. While both Pro and base PS5 performance modes have worse quality graphical settings, the cutbacks are worse on base PS5. There's no RT, even on PC, but Pro balanced mode/PC has improved SSGI for a more realistic lighting/occlusion compared to base PS5's/Pro performance mode's GTAO. Menus are 30fps regardless of console or mode. Cutscenes are capped at 60fps in all modes."
+    "extraInfo": "Base PS5 balanced mode has similar DRS/framerate to Pro. However, it uses Pro performance mode's inferior GTAO compared to Pro's SSGI, resulting in less realistic lighting/occlusion. Base PS5 performance mode uses GTAO, has lower DRS (1080p-1224p) and also runs at a lower 80-95fps compared to Pro performance mode. Base PS5 also uses FSR to upscale, however, Pro's PSSR creates a sharper 4K-like image with greater detail outside of foliage, which can look softer. While both Pro and base PS5 performance modes have worse visual settings, cutbacks are worse on base PS5. Finally, menus are 30fps and cutscenes are capped at 60fps in all modes."
   },
   {
     "name": "Beneath",
