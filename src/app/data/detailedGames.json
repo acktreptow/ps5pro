@@ -2881,22 +2881,22 @@
     "modes": [
       {
         "name": "prioritize framerate (pro)",
-        "description": "1440p DRS to 4K PSSR at a basically locked 60fps (small dips during some combat scenes) or up to 70fps with VRR."
+        "description": "1440p DRS to 4K PSSR at a basically locked 60fps. With VRR, usually 80-100fps in demanding scenes and up to 120fps in open play. Same visual quality settings as prioritize graphics mode."
       },
       {
         "name": "prioritize graphics",
-        "description": "1440p to 4K FSR at a locked 30fps or around 50fps with VRR."
+        "description": "1440p DRS to 4K FSR at a locked, but unevenly paced 30fps, or around 55-65fps with VRR."
       },
       {
         "name": "prioritize framerate",
-        "description": "900p-1000p FSR to 4K at a basically locked 60fps or around 90fps with VRR."
+        "description": "900p-1080p DRS to 4K FSR at a basically locked 60fps."
       },
       {
         "name": "120 hz",
-        "description": "720p to 1080p FSR at a very stable 120fps (a floor of around 110fps during effect heavy fights). Worse graphics settings (see extra info)."
+        "description": "720p DRS to 1080p FSR at a very stable 120fps (a floor of around 110fps during demanding fights). Much worse graphics settings (see extra info)."
       }
     ],
-    "extraInfo": "Prioritize graphics/framerate and 120 Hz modes are the same as on base PS5. They will just run at the higher resolution DRS bounds and hit a higher framerate with VRR on.  Prioritize framerate Pro mode takes the visual settings of graphics mode, but runs at 60fps instead of 30fps. While both of these mode also internally render at 1440p, base PS5 uses FSR to upscale to 4K whereas Pro uses an excellent implementation of PSSR (both modes looks very 4K-like). Draw distance is much worse in 120 Hz mode with assets like close trash bags/rocks etc not rendering at all. 120 Hz mode also has no SSR, missing rain effects and looks considerably blurrier due to both the lower internal and output resolutions."
+    "extraInfo": "Prioritize graphics, framerate and 120 Hz modes are also the modes on base PS5. However, Pro can uncap the framerate (base PS5 can't) and will also reach the higher bounds of the DRS more often. Prioritize framerate Pro takes the visual settings of graphics mode, but runs at 60fps+ instead of 30fps. While both of these mode also internally render at 1440p, base PS5 uses FSR to upscale to 4K whereas Pro uses an excellent implementation of PSSR (both modes looks very 4K-like). The 120 Hz mode has no SSR, missing rain effects, and a far worse draw distance/LODs where many assets like trash bags/rocks don't render at all. It also looks considerably blurrier due to both the lower internal and output resolutions, making it a pointless mode on Pro as its exclusive mode is superior in every way."
   },
   {
     "name": "No Man's Sky",
