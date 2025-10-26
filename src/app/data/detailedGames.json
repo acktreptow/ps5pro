@@ -506,7 +506,7 @@
       },
       {
         "name": "performance",
-        "description": "1440p DRS to 4K PSSR at usually around 100-110fps. Lower quality shadows/lighting/occlusion (GTAO instead of SSGI), terrain, SSR, and LODs than balanced mode."
+        "description": "1080p-1440p DRS to 4K PSSR at usually around 100-110fps. Lower quality shadows/lighting/occlusion (GTAO instead of SSGI), terrain, SSR, and LODs."
       }
     ],
     "extraInfo": "Base PS5 balanced mode has similar DRS/framerate to Pro. However, it uses Pro performance mode's inferior GTAO compared to Pro's SSGI, resulting in less realistic lighting/occlusion. Base PS5 performance mode uses GTAO, has lower DRS (1080p-1224p) and also runs at a lower 80-95fps compared to Pro performance mode. Base PS5 also uses FSR to upscale, however, Pro's PSSR creates a sharper 4K-like image with greater detail outside of foliage, which can look softer. While both Pro and base PS5 performance modes have worse visual settings, cutbacks are worse on base PS5. Finally, menus are 30fps and cutscenes are capped at 60fps in all modes."
@@ -621,10 +621,14 @@
       },
       {
         "name": "performance",
-        "description": "1080p to 1440p FSR3. Frame-gen used to target a still unstable 60ps."
+        "description": "60fps with no Lumen GI."
+      },
+      {
+        "name": "legacy performance",
+        "description": "1080p to 1440p FSR3. Frame-gen used (30fps internal) to target a still unstable 60ps. Original performance mode until October 2025."
       }
     ],
-    "extraInfo": "Base PS5's performance mode is only 1080p, but like Pro, also uses frame generation. However due to frame gen, the quality/balanced modes on both consoles have less input lag and therefore feel more responsive, despite fewer frames. Pro's PSSR in these modes also offer a far clearer image (albeit a little noisier) than FSR3 and FSR2, which base PS5 uses in its balanced (1080p internal) and quality (1296p internal) modes to target an upscaled 1440p."
+    "extraInfo": "Base PS5's legacy performance mode is only 1080p, but like Pro, also uses frame generation. However due to frame gen, the quality/balanced modes on both consoles have less input lag and therefore feel more responsive, despite fewer frames. Pro's PSSR in these modes also offer a far clearer image (albeit a little noisier) than FSR3 and FSR2, which base PS5 uses in its balanced (1080p internal) and quality (1296p internal) modes to target an upscaled 1440p. Performance mode's lack of Lumen GI results in poor/flat ps3-quality lighting."
   },
   {
     "name": "Blades Of Fire",
