@@ -660,6 +660,18 @@
     "metacritic": 83
   },
   {
+    "name": "Minecraft",
+    "id": "Minecraft",
+    "genre": "Sandbox, Survival, Adventure",
+    "developer": "Mojang Studios",
+    "publisher": "Mojang Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 22, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "MLB The Show 25",
     "id": "MLB 25",
     "genre": "Sports, Baseball",
