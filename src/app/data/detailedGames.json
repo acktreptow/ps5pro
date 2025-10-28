@@ -1666,6 +1666,24 @@
     "extraInfo": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler. Based off other UE5 games that also give the choice between PSSR and TSR (like Hellblade 2, Hell Is Us etc), it's likely that TSR upscales a more stable image, but the difference is only slight and neither provide a FPS advantage. Base PS5 has the same modes but at (presumably) worse internal resolutions, though pixel counts aren't currently available."
   },
   {
+    "name": "Full Metal Schoolgirl",
+    "id": "FMS",
+    "urlPath": "full-metal-schoolgirl",
+    "genre": "TPS Roguelite, Hack & Slash",
+    "developer": "Yuke's",
+    "publisher": "D3 Publisher",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 23, 2025",
+    "hasShipped": true,
+    "metacritic": 68,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "extraInfo": "While Pro can reach up to 120fps, base PS5 is capped at 60fps. In general combat, Pro's framerate is usually around 75-95fps, with rare dips to around 65fps and can still hit 120fps relatively often. Both Pro and base PS5 also render at 4K and neither natively support HDR."
+  },
+  {
     "name": "Gears Of War: Reloaded",
     "id": "GOW: Reloaded",
     "urlPath": "gears-of-war-reloaded",
