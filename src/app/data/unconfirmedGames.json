@@ -716,8 +716,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "October 21, 2025",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 65
   },
   {
     "name": "Phasmophobia VR",
