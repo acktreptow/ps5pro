@@ -521,7 +521,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "October 28th, 2025",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0,
     "pssr": true,
     "rt": false,
@@ -2191,12 +2191,12 @@
     "psvr2": false,
     "release": "October 21, 2025",
     "hasShipped": true,
-    "metacritic": 82,
+    "metacritic": 84,
     "pssr": false,
     "rt": false,
     "resolution": "4K (based off PC2)",
     "fps": "30fps (based off PC2)",
-    "extraInfo": "*JWE3 isn't out yet, but the following information from Frontier's most recent game (2024's Planet Coaster 2) provides a good baseline for what to expect as they're similar games - 'The only difference between Pro and base PS5 is resolution - Pro runs at native 4K, whereas base PS5 internally runs at 1440p before upscaling to 4K. This results in Pro rendering sharper assets like foliage, trees and water reflections, as well as less image instability on assets like railings. Both consoles still run at a locked 30fps, and Pro's pause menu (the controller outline etc) and loading screen animations still have the approx 1080p looking jaggies.'"
+    "extraInfo": "*The following information is from Frontier's most recent game (2024's Planet Coaster 2), which provides a good baseline for what to expect as they're similar games - 'The only difference between Pro and base PS5 is resolution - Pro runs at native 4K, whereas base PS5 internally runs at 1440p before upscaling to 4K. This results in Pro rendering sharper assets like foliage, trees and water reflections, as well as less image instability on assets like railings. Both consoles still run at a locked 30fps, and Pro's pause menu (the controller outline etc) and loading screen animations still have the approx 1080p looking jaggies.'"
   },
   {
     "name": "Karma: The Dark World",
