@@ -36,6 +36,18 @@
     "metacritic": 0
   },
   {
+    "name": "Arknights: Endfield",
+    "id": "Arknights",
+    "genre": "F2P Action RPG",
+    "developer": "Hypergryph",
+    "publisher": "Gryphline",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "genre": "Psychological Horror",
