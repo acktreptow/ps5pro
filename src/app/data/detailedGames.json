@@ -4889,6 +4889,25 @@
     "extraInfo": "Base PS5 also has dynamic resolution scaling, but instead uses FSR2 to upscale its modes and have a lower base resolution before upscaling (e.g. 720p for speed mode). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
+    "name": "Where Winds Meet",
+    "id": "WWM",
+    "urlPath": "where-winds-meet",
+    "genre": "F2P Action RPG",
+    "developer": "Everstone Studio",
+    "publisher": "NetEase Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 14, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "TBD",
+    "resolution": "4K PSSR (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "The FAQ section in WWM's PlayStation Store object confirms that Pro will have a higher rendering resolution, optimized RT and PSSR support. Exactly how these improvements translate remains to be seen until launch."
+  },
+  {
     "name": "Wolverine",
     "id": "Wolverine",
     "urlPath": "wolverine",
