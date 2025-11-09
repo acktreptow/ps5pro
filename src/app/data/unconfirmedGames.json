@@ -170,7 +170,7 @@
   {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
-    "genre": "FPS Action RPG",
+    "genre": "FPS, Action RPG",
     "developer": "CD Projekt Red",
     "publisher": "CD Projekt",
     "psStudios": false,
@@ -206,7 +206,7 @@
   {
     "name": "Destiny 2",
     "id": "D2",
-    "genre": "MMO FPS",
+    "genre": "F2P FPS, MMO",
     "developer": "Bungie",
     "publisher": "Bungie",
     "psStudios": true,
@@ -230,7 +230,7 @@
   {
     "name": "Dune: Awakening",
     "id": "Dune",
-    "genre": "Open-World Survival RPG",
+    "genre": "Open-World, Survival, RPG",
     "developer": "Funcom",
     "publisher": "Funcom",
     "psStudios": false,
