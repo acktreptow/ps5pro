@@ -278,7 +278,7 @@
   {
     "name": "Far Cry 6",
     "id": "FC6",
-    "genre": "Open-World FPS",
+    "genre": "FPS, Open-World",
     "developer": "Ubisoft Toronto",
     "publisher": "Ubisoft",
     "psStudios": false,
@@ -650,7 +650,7 @@
   {
     "name": "Metro Exodus",
     "id": "Metro E",
-    "genre": "Open-World FPS",
+    "genre": "FPS, Open-World",
     "developer": "4A Games",
     "publisher": "Deep Silver",
     "psStudios": false,
@@ -938,7 +938,7 @@
   {
     "name": "Synapse",
     "id": "Synapse",
-    "genre": "VR FPS Roguelite",
+    "genre": "VR FPS, Roguelite",
     "developer": "nDreams",
     "publisher": "nDreams",
     "psStudios": false,
