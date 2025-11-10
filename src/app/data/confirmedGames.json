@@ -300,18 +300,6 @@
     "metacritic": 78
   },
   {
-    "name": "My Time At Sandrock",
-    "id": "MTaS",
-    "genre": "Simulation, Farming",
-    "developer": "Pathea Games",
-    "publisher": "Focus Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 2, 2023",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "Neverness To Everness",
     "id": "NTE",
     "genre": "F2P Action RPG",

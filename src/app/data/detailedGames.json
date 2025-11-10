@@ -2768,6 +2768,34 @@
     "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5. Finally, both consoles run at a basically locked 60fps."
   },
   {
+    "name": "My Time At Sandrock",
+    "id": "MTaS",
+    "urlPath": "my-time-at-sandrock",
+    "genre": "Simulation, Farming",
+    "developer": "Pathea Games",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 2, 2023",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a very stable 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same modes that target the same resolutions. However, the framerate is less stable (drops to 55fps in base PS5 fidelity mode etc). *All tech information is based off figures taken from various message boards, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing. "
+  },
+  {
     "name": "My First Gran Turismo",
     "id": "My First Gran Turismo",
     "urlPath": "my-first-gran-turismo",
