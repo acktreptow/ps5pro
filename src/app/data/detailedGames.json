@@ -2768,6 +2768,24 @@
     "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5. Finally, both consoles run at a basically locked 60fps."
   },
   {
+    "name": "Motel Business Simulator",
+    "id": "MBS",
+    "urlPath": "motel-business-simulator",
+    "genre": "Simulation, Strategy",
+    "developer": "Nostra Games",
+    "publisher": "Nostra Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 2, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off Hole Digging Master as there's no public information about Motel Business Simulator's Pro enhancements. However, as both games are by Nostra and have a similar aesthetic/scope, HDM provides a good baseline of what to expect from MBS - 'Both the Pro and base PS5 version are the same for all intents and purposes (the framerate is a locked 60fps on both for example). At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Cronos: The New Dawn showcase more significant improvements simply due to Pro's increased horsepower.'"
+  },
+  {
     "name": "My Time At Sandrock",
     "id": "MTaS",
     "urlPath": "my-time-at-sandrock",
