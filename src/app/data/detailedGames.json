@@ -3672,6 +3672,24 @@
     "extraInfo": "Both graphics modes' framerate fall far below the VRR limit for a majority of gameplay. You can cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your setup. The superior RT reflections make little difference in this scenario because of the framerate issue. Prioritize FPS mode however runs great because it always remains in the VRR window, and even with the lower bound of its dynamic resolution scaling, Pro's PSSR renders a more clear/less aliased image than base PS5's FSR (even in its graphics modes). Especially with foliage which regularly fills the screen."
   },
   {
+    "name": "Road Cafe Simulator",
+    "id": "RCS",
+    "urlPath": "road-cafe-simulator",
+    "genre": "Simulation, Strategy",
+    "developer": "Nostra Games",
+    "publisher": "Nostra Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 3, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off Hole Digging Master as there's no public information about Road Cafe Simulator's Pro enhancements. However, as both games are by Nostra and have a similar aesthetic/scope, HDM provides a good baseline of what to expect from RCS - 'Both the Pro and base PS5 version are the same for all intents and purposes (the framerate is a locked 60fps on both for example). At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Cronos: The New Dawn showcase more significant improvements simply due to Pro's increased horsepower.'"
+  },
+  {
     "name": "RoadCraft",
     "id": "RC",
     "urlPath": "road-craft",
