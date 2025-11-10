@@ -5108,6 +5108,25 @@
     "extraInfo": "*All tech information is based off of Like A Dragon: Pirate Yakuza In Hawaii, which is currently RGG's only Pro game. As both games are from the same developer, have a similar scope, and are part of the same IP, Pirate Yakuza provides a good baseline of expectations until Yakuza 0's imminent release - 'While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair.'"
   },
   {
+    "name": "Yakuza Kiwami 3 & DT",
+    "pageTitle": "Yakuza Kiwami 3 & Dark Ties",
+    "id": "Yakuza 3",
+    "urlPath": "yakuza-kiwami-3-and-dark-ties",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p to 4K",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off of Like A Dragon: Pirate Yakuza In Hawaii, which is currently RGG's only Pro game. As both games are from the same developer, have a similar scope, and are part of the same IP, Pirate Yakuza provides a good baseline of expectations until Yakuza 3's imminent release - 'While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair.'"
+  },
+  {
     "name": "Zenless Zone Zero",
     "id": "ZZZ",
     "urlPath": "zenless-zone-zero",
