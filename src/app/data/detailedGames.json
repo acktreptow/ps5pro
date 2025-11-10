@@ -5090,6 +5090,24 @@
     "extraInfo": "All modes use Lumen GI/reflections. Pro and base PS5 have the same graphical settings and DRS in their equivalent modes - it's the target framerate that differs. E.g, graphics mode is 900p-1188p on both consoles, but Pro targets 60fps whereas base PS5 targets 30fps. Pro also maintains the higher DRS bound more often. FPS mode can fall out of the VRR range on base PS5 and hitch with sudden resolutions changes/autosaves, whereas Pro aims for as high as 80fps on 120 HZ TVs, with no hitches. 540p can result in extreme artifacting regardless of console. Finally, base PS5 aims for 30/40fps in its graphics/balanced modes, and both are unevenly paced. This make FPS mode the only viable option on base PS5 for smooth gameplay, whereas all 3 modes are viable on Pro."
   },
   {
+    "name": "Yakuza 0 Director's Cut",
+    "id": "Yakuza 0",
+    "urlPath": "yakuza-0-directors-cut",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 8, 2025",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p to 4K",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off of Like A Dragon: Pirate Yakuza In Hawaii, which is currently RGG's only Pro game. As both games are from the same developer, have a similar scope, and are part of the same IP, Pirate Yakuza provides a good baseline of expectations until Yakuza 0's imminent release - 'While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair.'"
+  },
+  {
     "name": "Zenless Zone Zero",
     "id": "ZZZ",
     "urlPath": "zenless-zone-zero",
