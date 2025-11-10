@@ -4757,6 +4757,24 @@
     "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
+    "name": "Vampire Survivors",
+    "id": "Vampire Survivors",
+    "urlPath": "vampire-survivors",
+    "genre": "Bullet Hell, Roguelite",
+    "developer": "Poncle",
+    "publisher": "Poncle",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 29, 2024",
+    "hasShipped": true,
+    "metacritic": 89,
+    "pssr": false,
+    "rt": false,
+    "resolution": "9000p (according to Gamespot)",
+    "fps": "60fps",
+    "extraInfo": "A Gamespot article states that Poncle claims the Pro is capable of 9000p resolution (compared to 4K on base PS5) and even more vampires. However, Gamespot doesn't cite any source for this claim, nor could I source Poncle's words myself. At the very least, Pro maintains 60fps more consistently - a framerate target that isn't always achieved on base PS5 in later stages/weapon combinations."
+  },
+  {
     "name": "War Thunder",
     "id": "War Thunder",
     "urlPath": "war-thunder",
