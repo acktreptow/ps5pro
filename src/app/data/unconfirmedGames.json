@@ -852,6 +852,18 @@
     "metacritic": 81
   },
   {
+    "name": "Skate",
+    "id": "Skate",
+    "genre": "Sports, Skateboarding",
+    "developer": "Full Circle",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "September 16, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Skydance's Behemoth",
     "id": "Behemoth",
     "genre": "VR Action-Adventure",

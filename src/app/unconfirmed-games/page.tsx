@@ -39,7 +39,7 @@ const UnconfirmedGamesPage = async () => {
   return (
     <div className="container mx-auto flex-grow text-slate-800">
       <h1 className="text-center text-4xl font-extrabold mt-8 mb-12 mx-4 p-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-        99 Unconfirmed Games
+        {unconfirmedGames.length} Unconfirmed Games
       </h1>
 
       <h2 className="text-3xl text-center font-bold underline mb-4 mx-2 lg:text-start lg:mx-8">
