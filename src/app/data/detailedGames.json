@@ -161,14 +161,14 @@
     "modes": [
       {
         "name": "stability",
-        "description": "4K at at a locked 60fps."
+        "description": "4K at a locked 60fps."
       },
       {
         "name": "performance",
-        "description": "A steady 120fps."
+        "description": "4K at a steady 120fps."
       }
     ],
-    "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is instead the regular 60fps."
+    "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is instead the regular 60fps. Performance mode might have a slightly lower resolution, but its difference is negligible even when switching between the 2 modes. This is most likely why performance is the default mode."
   },
   {
     "name": "Apex Legends",
