@@ -96,6 +96,18 @@
     "metacritic": 0
   },
   {
+    "name": "Cronos: The New Dawn",
+    "id": "Cronos",
+    "genre": "Survival Action Horror",
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 5, 2025",
+    "hasShipped": true,
+    "metacritic": 77
+  },
+  {
     "name": "Elemental War Clash",
     "id": "EWC",
     "genre": "Strategy, Tower Defense",
