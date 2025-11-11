@@ -864,6 +864,18 @@
     "metacritic": 56
   },
   {
+    "name": "Sleep Awake",
+    "id": "Sleep Awake",
+    "genre": "Psychological Horror",
+    "developer": "Eyes Out",
+    "publisher": "Blumhouse Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 2, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sonic Frontiers",
     "id": "Sonic Frontiers",
     "genre": "Platform, Action-Adventure",
