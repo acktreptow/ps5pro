@@ -25,16 +25,16 @@ export const Header = (): JSX.Element => {
             <Link href="/about">About</Link>
           </li>
           <li className="hover:text-white hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/gameslist">PS5 Pro Games</Link>
+            <Link href="/games-list">PS5 Pro Games</Link>
           </li>
           <li className="hover:text-white hover:underline hover:scale-110 transition-transform duration-300">
             <Link href="/unconfirmed-games">Unconfirmed Games</Link>
           </li>
           <li className="hover:text-white hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/ps5vsps5pro">Specs</Link>
+            <Link href="/ps5-vs-ps5-pro">Specs</Link>
           </li>
           <li className="hover:text-white hover:underline hover:scale-110 transition-transform duration-300">
-            <Link href="/graphicsvsperformance">Modes</Link>
+            <Link href="/graphics-vs-performance">Modes</Link>
           </li>
         </ul>
       </div>
