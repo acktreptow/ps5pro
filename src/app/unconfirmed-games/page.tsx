@@ -59,10 +59,10 @@ const UnconfirmedGamesPage = async () => {
           Either by drastically improving the game&#39;s experience itself, or
           bringing the franchise and/or PS5 Pro ecosystem more into the
           spotlight etc.{" "}
-          <span className="block my-4 font-semibold text-lg md:text-base md:my-2 lg:text-xl lg:my-4">
-            With that being said...
-          </span>
         </h4>
+      </div>
+      <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
+
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-6 lg:mb-2">
           Criteria (in rough order of importance)
         </h3>
