@@ -3746,6 +3746,24 @@
     "extraInfo": "According to Truant Pixel, outside of resolution/framerate increases compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
+    "name": "Rush: Apex Edition",
+    "id": "Rush",
+    "urlPath": "rush-apex-edition",
+    "genre": "VR Wingsuit Flight, Racing",
+    "developer": "The Binary Mill",
+    "publisher": "The Binary Mill",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "November 6, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "120fps",
+    "extraInfo": "There is only one difference between Pro and base PS5. Pro runs at 120 Hz whereas base PS5 runs at 90 Hz."
+  },
+  {
     "name": "Sanguis Luna",
     "id": "SL",
     "urlPath": "sanguis-luna",

@@ -408,18 +408,6 @@
     "metacritic": 0
   },
   {
-    "name": "Rush: Apex Edition",
-    "id": "Rush",
-    "genre": "VR Wingsuit Flight, Racing",
-    "developer": "The Binary Mill",
-    "publisher": "The Binary Mill",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "November 6, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Satisfactory",
     "id": "Satisfactory",
     "genre": "Open-World, Base Building",
