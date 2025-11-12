@@ -4076,6 +4076,34 @@
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in Performance Pro still resolves more detail than the upscaler seen in any base PS5 mode. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution (50% in Performance Pro) and RTAO has more contact shadows, adding depth to assets all over the screen. RT types can be toggled on/off which affects VRR framerate approx +- 10. Draw distance/distant reflections are also improved over Performance Pro (which is at base PS5 Fidelity mode), e.g. more onscreen distant objects like trees. Graphics settings are equivalent to PC's high/very high."
   },
   {
+    "name": "Sonic Racing: CrossWorlds",
+    "id": "Sonic Racing",
+    "urlPath": "sonic-racing-crossworlds",
+    "genre": "Racing, Arcade Kart",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 25, 2025",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "graphics",
+        "description": "4K at a basically locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "4K at a basically locked 60fps. Drops to 1440p in 4-player split screen."
+      }
+    ],
+    "extraInfo": "Base PS5 is 4K/30fps in its graphics mode and 1080p/60fps in its performance mode."
+  },
+  {
     "name": "Split Fiction",
     "id": "Split Fiction",
     "urlPath": "split-fiction",
