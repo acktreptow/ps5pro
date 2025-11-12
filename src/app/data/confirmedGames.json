@@ -48,6 +48,18 @@
     "metacritic": 67
   },
   {
+    "name": "BlazBlue Entropy Effect X",
+    "id": "BlazBlue EEX",
+    "genre": "2D Action, Roguelite",
+    "developer": "91Act",
+    "publisher": "91Act & Astrolabe",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",
