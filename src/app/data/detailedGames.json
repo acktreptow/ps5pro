@@ -171,6 +171,25 @@
     "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is instead the regular 60fps. Performance mode might have a slightly lower resolution, but its difference is negligible even when switching between the 2 modes. This is most likely why performance is the default mode."
   },
   {
+    "name": "Anno 117: Pax Romana",
+    "id": "Anno 117",
+    "urlPath": "anno-117-pax-romana",
+    "genre": "City-Building, RTS",
+    "developer": "Ubisoft Mainz",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 13, 2025",
+    "hasShipped": true,
+    "metacritic": 81,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination",
+    "resolution": "4K",
+    "fps": "30fps",
+    "extraInfo": "Both base PS5 have the same resolution and framerate. However, Pro's RTGI implementation and the overall lighting is higher quality than base PS5. Pro also has some local light sources and reflections that aren't there on base PS5."
+  },
+  {
     "name": "Apex Legends",
     "id": "Apex",
     "urlPath": "apex-legends",
