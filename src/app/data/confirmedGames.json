@@ -372,6 +372,18 @@
     "metacritic": 0
   },
   {
+    "name": "Project Motor Racing",
+    "id": "PMR",
+    "genre": "Racing, Simulation",
+    "developer": "Straight4 Studios",
+    "publisher": "Giants Software",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 25, 2025",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Puzzle Quest: Immortal",
     "id": "Puzzle Quest",
     "genre": "Puzzle, Match 3",
