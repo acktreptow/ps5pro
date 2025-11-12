@@ -859,6 +859,24 @@
     "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 is TAA only. PSSR delivers smoother edges, better hair/vegetation quality, less ghosting, and sharper/smoother motion clarity with less shimmer/pixel crawl. However, PSSR carries a higher compute cost - typically running 5-15 fps lower than TAA when framerates are unlocked. TAA is also sharper/more stable in stills. Both upscalers ensure a locked 30/60fps though and when unlocked, both still run higher than base PS5 (around 70fps in typical gameplay for performance mode and only up to 40fps in graphics mode). Finally, Pro has better SSR (in performance mode) and texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
   },
   {
+    "name": "Crimson Desert",
+    "id": "CD",
+    "urlPath": "crimson-desert",
+    "genre": "Action-Adventure",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 19, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Pearl Abyss have confirmed to me that Pro enhancements won't be discussed until next year. However, when looking at the officially released Pro gameplay of Crimson Desert, both a 4K output and 60fps seem very likely. A 30fps mode with improved graphical settings (better open-world LODs etc) would also be a great option for people who don't mind 30fps in third-person titles."
+  },
+  {
     "name": "Crystal Of Atlan",
     "id": "CoA",
     "urlPath": "crystal-of-atlan",

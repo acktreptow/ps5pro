@@ -96,18 +96,6 @@
     "metacritic": 0
   },
   {
-    "name": "Crimson Desert",
-    "id": "CD",
-    "genre": "Action-Adventure",
-    "developer": "Pearl Abyss",
-    "publisher": "Pearl Abyss",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 19, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Cronos: The New Dawn",
     "id": "Cronos",
     "genre": "Survival Action Horror",
