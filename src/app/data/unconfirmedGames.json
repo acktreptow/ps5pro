@@ -420,6 +420,18 @@
     "metacritic": 80
   },
   {
+    "name": "Hades II",
+    "id": "Hades II",
+    "genre": "Isometric Action, Roguelite",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Halloween",
     "id": "Halloween",
     "genre": "Asymmetric MP, Horror",
