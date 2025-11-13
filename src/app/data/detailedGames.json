@@ -3388,7 +3388,7 @@
     "rt": false,
     "resolution": "Dynamic 4K",
     "fps": "60fps",
-    "extraInfo": "PUBG Studios has confirmed that Pro will render at a dynamic 4K, but base PS5 will only render at a fixed 1440p. Both consoles will run at a 'stable' 60fps and neither will support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play. Hopefully, we find out information like Pro's internal DRS before outputting to 4K, upscalers used, and just how stable the 60fps is, closer to launch."
+    "extraInfo": "Pro renders at a dynamic 4K, but base PS5 only renders at a fixed 1440p. Both consoles run at a 'stable' 60fps and neither support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play."
   },
   {
     "name": "Pure Pool Pro",
