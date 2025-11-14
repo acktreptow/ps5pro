@@ -72,18 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "Carmen Sandiego",
-    "id": "CS",
-    "genre": "Puzzle, Adventure",
-    "developer": "Gameloft Brisbane",
-    "publisher": "Gameloft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 4, 2025",
-    "hasShipped": true,
-    "metacritic": 68
-  },
-  {
     "name": "Code Violet",
     "id": "Code Violet",
     "genre": "Action, Horror",
