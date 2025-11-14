@@ -4403,6 +4403,35 @@
     "extraInfo": "Base PS5 graphics mode only renders at 1440p, which is Pro's internal resolution before upscaling to 4K. In practice, the upscale makes little difference as the internal resolution is so high. Base PS5 performance mode is only 1080p, which makes a bigger difference in clarity between the consoles equivalent modes. Pro is also able to achieve its target framerate more often."
   },
   {
+    "name": "The Alters",
+    "id": "Alters",
+    "urlPath": "the-alters",
+    "genre": "Survival, Action-Adventure",
+    "developer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 13, 2025",
+    "hasShipped": true,
+    "metacritic": 83,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination",
+    "resolution": "1440p to 4K TSR (Likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "1440p DRS to 4K TSR at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Lower DRS, but at a stable 60fps."
+      }
+    ],
+    "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image quality between the 2 modes are still very close. Base PS5 performs very similar to Pro, with the only difference being lower internal DRS bounds in each mode."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
