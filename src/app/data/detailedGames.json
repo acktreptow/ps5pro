@@ -4764,6 +4764,36 @@
     "extraInfo": "While the launch trailer on PlayStation's YouTube channel states that The Rogue Prince of Persia is Pro enhanced, this is unlikely to be the case. The game isn't marked as such on the PSN store, and there's no mention from another primary source about enhancements. If it's Pro enhanced, any differences between it and base PS5 are so small that they're imperceptible even when comparing up close. Let alone the average gamer just playing on Pro at a regular viewing distance (both run at 4K for instance). Pro probably maintains its 120fps framerate more often, but VRR would completely negate this advantage at this framerate target."
   },
   {
+    "name": "The Sinking City",
+    "pageTitle": "The Sinking City Remastered",
+    "id": "Sinking City Remastered",
+    "urlPath": "the-sinking-city-remastered",
+    "genre": "Survival Action Horror",
+    "developer": "Frogwares",
+    "publisher": "Frogwares",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 13, 2025",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination/reflections",
+    "resolution": "1440p to 4K TSR (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1440p DRS to 4K TSR at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Lower DRS at a stable 60fps. Worse Lumen quality."
+      }
+    ],
+    "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image difference is mainly with the worse Lumen GI and missing reflections on assets like railings. Base PS5 performs very similar to Pro (also has Lumen/4K textures etc), with the only difference (likely) being lower internal DRS bounds in each mode."
+  },
+  {
     "name": "Tides Of Annihilation",
     "id": "ToA",
     "urlPath": "tides-of-annihilation",

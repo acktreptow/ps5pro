@@ -432,18 +432,6 @@
     "metacritic": 0
   },
   {
-    "name": "The Sinking City",
-    "id": "Sinking City Remastered",
-    "genre": "Survival Action Horror",
-    "developer": "Frogwares",
-    "publisher": "Frogwares",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 13, 2025",
-    "hasShipped": true,
-    "metacritic": 75
-  },
-  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
