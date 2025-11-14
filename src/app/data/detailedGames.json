@@ -2377,6 +2377,25 @@
     "extraInfo": "Pro is 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR. Base PS5 is only 1080p to 1440p FSR at 60fps, though 1440p to 4K FSR at 30fps. Even though Pro can have a lower internal resolution than base PS5 fidelity mode before upscaling, PSSR still produces the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5 fidelity mode, but at 60+fps."
   },
   {
+    "name": "Kinki Spiritual Affairs B",
+    "pageTitle": "Kinki Spiritual Affairs Bureau",
+    "id": "KSAB",
+    "urlPath": "kinki-spiritual-affairs-bureau",
+    "genre": "Horror, TPS",
+    "developer": "Noto Muteki",
+    "publisher": "Amata Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 16, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased KSAB, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'While you can manually change the resolution to 1080p/1440p/4K and framerate to 30fps/60fps, KSAB comes with recommended settings. This is 1440p/60fps on Pro and 1080p/60fps on base PS5. Considering the graphics of KSAB, 4K at a very stable 60fps should still be possible on Pro (at least with a VRR screen).'"
+  },
+  {
     "name": "Lies Of P",
     "id": "LoP",
     "urlPath": "lies-of-p",

@@ -180,18 +180,6 @@
     "metacritic": 63
   },
   {
-    "name": "Kinki Spiritual Affairs B",
-    "id": "KSAB",
-    "genre": "Horror, TPS",
-    "developer": "Noto Muteki",
-    "publisher": "Amata Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 16, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Let It Die: Inferno",
     "id": "Let It Die",
     "genre": "Action, Roguelite",
