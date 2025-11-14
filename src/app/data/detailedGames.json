@@ -1564,6 +1564,24 @@
     "extraInfo": "The only display setting is a brightness slider. However, Pro has a locked framerate that runs within an 120 Hz container to improve input lag (base PS5 is only at at 60 Hz). Pro could potentially render below native 4K sometimes, but it would only be for a very short duration, with dips would be so minor that FP still has a 4K-like image."
   },
   {
+    "name": "Faraway Train",
+    "id": "Faraway Train",
+    "urlPath": "faraway-train",
+    "genre": "Adventure, Puzzle",
+    "developer": "Tatamibeya",
+    "publisher": "Amata Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 27, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased Faraway Train, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'There's no 120fps support. There's a PC-style settings menu featuring low, medium, high, and highest presets for draw distance, antialiasing quality, shadow quality, internal render resolution, effects quality, and post processing quality. On Pro, this all defaulted to Highest, whereas certain settings are presumably lower on base PS5.'"
+  },
+  {
     "name": "Farming Simulator 25",
     "id": "FS 25",
     "urlPath": "farming-simulator-25",
