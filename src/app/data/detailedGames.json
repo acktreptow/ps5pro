@@ -895,6 +895,35 @@
     "extraInfo": "Pearl Abyss have confirmed to me that Pro enhancements won't be discussed until next year. However, when looking at the officially released Pro gameplay of Crimson Desert, both a 4K output and 60fps seem very likely. A 30fps mode with improved graphical settings (better open-world LODs etc) would also be a great option for people who don't mind 30fps in third-person titles."
   },
   {
+    "name": "Cronos: The New Dawn",
+    "id": "Cronos",
+    "urlPath": "cronos-the-new-dawn",
+    "genre": "Survival Action Horror",
+    "developer": "Bloober Team",
+    "publisher": "Bloober Team",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 5, 2025",
+    "hasShipped": true,
+    "metacritic": 77,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen",
+    "resolution": "1440p to 4K TSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1296p-1440p DRS to 4K TSR at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "900p-1242p DRS to 4K TSR at a somewhat unstable 60fps (see extra info)."
+      }
+    ],
+    "extraInfo": "Pro performance mode dips to 45-57fps with effect-heavy scenes (fire etc) and traversal stutters, but maintains close to 60fps in general gameplay. Base PS5 also has a performance mode (864p-1026p DRS) and quality mode (1080p-1440p DRS) where the only difference between them is resolution (inc volumetics). Base PS5 quality mode is also a locked 30fps, but its 60fps is more unstable than Pro (by about 10fps) and dips more often in general gameplay (though still close to 60fps most of the time). All info is taken from DF's analysis before Cronos received the Pro Enhanced tag on the PSN Store. However, considering the limited updates and Pro's improvements, it's likely that this tag was just not there at launch and DF's analysis matches Cronos's current performance."
+  },
+  {
     "name": "Crystal Of Atlan",
     "id": "CoA",
     "urlPath": "crystal-of-atlan",
