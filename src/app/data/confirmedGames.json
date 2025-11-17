@@ -324,18 +324,6 @@
     "metacritic": 0
   },
   {
-    "name": "Rue Valley",
-    "id": "Rue Valley",
-    "genre": "Adventure RPG",
-    "developer": "Emotion Spark Studio",
-    "publisher": "Owlcat Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 11, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat'em Up",

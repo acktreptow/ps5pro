@@ -3944,6 +3944,24 @@
     "extraInfo": "According to Truant Pixel, outside of resolution/framerate increases compared to the same modes on base PS5, Pro also has 'additional small graphical touches'."
   },
   {
+    "name": "Rue Valley",
+    "id": "Rue Valley",
+    "urlPath": "rue-valley",
+    "genre": "Adventure, RPG",
+    "developer": "Emotion Spark Studio",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 11, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Despite having the Pro Enhanced badge on the PSN Store, Owlcat has confirmed to me that Rue Valley has no unique Pro upgrades. It's the same experience on PC too."
+  },
+  {
     "name": "Rush: Apex Edition",
     "id": "Rush",
     "urlPath": "rush-apex-edition",
