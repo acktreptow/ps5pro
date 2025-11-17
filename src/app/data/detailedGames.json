@@ -2809,7 +2809,17 @@
     "rtTypes": "Unreal Engine 5 software-based Lumen global illumination",
     "resolution": "1260p to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro's 1 mode has the improved object LODs/shadows/GI in base PS5's graphics mode, while targeting base PS5 performance mode's 60fps. However, it has many issues. Pro's 756p-1260p DRS uses PSSR to upscale to 4K, while base PS5 quality mode's 1080p-1584p DRS uses FSR. Between a bad PSSR implementation and lower DRS, Pro is noticeably blurrier than base PS5 graphics mode, and can even be worse than base PS5 performance mode (720p-1080p DRS). PSSR also has more GI flickering compared to FSR, although PSSR has less artifacting in hair/foliage and reduced ghosting/breakup in motion. Except for interiors, Pro's 60fps also generally runs lower than base PS5 performance mode, which is already unstable and regularly dips under VRR (both consoles range from 35-60fps). DF believes base PS5's less GPU-intensive FSR should replace PSSR, as this should ensure a more stable framerate that mostly stays above the 48fps VRR threshold."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "756p-1260p DRS to 4K PSSR at a relatively stable 60fps (see extra info)."
+      },
+      {
+        "name": "performance",
+        "description": "Same resolution with worse AO and Lumen GI, but at a basically locked 60fps. Patch 1.21 added this mode."
+      }
+    ],
+    "extraInfo": "Pro's modes have the improved object LODs/shadows/GI in base PS5's 30fps graphics mode (to different extents), while targeting 60fps. Patch 1.21 ensures a somewhat stable framerate within the VRR window in quality mode (50-60fps) providing you maintain stealth. However, the low DRS/PSSR implementation means that in stills, Pro is blurrier than even base PS5 performance mode (720p-1080p DRS to 4K FSR), let alone base PS5 quality mode's 1080p-1584p DRS. Although PSSR now has less GI flickering compared to FSR since the updates, in addition to PSSR's less artifacting in hair/foliage and reduced ghosting/breakup in motion (and overall sharper motion clarity) that was present at launch. On average, both Pro modes now also run higher than base PS5 performance mode's 35-60fps."
   },
   {
     "name": "Microsoft Flight Sim 2024",
@@ -4818,7 +4828,7 @@
     "psvr2": false,
     "release": "October 29, 2025",
     "hasShipped": false,
-    "metacritic": 80,
+    "metacritic": 79,
     "pssr": true,
     "rt": true,
     "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
