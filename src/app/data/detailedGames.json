@@ -2895,6 +2895,25 @@
     "extraInfo": "MindsEye is one of very few Pro games that lacks a 60fps mode. However, it also struggles to maintain a stable, properly paced 30fps - regularly dipping into the low 20s in various open-world and combat scenarios, with lots of screen tearing (base PS5 performs even worse as it drops to under 20fps). Pro also has slightly improved textures, terrain detail and shadows over base PS5, but its upscaled 4K output still looks very blurry when at its lowest internal resolution. Image stability is however still much better on Pro compared to base PS5, which can internally render below 720p. At the very least, cutscene quality on both consoles looks much better than gameplay."
   },
   {
+    "name": "Monster E Supercross 25",
+    "pageTitle": "Monster Energy Supercross 25",
+    "id": "MES 25",
+    "urlPath": "monster-energy-supercross-25",
+    "genre": "Sports, Supercross Racing",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 10, 2025",
+    "hasShipped": true,
+    "metacritic": 71,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": ""
+  },
+  {
     "name": "Monster Hunter Wilds",
     "id": "MH: Wilds",
     "urlPath": "monster-hunter-wilds",

@@ -203,18 +203,7 @@
     "hasShipped": false,
     "metacritic": 0
   },
-  {
-    "name": "Monster E Supercross 25",
-    "id": "MES 25",
-    "genre": "Sports, Supercross Racing",
-    "developer": "Milestone",
-    "publisher": "Milestone",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 10, 2025",
-    "hasShipped": true,
-    "metacritic": 71
-  },
+
   {
     "name": "Neverness To Everness",
     "id": "NTE",
