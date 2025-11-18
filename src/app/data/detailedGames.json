@@ -5341,10 +5341,10 @@
     "metacritic": 76,
     "pssr": true,
     "rt": true,
-    "rtTypes": "TBD",
-    "resolution": "4K PSSR (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "The FAQ section in WWM's PlayStation Store object confirms that Pro will have a higher rendering resolution, optimized RT and PSSR support. Exactly how these improvements translate remains to be seen until launch."
+    "rtTypes": "Ray traced reflections",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "You can toggle on RT reflections, which doesn't seem to have any significant impact to either resolution or framerate (it's a basically locked 60fps with or without RT) - at least in the early stages of the game. RT significantly improves reflections in things like bodies of water. There's no HDR support. The internal resolution on Pro is currently unknown, however the final render resolution look quite 4K-like, especially foliage which is all over the screen, with only a few assets showing noticeable jaggies."
   },
   {
     "name": "Wolverine",
