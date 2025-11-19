@@ -2997,9 +2997,9 @@
     "metacritic": 78,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": ""
+    "resolution": "1080p (likely) to 4K",
+    "fps": "120fps",
+    "extraInfo": "During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps."
   },
   {
     "name": "My Time At Sandrock",
