@@ -5392,7 +5392,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "extraInfo": "You can toggle on RT reflections, which doesn't seem to have any significant impact to either resolution or framerate (it's a basically locked 60fps with or without RT) - at least in the early stages of the game. RT significantly improves reflections in things like bodies of water. There's no HDR support. The internal resolution on Pro is currently unknown, however the final render resolution look quite 4K-like, especially foliage which is all over the screen, with only a few assets showing noticeable jaggies."
+    "extraInfo": "Only Pro can toggle on RT reflections, which doesn't seem to have any significant impact to either resolution or framerate (it's a basically locked 60fps with or without RT) - at least in the early stages of the game. RT significantly improves reflections in areas like bodies of water. The internal resolution is currently unknown, however the output resolution and great PSSR implementation results in a 4K-like image. Foliage (which is all over the screen) is especially sharp and looks far more dithered on base PS5."
   },
   {
     "name": "Wolverine",
