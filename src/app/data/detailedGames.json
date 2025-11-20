@@ -4384,24 +4384,24 @@
     "psStudios": false,
     "psvr2": false,
     "release": "November 20, 2025",
-    "hasShipped": false,
-    "metacritic": 0,
+    "hasShipped": true,
+    "metacritic": 75,
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen",
-    "resolution": "4K Upscaled",
+    "resolution": "1662p to 4K TSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Upscaled 4K at a basically locked 30fps."
+        "description": "1662p to 4K TSR at a basically locked 30fps."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K at a relatively unstable 60fps. Lower internal resolution and worse graphical settings (LODs etc) than quality mode."
+        "description": "1080p-1270p DRS to 4K TSR at a relatively stable 60fps. Worse graphical settings (LODs etc) than quality mode."
       }
     ],
-    "extraInfo": "Pro has improved shadow quality and resolution, enhanced global illumination, higher-quality reflections, improved volumetric fog, and enhanced volumetric cloud rendering over base PS5. Both consoles have a 60fps performance and 30fps quality mode, but only Pro renders at 4K in both of its modes. Finally, GSC are planning to update the engine from UE5 5.1.1 to 5.5.4 in (likely) 2026, which will significantly optimize features like Lumen."
+    "extraInfo": "Pro has improved shadow quality and resolution, enhanced global illumination, higher-quality reflections, improved volumetric fog, and enhanced volumetric cloud rendering over base PS5. Both consoles have a performance and quality mode, but only Pro renders at 4K in both modes. Base PS5 performance mode's 864p-1152p DRS to 1440p TSR looks noticeably blurrier, with a slightly more unstable 60fps. However, its 1440p to 4K TSR/basically locked 30fps quality mode performs similar to Pro outside of graphical settings. Finally, GSC are planning to update the engine from UE5 5.1.1 to 5.5.4 in (likely) 2026, which will significantly optimize features like Lumen."
   },
   {
     "name": "Star Wars Jedi: Survivor",
