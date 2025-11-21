@@ -255,6 +255,89 @@ const AboutPage = (): JSX.Element => {
             </a>
             )
           </li>
+          <li>
+            GamingBolt (for their great developer interviews that usually
+            includes questions about Pro, Check them out{" "}
+            <a
+              href="https://www.reddit.com/r/PS5/comments/1fq8jo5/every_ps5_pro_enhanced_game_confirmed/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            ZXII (for their extensive, consistently updated PS5 Pro games list
+            Check out the list here{" "}
+            <a
+              href="https://www.reddit.com/r/PS5/comments/1fq8jo5/every_ps5_pro_enhanced_game_confirmed/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            Often Ignored Bear (for his HQ screenshots on the Resetera thread of
+            those more obscure Pro games like Carmen Sandiego and Fantasy Life.
+            Check out an example here{" "}
+            <a
+              href="https://www.resetera.com/threads/all-games-with-ps5-pro-enhancements.1026072/page-286"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            Speaking of the{" "}
+            <a
+              href="https://www.resetera.com/threads/all-games-with-ps5-pro-enhancements.1026072/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              Resetera{" "}
+            </a>
+            thread as well as some{" "}
+            <a
+              href="https://gamefaqs.gamespot.com/boards/467687-path-of-exile-2/80897440"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              Gamefaqs{" "}
+            </a>
+            and{" "}
+            <a
+              href="https://www.reddit.com/r/Slitterhead/comments/1hdbu15/difference_on_ps5_pro_to_base_model_on_slitterhead/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              Reddit
+            </a>{" "}
+            threads, and random SEO articles like on{" "}
+            <a
+              href="https://www.gamespot.com/gallery/every-ps5-pro-enhanced-game/2900-5758/#131"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              Gamespot,
+            </a>{" "}
+            a shoutout to them too. Although they were only used as sources for
+            a few games like Pipistrello, POE2, Slitterhead and Vampire
+            Survivors as I could not vet the info myself (this is made very
+            clear on the few games where they were used), they still deserve the
+            shoutout for giving these small Pro updates some air!
+          </li>
         </ul>
       </div>
     </div>
