@@ -123,6 +123,51 @@ const AboutPage = (): JSX.Element => {
           that can run at 120fps, or games with RT implementation etc.
         </p>
       </div>
+      <div className="mx-4 mb-10 p-4 pb-8 bg-slate-100 border-2 rounded shadow-lg md:mx-8 md:p-8 lg:p-12">
+        <h2 className="text-center text-2xl font-extrabold my-4 mb-12 md:text-start md:mt-0 lg:text-3xl">
+          Special Thanks
+        </h2>
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
+          Primary Sources
+        </h3>
+        <p className="mb-4">
+          Thank you to the following developers and publishers for collaborating
+          with me to complete an informational page for your respective game.
+          Although at times, all the technical figures could not be provided for
+          a variety of reasons, information such as a timeframe for when we can
+          expect you to discuss Pro enhancements still provides invaluable
+          context for people who are interested in your game!
+        </p>
+        <ul className="mb-12 mx-8 list-disc">
+          <li>Anima Project</li>
+          <li>BlackMill Games</li>
+          <li>Free Lives</li>
+          <li>Nacon</li>
+          <li>My World</li>
+          <li>Owlcat Games</li>
+          <li>Pearl Abyss</li>
+          <li>Ripstone Games</li>
+          <li>Stonebrick Studios</li>
+          <li>Superkami</li>
+          <li>Tower Five</li>
+        </ul>
+
+        <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
+          2. Consumer Education and Purchasing Decisions
+        </h3>
+        <p className="mb-4">
+          Many players are discerning in regards to how their games perform. For
+          example, some prioritize 60fps over higher resolutions, or vice versa.
+          As this site outlines Pro upgrades for each PS5 title, it helps
+          consumers make educated decisions about whether a game is worth buying
+          for their Pro hardware. Or if an old favorite is worth revisiting.
+        </p>
+        <p className="mb-12">
+          As games release and older titles are patched with Pro support, a
+          central hub of info also helps consumers track changes on a macro
+          level and decide if they want to invest in the console itself.
+        </p>
+      </div>
     </div>
   );
 };
