@@ -89,9 +89,11 @@ const GamesListPage = async () => {
         </h3>
         <h3 className="mx-4 md:mx-8 lg:text-lg">
           Over 95% of the information on PS5 Pro enhancements comes from primary
-          sources (like press releases and developer comments on X) or highly
-          reputable secondary sources (Digital Foundry, NX Gamer etc). Any
-          information that&#39;s more speculative in nature is clearly noted.
+          sources (e.g. press releases, dev comments to me/on X) or highly
+          reputable secondary sources (Digital Foundry, NX Gamer etc). Any info
+          that&#39;s more speculative in nature is clearly noted. A list of
+          secondary sources used is in the special thanks section on the about
+          page.
         </h3>
       </div>
       <div className="text-xl text-center mb-8 mx-4 grid gap-5 md:text-lg md:mx-8 md:grid-cols-2 lg:text-xl">
