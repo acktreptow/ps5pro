@@ -153,20 +153,109 @@ const AboutPage = (): JSX.Element => {
         </ul>
 
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
-          2. Consumer Education and Purchasing Decisions
+          Secondary Sources
         </h3>
         <p className="mb-4">
-          Many players are discerning in regards to how their games perform. For
-          example, some prioritize 60fps over higher resolutions, or vice versa.
-          As this site outlines Pro upgrades for each PS5 title, it helps
-          consumers make educated decisions about whether a game is worth buying
-          for their Pro hardware. Or if an old favorite is worth revisiting.
+          Special thanks in particular to the following. The VAST majority of
+          secondary source analysis comes from them due to how reputable they
+          are.
         </p>
-        <p className="mb-12">
-          As games release and older titles are patched with Pro support, a
-          central hub of info also helps consumers track changes on a macro
-          level and decide if they want to invest in the console itself.
+        <ul className="mb-6 mx-8 list-disc">
+          <li>
+            Digital Foundry (the best in the business. Watch their excellent
+            videos{" "}
+            <a
+              href="https://www.youtube.com/@DigitalFoundry/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>{" "}
+            and check out their new site{" "}
+            <a
+              href="https://www.digitalfoundry.net"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            NX Gamer (basically the Northern arm of DF. Check out his excellent
+            analysis{" "}
+            <a
+              href="https://www.youtube.com/@NXGamer/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            ElAnalistaDeBits (The best in the business for no frills side by
+            side comparisons (complete with that catchy music!). Check them out
+            here{" "}
+            <a
+              href="https://www.youtube.com/@ElAnalistaDeBits/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+        </ul>
+        <p className="mb-4">
+          The following secondary sources also deserve mention for their more
+          bespoke contributions.
         </p>
+        <ul className="mb-12 mx-8 list-disc">
+          <li>
+            GamingTech (for his S-tier HDR analysis and Pro coverage at the
+            beginning. Check him out{" "}
+            <a
+              href="https://www.youtube.com/@GamingTech-YouTube/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            Brazil Pixel (for his one of a kind realtime DRS analysis - make
+            more videos because you deserve to blow up! Check them out{" "}
+            <a
+              href="https://www.youtube.com/@brazilpixel/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+          <li>
+            Skycaptin5 (for his high video quality and for showing the actual
+            menus which can provide much needed context. Check him out{" "}
+            <a
+              href="https://www.youtube.com/@Skycaptin5/videos"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 underline"
+            >
+              here
+            </a>
+            )
+          </li>
+        </ul>
       </div>
     </div>
   );
