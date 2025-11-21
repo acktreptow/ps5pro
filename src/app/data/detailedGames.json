@@ -4134,7 +4134,7 @@
         "description": "900p-1152p DRS to 4K TSR. Somewhat stable 60fps (lows of high 40s) with hardware-based RT."
       }
     ],
-    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit target framerate more often than their base PS5 version. Pro's performance mode also has a higher base resolution. However, Pro's quality mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 quality mode looks better with TSR. Fortunately, Bloober has confirmed that they're working with Konami on a patch, which will hopefully improve the PSSR implementation or revert to TSR (as they did for performance)."
+    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit their target framerate more often than their base PS5 version. Pro's performance mode also has a higher base resolution. However, Pro's quality mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 quality mode looks better with TSR. Bloober has confirmed that they're working with Konami on a patch which will hopefully improve the PSSR implementation or revert to TSR (as they did for performance). However, it's now been over 1 year and the update did not arrive alongside the Series S|X November 2025 launch. Hopefully, it arrives in time with the SH2 movie in January 2026, or with the rumored Born from a Wish DLC."
   },
   {
     "name": "Silent Hill F",
