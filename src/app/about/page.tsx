@@ -156,13 +156,13 @@ const AboutPage = (): JSX.Element => {
           Secondary Sources
         </h3>
         <p className="mb-4">
-          Special thanks in particular to the following. The VAST majority of
-          secondary source analysis comes from them due to how reputable they
-          are.
+          The VAST majority of secondary source analysis comes from these 3 due
+          to how reputable they are. So a special thanks in particular to the
+          following:
         </p>
         <ul className="mb-6 mx-8 list-disc">
           <li>
-            Digital Foundry (the best in the business. Watch their excellent
+            Digital Foundry (The best in the business. Watch their excellent
             videos{" "}
             <a
               href="https://www.youtube.com/@DigitalFoundry/videos"
@@ -184,7 +184,7 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            NX Gamer (basically the Northern arm of DF. Check out his excellent
+            NX Gamer (Basically the Northern arm of DF. Check out his excellent
             analysis{" "}
             <a
               href="https://www.youtube.com/@NXGamer/videos"
@@ -197,9 +197,8 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            ElAnalistaDeBits (The best in the business for no frills side by
-            side comparisons (complete with that catchy music!). Check them out
-            here{" "}
+            ElAnalistaDeBits (No frills side by side comparisons complete with
+            that catchy music! Check them out here{" "}
             <a
               href="https://www.youtube.com/@ElAnalistaDeBits/videos"
               target="_blank"
@@ -213,11 +212,11 @@ const AboutPage = (): JSX.Element => {
         </ul>
         <p className="mb-4">
           The following secondary sources also deserve mention for their more
-          bespoke contributions.
+          bespoke contributions. Thank you to:
         </p>
         <ul className="mb-12 mx-8 list-disc">
           <li>
-            GamingTech (for his S-tier HDR analysis and Pro coverage at the
+            GamingTech (For his first class HDR analysis and Pro coverage at the
             beginning. Check him out{" "}
             <a
               href="https://www.youtube.com/@GamingTech-YouTube/videos"
@@ -230,8 +229,8 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            Brazil Pixel (for his one of a kind realtime DRS analysis - make
-            more videos because you deserve to blow up! Check them out{" "}
+            Brazil Pixel (For his unique, realtime DRS analysis. Make more
+            videos because you deserve to blow up! Check them out{" "}
             <a
               href="https://www.youtube.com/@brazilpixel/videos"
               target="_blank"
@@ -243,7 +242,7 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            Skycaptin5 (for his high video quality and for showing the actual
+            Skycaptin5 (For his high video quality and for showing the actual
             menus which can provide much needed context. Check him out{" "}
             <a
               href="https://www.youtube.com/@Skycaptin5/videos"
@@ -256,8 +255,8 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            GamingBolt (for their great developer interviews that usually
-            includes questions about Pro, Check them out{" "}
+            GamingBolt (For their great developer interviews that usually
+            include Pro related questions. Check them out{" "}
             <a
               href="https://www.reddit.com/r/PS5/comments/1fq8jo5/every_ps5_pro_enhanced_game_confirmed/"
               target="_blank"
@@ -269,8 +268,8 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            ZXII (for their extensive, consistently updated PS5 Pro games list
-            Check out the list here{" "}
+            ZXII (For their extensive, consistently updated PS5 Pro games list
+            on Reddit. Check out the list{" "}
             <a
               href="https://www.reddit.com/r/PS5/comments/1fq8jo5/every_ps5_pro_enhanced_game_confirmed/"
               target="_blank"
@@ -282,9 +281,9 @@ const AboutPage = (): JSX.Element => {
             )
           </li>
           <li>
-            Often Ignored Bear (for his HQ screenshots on the Resetera thread of
+            Often Ignored Bear (For his HQ screenshots in the Resetera thread of
             those more obscure Pro games like Carmen Sandiego and Fantasy Life.
-            Check out an example here{" "}
+            Check out an example{" "}
             <a
               href="https://www.resetera.com/threads/all-games-with-ps5-pro-enhancements.1026072/page-286"
               target="_blank"
@@ -305,7 +304,7 @@ const AboutPage = (): JSX.Element => {
             >
               Resetera{" "}
             </a>
-            thread as well as some{" "}
+            thread (outside of OIB screenshots) as well as some{" "}
             <a
               href="https://gamefaqs.gamespot.com/boards/467687-path-of-exile-2/80897440"
               target="_blank"
@@ -323,20 +322,20 @@ const AboutPage = (): JSX.Element => {
             >
               Reddit
             </a>{" "}
-            threads, and random SEO articles like on{" "}
+            threads, plus some random SEO articles like on{" "}
             <a
               href="https://www.gamespot.com/gallery/every-ps5-pro-enhanced-game/2900-5758/#131"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline"
             >
-              Gamespot,
+              Gamespot
             </a>{" "}
-            a shoutout to them too. Although they were only used as sources for
-            a few games like Pipistrello, POE2, Slitterhead and Vampire
+            - a shoutout to them too. Although they were only used as sources
+            for a few games like Pipistrello, POE2, Slitterhead and Vampire
             Survivors as I could not vet the info myself (this is made very
             clear on the few games where they were used), they still deserve the
-            shoutout for giving these small Pro updates some air!
+            shoutout for giving these smaller Pro game enhancements some air!
           </li>
         </ul>
       </div>
