@@ -337,6 +337,18 @@
     "metacritic": 0
   },
   {
+    "name": "Toxic Commando",
+    "id": "Toxic Commando",
+    "genre": "Co-Op FPS",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Ultra Kingdoms",
     "id": "Ultra Kingdoms",
     "genre": "Metaverse MMORPG",
