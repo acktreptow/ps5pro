@@ -337,6 +337,18 @@
     "metacritic": 0
   },
   {
+    "name": "Ride 6",
+    "id": "Ride 6",
+    "genre": "Racing, Motorcycle Sim",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat'em Up",
