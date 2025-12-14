@@ -120,6 +120,18 @@
     "metacritic": 82
   },
   {
+    "name": "Farm Together 2",
+    "id": "FT2",
+    "genre": "Simulation, Farming",
+    "developer": "Milkstone Studios",
+    "publisher": "Milkstone Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 11, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Farmer's Dynasty 2",
     "id": "FD2",
     "genre": "Simulation, Farming",
