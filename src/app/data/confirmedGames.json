@@ -108,6 +108,18 @@
     "metacritic": 82
   },
   {
+    "name": "Farmer's Dynasty 2",
+    "id": "FD2",
+    "genre": "Simulation, Farming",
+    "developer": "UMEO Studios",
+    "publisher": "Toplitz Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Forever Skies",
     "id": "Forever Skies",
     "genre": "Survival, Action",
