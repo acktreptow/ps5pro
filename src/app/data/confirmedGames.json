@@ -120,6 +120,18 @@
     "metacritic": 82
   },
   {
+    "name": "Exodus",
+    "id": "Exodus",
+    "genre": "Sci-Fi, Action RPG",
+    "developer": "Archetype",
+    "publisher": "Wizards Of The Coast",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Early 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Farm Together 2",
     "id": "FT2",
     "genre": "Simulation, Farming",
@@ -230,7 +242,7 @@
   {
     "name": "Metal Eden",
     "id": "ME",
-    "genre": "Sci-Fi FPS",
+    "genre": "Sci-Fi, FPS",
     "developer": "Reikon Games",
     "publisher": "Deep Silver",
     "psStudios": false,
