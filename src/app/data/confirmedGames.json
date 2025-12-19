@@ -24,6 +24,18 @@
     "metacritic": 0
   },
   {
+    "name": "Amer: Chase Hit & Run",
+    "id": "Amer Hit and Run",
+    "genre": "Driving, Boxing",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Arknights: Endfield",
     "id": "Arknights",
     "genre": "F2P Action RPG",
