@@ -92,7 +92,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "January 10, 2026",
-    "hasShipped": true,
+    "hasShipped": false,
     "metacritic": 0
   },
   {
@@ -322,7 +322,7 @@
     "psvr2": false,
     "release": "November 25, 2025",
     "hasShipped": true,
-    "metacritic": 0
+    "metacritic": 60
   },
   {
     "name": "Puzzle Quest: Immortal",
