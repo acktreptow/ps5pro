@@ -180,6 +180,18 @@
     "metacritic": 0
   },
   {
+    "name": "Fatal Frame II: CB",
+    "id": "Fatal Frame II",
+    "genre": "Survival Horror, Adventure",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Forever Skies",
     "id": "Forever Skies",
     "genre": "Survival, Action",
