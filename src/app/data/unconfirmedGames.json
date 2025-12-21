@@ -1,5 +1,17 @@
 [
   {
+    "name": "4:Loop",
+    "id": "4:Loop",
+    "genre": "Co-Op Shooter, Roguelite",
+    "developer": "Bad Robot Games",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "A Plague Tale: Requiem",
     "id": "A Plague Tale 2",
     "genre": "Action-Adventure, Stealth",
