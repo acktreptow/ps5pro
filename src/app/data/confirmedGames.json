@@ -216,6 +216,18 @@
     "metacritic": 0
   },
   {
+    "name": "High On Life 2",
+    "id": "HoL 2",
+    "genre": "FPS, Adventure",
+    "developer": "Squanch Games",
+    "publisher": "Squanch Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 13, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "genre": "Racing, Simulation",
