@@ -5462,6 +5462,24 @@
     "extraInfo": "Pro runs at 4K/60fps, which is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
   },
   {
+    "name": "Wreckreation",
+    "id": "Wreckreation",
+    "urlPath": "wreckreation",
+    "genre": "Racing, Arcade",
+    "developer": "Three Fields",
+    "publisher": "THQ Nordic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 28, 2025",
+    "hasShipped": true,
+    "metacritic": 62,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro has a singular mode than is native 4K at 60fps. It combines the best of base PS5's native 4K/30fps quality mode (with visual enhancements such as improved grass quality) and upscaled 4K/60fps performance mode."
+  },
+  {
     "name": "Wuchang: Fallen Feathers",
     "id": "Wuchang: FF",
     "urlPath": "wuchang-fallen-feathers",
