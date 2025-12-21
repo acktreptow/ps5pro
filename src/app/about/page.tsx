@@ -258,7 +258,7 @@ const AboutPage = (): JSX.Element => {
             GamingBolt (For their great developer interviews that usually
             include Pro related questions. Check them out{" "}
             <a
-              href="https://www.reddit.com/r/PS5/comments/1fq8jo5/every_ps5_pro_enhanced_game_confirmed/"
+              href="https://gamingbolt.com/roadcraft-interview-inspirations-post-launch-content-new-vehicles-and-more"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 underline"
