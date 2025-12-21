@@ -2687,7 +2687,8 @@
     "hasShipped": true,
     "metacritic": 73,
     "pssr": false,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
     "resolution": "1552p to 4K TSR",
     "fps": "60fps",
     "modes": [
@@ -2700,7 +2701,7 @@
         "description": "1008p-1189p DRS to 4K TSR at a basically locked 60fps. Reduced vegetation, shadows, draw distance, lighting, resolution, terrain, and reflections quality."
       }
     ],
-    "extraInfo": "While Pro's performance mode only dips to 1008p, base PS5 performance mode falls to 720p for much of the time. In quality mode, base PS5's 831p-960p DRS is below even Pro's lowest 1189p DRS bounds. Furthermore, base PS5 only upscales to 1440p in both modes, whereas Pro upscales to 4K. Pro also applies fewer cuts to its graphical settings (shadows/lighting etc) in its performance mode, and Pro quality mode's graphical settings are higher than base PS5 quality mode. Base PS5 quality mode has a higher average framerate that primarily stays within the VRR window though, whereas Pro's doesn't, and both maintain a solid 60fps in their performance modes with no option to go higher."
+    "extraInfo": "While Pro's performance mode only dips to 1008p, base PS5 performance mode falls to 720p for much of the time. In quality mode, base PS5's 831p-960p DRS is below even Pro's lowest 1189p DRS bounds. Furthermore, base PS5 only upscales to 1440p in both modes, whereas Pro upscales to 4K. Pro also applies fewer cuts to its graphical settings (shadows/lighting etc) in its performance mode (Lumen reflections are even better than base PS5 quality mode), and all of Pro quality mode's graphical settings are higher than base PS5 quality mode. Base PS5 quality mode has a higher average framerate that primarily stays within the VRR window though, whereas Pro's doesn't, and both maintain a solid 60fps in their performance modes with no option to go higher."
   },
   {
     "name": "Mandragora: WOTWT",
