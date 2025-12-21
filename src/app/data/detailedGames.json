@@ -3741,6 +3741,24 @@
     "extraInfo": "Base PS5 doesn't have an 8K mode. It also can't run at 120fps when rendering at 4K. You can choose Pro's quality mode on a non-8K screen, but the game makes it clear that the game will be down-sampled to the resolution of your screen and therefore make this choice pointless."
   },
   {
+    "name": "Rennsport",
+    "id": "rennsport",
+    "urlPath": "rennsport",
+    "genre": "Racing, Simulation",
+    "developer": "Teyon",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 13, 2025",
+    "hasShipped": true,
+    "metacritic": 53,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at 60fps. However, Pro renders at a native 4K whereas base PS5 renders at upscaled 4K (internal res before upscaled 4K output unknown)."
+  },
+  {
     "name": "Resident Evil 4",
     "id": "RE4",
     "urlPath": "resident-evil-4-remake",
