@@ -108,18 +108,6 @@
     "metacritic": 70
   },
   {
-    "name": "Battlefield 2042",
-    "id": "BF 2042",
-    "genre": "First-Person Shooter",
-    "developer": "DICE",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 19, 2021",
-    "hasShipped": true,
-    "metacritic": 63
-  },
-  {
     "name": "Bulletstorm VR",
     "id": "Bulletstorm VR",
     "genre": "VR FPS",
