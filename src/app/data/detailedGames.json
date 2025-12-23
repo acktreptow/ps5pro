@@ -4428,7 +4428,7 @@
         "description": "1080p-1270p DRS to 4K TSR at a relatively stable 60fps. Worse graphical settings (LODs etc) than quality mode."
       }
     ],
-    "extraInfo": "Pro has improved shadow quality and resolution, enhanced global illumination, higher-quality reflections, improved volumetric fog, and enhanced volumetric cloud rendering over base PS5. Both consoles have a performance and quality mode, but only Pro renders at 4K in both modes. Base PS5 performance mode's 864p-1152p DRS to 1440p TSR looks noticeably blurrier, with a slightly more unstable 60fps. However, its 1440p to 4K TSR/basically locked 30fps quality mode performs similar to Pro outside of graphical settings. Finally, GSC are planning to update the engine from UE5 5.1.1 to 5.5.4 in (likely) 2026, which will significantly optimize features like Lumen."
+    "extraInfo": "Pro has improved shadow quality and resolution, enhanced global illumination, higher-quality reflections, improved volumetric fog, and enhanced volumetric cloud rendering over base PS5. Both consoles have a performance and quality mode, but only Pro renders at 4K in both modes. Base PS5 performance mode's 864p-1152p DRS to 1440p TSR looks noticeably blurrier, with a slightly more unstable 60fps. However, its 1440p to 4K TSR/basically locked 30fps quality mode performs similar to Pro outside of graphical settings and a slightly lower internal resolution. Finally, GSC are planning to update the engine from UE5 5.1.1 to 5.5.4 in 2026, which will significantly optimize features like Lumen/Virtual Shadow Maps."
   },
   {
     "name": "Star Wars Jedi: Survivor",
