@@ -4175,9 +4175,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Unreal Engine 5 software-based Lumen GI and reflections, as well as UE5's RT version of Virtual Shadow Maps",
-    "resolution": "1080p+ to 4K PSSR",
+    "resolution": "1386p to 1440p PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro has a singular mode that's 1080p+ (with DRS) to 4K PSSR at 60fps. It's meant to combine base PS5 quality mode's higher visuals and 1440p resolution, but at base PS5's 60fps performance mode. However, Pro's PSSR implementation suffers from artifacting/strobing on assets like grass (seen in games at Pro's launch due to early versions of PSSR). Whereas base PS5 uses UE5's TSR to upscale. Due to poor PSSR implementation base PS5 modes look better, although Pro is sharper than its performance mode. Strobing assets are also mainly in the first area, so PSSR isn't as distracting later on. Due to many factors (a language barrier perhaps preventing this issue reaching NeoBards/the months since launch without a mention of a fix etc), DF believes it's also unlikely PSSR issues get patched. Finally, both Pro and base PS5 performance mode run at a stable 60fps except for mid 50s traversal stutters in open areas and base PS5 quality mode is a locked 30fps. Cutscenes are 30fps in all modes."
+    "extraInfo": "Pro has a singular mode that's 864p-1368p DRS to 1440p PSSR at 60fps. It's meant to combine base PS5 quality mode's higher visuals and 1080p-1440p resolution, but at base PS5's 60fps performance mode (which is 810p-1080p DRS to 1440p). However, Pro's poor PSSR implementation suffers from artifacting/strobing on assets like grass (seen in games at Pro's launch due to early versions of PSSR). Base PS5 uses UE5's TSR to upscale, resulting in quality mode looking superior, although Pro is sharper than its performance mode. Assets affected by PSSR are also mainly in the first area, so it isn't as distracting later on. Due to many factors (a language barrier maybe preventing the issue reaching NeoBards/months since launch without a mention of a fix etc), DF believes it's also unlikely PSSR issues get patched. Finally, both Pro and base PS5 performance mode run at a stable 60fps except for mid 50s traversal stutters in open areas and base PS5 quality mode is a locked 30fps."
   },
   {
     "name": "Skull And Bones",
