@@ -4148,7 +4148,7 @@
     "metacritic": 85,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Hardware-based ray traced reflections and global illumination",
+    "rtTypes": "Unreal Engine 5 hardware and software-based Lumen reflections and global illumination",
     "resolution": "1152p to 4K TSR",
     "fps": "60fps",
     "modes": [
@@ -4158,10 +4158,10 @@
       },
       {
         "name": "performance",
-        "description": "900p-1152p DRS to 4K TSR. Somewhat stable 60fps (lows of high 40s) with hardware-based RT."
+        "description": "900p-1152p DRS to 4K TSR. Somewhat stable 60fps (lows of high 40s) with software-based RT."
       }
     ],
-    "extraInfo": "Pro uses superior hardware-based RT compared to software-based RT on base PS5 (less breakup/clearer reflections etc) and both modes hit their target framerate more often than their base PS5 version. Pro's performance mode also has a higher base resolution. However, Pro's quality mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 quality mode looks better with TSR. Bloober has confirmed that they're working with Konami on a patch which will hopefully improve the PSSR implementation or revert to TSR (as they did for performance). However, it's now been over 1 year and the update did not arrive alongside the Series S|X November 2025 launch. Hopefully, it arrives in time with the SH2 movie in January 2026, or with the rumored Born from a Wish DLC."
+    "extraInfo": "Pro quality mode uses superior hardware-based RT (clearer, more accurate/full reflections etc) compared to the software-based RT in both base PS5 modes. Both Pro modes also hit their target framerate more often than their base PS5 version and Pro performance mode has a higher base resolution. However, Pro's quality mode, despite a more 4K like image and better RT, has so much PSSR shimmer that base PS5 quality mode looks better with TSR. Bloober has confirmed that they're working with Konami on a patch which will hopefully improve the PSSR implementation or revert to TSR (as they did for performance). However, it's now been over 1 year and the update did not arrive alongside the Series X|S November 2025 launch. Hopefully, it arrives in time with the SH2 movie in January 2026, or with the rumored Born from a Wish DLC."
   },
   {
     "name": "Silent Hill F",
