@@ -2816,16 +2816,16 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Unreal Engine 5 software-based Lumen global illumination",
-    "resolution": "1260p to 4K PSSR",
+    "resolution": "1440p to 4K PSSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "756p-1260p DRS to 4K PSSR at a stable 50-60fps in stealth (see extra info)."
+        "description": "756p-1440p DRS to 4K PSSR at a stable 50-60fps in stealth (see extra info)."
       },
       {
         "name": "performance",
-        "description": "720p-1260p DRS to 4K PSSR with worse AO and Lumen GI, but at a basically locked 60fps in stealth. Patch 1.21 added this mode."
+        "description": "720p-1260p DRS to 4K PSSR with worse AO and Lumen GI than quality mode, but at a basically locked 60fps in stealth. Patch 1.21 added this mode."
       }
     ],
     "extraInfo": "Pro's modes have the improved object LODs/shadows/GI in base PS5's unevenly paced 30fps quality mode (to different extents), while targeting 60fps. Patch 1.21 ensures a somewhat stable framerate within the VRR window providing you maintain stealth (dips to as low as 35fps in gunfights due to enemy AI/CPU limits). In stills, Pro is blurrier than even base PS5 performance mode (720p-1080p DRS to 4K FSR) due to low DRS/PSSR, let alone base PS5 quality mode's 1080p-1584p DRS. However, PSSR has less GI flickering, less artifacting in hair/foliage, reduced ghosting/breakup and sharper motion clarity, making it the better upscaler overall. Both Pro modes also have a more stable framerate than base PS5 performance mode, though cutscenes are an unstable 60fps everywhere."
