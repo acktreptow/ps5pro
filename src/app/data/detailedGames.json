@@ -8,14 +8,14 @@
     "publisher": "IO Interactive",
     "psStudios": false,
     "psvr2": false,
-    "release": "March 27, 2026",
+    "release": "May 27, 2026",
     "hasShipped": false,
     "metacritic": 0,
     "pssr": true,
     "rt": false,
     "resolution": "4K PSSR (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "IOI has confirmed that Pro will have a quality and performance mode. Pro's quality mode will also use PSSR to run at 60fps, whereas base PS5 quality mode will (likely) run at 30fps. It will be interesting to see whether Pro's performance mode uses a less resource-intensive upscaler than PSSR to ensure a stable 60+fps. This would be particularly noteworthy as the September State of Play demo (running on base PS5 quality mode with no RT at 1440p) couldn't even sustain 30fps, and dipped as low as 18fps (though still with months left for optimization)."
+    "extraInfo": "IOI has confirmed that Pro will have a quality and performance mode. Pro's quality mode will also use PSSR to run at 60fps, whereas base PS5 quality mode will (likely) run at 30fps. It will be interesting to see whether Pro's performance mode uses a less resource-intensive upscaler than PSSR to ensure a stable 60+fps. This would be particularly noteworthy as the September State of Play demo (running on base PS5 quality mode with no RT at 1440p) couldn't even sustain 30fps, and dipped as low as 18fps. Fortunately in late December, there was a delay from March to May 2026. This suggests IOI will take the necessary time to ensure proper optimization."
   },
   {
     "name": "90s Extreme Skiing",
