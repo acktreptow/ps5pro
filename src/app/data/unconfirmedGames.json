@@ -108,18 +108,6 @@
     "metacritic": 70
   },
   {
-    "name": "Bulletstorm VR",
-    "id": "Bulletstorm VR",
-    "genre": "VR FPS",
-    "developer": "Incuvo",
-    "publisher": "People Can Fly",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "January 18, 2024",
-    "hasShipped": true,
-    "metacritic": 58
-  },
-  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
@@ -310,18 +298,6 @@
     "release": "June 22, 2023",
     "hasShipped": true,
     "metacritic": 87
-  },
-  {
-    "name": "FragPunk",
-    "id": "FragPunk",
-    "genre": "PvP FPS",
-    "developer": "Bad Guitar Studio",
-    "publisher": "NetEase",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 29, 2025",
-    "hasShipped": true,
-    "metacritic": 80
   },
   {
     "name": "Genshin Impact",
