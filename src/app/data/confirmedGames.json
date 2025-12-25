@@ -108,18 +108,6 @@
     "metacritic": 0
   },
   {
-    "name": "Divinity: Original Sin 2 DE",
-    "id": "Divinity: Original Sin 2",
-    "genre": "Western Isometric RPG",
-    "developer": "Larian Studios",
-    "publisher": "Larian Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "December 15, 2025",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Elemental War Clash",
     "id": "EWC",
     "genre": "Strategy, Tower Defense",

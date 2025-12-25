@@ -1172,6 +1172,35 @@
     "extraInfo": "Enhanced visuals mode hovers around 45-50fps with VRR. It therefore won't always prevent stutter as the framerate can dip below the 48fps VRR threshold on PlayStation. Fortunately, Pro's enhanced visuals mode still has a higher resolution, improved ambient occlusion and higher quality RT reflections compared base PS5's equivalent mode."
   },
   {
+    "name": "Divinity: Original Sin 2 DE",
+    "pageTitle": "Divinity: Original Sin 2 - Definitive Edition",
+    "id": "Divinity: Original Sin 2",
+    "urlPath": "divinity-original-sin-2-definitive-edition",
+    "genre": "Western Isometric RPG",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 15, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K at a basically locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at a locked 60fps."
+      }
+    ],
+    "extraInfo": "While both modes are capped at 60fps, quality mode mode provides a noticeable resolution increase and at a very stable 60fps. Performance mode should only be chosen to (hopefully) guarantee 60fps in later, more demanding areas."
+  },
+  {
     "name": "Doom: The Dark Ages",
     "id": "Doom: TDA",
     "urlPath": "doom-the-dark-ages",
@@ -5532,7 +5561,7 @@
     "psvr2": false,
     "release": "December 8, 2025",
     "hasShipped": true,
-    "metacritic": 88,
+    "metacritic": 79,
     "pssr": false,
     "rt": false,
     "resolution": "4K (likely)",
