@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import prisma from "../../../lib/prisma";
 
 export const metadata: Metadata = {
-  title: "99 Unconfirmed Games",
-  description: "99 PS5 games that are most in need of Pro enhancements",
+  title: "Unconfirmed Games",
+  description: "PS5 games that are most in need of Pro enhancements",
 };
 
 async function getUnconfirmedGames() {
@@ -62,7 +62,6 @@ const UnconfirmedGamesPage = async () => {
         </h4>
       </div>
       <div className="my-8 mx-4 py-4 bg-slate-100 border-2 rounded shadow-lg md:mx-8">
-
         <h3 className="text-xl text-center font-semibold mb-4 md:text-start md:mx-8 lg:text-2xl lg:mt-6 lg:mb-2">
           Criteria (in rough order of importance)
         </h3>
