@@ -4989,7 +4989,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 only has screen space reflections. However, Pro's RT can cause the resolution to dip below native 4K in more complex scenes. Otherwise, both Pro and base PS5 are native 4K at 60fps when using SSR."
+    "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 only has screen space reflections. While Pro's RT can cause the resolution to dip slightly below native 4K in more complex scenes, the difference is basically imperceptible even when directly comparing, let alone in general gameplay. Otherwise, both Pro and base PS5 are native 4K at a locked 60fps when using SSR (screen space reflections)."
   },
   {
     "name": "The Precinct",
