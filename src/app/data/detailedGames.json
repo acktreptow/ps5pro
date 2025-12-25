@@ -2875,8 +2875,8 @@
     "pssr": false,
     "rt": false,
     "resolution": "1512p to 4K TAAU (likely)",
-    "fps": "30fps (likely)",
-    "extraInfo": "Tech information is based off DF's analysis of the September 2025 State of Play reveal trailer, so it could change before the December launch. DF also wondered if RT shadows could come to cockpit mode on Pro as it's currently only on PC, or perhaps PC's cloud settings which are higher quality than Series X."
+    "fps": "30fps+ (see extra info)",
+    "extraInfo": "Pro has a very 4K-like image due to the high internal resolution. However, the game's performance is very hard to nail down due to how unique the game is. Firstly, as the game is constantly using the Cloud to stream in the world, when a performance issue occurs, it's hard to know if it's the game itself or the Cloud at that current time causing it. The exact same flight can therefore have different levels of performance for example. Additionally regarding the framerate, Pro and base PS5 default to a 30fps cap but can be unlocked with VRR. However, the game has a very PC-like menu with multiple options for 10+ graphical settings (character quality, fauna density etc). The frame rate can therefore vary wildly depending on what graphical options you choose, although it's highly unlikely you'll ever reach 120fps. Finally, there's no RT shadows in cockpit mode, which DF speculated could make the jump from PC as a Pro-exclusive enhancement."
   },
   {
     "name": "Midnight Murder Club",
