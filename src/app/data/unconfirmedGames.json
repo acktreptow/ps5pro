@@ -936,18 +936,6 @@
     "metacritic": 77
   },
   {
-    "name": "Tales Of Arise",
-    "id": "ToA",
-    "genre": "Action JRPG",
-    "developer": "Bandai Namco Studios",
-    "publisher": "Bandai Namco Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 10, 2021",
-    "hasShipped": true,
-    "metacritic": 87
-  },
-  {
     "name": "TC: Rainbow Six Siege X",
     "id": "R6 Siege X",
     "genre": "PvP Tactical FPS",
@@ -958,6 +946,30 @@
     "release": "June 10, 2025",
     "hasShipped": true,
     "metacritic": 80
+  },
+  {
+    "name": "TWD: Saints & Sinners 2",
+    "id": "TWD: S&S 2",
+    "genre": "VR Survival Horror",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 21, 2023",
+    "hasShipped": true,
+    "metacritic": 72
+  },
+  {
+    "name": "Tales Of Arise",
+    "id": "ToA",
+    "genre": "Action JRPG",
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 10, 2021",
+    "hasShipped": true,
+    "metacritic": 87
   },
   {
     "name": "Tekken 8",
@@ -1066,18 +1078,6 @@
     "release": "March 31, 2022",
     "hasShipped": true,
     "metacritic": 0
-  },
-  {
-    "name": "TWD: Saints & Sinners 2",
-    "id": "TWD: S&S 2",
-    "genre": "VR Survival Horror",
-    "developer": "Skydance Interactive",
-    "publisher": "Skydance Interactive",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "March 21, 2023",
-    "hasShipped": true,
-    "metacritic": 72
   },
   {
     "name": "Uncharted: LOTC",
