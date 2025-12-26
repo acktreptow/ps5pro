@@ -576,6 +576,18 @@
     "metacritic": 73
   },
   {
+    "name": "MLB The Show 25",
+    "id": "MLB 25",
+    "genre": "Sports, Baseball",
+    "developer": "San Diego Studio",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "March 18, 2025",
+    "hasShipped": true,
+    "metacritic": 83
+  },
+  {
     "name": "Madison VR",
     "id": "Madison VR",
     "genre": "VR First-Person Horror",
@@ -634,18 +646,6 @@
     "release": "October 22, 2024",
     "hasShipped": true,
     "metacritic": 0
-  },
-  {
-    "name": "MLB The Show 25",
-    "id": "MLB 25",
-    "genre": "Sports, Baseball",
-    "developer": "San Diego Studio",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "March 18, 2025",
-    "hasShipped": true,
-    "metacritic": 83
   },
   {
     "name": "Mortal Shell: Enhanced",
@@ -912,7 +912,7 @@
     "metacritic": 74
   },
   {
-    "name": "Stranger The Heaven",
+    "name": "Stranger Than Heaven",
     "id": "STH",
     "genre": "Action RPG",
     "developer": "Ryu Ga Gotoku Studio",
