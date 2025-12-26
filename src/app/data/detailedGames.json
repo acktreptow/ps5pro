@@ -18,6 +18,25 @@
     "extraInfo": "IOI has confirmed that Pro will have a quality and performance mode. Pro's quality mode will also use PSSR to run at 60fps, whereas base PS5 quality mode will (likely) run at 30fps. It will be interesting to see whether Pro's performance mode uses a less resource-intensive upscaler than PSSR to ensure a stable 60+fps. This would be particularly noteworthy as the September State of Play demo (running on base PS5 quality mode with no RT at 1440p) couldn't even sustain 30fps, and dipped as low as 18fps. Fortunately in late December, there was a delay from March to May 2026. This suggests IOI will take the necessary time to ensure proper optimization."
   },
   {
+    "name": "28 Days TWS",
+    "pageTitle": "28 Days Train Wreck Survivor",
+    "id": "28 Days",
+    "urlPath": "28-days-train-wreck-survivor",
+    "genre": "Survival, Action",
+    "developer": "Nostra Games",
+    "publisher": "Nostra Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 18, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off Hole Digging Master as there's no public information about 28 Days's Pro enhancements. However, as both games are by Nostra and have a similar aesthetic/scope, HDM provides a good baseline of what to expect from 28 Days - 'Both the Pro and base PS5 version are the same for all intents and purposes (the framerate is a locked 60fps on both for example). At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower.'"
+  },
+  {
     "name": "90s Extreme Skiing",
     "id": "90s ES",
     "urlPath": "90s-extreme-skiing",
