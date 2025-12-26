@@ -300,6 +300,18 @@
     "metacritic": 87
   },
   {
+    "name": "GTA V",
+    "id": "GTA 5",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 15, 2022",
+    "hasShipped": true,
+    "metacritic": 81
+  },
+  {
     "name": "Genshin Impact",
     "id": "Genshin Impact",
     "genre": "F2P Action RPG, Gacha",
@@ -358,30 +370,6 @@
     "release": "February 1, 2024",
     "hasShipped": true,
     "metacritic": 80
-  },
-  {
-    "name": "GTA PS2 Trilogy: DE",
-    "id": "GTA Trilogy",
-    "genre": "Action-Adventure",
-    "developer": "Grove Street & VGD",
-    "publisher": "Rockstar Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 11, 2021",
-    "hasShipped": true,
-    "metacritic": 54
-  },
-  {
-    "name": "GTA V",
-    "id": "GTA 5",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar North",
-    "publisher": "Rockstar Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 15, 2022",
-    "hasShipped": true,
-    "metacritic": 81
   },
   {
     "name": "Guardians Of The Galaxy",
