@@ -1080,6 +1080,18 @@
     "metacritic": 72
   },
   {
+    "name": "The Sinking City 2",
+    "id": "The Sinking City 2",
+    "genre": "Survival Action Horror",
+    "developer": "Frogwares",
+    "publisher": "Frogwares",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Talos Principle: R",
     "id": "TTP: Reawakened",
     "genre": "Puzzle",
