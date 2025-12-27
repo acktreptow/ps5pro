@@ -504,6 +504,18 @@
     "metacritic": 69
   },
   {
+    "name": "InZOI",
+    "id": "InZOI",
+    "genre": "Life Simulation",
+    "developer": "InZOI Studio",
+    "publisher": "Krafton",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Q1/Q2 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "It Takes Two",
     "id": "It takes Two",
     "genre": "Co-Op Adventure",
