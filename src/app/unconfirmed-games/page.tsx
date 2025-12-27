@@ -79,6 +79,9 @@ const UnconfirmedGamesPage = async () => {
             (global illumination, textures etc).
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Would easily combine the best of multiple modes seen on base PS5.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Would be a showcase for the capabilities of PSVR2.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
@@ -86,11 +89,11 @@ const UnconfirmedGamesPage = async () => {
             audiences.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Is AAA, with a sequel scheduled to launch in 2025.
+            Is AAA, with a sequel scheduled to launch in 2026.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            Is AAA, with development far enough along to have a release date,
-            yet no mention of Pro support.
+            Is AAA, with development far enough along to have a release window
+            and/or has an object on PSN, yet no mention of Pro support.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Is part a AAA franchise where there&#39;s already Pro enhanced
