@@ -504,6 +504,18 @@
     "metacritic": 88
   },
   {
+    "name": "Judas",
+    "id": "Judas",
+    "genre": "Action-Adventure, FPS",
+    "developer": "Ghost Story Games",
+    "publisher": "Ghost Story Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Kena: Bridge Of Spirits",
     "id": "Kena",
     "genre": "Action-Adventure",
