@@ -264,18 +264,6 @@
     "metacritic": 73
   },
   {
-    "name": "Far Cry 6",
-    "id": "FC6",
-    "genre": "FPS, Open-World",
-    "developer": "Ubisoft Toronto",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 7, 2021",
-    "hasShipped": true,
-    "metacritic": 73
-  },
-  {
     "name": "Final Fantasy VII Remake",
     "id": "FF7",
     "genre": "Cinematic Action JRPG",
@@ -1222,17 +1210,5 @@
     "release": "January 24, 2023",
     "hasShipped": true,
     "metacritic": 75
-  },
-  {
-    "name": "Zombie Army VR",
-    "id": "Zombie Army",
-    "genre": "VR Zombie FPS",
-    "developer": "Rebellion & XR Games",
-    "publisher": "Rebellion",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "June 12, 2025",
-    "hasShipped": true,
-    "metacritic": 67
   }
 ]
