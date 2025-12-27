@@ -132,6 +132,18 @@
     "metacritic": 0
   },
   {
+    "name": "Control Resonant",
+    "id": "Control 2",
+    "genre": "Action RPG",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crossfire: Sierra Squad",
     "id": "Crossfire VR",
     "genre": "VR FPS",
