@@ -900,6 +900,18 @@
     "metacritic": 70
   },
   {
+    "name": "South Of Midnight",
+    "id": "SoM",
+    "genre": "Action-Adventure",
+    "developer": "Compulsion Games",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Q1/Q2 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Splitgate: Arena Reloaded",
     "id": "Splitgate AR",
     "genre": "F2P FPS",
