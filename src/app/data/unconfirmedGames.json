@@ -468,18 +468,6 @@
     "metacritic": 79
   },
   {
-    "name": "Hubris",
-    "id": "Hubris",
-    "genre": "VR Action-Adventure",
-    "developer": "Cyborn",
-    "publisher": "Cyborn",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "June 22, 2023",
-    "hasShipped": true,
-    "metacritic": 60
-  },
-  {
     "name": "ILL",
     "id": "ILL",
     "genre": "Survival Action Horror",
@@ -1162,18 +1150,6 @@
     "release": "March 26, 2021",
     "hasShipped": true,
     "metacritic": 90
-  },
-  {
-    "name": "Tropico 6",
-    "id": "Tropico 6",
-    "genre": "City Builder, Strategy",
-    "developer": "Limbic Entertainment",
-    "publisher": "Kalypso Media",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 31, 2022",
-    "hasShipped": true,
-    "metacritic": 0
   },
   {
     "name": "Uncharted: LOTC",
