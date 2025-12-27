@@ -1116,6 +1116,18 @@
     "metacritic": 70
   },
   {
+    "name": "Tomb Raider: Catalyst",
+    "id": "Tomb Raider",
+    "genre": "Action-Adventure",
+    "developer": "Crystal Dynamics",
+    "publisher": "Amazon Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Tomb Raider: LOA",
     "id": "Tomb Raider",
     "genre": "Action-Adventure",
