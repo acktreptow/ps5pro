@@ -924,6 +924,18 @@
     "metacritic": 69
   },
   {
+    "name": "Star Wars: Galactic Racer",
+    "id": "Star Wars: GR",
+    "genre": "Racing, Arcade",
+    "developer": "Fuse Games",
+    "publisher": "Secret Mode",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Star Wars: TFTGE",
     "id": "Star Wars: Tales from the Galaxy's Edge",
     "genre": "VR FPS Action-Adventure",
