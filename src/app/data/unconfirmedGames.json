@@ -420,6 +420,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hellraiser: Revival",
+    "id": "Hellraiser: Revival",
+    "genre": "Survival Action Horror",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "High On Life",
     "id": "HoL",
     "genre": "FPS, Adventure",
