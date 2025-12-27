@@ -932,7 +932,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "2026",
-    "hasShipped": true,
+    "hasShipped": false,
     "metacritic": 0
   },
   {
@@ -1114,6 +1114,18 @@
     "release": "December 4, 2025",
     "hasShipped": true,
     "metacritic": 70
+  },
+  {
+    "name": "Tomb Raider: LOA",
+    "id": "Tomb Raider",
+    "genre": "Action-Adventure",
+    "developer": "CD & Flying Wild Hog",
+    "publisher": "Amazon Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "Tony Hawk Pro Skater 1/2",
