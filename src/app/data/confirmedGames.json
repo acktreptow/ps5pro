@@ -252,6 +252,18 @@
     "metacritic": 0
   },
   {
+    "name": "Little Nightmares",
+    "id": "LI1",
+    "genre": "Puzzle, Horror, Adventure",
+    "developer": "Tarsier & Supermassive",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 10, 2025",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Lost Islands",
     "id": "Lost Islands",
     "genre": "Action-Adventure",
