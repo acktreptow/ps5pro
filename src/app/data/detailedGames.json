@@ -2893,9 +2893,9 @@
     "metacritic": 79,
     "pssr": false,
     "rt": false,
-    "resolution": "1512p to 4K TAAU (likely)",
+    "resolution": "1800p to 4K TAA",
     "fps": "30fps+ (see extra info)",
-    "extraInfo": "Pro has a very 4K-like image due to the high internal resolution. However, the game's performance is very hard to nail down due to how unique the game is. Firstly, as the game is constantly using the Cloud to stream in the world, when a performance issue occurs, it's hard to know if it's the game itself or the Cloud at that current time causing it. The exact same flight can therefore have different levels of performance for example. Additionally regarding the framerate, Pro and base PS5 default to a 30fps cap but can be unlocked with VRR. However, the game has a very PC-like menu with multiple options for 10+ graphical settings (character quality, fauna density etc). The frame rate can therefore vary wildly depending on what graphical options you choose, although it's highly unlikely you'll ever reach 120fps. Finally, there's no RT shadows in cockpit mode, which DF speculated could make the jump from PC as a Pro-exclusive enhancement."
+    "extraInfo": "Base PS5 and Pro upscale to 4K, but base PS5's internal resolution is 1440p compared to Pro's sharper 1800p. However, other image metrics are harder to compare due to the compulsory use of the Cloud to stream in the world (Xbox can download Earth to SSD). For example, particularly bad pop in could be caused by the game itself or the Cloud's current bandwidth. The same flight on the same PS5 can therefore render different image quality, although Pro generally has less pop in and increased draw distances. Both consoles also default to a 30fps cap, but can be unlocked with VRR. However, even with the PC-like menu of 10+ graphical settings (character quality, fauna density etc) set to their lowest, the framerate rarely reaches 60fps, can even dip to 25fps-27fps when flying low in cities, and is generally between 30-40fps (with Pro averaging 3-4fps higher). Finally, there's no RT shadows seen in PC's cockpit mode, which DF speculated could be a Pro-exclusive enhancement."
   },
   {
     "name": "Midnight Murder Club",
