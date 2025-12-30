@@ -120,18 +120,6 @@
     "metacritic": 0
   },
   {
-    "name": "Entropy Survivors",
-    "id": "ES",
-    "genre": "Top-Down Roguelike",
-    "developer": "Moving Pieces",
-    "publisher": "First Break Labs",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "December 5, 2024",
-    "hasShipped": true,
-    "metacritic": 82
-  },
-  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",

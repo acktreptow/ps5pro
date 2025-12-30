@@ -1557,6 +1557,35 @@
     "extraInfo": "Pro's high performance mode now hits a solid 120fps, whereas base PS5's version is usually around 90fps with a lower 1440p internal resolution. Pro also has higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality/clarity has improved."
   },
   {
+    "name": "Entropy Survivors",
+    "id": "ES",
+    "urlPath": "entropy-survivors",
+    "genre": "Isometric Roguelite",
+    "developer": "Moving Pieces",
+    "publisher": "First Break Labs",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 5, 2024",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "default",
+        "description": "4K at 60fps with no RT."
+      },
+      {
+        "name": "ray tracing",
+        "description": "Upscaled 4K at 60fps with RT."
+      }
+    ],
+    "extraInfo": "Pro's default mode (and base PS5's singular mode) run at 4K/60fps. However, Pro can exclusively toggle on RTGI for better lighting at the expense of slightly lower resolution. While the resolution dip is noticeable, Pro still renders a very 4K-like image with RT. At least in the early stages, both Pro modes and base PS5 run at a locked 60fps. Presumably, if there are some framerate dips in later, more chaotic stages, Pro should also maintain 60fps more often due to the extra horsepower."
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
