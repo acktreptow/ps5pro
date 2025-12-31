@@ -3786,7 +3786,7 @@
     "rtTypes": "Ray traced reflections, global illumination and shadows (base PS5)",
     "resolution": "1440p to 4K (base PS5)",
     "fps": "60fps (base PS5)",
-    "extraInfo": "While TeamKill confirmed they're working on a PS5 Pro update as early as October 2024, this has yet to come to fruition (the above tech info is taken from the base PS5 version). The last time they discussed this update was in May and they currently seem to be focused on their upcoming game 'Code Violet', which launches in November 2025. Hopefully when that game releases, TeamKill will have the bandwidth to make good on their promise of Pro support for Quantum Error."
+    "extraInfo": "While TeamKill confirmed they're working on a PS5 Pro update as early as October 2024, this has yet to come to fruition as of January 2026 (the above tech info is taken from the base PS5 version). However, in September 2025, TeamKill confirmed a Pro update was still planned. The reason it's taking time is because QE was developed on an old version of UE5 that didn't support Pro because it didn't even exist. As a small studio, the engine update/upgrade is a huge task - much bigger than having it already incorporated during the development of their new game, Code Violet.  Hopefully when CD releases in January 2026, TeamKill will have the bandwidth to make good on their promise of Pro support for Quantum Error."
   },
   {
     "name": "Quisisana",
