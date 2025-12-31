@@ -504,18 +504,6 @@
     "metacritic": 0
   },
   {
-    "name": "It Takes Two",
-    "id": "It takes Two",
-    "genre": "Co-Op Adventure",
-    "developer": "Hazelight Studios",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 26, 2021",
-    "hasShipped": true,
-    "metacritic": 88
-  },
-  {
     "name": "Judas",
     "id": "Judas",
     "genre": "Action-Adventure, FPS",
@@ -886,18 +874,6 @@
     "release": "November 8, 2022",
     "hasShipped": true,
     "metacritic": 70
-  },
-  {
-    "name": "South Of Midnight",
-    "id": "SoM",
-    "genre": "Action-Adventure",
-    "developer": "Compulsion Games",
-    "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Q1/Q2 2026",
-    "hasShipped": false,
-    "metacritic": 0
   },
   {
     "name": "Star Ocean: Divine Force",
