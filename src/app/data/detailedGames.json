@@ -867,6 +867,25 @@
     "extraInfo": "Quality mode has a noticeably sharper image with less shimmer/breakup in hair. Performance mode can dip below 60fps, but stays well within the VRR window and only lasts a couple seconds. Base PS5 also has DRS and its internal resolution can go as low as 720p (performance) and 900p (quality), leading to far more shimmer/breakup. Real-time cutscenes are an uneven 30fps regardless of mode or hardware (even PC) and the early FMV cutscenes have visible macroblocking."
   },
   {
+    "name": "Code Violet",
+    "id": "Code Violet",
+    "urlPath": "code-violet",
+    "genre": "Action, Horror",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 10, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Various Lumen features (likely)",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "TeamKill Media have confirmed via X that base PS5 will run at 4K/30fps, whereas Pro is 4K/60fps. It's highly that the 4K output is upscaled from a currently unknown internal resolution, but this is already a large jump via the framerate regardless. Other information such what UE5 Lumen features are used etc will also have to wait until closer to its January 2026 launch."
+  },
+  {
     "name": "Control: Ultimate Edition",
     "id": "Control UE",
     "urlPath": "control-ultimate-edition",
