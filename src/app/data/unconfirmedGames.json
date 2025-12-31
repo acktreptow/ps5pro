@@ -684,18 +684,6 @@
     "metacritic": 0
   },
   {
-    "name": "Mortal Shell: Enhanced",
-    "id": "Mortal Shell",
-    "genre": "Soulsborne",
-    "developer": "Cold Symmetry",
-    "publisher": "Playstack",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 4, 2021",
-    "hasShipped": true,
-    "metacritic": 74
-  },
-  {
     "name": "New World: Aeternum",
     "id": "New World",
     "genre": "MMORPG",
