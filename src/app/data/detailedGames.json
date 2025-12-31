@@ -3525,6 +3525,24 @@
     "extraInfo": "According to the game's website, 'advanced shaders' are now on Pro. PSSR is also used to render up to 8K."
   },
   {
+    "name": "Party Animals",
+    "id": "Party Animals",
+    "urlPath": "party-animals",
+    "genre": "MP Party Brawler",
+    "developer": "Recreate Games",
+    "publisher": "Source Technology",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 23, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "Base PS5 likely renders at 1440p, whereas Pro renders a more 4K-like image (except for the very blurry developer start up screen). Both consoles also have a very stable 60fps in the majority of modes most will care about (fights/races etc). However, both consoles struggle in The Lab, with the Pro actually faring worse (mid 40s) and can even drop frames in the main menu."
+  },
+  {
     "name": "Path Of Exile 2",
     "id": "PoE 2",
     "urlPath": "path-of-exile-2",
