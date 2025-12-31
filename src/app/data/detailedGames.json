@@ -3704,6 +3704,35 @@
     "extraInfo": "Ripstone's Reddit/Steam account confirmed that the above modes is what Pro will be targeting. This will be Pro's first and (currently) only game to run at native 8K."
   },
   {
+    "name": "Puzzle Quest: Immortal",
+    "pageTitle": "Puzzle Quest: Immortal Edition",
+    "id": "Puzzle Quest",
+    "urlPath": "puzzle-quest-immortal-edition",
+    "genre": "Puzzle, Match 3",
+    "developer": "Infinity Plus 2",
+    "publisher": "505 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 18, 2025",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "60fps",
+        "description": "4K at a locked 60fps."
+      },
+      {
+        "name": "120fps",
+        "description": "Upscaled 4K at a locked 120fps."
+      }
+    ],
+    "extraInfo": "Both base PS5 and Pro have a 60fps mode than renders at native 4K and a 120fps mode that renders at upscaled 4K. While the internal resolution for Pro's 120fps is slightly higher, in practice, base PS5's 120fps mode still looks very 4K-like when looking at normal distances. You'll only see the most minute of differences when directly comparing 2 modes or staring at an edge of a triangle gem from a inch away. The locked 120fps mode is therefore the way to go regardless of PS5 console."
+  },
+  {
     "name": "Quantum Error",
     "id": "Quantum Error",
     "urlPath": "quantum-error",
