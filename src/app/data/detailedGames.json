@@ -3494,7 +3494,7 @@
     "rtTypes": "Ray traced reflections and shadows",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Uses PSSR to hit 4K (base resolution unknown, but almost certainly above 1080p due to final output). Pro also has significantly enhanced RT, texture resolution, other visual effects etc compared to base PS5, and hits 60fps more often."
+    "extraInfo": "Both base PS5 and Pro likely have the same internal resolution. However, Pro upscales to 4K via PSSR which results in a far sharper image compared to base PS5. Especially with certain graphical effects like rain, which looks sub-1080p on the base console. Pro also improves texture resolution and other visual effects, although the PSSR implementation does cause strobing/instability on certain RT assets. Finally, Pro's 60fps is far more stable - only dipping on rare occasion to mid 50s, whereas base PS5 is constantly dipping from 60fps and can go as low as 45fps in the opening section."
   },
   {
     "name": "Paladin's Passage",
