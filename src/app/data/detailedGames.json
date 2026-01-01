@@ -484,6 +484,24 @@
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
+    "name": "Bad Cheese",
+    "id": "Bad Cheese",
+    "urlPath": "bad-cheese",
+    "genre": "Psychological Horror",
+    "developer": "Simon Lukasik",
+    "publisher": "Feardemic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 1, 2025",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 have a singular mode that runs at a locked 60fps with no HDR support. Both consoles also render a very 4K-like image, with only certain assets (the huge cobwebs etc, which look the exact same on both consoles) looking more jagged. If there is a resolution increase on Pro, it's indistinguishable during general gameplay."
+  },
+  {
     "name": "Baldur's Gate 3",
     "id": "BG3",
     "urlPath": "baldurs-gate-3",

@@ -48,18 +48,6 @@
     "metacritic": 0
   },
   {
-    "name": "Bad Cheese",
-    "id": "Bad Cheese",
-    "genre": "Psychological Horror",
-    "developer": "Simon Lukasik",
-    "publisher": "Feardemic",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 1, 2025",
-    "hasShipped": true,
-    "metacritic": 67
-  },
-  {
     "name": "BlazBlue Entropy Effect X",
     "id": "BlazBlue EEX",
     "genre": "2D Action, Roguelite",
