@@ -355,7 +355,7 @@
         "description": "DRS that reaches up to native 4K at a locked 120fps."
       }
     ],
-    "extraInfo": "Pro performance mode's dynamic resolution scaling doesn't dip very far from 4K in order to maintain 120fps. It's near-impossible to tell a difference from normal viewing distances unless looking at the modes side-by-side."
+    "extraInfo": "Pro performance mode's dynamic resolution scaling doesn't dip very far from 4K in order to maintain 120fps. It's near-impossible to tell a difference from normal viewing distances unless looking at the modes side-by-side. Base PS5 has the same modes, however its performance mode looks noticeably blurrier/1440p-like and its quality mode averages around 10-15fps less (lots of time at 65-75fps and with possible short dips into the mid 50s during effects-heavy crashes)."
   },
   {
     "name": "Assassin's Creed Mirage",
