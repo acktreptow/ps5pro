@@ -231,10 +231,10 @@
       },
       {
         "name": "performance",
-        "description": "Targets 1080p at 120fps with reduced visual quality."
+        "description": "Targets 1440p at 120fps with reduced visual quality."
       }
     ],
-    "extraInfo": "Pro's 2 modes are also on base PS5, but Pro hits the target framerate more often than their base PS5 equivalents. Interestingly, Apex Legends doesn't follow the standard naming convention as there's no fidelity/graphics mode that would have been the 30fps mode in this case."
+    "extraInfo": "Pro's 2 modes are also on base PS5, but Pro hits the target framerate/resolution more often than their base PS5 equivalents, resulting in a far sharper/more fluid experience (especially in performance mode). Interestingly, Apex Legends doesn't follow the standard naming convention as there's no fidelity/graphics mode that would have been the 30fps mode in this case."
   },
   {
     "name": "Arc Raiders",
