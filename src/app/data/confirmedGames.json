@@ -144,18 +144,6 @@
     "metacritic": 60
   },
   {
-    "name": "Goals",
-    "id": "Goals",
-    "genre": "Sports, Football",
-    "developer": "Goals AB",
-    "publisher": "Goals AB",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2026",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "High On Life 2",
     "id": "HoL 2",
     "genre": "FPS, Adventure",

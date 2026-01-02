@@ -2040,6 +2040,34 @@
     "extraInfo": "The first 5 modes are also on base PS5, but Pro has a higher internal resolution (base PS5 quality mode is as low as 1800p, 1080p-1440p DRS in performance mode and 1440p in ray tracing mode etc). Base PS5 is also only capable of RTGI at up to 60fps with VRR unlocked. RTGI can significantly enhance image quality (especially scenes with lots of sunlight) with more realistic lighting and shadows that adds nuance/depth. Despite the 1080p-1656p internal resolution in RT Pro mode, its excellent PSSR implementation results in an image as sharp as quality mode's native 4K. PSSR also trades blows in image quality - some assets are a little noisier, but others are more stable/have less ghosting with PSSR. With VRR, Pro averages slightly higher framerates than the equivalent mode on base PS5 (71fps vs 64fps avg in performance mode etc). However, uncapping the framerate results in the lower bounds of the mode's DRS being hit more often. Finally, cutscenes are 30fps regardless of mode/console."
   },
   {
+    "name": "Goals",
+    "id": "Goals",
+    "urlPath": "goals",
+    "genre": "Sports, Football",
+    "developer": "Goals AB",
+    "publisher": "Goals AB",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "Favor Quality",
+        "description": "4K at a basically locked 60fps with improved graphical settings."
+      },
+      {
+        "name": "Favor Performance",
+        "description": "1440p+ (likely) to 4K at a basically locked 120fps."
+      }
+    ],
+    "extraInfo": "*All tech info is based off the playtest and is subject to change for the 1.0 launch later in 2026. While favor performance mode has some graphical effects either disabled or simplified, any differences are virtually indistinguishable during gameplay. As both modes also lock to their framerate target 99% of the time, 120fps is the right choice (unless you can't stand very slight reductions in areas like resolution, which is still 4K-like). Finally, base PS5 also has the same modes that mostly lock to the same target framerates. However as a beta, it's likely that Pro enhancements aren't in Goals yet as base PS5 modes look identical to their Pro equivalent. The only consistent difference was base PS5 running at 58fps when aiming corner kicks compared to 60fps on Pro - a difference that's almost certainly due to Pro's extra horsepower."
+  },
+  {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
     "urlPath": "god-of-war-ragnarok",
