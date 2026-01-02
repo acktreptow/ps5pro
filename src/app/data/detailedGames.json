@@ -1790,6 +1790,25 @@
     "extraInfo": "Whereas base PS5 has a quality (1600p to 4K at 30fps) and performance 60fps mode, Pro just has a singular mode that runs at a native 4K at a basically locked 60fps."
   },
   {
+    "name": "Fatal Frame II: CB Remake",
+    "pageTitle": "Fatal Frame II: Crimson Butterfly Remake",
+    "id": "Fatal Frame II",
+    "urlPath": "fatal-frame-ii-crimson-butterfly-remake",
+    "genre": "Survival Horror, Adventure",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "30fps",
+    "extraInfo": "According to Koei's website, both base PS5 and Pro have 1 mode that outputs at 4K after upscaling, have a max framerate of 30fps, and use the 'standard' quality of character models. However, the notes section mentions the use of dynamic resolution scaling and potential frame drops during gameplay (cutscenes are capped at 30fps too). To presumably get the Pro enhanced badge then (as both consoles have the same description), Pro will utilize a higher DRS before upscaling to 4K - resulting in a sharper image than on base PS5 in the same scene. Pro's extra horsepower should also result in a more stable 30fps. Although as a remake of a PS2 game, there really should be a 60fps mode. Regardless, we'll see how close the website's platform descriptions match the final game when it launches in March 2026."
+  },
+  {
     "name": "FBC: Firebreak",
     "id": "Firebreak",
     "urlPath": "fbc-firebreak",
