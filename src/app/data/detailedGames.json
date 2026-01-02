@@ -481,7 +481,7 @@
         "description": "Lowest visual quality. 720p-936p DRS to 4K PSSR/FSR at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality, balanced and performance are all the legacy modes from base PS5 (FSR only), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
     "name": "Bad Cheese",
