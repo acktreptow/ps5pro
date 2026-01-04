@@ -228,18 +228,6 @@
     "metacritic": 75
   },
   {
-    "name": "Metal Eden",
-    "id": "ME",
-    "genre": "Sci-Fi, FPS",
-    "developer": "Reikon Games",
-    "publisher": "Deep Silver",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 2, 2025",
-    "hasShipped": true,
-    "metacritic": 73
-  },
-  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",

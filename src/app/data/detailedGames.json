@@ -2963,6 +2963,35 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps. However, base PS5's more 1080p-like resolution leads to a blurrier image, with more noticeable aliasing on characters and stadium edges, as well as more instability in reflections. Pro could potentially dip to around 1440p as some jaggies from aliasing are present, but it's never as bad as what you even immediately see on Metaball's main menu on base PS5."
   },
   {
+    "name": "Metal Eden",
+    "id": "ME",
+    "urlPath": "metal-eden",
+    "genre": "Sci-Fi, FPS",
+    "developer": "Reikon Games",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 2, 2025",
+    "hasShipped": true,
+    "metacritic": 73,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "4K Upscaled",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K at a stable 50-60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Lower DRS than quality mode, but at a basically locked 60fps."
+      }
+    ],
+    "extraInfo": "While internal resolutions are unknown, quality mode is much higher as it resolves a far more convincing 4K-like output after upscaling. This image quality increase is best seen in areas like lighting, reflections, and various wall textures that are sharper with less image stability/breakup. However, quality mode struggles to maintain 60fps for extended periods, but stays above 48fps so works well with VRR screens. Finally, base PS5 also has the same modes with similar resolution differences, but its quality mode is capped at 30fps (performance still at 60fps). Fortunately, both base PS5 modes are able to basically lock to their target framerates."
+  },
+  {
     "name": "Metal Gear Solid Delta: SE",
     "id": "MGS3 Remake",
     "urlPath": "metal-gear-solid-delta-snake-eater",
