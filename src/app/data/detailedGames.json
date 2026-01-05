@@ -527,7 +527,7 @@
         "description": "1440p to 4K PSSR at a mostly stable 60fps."
       }
     ],
-    "extraInfo": "Pro's performance mode looks better than even base PS5's quality mode due to upscalers used. PSSR is a little bit softer than base PS5's FSR, but much more stable with less artifacting/flickering. This instability is especially noticeable with assets in motion, such as moving shadows. Pro also has an approx 10% higher framerate, so manages to reach 60fps more often than base PS5. Finally, Pro can also run split screen at either 30fps or 60fps, compared to just 30fps on base PS5."
+    "extraInfo": "Pro's performance mode looks better than even base PS5's quality mode due to upscalers used. PSSR is a little bit softer than base PS5's FSR, but much more stable with less artifacting/flickering. This instability is especially noticeable with assets in motion, such as moving shadows. Pro also has an approx 10% higher framerate, so manages to reach 60fps more often than base PS5 (especially important in later acts where base PS5 is particularly unstable). Finally, Pro can also run split screen at either 30fps or 60fps, compared to just 30fps on base PS5."
   },
   {
     "name": "Banishers: New Eden",
