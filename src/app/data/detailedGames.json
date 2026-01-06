@@ -549,14 +549,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "Upscaled 4K FSR at a stable 30fps/40fps on 60 HZ and 120 HZ screens respectively."
+        "description": "Upscaled 4K FSR at a stable 30fps/40fps on 60 Hz and 120 Hz screens respectively."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K FSR (lower internal resolution than quality mode) at up to 120fps (usually averaging around 90fps)."
+        "description": "Upscaled 4K FSR (lower internal dynamic resolution scaling than quality mode) at up to 120fps (usually averaging around 90fps)."
       }
     ],
-    "extraInfo": "Both base PS5 and Pro have a quality and performance mode that have the same framerate targets. Pro quality mode maintains a stable 40fps more often. Neither performance mode hits 120fps most of the time, but Pro performance mode achieves it far more often in general gameplay and averages around 25fps more than base PS5 mode in like-for-like scenes. Base PS5 performance mode can dip to 60fps more often and only really reaches 120fps when looking up at the sky. While exact figures are unknown, Pro has a higher internal resolution compared to base PS5's equivalent mode, which leads to a sharper (though still not 4K-sharp) looking image."
+    "extraInfo": "Both base PS5 and Pro have a quality and performance mode with the same framerate targets. Pro quality mode maintains a stable 40fps more often. Neither performance mode hits 120fps most of the time, but Pro performance mode achieves it far more often in general gameplay and averages around 25fps more than base PS5 mode in like-for-like scenes. Base PS5 performance mode can dip to 60fps more often and only really reaches 120fps when looking up at the sky. While exact figures are unknown, Pro has a higher internal dynamic resolution scaling compared to base PS5's equivalent mode, which leads to a sharper (though still not 4K-sharp) looking image."
   },
   {
     "name": "Battlefield 6",
