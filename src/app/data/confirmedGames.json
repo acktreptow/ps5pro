@@ -72,18 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "Carmageddon: RS",
-    "id": "Carmageddon",
-    "genre": "Vehicle Combat, Roguelite",
-    "developer": "34BigThings",
-    "publisher": "34BigThings",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 6, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Elemental War Clash",
     "id": "EWC",
     "genre": "Strategy, Tower Defense",
