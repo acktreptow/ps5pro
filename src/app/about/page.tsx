@@ -139,6 +139,7 @@ const AboutPage = (): JSX.Element => {
           context for people who are interested in your game!
         </p>
         <ul className="mb-12 mx-8 list-disc">
+          <li>34BigThings</li>
           <li>Anima Project</li>
           <li>BlackMill Games</li>
           <li>Free Lives</li>
