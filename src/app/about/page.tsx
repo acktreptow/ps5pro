@@ -152,7 +152,6 @@ const AboutPage = (): JSX.Element => {
           <li>Superkami</li>
           <li>Tower Five</li>
         </ul>
-
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
           Secondary Sources
         </h3>
