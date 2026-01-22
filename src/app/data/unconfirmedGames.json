@@ -264,6 +264,18 @@
     "metacritic": 73
   },
   {
+    "name": "Fable",
+    "id": "Fable",
+    "genre": "Action RPG",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Autumn 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy VII Remake",
     "id": "FF7",
     "genre": "Cinematic Action JRPG",
