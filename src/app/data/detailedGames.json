@@ -2924,14 +2924,14 @@
     "publisher": "Bungie",
     "psStudios": false,
     "psvr2": false,
-    "release": "March 2026",
+    "release": "March 5, 2026",
     "hasShipped": false,
     "metacritic": 0,
     "pssr": true,
     "rt": false,
-    "resolution": "4K PSSR (likely)",
-    "fps": "120fps (likely)",
-    "extraInfo": "So far, the only technical information Bungie has disclosed is that Marathon will utilize PSSR on Pro. However, both 120fps and/or a 4K final render are likely. These educated assumptions are based off Marathon's focus on art style over resource-intensive realism, as well as their previous game (Destiny 2) already achieving these metrics on a base PS5, as the game isn't Pro enhanced."
+    "resolution": "5K to 4K PSSR",
+    "fps": "60fps",
+    "extraInfo": "Marathon's PlayStation Store object confirms that Pro will internally render at native 5K, then use PSSR to downscale to 4K. Considering the very high internal resolution, a 120fps mode should be possible (at the cost of a much softer image like 1440p) although nothing is confirmed. At the very least, the internal 5K resolution should negate any potential PSSR rendering problems seen in games that use sub-1080p internal resolutions and/or UE5's Lumen for various forms of RT (Silent Hill 2 etc)."
   },
   {
     "name": "Marvel Rivals",
