@@ -312,6 +312,18 @@
     "metacritic": 87
   },
   {
+    "name": "Forza Horizon 6",
+    "id": "FH6",
+    "genre": "Driving, Arcade",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "GTA V",
     "id": "GTA 5",
     "genre": "Action-Adventure",
