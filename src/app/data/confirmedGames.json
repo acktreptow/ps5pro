@@ -277,6 +277,18 @@
     "metacritic": 0
   },
   {
+    "name": "OneTry",
+    "id": "OneTry",
+    "genre": "Horror, Action",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 14, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Palworld",
     "id": "Palworld",
     "genre": "Survival, Monster Taming",
