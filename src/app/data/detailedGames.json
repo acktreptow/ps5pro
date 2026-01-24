@@ -724,6 +724,24 @@
     "extraInfo": "Both PS5 consoles cap the framerate at 60fps. On Pro, there's dynamic resolution scaling that ranges from 1080p-4K native before being upscaled to 4K PSSR. With 1080p being the lowest internal resolution value, PSSR is still able to reconstruct an excellent 4K image in the most demanding areas."
   },
   {
+    "name": "BlazBlue Entropy Effect X",
+    "id": "BlazBlue EEX",
+    "urlPath": "blazblue-entropy-effect-x",
+    "genre": "2D Action, Roguelite",
+    "developer": "91Act",
+    "publisher": "91Act & Astrolabe",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "120fps",
+    "extraInfo": "*All tech information is based off the demo and is subject to change for the final release - 'Both Pro and base PS5 run at a stable 120fps (at least in the early stages) and render a very 4K-like image. However, there are some menus where the framerate does drop and it's here where we see a difference between consoles (around 100fps on Pro and 70fps on base PS5). Presumably, this means in later stages where there's more going on, Pro should be able to maintain 120fps more often than base PS5.'"
+  },
+  {
     "name": "Borderlands 4",
     "id": "B4",
     "urlPath": "borderlands-4",
