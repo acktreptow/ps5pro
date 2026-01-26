@@ -2940,7 +2940,7 @@
     "genre": "Extraction FPS",
     "developer": "Bungie",
     "publisher": "Bungie",
-    "psStudios": false,
+    "psStudios": true,
     "psvr2": false,
     "release": "March 5, 2026",
     "hasShipped": false,
