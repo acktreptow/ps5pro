@@ -3624,6 +3624,24 @@
     "extraInfo": "Pro can choose between FSR3, TSR or PSSR for upscaling. All 3 run at a similar fps (give or take 5-10fps) and can be capped at 30/40/60fps. However, while FSR3 and TSR (a bit more stable than FSR3) render a good image, PSSR results in shimmering/flickering, as well as strobing in assets like foliage. Similar to SW Jedi: Survivor when Pro first launched. Fidelity mode renders a 4K-looking image and is 99% locked above the 48fps VRR window. Performance mode has a roughly 20fps increase and even hits 120fps, but the 1080p-like image is much blurrier regardless of upscaler. Finally, OTG is in early access so this tech analysis is likely to change when 1.0 launches."
   },
   {
+    "name": "OneTry",
+    "id": "OneTry",
+    "urlPath": "onetry",
+    "genre": "Horror, Action",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 14, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "*All tech information is based off Quisisana, which was Domynyo's previous game that had a similar genre/scope and therefore provides a good baseline of expectations until OneTry is tested - 'Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal.'"
+  },
+  {
     "name": "Onimusha: WOTS",
     "pageTitle": "Onimusha: Way Of The Sword",
     "id": "Onimusha",
