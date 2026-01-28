@@ -2753,6 +2753,24 @@
     "extraInfo": "Graphical settings (shadows/lighting etc) are the same in both modes. While performance mode can have a slightly lower internal resolution before upscaling to 4K, the game's heavy post-processing results in there being very little difference in image quality/sharpness between the 2 modes. By picking beauty mode, you're essentially just halving your framerate for no graphical benefit - unless you can't stand single frame drops on rare occasion. The same is true for base PS5, which also has the same modes and no significant downgrade in resolution compared to the equivalent mode on Pro."
   },
   {
+    "name": "Lonely Hospital",
+    "id": "Lonely Hospital",
+    "urlPath": "lonely-hospital",
+    "genre": "Horror, Adventure",
+    "developer": "Bul Games",
+    "publisher": "Bul Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 16, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "The biggest difference between Pro and base PS5 is the framerate. While Pro runs at a basically locked 60fps, base PS5 hovers in the low 50s and regularly dips below the 48fps VRR window. Both consoles output a 4K-like image, however both exhibit significant noise/instability in reflections which suggests a low internal resolution. Pro's internal resolution is likely slightly higher as its noise is a bit more stable, but any resolution differences are minimal - the framerate stability is the true game changer."
+  },
+  {
     "name": "Lords Of The Fallen",
     "id": "LoTF",
     "urlPath": "lords-of-the-fallen",
