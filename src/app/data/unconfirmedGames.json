@@ -624,16 +624,16 @@
     "metacritic": 73
   },
   {
-    "name": "MLB The Show 25",
-    "id": "MLB 25",
+    "name": "MLB The Show 26",
+    "id": "MLB 26",
     "genre": "Sports, Baseball",
     "developer": "San Diego Studio",
     "publisher": "Sony Interactive",
     "psStudios": true,
     "psvr2": false,
-    "release": "March 18, 2025",
-    "hasShipped": true,
-    "metacritic": 83
+    "release": "March 17, 2026",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "Madison VR",
