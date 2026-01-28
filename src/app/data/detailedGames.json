@@ -484,6 +484,39 @@
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality, balanced and performance are all the legacy modes from base PS5 (FSR only), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
+    "name": "Avowed",
+    "id": "Avowed",
+    "urlPath": "avowed",
+    "genre": "Fantasy Action RPG",
+    "developer": "Obsidian",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 17, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
+    "resolution": "4K TSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1440p-4K DRS to 4K TSR at a basically locked 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "1440p-1800p DRS to 4K TSR at a basically locked 40fps. Visual quality mainly of performance mode except foliage GI)."
+      },
+      {
+        "name": "performance",
+        "description": "1620p to 4K at a basically locked 60fps. Lower quality graphics settings (check extra info)."
+      }
+    ],
+    "extraInfo": "*All tech info is based off The Outer Worlds 2. However, as both games were developed simultaneously by Obsidian with Unreal Engine 5 and share a similar scope/genre, TOW2 provides a good baseline of expectations until Avowed's release. At which point this page will be updated with bespoke Avowed analysis - 'Obsidian has removed the bad PSSR implementation seen at launch and reverted back to TSR, which results in better performance gains, less noisy RT and a sharper image on Pro. Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to a noticeably softer/less stable image. Base PS5 has slightly worse framerate stability and internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode.'"
+  },
+  {
     "name": "Bad Cheese",
     "id": "Bad Cheese",
     "urlPath": "bad-cheese",

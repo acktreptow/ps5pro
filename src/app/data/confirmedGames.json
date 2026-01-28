@@ -48,18 +48,6 @@
     "metacritic": 0
   },
   {
-    "name": "Avowed",
-    "id": "Avowed",
-    "genre": "Fantasy Action RPG",
-    "developer": "Obsidian",
-    "publisher": "Xbox Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 17, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",
