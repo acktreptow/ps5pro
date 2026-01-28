@@ -265,6 +265,18 @@
     "metacritic": 60
   },
   {
+    "name": "Project Songbird",
+    "id": "Songbird",
+    "genre": "Psychological Horror",
+    "developer": "Fyre Games",
+    "publisher": "Dojo System",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Resonance: Plague Tale",
     "id": "Resonance: APTL",
     "genre": "Action-Adventure, Stealth",
