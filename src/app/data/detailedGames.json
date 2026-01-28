@@ -3722,8 +3722,8 @@
     "pssr": false,
     "rt": false,
     "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "According to the July 2025 patch notes, Pro has a higher resolution than base PS5. Presumably, this means that at the very least, base PS5 can't render at 4K."
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. Pro has a slightly higher resolution which results in a cleaner/more 4K-like image with less shimmer/instability in assets like railings/billboards/tarp etc."
   },
   {
     "name": "Oppidum",
