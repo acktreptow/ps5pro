@@ -128,8 +128,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "January 30, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 72
   },
   {
     "name": "Control Resonant",
