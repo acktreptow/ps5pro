@@ -302,6 +302,35 @@
     "extraInfo": "VitruviusVR recommend Pro's performance mode in the settings menu, likely due to the native motion. Base PS5's resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
   },
   {
+    "name": "Arknights: Endfield",
+    "id": "Arknights",
+    "urlPath": "arknights-endfield",
+    "genre": "F2P Action RPG",
+    "developer": "Hypergryph",
+    "publisher": "Gryphline",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 22, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections and shadows",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K at an unstable 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "4K DRS (likely) at an unstable 60fps (see extra info)."
+      }
+    ],
+    "extraInfo": "Both base PS5 and Pro have the same quality/performance mode options, but in regards to image quality, even the difference between Pro quality mode and base PS5 performance mode is minimal. Image quality looks great with sharp/stable RT regardless of console/mode - at most, base PS5's alpha effects can look a little more pixelated during combat. Framerate is however a different story. Regardless of console/mode, it can dip significantly after the opening section and VRR has been forcibly disabled. Performance mode should therefore be used to hit 60fps as much as possible."
+  },
+  {
     "name": "Arma Reforger",
     "id": "Arma R",
     "urlPath": "arma-reforger",
