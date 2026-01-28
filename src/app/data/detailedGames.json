@@ -5285,7 +5285,7 @@
     "release": "October 29, 2025",
     "hasShipped": true,
     "metacritic": 79,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
     "resolution": "4K TSR",
