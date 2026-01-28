@@ -4201,10 +4201,20 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Ray traced reflections and global illumination",
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there is full RT support, but there won't be pathtracing. They also confirmed 60fps, but not 120fps. While the other 2 Resident Evil games on Pro have an 120fps mode, this will be the first current-gen only Resident Evil for PS5. If Capcom decide to enforce RT as they don't have to worry about PS4/Xbox One, 120fps might not be possible now despite past precedent."
+    "rtTypes": "TBD",
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "ray tracing on",
+        "description": "4K at 60fps with RT."
+      },
+      {
+        "name": "ray tracing off",
+        "description": "4K at up to 120fps (90fps average) with no RT."
+      }
+    ],
+    "extraInfo": "All tech information is based off a Capcom interview prior to launch. Regarding resolution, the interview states '4K output'. It will be interesting to see if this means PSSR is used for possible upscaling as both RE4 and RE8 used it. Regarding RT, RE4 used ray traced reflections while RE8 also used it for global illumination and ambient occlusion. The interview merely mentions 'full ray tracing', so it will be interesting to see exactly what implementations this means when Requiem launches in late Feb."
   },
   {
     "name": "Resident Evil Village",
