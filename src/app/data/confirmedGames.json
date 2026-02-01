@@ -359,5 +359,17 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "WWE 2K26",
+    "id": "WWE 26",
+    "genre": "Sports, Wrestling",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 13, 2026",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
