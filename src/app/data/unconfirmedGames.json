@@ -624,6 +624,18 @@
     "metacritic": 73
   },
   {
+    "name": "Life Is Strange: Reunion",
+    "id": "LiS: R",
+    "genre": "Interactive Drama",
+    "developer": "Deck Nine",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "MLB The Show 26",
     "id": "MLB 26",
     "genre": "Sports, Baseball",
