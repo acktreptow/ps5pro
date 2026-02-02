@@ -840,6 +840,18 @@
     "metacritic": 68
   },
   {
+    "name": "Screamer",
+    "id": "Screamer",
+    "genre": "Racing, Arcade",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sea Of Thieves",
     "id": "SoT",
     "genre": "Action-Adventure, Pirates",
