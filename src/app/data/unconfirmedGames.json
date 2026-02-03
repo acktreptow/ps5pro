@@ -840,6 +840,18 @@
     "metacritic": 72
   },
   {
+    "name": "Romeo Is A Dead Man",
+    "id": "RIADM",
+    "genre": "Action-Adventure",
+    "developer": "Grasshopper",
+    "publisher": "Grasshopper",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 11, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Scarlet Nexus",
     "id": "Scarlet Nexus",
     "genre": "Action JRPG",
