@@ -492,6 +492,18 @@
     "metacritic": 79
   },
   {
+    "name": "Horizon HG",
+    "id": "H: HG",
+    "genre": "Co-Op Action",
+    "developer": "Guerrilla Games",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "ILL",
     "id": "ILL",
     "genre": "Survival Action Horror",
