@@ -1645,6 +1645,24 @@
     "extraInfo": "Pro's resolution during gameplay is slightly higher than base PS5. Pro also renders KO replays at 60fps instead of base PS5's 30fps. However, other cutscenes like ring entrances remain at 30fps on both consoles."
   },
   {
+    "name": "Elemental War Clash",
+    "id": "EWC",
+    "urlPath": "elemental-war-clash",
+    "genre": "Strategy, Tower Defense",
+    "developer": "Clockwork Origins",
+    "publisher": "Clockwork Origins",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K Upscaled (likely)",
+    "fps": "60fps",
+    "extraInfo": "Visually, Pro and base PS5 look very similar - both look 4K-like and have the same amount of foliage density, but suffer from excessive flickering in shadows, shimmering and low-poly textures on tree leaves etc. If there are visual upgrades on Pro, they're very small. Both consoles also run at 60fps, however, Pro is far more stable. This is especially seen on certain, more grassy maps, where there is a night and day difference. Base PS5 is constantly stuttering/falling below the 48fps VRR window, whereas Pro is maintaining 60fps the vast majority of the time regardless of how zoomed in the camera is."
+  },
+  {
     "name": "Empire Of The Ants",
     "id": "EoTA",
     "urlPath": "empire-of-the-ants",
