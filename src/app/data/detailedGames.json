@@ -2071,7 +2071,8 @@
         "description": "Upscaled 4K PSSR/TSR at 60fps. Lower internal resolution (presumably) than balanced mode to go from 40fps to 60fps."
       }
     ],
-    "extraInfo": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler. Based off other UE5 games that also give the choice between PSSR and TSR (like Hellblade 2, Hell Is Us etc), it's likely that TSR upscales a more stable image, but the difference is only slight and neither provide a FPS advantage. Base PS5 has the same modes but at (presumably) worse internal resolutions, though pixel counts aren't currently available."
+    "disclaimer": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler.",
+    "extraInfo": "Based off other UE5 games that also give the choice between PSSR and TSR (like Hellblade 2, Hell Is Us etc), it's likely that TSR upscales a more stable image, but the difference is only slight and neither provide a FPS advantage. Base PS5 has the same modes but at (presumably) worse internal resolutions, though pixel counts aren't currently available."
   },
   {
     "name": "Full Metal Schoolgirl",
