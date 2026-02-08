@@ -1874,7 +1874,8 @@
         "description": "4K at a locked 60fps with enhanced graphical settings like GI/shadows."
       }
     ],
-    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased Fantasy Life, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'Base PS5 has the same 2 modes that also both run at 4K. However, base PS5 standard mode is usually around 75-80fps.'"
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Fantasy Life, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'Base PS5 has the same 2 modes that also both run at 4K. However, base PS5 standard mode is usually around 75-80fps.'"
   },
   {
     "name": "Faraway Train",
