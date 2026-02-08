@@ -926,7 +926,8 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "120fps",
-    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased Carmen Sandiego, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'The only difference between base PS5 and Pro is framerate - base PS5 is 60fps whereas Pro is 120fps.'"
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Carmen Sandiego, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'The only difference between base PS5 and Pro is framerate - base PS5 is 60fps whereas Pro is 120fps.'"
   },
   {
     "name": "Chess Infinity",
