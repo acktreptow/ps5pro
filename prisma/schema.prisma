@@ -43,6 +43,7 @@ model DetailedGame {
   topRes      String
   topFps      String
   modes       Json?
+  disclaimer  String?
   extraInfo   String?
   published   Boolean @default(false)
 }
