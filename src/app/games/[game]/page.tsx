@@ -160,7 +160,7 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
             </h2>
             {game.disclaimer && (
               <p className="text-lg whitespace-pre-line mb-2 italic">
-                <span className="font-semibold">Disclaimer: </span>
+                <span className="font-semibold not-italic">Disclaimer: </span>
                 {game.disclaimer}
               </p>
             )}
