@@ -2927,6 +2927,34 @@
     "extraInfo": "*LOTF II isn't out yet, but the following information from last year's LOTF Pro patch provides a good baseline of what to expect - 'Hexworks states that Pro has a 40% increase in pixels compared to base PS5, resulting in sharper distant details and more refined textures on characters/environments. In practice, this increase can be even larger as base PS5 performance mode is between 648p-1152p DRS and quality mode is 1296p-1620p DRS. Pro also hits its target framerate more often than base PS5 in both modes and is equivalent to the highest PC graphical settings.'"
   },
   {
+    "name": "Lost Islands",
+    "id": "Lost Islands",
+    "urlPath": "lost-islands",
+    "genre": "Survival, Action-Adventure",
+    "developer": "Glitch Studio",
+    "publisher": "Glitch Studio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 8, 2023",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K at a relatively stable 60fps. Much improved visual settings (see extra info)."
+      },
+      {
+        "name": "performance",
+        "description": "Lower internal resolution, but at a basically locked 60fps."
+      }
+    ],
+    "extraInfo": "While quality mode's framerate can dip into the low 50s, overall image quality is far superior with improved shadows/GI and lighting (god rays etc). Performance mode also suffers from excessive noise in trees. Base PS5 has the same modes, with the same visual settings delineations. However, base PS5 quality mode is constantly below 60fps and regularly falls below the 48fps VRR threshold. Both base PS5 modes also have lower resolutions than their Pro counterpart, with its performance mode (which also has a less stable 60fps than Pro performance mode) being so low (sub-720p looking) that it can look like an unoptimized Switch 1 game."
+  },
+  {
     "name": "Lost Soul Aside",
     "id": "LSA",
     "urlPath": "lost-soul-aside",

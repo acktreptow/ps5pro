@@ -144,18 +144,6 @@
     "metacritic": 80
   },
   {
-    "name": "Lost Islands",
-    "id": "Lost Islands",
-    "genre": "Action-Adventure",
-    "developer": "Glitch Studio",
-    "publisher": "Glitch Studio",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 8, 2023",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",
