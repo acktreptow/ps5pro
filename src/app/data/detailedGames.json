@@ -803,7 +803,7 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "120fps",
-    "disclaimer":"All tech information is based off the demo and is subject to change for the final release.",
+    "disclaimer": "All tech information is based off the demo and is subject to change for the final release.",
     "extraInfo": "Both Pro and base PS5 run at a stable 120fps (at least in the early stages) and render a very 4K-like image. However, there are some menus where the framerate does drop and it's here where we see a difference between consoles (around 100fps on Pro and 70fps on base PS5). Presumably, this means in later stages where there's more going on, Pro should be able to maintain 120fps more often than base PS5."
   },
   {
@@ -889,7 +889,8 @@
         "description": "1440p to 4K TAA at a relatively stable 120fps. Graphics settings the same as base PS5's fidelity mode that runs at 60fps."
       }
     ],
-    "extraInfo": "*All tech information on the page is based off Black Ops 6's enhancements as there's been no analsysis done by a trusted secondary source like Digital Foundry at the time of writing. Fortunately, B06 and B07 were developed simultaneously by the same teams. B06 therefore provides a good baseline of expectations, especially as B07's beta shows very similar results - 'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5). Base PS5 120 Hz mode is less stable than Pro's and also runs at a lower, more 1008p-1080p resolution. Base PS5 fidelity mode has a similar resolution, but still looks less stable due to Pro's good PSSR implementation.'"
+    "disclaimer": "All tech information on the page is based off Black Ops 6's enhancements as there's been no analsysis done by a trusted secondary source like Digital Foundry at the time of writing. Fortunately, B06 and B07 were developed simultaneously by the same teams. B06 therefore provides a good baseline of expectations, especially as B07 has the same toggles and shows similar results in general gameplay:",
+    "extraInfo": "'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5). Base PS5 120 Hz mode is less stable than Pro's and also runs at a lower, more 1008p-1080p resolution. Base PS5 fidelity mode has a similar resolution, but still looks less stable due to Pro's good PSSR implementation.'"
   },
   {
     "name": "Carmageddon: Rogue Shift",
