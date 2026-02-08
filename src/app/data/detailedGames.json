@@ -803,7 +803,8 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "120fps",
-    "extraInfo": "*All tech information is based off the demo and is subject to change for the final release - 'Both Pro and base PS5 run at a stable 120fps (at least in the early stages) and render a very 4K-like image. However, there are some menus where the framerate does drop and it's here where we see a difference between consoles (around 100fps on Pro and 70fps on base PS5). Presumably, this means in later stages where there's more going on, Pro should be able to maintain 120fps more often than base PS5.'"
+    "disclaimer":"All tech information is based off the demo and is subject to change for the final release.",
+    "extraInfo": "Both Pro and base PS5 run at a stable 120fps (at least in the early stages) and render a very 4K-like image. However, there are some menus where the framerate does drop and it's here where we see a difference between consoles (around 100fps on Pro and 70fps on base PS5). Presumably, this means in later stages where there's more going on, Pro should be able to maintain 120fps more often than base PS5."
   },
   {
     "name": "Borderlands 4",
