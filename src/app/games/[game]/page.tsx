@@ -134,7 +134,8 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
             {game.topRes}{" "}
           </p>
           <p className="text-lg">
-            <span className="font-semibold">Highest FPS:</span> {game.topFps}{" "}
+            <span className="font-semibold">Highest FPS:</span>{" "}
+            {game.topFps}{" "}
           </p>
         </div>
         {Array.isArray(game.modes) && (
@@ -148,7 +149,7 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
                   <span className="font-semibold capitalize">{mode.name}:</span>{" "}
                   {mode.description}
                 </p>
-              )
+              ),
             )}
           </div>
         )}
@@ -157,7 +158,12 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
             <h2 className="text-3xl text-center font-bold underline my-4 md:text-start">
               Extra Information
             </h2>
-            <p className="text-lg whitespace-pre-line mb-2 italic">{game.disclaimer}</p>
+            {game.disclaimer && (
+              <p className="text-lg whitespace-pre-line mb-2 italic">
+                <span className="font-semibold">Disclaimer: </span>
+                {game.disclaimer}
+              </p>
+            )}
             <p className="text-lg whitespace-pre-line">{game.extraInfo}</p>
           </div>
         )}
