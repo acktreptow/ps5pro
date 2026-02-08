@@ -3031,7 +3031,8 @@
     "rt": false,
     "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "*Madden 26 is the first current-gen only entry. However, its Pro enhancements mirrors Madden 25 (all tech info on the page). Madden 26 still provides a visual upgrade over Madden 25 though due to this year's focus on stadium presentation/authenticity and extreme weather visuals. It's just that these improvements are also on base PS5 - 'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
+    "disclaimer": "Madden 26 is the first current-gen only entry. However, its Pro enhancements mirrors Madden 25 (all tech info on the page). Madden 26 still provides visual upgrades due to this year's focus on stadium presentation/authenticity and extreme weather visuals, it's just that these improvements are also on base PS5:",
+    "extraInfo": "'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
   },
   {
     "name": "Mafia: The Old Country",
