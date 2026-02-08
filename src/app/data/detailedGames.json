@@ -1893,7 +1893,8 @@
     "rt": false,
     "resolution": "4K (likely)",
     "fps": "60fps",
-    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased Faraway Train, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'There's no 120fps support. There's a PC-style settings menu featuring low, medium, high, and highest presets for draw distance, antialiasing quality, shadow quality, internal render resolution, effects quality, and post processing quality. On Pro, this all defaulted to Highest, whereas certain settings are presumably lower on base PS5.'"
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Faraway Train, not from a primary source or established secondary source like Digital Foundry as none exist at the time of writing:",
+    "extraInfo": "'There's no 120fps support. There's a PC-style settings menu featuring low, medium, high, and highest presets for draw distance, antialiasing quality, shadow quality, internal render resolution, effects quality, and post processing quality. On Pro, this all defaulted to Highest, whereas certain settings are presumably lower on base PS5.'"
   },
   {
     "name": "Farming Simulator 25",
