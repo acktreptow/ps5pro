@@ -768,7 +768,8 @@
         "description": "Original performance mode until October 2025. 1296p FSR3 and frame-gen used (30fps internal) to target a still unstable 60ps. Worse shadows/filtering than new performance mode."
       }
     ],
-    "extraInfo": "Base PS5's legacy performance mode is only 1080p and like Pro, also uses frame generation. Due to frame-gen, the quality/balanced modes on both consoles have less input lag and therefore feel more responsive, despite fewer frames. Pro's PSSR offers a far clearer image (albeit a little noisier) than FSR2, which base PS5 uses in its balanced (1296p internal to 1620p) and quality (1440p internal to 4K) modes. Like Pro, Performance mode is also sharper on base PS5 (1080p average DRS to 1440p FSR2) than the legacy mode. However, the new performance mode's lack of Lumen GI can result in poor/flat ps3-quality lighting indoors on both consoles, but outdoor image quality can vary. Base PS5 has worse LODs, AO, and shadow quality across all modes."
+    "extraInfo": "Base PS5's legacy performance mode is only 1080p and like Pro, also uses frame generation. Due to frame-gen, the quality/balanced modes on both consoles have less input lag and therefore feel more responsive, despite fewer frames. Pro's PSSR offers a far clearer image (albeit a little noisier) than FSR2, which base PS5 uses in its balanced (1296p internal to 1620p) and quality (1440p internal to 4K) modes.",
+    "extraInfo2": "Like Pro, Performance mode is also sharper on base PS5 (1080p average DRS to 1440p FSR2) than the legacy mode. However, the new performance mode's lack of Lumen GI can result in poor/flat ps3-quality lighting indoors on both consoles, but outdoor image quality can vary. Base PS5 has worse LODs, AO, and shadow quality across all modes."
   },
   {
     "name": "Blades Of Fire",
