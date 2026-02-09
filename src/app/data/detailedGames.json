@@ -5679,7 +5679,8 @@
         "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS. No RT."
       }
     ],
-    "extraInfo": "*All tech information is based off Kyodai's Truck Driver: The American Dream. The only aspect that's been confirmed is that Pro will use hardware RT, whereas base PS5 is using software RT. - 'All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro.'"
+    "disclaimer": "All tech information is based off Kyodai's Truck Driver: The American Dream. The only aspect that's been confirmed is that Pro will use hardware RT, whereas base PS5 is using software RT.",
+    "extraInfo": "'All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro.'"
   },
   {
     "name": "UFL",
