@@ -5899,9 +5899,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (likely)",
+    "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "*All tech information is based off Hole Digging Master as there's no public information about Weed & Greed's Pro enhancements. However, as both games are by Nostra and have a similar aesthetic/scope, HDM provides a good baseline of what to expect from W&G - 'Both the Pro and base PS5 version are the same for all intents and purposes (the framerate is a locked 60fps on both for example). At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower.'"
+    "extraInfo": "Both base PS5 and Pro run at a locked 60fps and graphical settings like LODs are the same. However, Pro's internal resolution is slightly higher, which leads to less shimmering on assets like railings and fewer sawtooth edges on shadows."
   },
   {
     "name": "Where Winds Meet",
