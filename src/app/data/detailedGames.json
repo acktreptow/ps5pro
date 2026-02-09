@@ -4299,7 +4299,8 @@
         "description": "4K at up to 120fps (90fps average) with no RT."
       }
     ],
-    "extraInfo": "All tech information is based off a Capcom interview prior to launch. Regarding resolution, the interview states '4K output'. It will be interesting to see if this means PSSR is used for possible upscaling as both RE4 and RE8 used it. Regarding RT, RE4 used ray traced reflections while RE8 also used it for global illumination and ambient occlusion. The interview merely mentions 'full ray tracing', so it will be interesting to see exactly what implementations this means when Requiem launches in late Feb."
+    "disclaimer": "All tech information is based off a Capcom interview prior to launch.",
+    "extraInfo": "Regarding resolution, the interview states '4K output'. It will be interesting to see if this means PSSR is used for possible upscaling as both RE4 and RE8 used it. Regarding RT, RE4 used ray traced reflections while RE8 also used it for global illumination and ambient occlusion. The interview merely mentions 'full ray tracing', so it will be interesting to see exactly what implementations this means when Requiem launches in late Feb."
   },
   {
     "name": "Resident Evil Village",
@@ -4403,7 +4404,7 @@
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "1080p to 4K TSR (likely)",
     "fps": "120fps",
-    "disclaimer":"All tech information is based off MotoGP 25 as there's no public information about Ride 6's Pro enhancements. However, as both games are by Milestone, use Unreal Engine 5, and have a similar aesthetic/scope, MotoGP provides a good baseline of what to expect from Ride 6's upcoming February 2026 launch:",
+    "disclaimer": "All tech information is based off MotoGP 25 as there's no public information about Ride 6's Pro enhancements. However, as both games are by Milestone, use Unreal Engine 5, and have a similar aesthetic/scope, MotoGP provides a good baseline of what to expect from Ride 6's upcoming February 2026 launch:",
     "extraInfo": "'During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps.'"
   },
   {
