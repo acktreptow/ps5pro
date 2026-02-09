@@ -1527,7 +1527,8 @@
         "description": "1260p-1512p DRS to 4K at a locked 60fps, or around 65fps (outdoors) and 80fps (indoors) with VRR."
       }
     ],
-    "extraInfo": "The main difference between Pro and base PS5 is resolution. In performance mode, base PS5's DRS is 972p-1080p compared to Pro's DRS floor of 1260p. In quality mode, base PS5 is 1620p-1728p, whereas Pro's floor is 1944p. All modes lock to their framerate target except for quick 1fps dips during cutscene camera changes. However, base PS5 averages around 5-10fps higher than Pro with VRR (likely due to lower DRS). Before launch, Techland said The Beast will take Pro enhancements much further than Dying Light 2. However, it doesn't even have DL2's balanced mode or any of its 3 RT features. Hopefully, these come in a patch - resolution bumps are nice, but it's a far cry from what Techland promised. Unfortunately, their 11 week roadmap only mentions RT for PC which suggests the wait will be even longer for Pro."
+    "extraInfo": "The main difference between Pro and base PS5 is resolution. In performance mode, base PS5's DRS is 972p-1080p compared to Pro's DRS floor of 1260p. In quality mode, base PS5 is 1620p-1728p, whereas Pro's floor is 1944p. All modes lock to their framerate target except for quick 1fps dips during cutscene camera changes. However, base PS5 averages around 5-10fps higher than Pro with VRR (likely due to lower DRS).",
+    "extraInfo2": "Before launch, Techland said The Beast will take Pro enhancements much further than Dying Light 2. However, it doesn't even have DL2's balanced mode or any of its 3 RT features. Hopefully, these come in a patch - resolution bumps are nice, but it's a far cry from what Techland promised. Unfortunately, their 11 week roadmap only mentions RT for PC which suggests the wait will be even longer for Pro."
   },
   {
     "name": "Dynasty Warriors: Origins",
