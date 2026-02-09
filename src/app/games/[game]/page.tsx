@@ -165,6 +165,11 @@ const GamesPage = async ({ params }: { params: { game: string } }) => {
               </p>
             )}
             <p className="text-lg whitespace-pre-line">{game.extraInfo}</p>
+            {game.extraInfo2 && (
+              <p className="text-lg whitespace-pre-line mt-4">
+                {game.extraInfo2}
+              </p>
+            )}
           </div>
         )}
       </div>
