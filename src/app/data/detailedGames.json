@@ -3986,7 +3986,8 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "*Technical information is from anecdotal message board remarks by gamers who purchased Pipistrello, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing - 'Both base PS5 and Pro run at a locked 60fps and upscale 160p assets in a 4K image. Both consoles also have some cutscenes in a creator-intended 24fps. If there are actually any graphical improvements for Pro, the difference is so minor that it's difficult to tell even when comparing base PS5 and Pro side by side. Especially in gameplay due to the retro art style.'"
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Pipistrello, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'Both base PS5 and Pro run at a locked 60fps and upscale 160p assets in a 4K image. Both consoles also have some cutscenes in a creator-intended 24fps. If there are actually any graphical improvements for Pro, the difference is so minor that it's difficult to tell even when comparing base PS5 and Pro side by side. Especially in gameplay due to the retro art style.'"
   },
   {
     "name": "Planet Coaster 2",
