@@ -4403,7 +4403,8 @@
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "1080p to 4K TSR (likely)",
     "fps": "120fps",
-    "extraInfo": "*All tech information is based off MotoGP 25 as there's no public information about Ride 6's Pro enhancements. However, as both games are by Milestone, use Unreal Engine 5, and have a similar aesthetic/scope, MotoGP provides a good baseline of what to expect from Ride 6's upcoming February 2026 launch - 'During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps.'"
+    "disclaimer":"All tech information is based off MotoGP 25 as there's no public information about Ride 6's Pro enhancements. However, as both games are by Milestone, use Unreal Engine 5, and have a similar aesthetic/scope, MotoGP provides a good baseline of what to expect from Ride 6's upcoming February 2026 launch:",
+    "extraInfo": "'During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps.'"
   },
   {
     "name": "Rise Of The Ronin",
