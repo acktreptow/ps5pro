@@ -3442,7 +3442,8 @@
         "description": "1440p at a locked 60fps."
       }
     ],
-    "extraInfo": "Base PS5 has the same modes that target the same resolutions. However, the framerate is less stable (drops to 55fps in base PS5 fidelity mode etc). *All tech information is based off figures taken from various message boards, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing. "
+    "disclaimer": "All tech information is based off figures taken from various message boards, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'Base PS5 has the same modes that target the same resolutions. However, the framerate is less stable (drops to 55fps in base PS5 fidelity mode etc).'"
   },
   {
     "name": "My First Gran Turismo",
