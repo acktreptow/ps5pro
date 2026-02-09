@@ -45,6 +45,7 @@ model DetailedGame {
   modes       Json?
   disclaimer  String?
   extraInfo   String?
+  extraInfo2  String?
   published   Boolean @default(false)
 }
 
