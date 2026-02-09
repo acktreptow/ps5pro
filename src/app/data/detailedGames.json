@@ -6069,7 +6069,8 @@
     "rt": false,
     "resolution": "Upscaled 4K (likely)",
     "fps": "60fps",
-    "extraInfo": "*All tech information is based off of the demo and is subject to change for the final release (although unlikely given analysis is in line with previous IP entries)  - 'Both Pro and base PS5 run at a very stable 60fps. However, Pro renders a noticeably higher, more 4K-like resolution. This is best seen in the first second of DT's gameplay, where railings/window panes/street markings etc are much more stable in the mid-far distance on Pro. Alpha effects during combat are also less pixelated on Pro.'"
+    "disclaimer": "All tech information is based off of the demo and is subject to change for the final release (although unlikely given analysis is in line with previous IP entries):",
+    "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, Pro renders a noticeably higher, more 4K-like resolution. This is best seen in the first second of DT's gameplay, where railings/window panes/street markings etc are much more stable in the mid-far distance on Pro. Alpha effects during combat are also less pixelated on Pro."
   },
   {
     "name": "Zenless Zone Zero",
