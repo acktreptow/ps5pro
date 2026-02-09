@@ -1080,7 +1080,8 @@
         "description": "900p-1242p DRS to 4K TSR at a somewhat unstable 60fps (see extra info)."
       }
     ],
-    "extraInfo": "Pro performance mode dips to 45-57fps with effect-heavy scenes (fire etc) and traversal stutters, but maintains close to 60fps in general gameplay. Base PS5 also has a performance mode (864p-1026p DRS) and quality mode (1080p-1440p DRS) where the only difference between them is resolution (inc volumetrics). Base PS5 quality mode is also a locked 30fps, but its 60fps is more unstable than Pro (by about 10fps) and dips more often in general gameplay (though still close to 60fps most of the time). All info is taken from DF's analysis before Cronos received the Pro Enhanced tag on the PSN Store. However, considering the limited updates and Pro's improvements, it's likely that this tag was just not there at launch and DF's analysis matches Cronos's current performance."
+    "disclaimer": "All info is taken from DF's analysis before Cronos received the Pro Enhanced tag on the PSN Store. However, considering the limited updates and Pro's improvements, it's likely that this tag was just not there at launch and DF's analysis matches Cronos's current performance.",
+    "extraInfo": "Pro performance mode dips to 45-57fps with effect-heavy scenes (fire etc) and traversal stutters, but maintains close to 60fps in general gameplay. Base PS5 also has a performance mode (864p-1026p DRS) and quality mode (1080p-1440p DRS) where the only difference between them is resolution (inc volumetrics). Base PS5 quality mode is also a locked 30fps, but its 60fps is more unstable than Pro (by about 10fps) and dips more often in general gameplay (though still close to 60fps most of the time)."
   },
   {
     "name": "Crystal Of Atlan",
