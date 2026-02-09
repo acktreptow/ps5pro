@@ -1036,7 +1036,8 @@
         "description": "1440p to 4K PSSR/TAA, with no RT, at a very stable 60fps. Or usually around 80-100fps with VRR (depending on upscaler)."
       }
     ],
-    "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 is TAA only. PSSR delivers smoother edges, better hair/vegetation quality, less ghosting, and sharper/smoother motion clarity with less shimmer/pixel crawl. However, PSSR carries a higher compute cost - typically running 5-15 fps lower than TAA when framerates are unlocked. TAA is also sharper/more stable in stills. Both upscalers ensure a locked 30/60fps though and when unlocked, both still run higher than base PS5 (around 70fps in typical gameplay for performance mode and only up to 40fps in graphics mode). Finally, Pro has better SSR (in performance mode) and texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
+    "extraInfo": "While Pro can choose between PSSR and TAA for upscaling, base PS5 is TAA only. PSSR delivers smoother edges, better hair/vegetation quality, less ghosting, and sharper/smoother motion clarity with less shimmer/pixel crawl. However, PSSR carries a higher compute cost - typically running 5-15 fps lower than TAA when framerates are unlocked. TAA is also sharper/more stable in stills.",
+    "extraInfo2": "Both upscalers ensure a locked 30/60fps though and when unlocked, both still run higher than base PS5 (around 70fps in typical gameplay for performance mode and only up to 40fps in graphics mode). Finally, Pro has better SSR (in performance mode) and texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
   },
   {
     "name": "Crimson Desert",
