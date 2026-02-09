@@ -5960,7 +5960,8 @@
         "description": "1440p to 4K PSSR at a locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality (based off Spider-Man 2)."
       }
     ],
-    "extraInfo": "The above information from Spider-Man 2 (Insomniac's most recent game) provides a good baseline of expectations. However, Wolverine should surpass Spider-Man 2 by a wide margin, as it will almost certainly use PSSR 2.0, which is based off the excellent FSR4. Spider-Man was also held back by an open-world originally designed around the PS4. The September 2025 State of Play demo was (likely) running at the 30fps quality mode, which had an internal resolution of 1440p in gameplay and 15120p-1600p in cutscenes, with RT reflections, but not RT shadows. DF themselves say there's a lot of continuity from Spider-Man 2, but already noticeable upgrades in aspects like facial models. We'll hopefully get even more information at the promised info update in spring 2026."
+    "disclaimer": "The above information from Spider-Man 2 (Insomniac's most recent game) provides a good baseline of expectations. However, Wolverine should surpass Spider-Man 2 by a wide margin, as it will almost certainly use PSSR 2.0, which is based off the excellent FSR4. Spider-Man was also held back by an open-world originally designed around the PS4.",
+    "extraInfo": "The September 2025 State of Play demo was (likely) running at the 30fps quality mode, which had an internal resolution of 1440p in gameplay and 15120p-1600p in cutscenes, with RT reflections, but not RT shadows. DF themselves say there's a lot of continuity from Spider-Man 2, but already noticeable upgrades in aspects like facial models. We'll hopefully get even more information at the promised info update in spring 2026."
   },
   {
     "name": "World Of Warships: L",
