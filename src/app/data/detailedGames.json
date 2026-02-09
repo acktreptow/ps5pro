@@ -3751,7 +3751,8 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "*All tech information is based off Quisisana, which was Domynyo's previous game that had a similar genre/scope and therefore provides a good baseline of expectations until OneTry is tested - 'Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal.'"
+    "disclaimer": "All tech information is based off Quisisana, which was Domynyo's previous game that had a similar genre/scope and therefore provides a good baseline of expectations until OneTry is tested:",
+    "extraInfo": "'Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal.'"
   },
   {
     "name": "Onimusha: WOTS",
