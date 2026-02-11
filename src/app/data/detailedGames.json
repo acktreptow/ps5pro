@@ -2386,7 +2386,8 @@
         "description": "720p-1200p DRS (1166p avg) to 4K PSSR/TSR (inc black bars) at a locked 60fps. Similar graphical fidelity as base PS5 quality mode."
       }
     ],
-    "extraInfo": "Base PS5 quality/performance modes average 1432p/989p and max out at 1600p/1080p - all of which are lower than Pro's equivalent mode. Pro also utilizes VRS and upscales to 4K in both modes, whereas base PS5 performance mode targets 1440p, then spatially upscales to 4K. This all creates a sharper image on Pro regardless of mode, especially rock/foliage/distant terrain. And with a more stable 60fps (though base PS5 is still good). PSSR is slightly noisier/blurrier than TSR in stills, but clearer in motion. However, any differences between upscalers are minimal due to heavy post-processing (chromatic aberration/film grain etc). Base PS5 performance mode has worse shadows, fog, and Lumen lighting/GI over its quality mode, but these are improved (sometimes back to quality mode settings) for Pro performance mode."
+    "extraInfo": "Base PS5 quality/performance modes average 1432p/989p and max out at 1600p/1080p - all of which are lower than Pro's equivalent mode. Pro also utilizes VRS and upscales to 4K in both modes, whereas base PS5 performance mode targets 1440p, then spatially upscales to 4K. This all creates a sharper image on Pro regardless of mode, especially rock/foliage/distant terrain. And with a more stable 60fps (though base PS5 is still good).",
+    "extraInfo2": "PSSR is slightly noisier/blurrier than TSR in stills, but clearer in motion. However, any differences between upscalers are minimal due to heavy post-processing (chromatic aberration/film grain etc). Base PS5 performance mode has worse shadows, fog, and Lumen lighting/GI over its quality mode, but these are improved (sometimes back to quality mode settings) for Pro performance mode."
   },
   {
     "name": "Helldivers 2",
