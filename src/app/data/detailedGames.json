@@ -2293,7 +2293,8 @@
     "resolution": "4K Upscaled (likely)",
     "fps": "30fps (likely)",
     "disclaimer": "GTA 6 isn't confirmed to be Pro enhanced yet, but considering its pedigree, it's the one game worth speculating. All info is from DF's analysis of real-time base PS5 gameplay, making it a good baseline of what to expect on Pro.",
-    "extraInfo": "GTA 6's resolution was 1440p. There's diffuse RTGI for direct/indirect lighting and it's more stable compared to software UE5 Lumen that's popular on consoles. There's RT reflections that includes dynamic objects like people, even on rough/opaque surfaces (water etc), but SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) is top-tier. There's no RT shadows, but still looks great with accurate diffuse. The trailer's most impressive aspect is the accurate/natural hair rendering, regardless of hairstyle and even body hair. Finally, even on Pro, a 60fps mode is unlikely, but 40fps could be possible - especially with the delay to November 2026 which gives the Rockstar time to implement FSR4 and/or PSSR2."
+    "extraInfo": "GTA 6's resolution was 1440p. There's diffuse RTGI for direct/indirect lighting and it's more stable compared to software UE5 Lumen that's popular on consoles. There's RT reflections that includes dynamic objects like people, even on rough/opaque surfaces (water etc), but SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) is top-tier. There's no RT shadows, but still looks great with accurate diffuse.",
+    "extraInfo2": "The trailer's most impressive aspect is the accurate/natural hair rendering, regardless of hairstyle and even body hair. Finally, even on Pro, a 60fps mode is unlikely, but 40fps could be possible - especially with the delay to November 2026 which gives the Rockstar time to implement FSR4 and/or PSSR2."
   },
   {
     "name": "Hell Is Us",
