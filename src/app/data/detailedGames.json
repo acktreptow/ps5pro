@@ -2201,7 +2201,8 @@
       }
     ],
     "disclaimer": "All tech info is based off the playtest and is subject to change for the 1.0 launch later in 2026.",
-    "extraInfo": "While favor performance mode has some graphical effects either disabled or simplified, any differences are virtually indistinguishable during gameplay. As both modes also lock to their framerate target 99% of the time, 120fps is the right choice (unless you can't stand very slight reductions in areas like resolution, which is still 4K-like). Finally, base PS5 also has the same modes that mostly lock to the same target framerates. However as a beta, it's likely that Pro enhancements aren't in Goals yet as base PS5 modes look identical to their Pro equivalent. The only consistent difference was base PS5 running at 58fps when aiming corner kicks compared to 60fps on Pro - a difference that's almost certainly due to Pro's extra horsepower."
+    "extraInfo": "While favor performance mode has some graphical effects either disabled or simplified, any differences are virtually indistinguishable during gameplay. As both modes also lock to their framerate target 99% of the time, 120fps is the right choice (unless you can't stand very slight reductions in areas like resolution, which is still 4K-like). Finally, base PS5 also has the same modes that mostly lock to the same target framerates.",
+    "extraInfo2": "However as a beta, it's likely that Pro enhancements aren't in Goals yet as base PS5 modes look identical to their Pro equivalent. The only consistent difference was base PS5 running at 58fps when aiming corner kicks compared to 60fps on Pro - a difference that's almost certainly due to Pro's extra horsepower."
   },
   {
     "name": "God Of War: Ragnarök",
