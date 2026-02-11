@@ -3168,7 +3168,8 @@
     "rt": false,
     "resolution": "Upscaled 4K FSR (likely)",
     "fps": "60fps",
-    "extraInfo": "The biggest difference between Pro and base PS5 is the framerate (at least in the game's early missions as later ones weren't tested). Base PS5 can hit 60fps, but can also hover in the mid 50s and regularly dips below the 48fps VRR window during combat. Pro is a much more stable 60fps and is regularly 4-5fps more in combat, with only rare/quick dips below VRR. Pro's internal resolution is also slightly higher than base PS5, but neither console output a convincing 4K image. For example, they both exhibit soup-like textures in some foliage, shimmering on assets like railings, and image breakup in water effects/shadows etc. The shimmering/image breakup is just less prevalent on Pro, making the framerate stability the real game changer."
+    "extraInfo": "The biggest difference between Pro and base PS5 is the framerate (at least in the game's early missions as later ones weren't tested). Base PS5 can hit 60fps, but can also hover in the mid 50s and regularly dips below the 48fps VRR window during combat. Pro is a much more stable 60fps and is regularly 4-5fps more in combat, with only rare/quick dips below VRR.",
+    "extraInfo2": "Pro's internal resolution is also slightly higher than base PS5, but neither console output a convincing 4K image. For example, they both exhibit soup-like textures in some foliage, shimmering on assets like railings, and image breakup in water effects/shadows etc. The shimmering/image breakup is just less prevalent on Pro, making the framerate stability the real game changer."
   },
   {
     "name": "Metaball",
