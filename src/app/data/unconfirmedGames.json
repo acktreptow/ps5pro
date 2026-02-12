@@ -860,8 +860,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "February 11, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 73
   },
   {
     "name": "Scarlet Nexus",
