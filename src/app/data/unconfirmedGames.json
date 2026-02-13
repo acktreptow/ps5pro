@@ -912,6 +912,18 @@
     "metacritic": 81
   },
   {
+    "name": "Silent Hill: Townfall",
+    "id": "SH: Townfall",
+    "genre": "Survival Horror",
+    "developer": "Annapurna & SBI",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Skate",
     "id": "Skate",
     "genre": "Sports, Skateboarding",
