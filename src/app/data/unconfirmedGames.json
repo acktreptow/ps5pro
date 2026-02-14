@@ -108,6 +108,18 @@
     "metacritic": 70
   },
   {
+    "name": "Beast Of Reincarnation",
+    "id": "BoI",
+    "genre": "Action RPG",
+    "developer": "Game Freak",
+    "publisher": "Fictions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 4, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
