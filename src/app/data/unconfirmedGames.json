@@ -552,6 +552,18 @@
     "metacritic": 0
   },
   {
+    "name": "John Wick",
+    "id": "John Wick",
+    "genre": "Gun-Fu Action",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Judas",
     "id": "Judas",
     "genre": "Action-Adventure, FPS",
