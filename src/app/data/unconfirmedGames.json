@@ -588,6 +588,18 @@
     "metacritic": 81
   },
   {
+    "name": "Kena: Scars of Kosmora",
+    "id": "Kena 2",
+    "genre": "Action-Adventure",
+    "developer": "Ember Lab",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Kunitsu-Gami: POTG",
     "id": "Kunitsu-Gami",
     "genre": "Action, Strategy",
