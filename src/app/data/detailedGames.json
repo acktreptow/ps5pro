@@ -4069,12 +4069,13 @@
     "release": "April 24, 2026",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections and global illumination",
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Based on the demo at Gamescom, DF have confirmed that there's full RT support. DF also confirmed 60fps, and while there were some minor dips (still within VRR window) during cutscenes, these will likely be ironed out for the final release. It's unlikely that there will be an 120fps mode as the very reflective sterile space station aesthetic requires RT reflections to look good. RE engine is also notoriously poor with what would've been the RT fallback in SSR (screen space reflections)."
+    "resolution": "1080p to 4K PSSR",
+    "fps": "60fps",
+    "disclaimer": "All tech information is based off the demo and could change for the final release in April.",
+    "extraInfo": "Pro has a singular mode than runs at a locked 60fps with RTGI and reflections. While the internal resolution is around 1080p, Pro's excellent PSSR implementation results in sharper image than both base PS5 modes despite similar internal resolutions. Base PS5 has an RT and non-RT mode that target 60fps. With RT, base PS5 struggles to maintain 60fps and hovers in the mid 50s during fights. Without RT, base PS5 locks to 60fps. But while lighting is worse, reflections are even more of a downgrade as its reversion to screen space reflections is something the RE engine is notoriously poor at."
   },
   {
     "name": "PUBG: Battlegrounds",
