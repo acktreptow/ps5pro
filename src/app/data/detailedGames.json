@@ -3596,11 +3596,22 @@
     "release": "February 6, 2026",
     "hasShipped": true,
     "metacritic": 86,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "When Nioh 1 & 2 came to PS5, they had a 4K/60fps mode, a 1080p DRS/60fps mode (with higher graphical settings like shadows) and a reduced fidelity 120fps mode. However, Nioh 3's June 2025 demo didn't support 120fps on either Pro or base PS5. Additionally, Nioh 3 was unable to maintain a stable 60fps or a consistent 1080p+ resolution in either its prioritize framerate or prioritize graphics modes on both consoles, though the Pro performed better on average. That said, this was just a demo, so these issues will likely improve by Nioh 3's launch. Unfortunately, given Nioh 3's current-gen only, and now open-world design, hitting 120fps may not be feasible without unacceptable resolution tradeoffs. Hopefully, this also changes with improved optimization before the February 6, 2026 release."
+    "resolution": "1440p to 4K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "prioritize resolution",
+        "description": "1440p to 4K PSSR at an unevenly paced 30fps. Higher screen space reflections and draw distance quality preset than fps mode."
+      },
+      {
+        "name": "prioritize FPS",
+        "description": "792p-1296p DRS to 4K PSSR at a mostly stable 60fps (quick dips to mid 50s when lots of effects are onscreen)."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same 2 modes with similar framerate performance, but uses FSR to upscale to 4K. FSR results in less shimmer/break up in SSR and is sharper in stills despite lower internal resolutions (1152p in resolution mode and 720p-1152p DRS in fps mode). However, on the whole, Pro's PSSR implementation is superior due to its much improved motion clarity, lack of ghosting trails, and overall much better resolve (less flickering/instability in foliage/hair etc).",
+    "extraInfo2": "Regardless of mode/console, Nioh 3 suffers from pop-in of objects/shadows and cutscenes run at an unevenly paced 30fps. Finally, there's no RT mode that was present in Team Ninja's last game - Rise of the Ronin."
   },
   {
     "name": "Ninja Gaiden 2 Black",
