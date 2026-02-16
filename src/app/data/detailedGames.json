@@ -2437,6 +2437,26 @@
     "extraInfo": "Pro is a locked 60fps at 4K native, compared to the 1800p mostly stable 60fps on base PS5. Essentially, putting Pro on par with the Series X version."
   },
   {
+    "name": "High On Life 2",
+    "id": "HoL 2",
+    "urlPath": "high-on-life-2",
+    "genre": "FPS, Adventure",
+    "developer": "Squanch Games",
+    "publisher": "Squanch Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 13, 2026",
+    "hasShipped": false,
+    "metacritic": 71,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen software-based global illumination/reflections",
+    "resolution": "792p to 4K TSR/PSSR",
+    "fps": "60fps",
+    "extraInfo": "Pro has DRS (usually around 792p) before upscaling to 4K via TSR or PSSR. While TSR has more aliasing/shimmering on edges, PSSR has more overall instability/noise and is softer. PSSR also has noticeably more flickering/fizzle in lighting, which makes sense as TSR is UE5's default upscaler that's been developed to work well with Lumen. Pro's framerate maintains 60fps most of the time in smaller areas, but can dip into the mid 50s in cities.",
+    "extraInfo2": "Base PS5 also uses DRS, but is usually around 720p before upscaling to 4K via TSR only. It also has a less stable 60fps which can drop under the VRR window, with traversal stutters, in cities/larger fights. Finally, both consoles use screen space contact shadows in conjunction with UE5's virtual shadow maps. This can be distracting when a close shadow is occluded from screen space."
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "urlPath": "highway-drifter-hajwala",
