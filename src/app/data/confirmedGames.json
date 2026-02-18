@@ -253,18 +253,6 @@
     "metacritic": 0
   },
   {
-    "name": "Titan Isles",
-    "id": "Titan Isles",
-    "genre": "VR Action-Adventure, FPS",
-    "developer": "Psytec Games",
-    "publisher": "Psytec Games",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Tokyo Xtreme Racer",
     "id": "TXR",
     "genre": "Racing, Arcade",

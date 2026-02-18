@@ -5614,6 +5614,24 @@
     "extraInfo": "Despite releasing in 2026, EGG has confirmed a surprising amount about the Pro version via the PlayStation Blog. There will be a Pro exclusive 'enhanced mode' that utilizes PSSR to achieve all the expected Pro upgrades. This includes a higher resolution, RT, and improved image fidelity, all at 60fps. The most recent February 2025 trailer suggests an internal resolution of 576p-1080p DRS (1080p is far more often) and there's drops to around 35fps, but ToA's launch is around a year away leaving plenty of time for optimization. Using Pro footage for trailers so far from release does inspire confidence that it will get the optimization needed for a great 'enhanced mode'."
   },
   {
+    "name": "Titan Isles",
+    "id": "Titan Isles",
+    "urlPath": "titan-isles",
+    "genre": "VR Action-Adventure, FPS",
+    "developer": "Psytec Games",
+    "publisher": "Psytec Games",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "February 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "120fps native",
+    "extraInfo": "While base PS5 and Pro utilize native resolution, Pro runs at a native 120fps, whereas base PS5 is only a native 90fps."
+  },
+  {
     "name": "Tony Hawk's Pro Skater 3/4",
     "pageTitle": "Tony Hawk's Pro Skater 3 + 4",
     "id": "THPS 3 + 4",
