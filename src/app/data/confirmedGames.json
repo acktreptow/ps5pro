@@ -32,7 +32,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "February 19, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0
   },
   {
@@ -202,7 +202,7 @@
     "psvr2": false,
     "release": "November 25, 2025",
     "hasShipped": true,
-    "metacritic": 60
+    "metacritic": 58
   },
   {
     "name": "Project Songbird",
