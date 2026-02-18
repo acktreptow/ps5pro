@@ -523,28 +523,27 @@
     "psvr2": false,
     "release": "February 17, 2026",
     "hasShipped": true,
-    "metacritic": 0,
+    "metacritic": 81,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 software-based Lumen reflections and global illumination",
-    "resolution": "4K TSR",
-    "fps": "60fps",
+    "rtTypes": "Unreal Engine 5 hardware-based Lumen reflections",
+    "resolution": "1440p to 4K FSR2",
+    "fps": "60+fps with VRR",
     "modes": [
       {
         "name": "quality",
-        "description": "1440p-4K DRS to 4K TSR at a basically locked 30fps."
+        "description": "1440p to 4K FSR2 at an unevenly paced 30fps with HW-based Lumen reflections."
       },
       {
         "name": "balanced",
-        "description": "1440p-1800p DRS to 4K TSR at a basically locked 40fps. Visual quality mainly of performance mode except foliage GI)."
+        "description": "1080p (likely) to 4K FSR2 at a locked 40fps with HW-based Lumen reflections."
       },
       {
         "name": "performance",
-        "description": "1620p to 4K at a basically locked 60fps. Lower quality graphics settings (check extra info)."
+        "description": "1080p to 4K FSR2 at a basically locked 60fps without HW-based Lumen reflections."
       }
     ],
-    "disclaimer": "All tech info is based off The Outer Worlds 2. However, as both games were developed simultaneously by Obsidian with Unreal Engine 5 and share a similar scope/genre, TOW2 provides a good baseline of expectations until Avowed's release. At which point this page will be updated with bespoke Avowed analysis.",
-    "extraInfo": "Obsidian has removed the bad PSSR implementation seen at launch and reverted back to TSR, which results in better performance gains, less noisy RT and a sharper image on Pro. Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to a noticeably softer/less stable image. Base PS5 has slightly worse framerate stability and internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode."
+    "extraInfo": "Base PS5 has the same 3 modes with the same framerate targets and HW Lumen implementation, but with lower internal resolutions (1224p-1404p DRS quality mode, 936p-1080p DRS performance mode etc). Base PS5 performance mode also has worse shadows in a couple of areas like the main city, along with a more unstable 60fps (dips to mid 50s). Its quality mode also has more significant frame pacing issues than Pro quality mode."
   },
   {
     "name": "Bad Cheese",
