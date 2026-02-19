@@ -180,6 +180,18 @@
     "metacritic": 0
   },
   {
+    "name": "Operation Candy Land",
+    "id": "Candy Land",
+    "genre": "Action, Strategy",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Palworld",
     "id": "Palworld",
     "genre": "Survival, Monster Taming",
