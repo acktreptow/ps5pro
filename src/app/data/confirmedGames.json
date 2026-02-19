@@ -132,6 +132,18 @@
     "metacritic": 80
   },
   {
+    "name": "Marvel Tōkon: Fighting S",
+    "id": "Marvel Tōkon",
+    "genre": "2D Fighter",
+    "developer": "Arc System Works",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "August 6, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",
@@ -143,7 +155,6 @@
     "hasShipped": false,
     "metacritic": 0
   },
-
   {
     "name": "Neverness To Everness",
     "id": "NTE",
