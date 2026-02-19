@@ -384,6 +384,18 @@
     "metacritic": 75
   },
   {
+    "name": "God Of War Trilogy",
+    "id": "GoW Trilogy",
+    "genre": "Action-Adventure",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Gotham Knights",
     "id": "GK",
     "genre": "Action RPG, Co-Op",
