@@ -828,18 +828,6 @@
     "metacritic": 76
   },
   {
-    "name": "Reanimal",
-    "id": "Reanimal",
-    "genre": "Puzzle, Horror, Adventure",
-    "developer": "Tarsier Studios",
-    "publisher": "THQ Nordic",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 13, 2026",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "Red Matter 2",
     "id": "RM 2",
     "genre": "VR Adventure, Puzzle",
