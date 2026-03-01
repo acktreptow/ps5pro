@@ -264,6 +264,18 @@
     "metacritic": 0
   },
   {
+    "name": "Screamer",
+    "id": "Screamer",
+    "genre": "Racing, Arcade",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat'em Up",
