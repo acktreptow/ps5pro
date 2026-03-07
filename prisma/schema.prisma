@@ -37,6 +37,7 @@ model DetailedGame {
   release     String
   hasShipped  Boolean
   metacritic  Int
+  notEnhanced Boolean?
   pssr        Boolean @default(false)
   rt          Boolean @default(false)
   rtTypes     String?
