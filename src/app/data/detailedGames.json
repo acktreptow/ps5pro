@@ -5601,6 +5601,7 @@
     "release": "August 20, 2025",
     "hasShipped": true,
     "metacritic": 81,
+    "notEnhanced": true,
     "pssr": false,
     "rt": false,
     "resolution": "4K (likely)",
