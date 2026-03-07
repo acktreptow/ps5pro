@@ -1763,6 +1763,7 @@
     "release": "August 15, 2023",
     "hasShipped": true,
     "metacritic": 80,
+    "notEnhanced": true,
     "pssr": false,
     "rt": false,
     "resolution": "4K",
