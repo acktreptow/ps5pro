@@ -4328,7 +4328,7 @@
     "name": "Resident Evil Requiem",
     "id": "RE9",
     "urlPath": "resident-evil-requiem",
-    "genre": "Survival Horror",
+    "genre": "Survival Action Horror",
     "developer": "Capcom",
     "publisher": "Capcom",
     "psStudios": false,
@@ -4336,23 +4336,22 @@
     "release": "February 27, 2026",
     "hasShipped": true,
     "metacritic": 89,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
-    "rtTypes": "TBD",
-    "resolution": "4K",
+    "rtTypes": "Ray traced global illumination and reflections",
+    "resolution": "1116p to 4K PSSR2",
     "fps": "120fps",
     "modes": [
       {
         "name": "ray tracing on",
-        "description": "4K at 60fps with RT."
+        "description": "1116p to 4K PSSR2 at a basically locked 60fps (rare, minor 1-5fps dips that are short-lived) with all RT."
       },
       {
         "name": "ray tracing off",
-        "description": "4K at up to 120fps (90fps average) with no RT."
+        "description": "1116p to 4K FSR1 at up to 120fps (lows of 90fps) with no RT."
       }
     ],
-    "disclaimer": "All tech information is based off a Capcom interview prior to launch.",
-    "extraInfo": "Regarding resolution, the interview states '4K output'. It will be interesting to see if this means PSSR is used for possible upscaling as both RE4 and RE8 used it. Regarding RT, RE4 used ray traced reflections while RE8 also used it for global illumination and ambient occlusion. The interview merely mentions 'full ray tracing', so it will be interesting to see exactly what implementations this means when Requiem launches in late Feb."
+    "extraInfo": "Base PS5 only has 1 mode - it's Pro's no RT/120fps mode, but capped at 60fps. While all modes have the same 1116p internal resolution, PSSR2's upscaling in Pro's RT mode resolves a significantly sharper and more stable 4K-looking image. The FSR1 spacial upscaling in the other modes looks significantly more aliased in areas like hair, with more shimmering in assets likes railings. Pro's RT mode also creates a far more realistic/natural looking image with more accurate shading due to RTGI, and although RT reflections can be somewhat noisy, its positives (more immersive horror sections etc) outweigh any drawbacks."
   },
   {
     "name": "Resident Evil Village",
