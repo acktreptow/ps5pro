@@ -3452,6 +3452,26 @@
     "extraInfo": "During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps."
   },
   {
+    "name": "MotoGP 26",
+    "id": "Moto 26",
+    "urlPath": "moto-gp-26",
+    "genre": "Sports, Bike Road Racing",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 29, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "1080p to 4K TSR (likely)",
+    "fps": "120fps",
+    "disclaimer": "All tech information is based off MotoGP 25 as there's no public information about MotoGP 26's Pro enhancements. However, as an annualized sports IP that's already made the move to UE5, the previous entry provides a good baseline of what to expect until the newest entry can be tested once it releases.",
+    "extraInfo": "During gameplay, Pro runs runs between 80-120fps regardless of track/weather effects, but is usually between 90-110fps. The actual rider/track are 4K-like, but background assets such as trees/railings/stands look soft and do shimmer. This suggest a relatively low internal resolution before outputting to 4K, which makes sense considering the high framerate target. Base PS5 looks slightly blurrier and only runs between 65-80fps, with rare ceilings of 95fps, but at least doesn't fall below 60fps."
+  },
+  {
     "name": "My Time At Sandrock",
     "id": "MTaS",
     "urlPath": "my-time-at-sandrock",
