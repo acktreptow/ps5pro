@@ -4351,7 +4351,8 @@
         "description": "1116p to 4K FSR1 at up to 120fps (lows of 90fps) with no RT."
       }
     ],
-    "extraInfo": "Base PS5 only has 1 mode - it's Pro's no RT/120fps mode, but capped at 60fps. While all modes have the same 1116p internal resolution, PSSR2's upscaling in Pro's RT mode resolves a significantly sharper and more stable 4K-looking image. The FSR1 spacial upscaling in the other modes looks significantly more aliased in areas like hair, with more shimmering in assets likes railings. Pro's RT mode also creates a far more realistic/natural looking image with more accurate shading due to RTGI, and although RT reflections can be somewhat noisy, its positives (more immersive horror sections etc) outweigh any drawbacks."
+    "extraInfo": "Base PS5 only has 1 mode - it's Pro's no RT/120fps mode, but capped at 60fps. While all modes have the same 1116p internal resolution, PSSR2's upscaling in Pro's RT mode resolves a significantly sharper and more stable 4K-looking image. The FSR1 spacial upscaling in the other modes looks significantly more aliased in areas like hair, with more shimmering in assets likes railings. Pro's RT mode also creates a far more realistic/natural looking image with more accurate shading due to RTGI, and although RT reflections can be somewhat noisy, its positives (more immersive horror sections etc) outweigh any drawbacks.",
+    "extraInfo2": "RE9 is the first game to implement PSSR2 and fortunately, it compares favorably to other AI upscalers available in the PC version. PSSR2 trades blows with FSR4 (FSR4 is less aliased, but can look softer in some scenes and suffers from ghosting) and is only a bit worse than DLSS 4.5. This bodes well for the future utility of PSSR2."
   },
   {
     "name": "Resident Evil Village",
