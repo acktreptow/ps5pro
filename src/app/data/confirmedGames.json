@@ -48,6 +48,18 @@
     "metacritic": 0
   },
   {
+    "name": "E Baseball: Pro Spirit",
+    "id": "Baseball Pro Spirit",
+    "genre": "Sports, Baseball",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 4, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
