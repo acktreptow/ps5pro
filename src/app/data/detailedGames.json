@@ -154,6 +154,7 @@
     "release": "July 1, 2025",
     "hasShipped": true,
     "metacritic": 76,
+    "notEnhanced": true,
     "pssr": false,
     "rt": false,
     "resolution": "1080p",
