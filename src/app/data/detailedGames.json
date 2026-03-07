@@ -4273,6 +4273,7 @@
     "release": "July 15, 2025",
     "hasShipped": true,
     "metacritic": 80,
+    "notEnhanced": true,
     "pssr": true,
     "rt": false,
     "resolution": "1552p to 4K",
