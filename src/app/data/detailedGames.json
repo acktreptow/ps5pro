@@ -3144,7 +3144,7 @@
     "rt": false,
     "resolution": "5K to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Marathon's PlayStation Store object confirms that Pro will internally render at native 5K, then use PSSR to downscale to 4K. Considering the very high internal resolution, a 120fps mode should be possible (at the cost of a much softer image like 1440p) although nothing is confirmed. At the very least, the internal 5K resolution should negate any potential PSSR rendering problems seen in games that use sub-1080p internal resolutions and/or UE5's Lumen for various forms of RT (Silent Hill 2 etc)."
+    "extraInfo": "Pro has improved ambient occlusion and higher resolution reflections compared to base PS5. While Pro can also use CMAA and FSR for resolution scaling, PSSR resolves the sharpest/most stable image. PSSR also provides the most stable 60fps, although there's only ever short-lived 1-5fps drops regardless of upscaler used. Base PS5 can use either CMAA or FSR with similar image stability/framerate results."
   },
   {
     "name": "Marvel Rivals",
