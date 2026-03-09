@@ -4209,6 +4209,7 @@
     "release": "November 3, 2023",
     "hasShipped": true,
     "metacritic": 40,
+    "notEnhanced": true,
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced reflections, global illumination and shadows (base PS5)",
