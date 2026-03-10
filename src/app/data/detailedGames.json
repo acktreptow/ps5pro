@@ -4626,6 +4626,7 @@
     "release": "November 11, 2025",
     "hasShipped": true,
     "metacritic": 60,
+    "notEnhanced": true,
     "pssr": false,
     "rt": false,
     "resolution": "4K",
