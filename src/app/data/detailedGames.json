@@ -5917,6 +5917,7 @@
     "release": "April 3, 2025",
     "hasShipped": true,
     "metacritic": 85,
+    "notEnhanced": true,
     "pssr": false,
     "rt": false,
     "resolution": "2000 x 2040 per eye (likely)",
