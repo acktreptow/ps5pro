@@ -204,18 +204,6 @@
     "metacritic": 58
   },
   {
-    "name": "Project Songbird",
-    "id": "Songbird",
-    "genre": "Psychological Horror",
-    "developer": "Fyre Games",
-    "publisher": "Dojo System",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 26, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Reanimal",
     "id": "Reanimal",
     "genre": "Puzzle, Horror, Adventure",

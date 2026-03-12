@@ -24,6 +24,18 @@
     "metacritic": 0
   },
   {
+    "name": "Project Songbird",
+    "id": "Songbird",
+    "genre": "Psychological Horror",
+    "developer": "Fyre Games",
+    "publisher": "Dojo System",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Here",
     "id": "The Here",
     "genre": "Survival Horror",
