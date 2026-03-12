@@ -5728,6 +5728,35 @@
     "extraInfo": "Pro now runs cutscenes/replays at 60fps instead of the 30fps on base PS5. This is the only upgrade as there's no resolution/gameplay differences between Pro and base PS5 (4K/60fps on both)."
   },
   {
+    "name": "Toxic Commando",
+    "pageTitle": "John Carpenter's Toxic Commando",
+    "id": "Toxic Commando",
+    "urlPath": "john-carpenters-toxic-commando",
+    "genre": "Co-Op FPS",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 12, 2026",
+    "hasShipped": true,
+    "metacritic": 74,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1662p to 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "1080p-1662p DRS to 4K at a basically locked 30fps. Improved shadows, textures, LoDs, and post-processing effects."
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1440p DRS to 4K at a very stable 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode's framerate has rare, short-lived 1-2fps dips. Performance mode still maintains 60fps most of the time, but can dip more often in heavy scenes and to as low as 50fps (which is still within VRR). Base PS5 has the same 2 modes, with similar framerate performance and higher graphics presets in quality mode. However, the internal res is lower (common 1080p in quality mode and 720p-1080p DRS in performance mode) resulting in a noticeably softer image compared to the same mode on Pro."
+  },
+  {
     "name": "Truck Driver: TAD",
     "pageTitle": "Truck Driver: The American Dream",
     "id": "TD: TAD",
