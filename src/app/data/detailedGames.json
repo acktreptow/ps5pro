@@ -3198,7 +3198,7 @@
     "metacritic": 83,
     "pssr": true,
     "rt": false,
-    "resolution": "5K to 4K PSSR",
+    "resolution": "4K PSSR",
     "fps": "60fps",
     "extraInfo": "Pro has improved ambient occlusion and higher resolution reflections compared to base PS5. While Pro can also use CMAA and FSR for resolution scaling, PSSR resolves the sharpest/most stable image. PSSR also provides the most stable 60fps, although there's only ever short-lived 1-5fps drops regardless of upscaler used. Base PS5 can use either CMAA or FSR with similar image stability/framerate results."
   },
