@@ -4916,6 +4916,25 @@
     "extraInfo": "Both PS5 consoles have dynamic resolution scaling, but Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p often when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution gaps are less noticeable than in other games because there's so much shimmer regardless. Pro's 60fps is locked aside from some effect-heavy explosions. This is more stable than base PS5, which can drop to low 50s in general gameplay."
   },
   {
+    "name": "South Of Midnight",
+    "id": "SoM",
+    "urlPath": "south-of-midnight",
+    "genre": "Action-Adventure",
+    "developer": "Compulsion Games",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 31, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K TAAU",
+    "fps": "60fps",
+    "disclaimer": "All tech info is taken from the Xbox Series X version, which provides a good baseline of what to expect on base PS5. From there, we can make educated speculations of what Pro enhancements could be implemented, before we know for sure when SoM launches in March 2026.",
+    "extraInfo": "The DRS floor on Series X could be as low as 1080p and it suffered frame drops in specific effect-heavy scenarios. It's therefore likely that instead of an 120fps mode, Pro will instead increase the internal resolution floor (perhaps in conjunction with PSSR instead of TAAU) and ensure a more stable 60fps. Improved shadows is also possible, as this was the graphics setting where the PC version showed the biggest upgrade over Series X. Finally, cutscenes will likely remain 30fps as a stylistic choice."
+  },
+  {
     "name": "Spider-Man 1 Remastered",
     "pageTitle": "Spider-Man",
     "id": "Spider-Man",
