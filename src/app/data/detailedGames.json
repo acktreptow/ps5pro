@@ -4178,6 +4178,26 @@
     "extraInfo": "Pro has a singular mode than runs at a locked 60fps with RTGI and reflections. While the internal resolution is around 1080p, Pro's excellent PSSR implementation results in sharper image than both base PS5 modes despite similar internal resolutions. Base PS5 has an RT and non-RT mode that target 60fps. With RT, base PS5 struggles to maintain 60fps and hovers in the mid 50s during fights. Without RT, base PS5 locks to 60fps. But while lighting is worse, reflections are even more of a downgrade as its reversion to screen space reflections is something the RE engine is notoriously poor at."
   },
   {
+    "name": "Pro Baseball Spirits 24-25",
+    "pageTitle": "Professional Baseball Spirits 2024-2025",
+    "id": "Pro Baseball Spirits 24-25",
+    "urlPath": "professional-baseball-spirits-2024-2025",
+    "genre": "Sports, Baseball",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 16, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "disclaimer": "All tech info is taken from eBaseball: Pro Spirit as no analysis is available for the 2024-2025 edition at the time of writing. However, as a F2P version of the same IP, eBaseball provides an excellent baseline of what to expect from this older entry in the Konami series.",
+    "extraInfo": "While both base PS5 and Pro run at a locked 60fps, base PS5 renders at a lower internal resolution which results in a softer image. There's also more aliasing/shimmering/image breakup that's particularly noticeable in close-up shots of athletes (beards etc) and wide shots of stadiums (railings)."
+  },
+  {
     "name": "PUBG: Battlegrounds",
     "id": "PUBG",
     "urlPath": "pubg-battlegrounds",
