@@ -22,5 +22,17 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "The Here",
+    "id": "The Here",
+    "genre": "Survival Horror",
+    "developer": "Noir Interactive Studios",
+    "publisher": "Noir Interactive Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
