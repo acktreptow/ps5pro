@@ -1,5 +1,17 @@
 [
   {
+    "name": "A Lovely Way To Burn",
+    "id": "ALWTB",
+    "genre": "Action RPG",
+    "developer": "Noir Interactive Studios",
+    "publisher": "Noir Interactive Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",

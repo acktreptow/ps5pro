@@ -1,17 +1,5 @@
 [
   {
-    "name": "A Lovely Way To Burn",
-    "id": "ALWTB",
-    "genre": "Action RPG",
-    "developer": "Noir Interactive Studios",
-    "publisher": "Noir Interactive Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Amer: Chase Hit & Run",
     "id": "Amer Hit and Run",
     "genre": "Driving, Boxing",
