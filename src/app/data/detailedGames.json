@@ -161,6 +161,25 @@
     "extraInfo": "Both Pro and base PS5 run at a locked 60fps. While both consoles also suffer from aliasing/shimmering alongside many assets with straight edges, these issues are worse on base PS5 (which also looks softer) due to its slightly lower internal resolution."
   },
   {
+    "name": "Amer: The Chase Hit & Run",
+    "pageTitle": "Amer: The Chase Hit and Run",
+    "id": "Amer Hit and Run",
+    "urlPath": "amer-the-chase-hit-and-run",
+    "genre": "Driving, Boxing",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 19, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both base and Pro also render a very 4K-like image (Pro could be slightly higher) with shimmering/aliasing only being particularly noticeable on traffic lights."
+  },
+  {
     "name": "Anger Foot",
     "id": "Anger Foot",
     "urlPath": "anger-foot",
