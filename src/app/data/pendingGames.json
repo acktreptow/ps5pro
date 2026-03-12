@@ -46,5 +46,17 @@
     "release": "2027",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Ultra Kingdoms",
+    "id": "Ultra Kingdoms",
+    "genre": "Metaverse MMORPG",
+    "developer": "Cyber Ape Yacht Club",
+    "publisher": "Eight Galaxies",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
