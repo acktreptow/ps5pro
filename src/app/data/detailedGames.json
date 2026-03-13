@@ -266,14 +266,14 @@
     "modes": [
       {
         "name": "balanced",
-        "description": "Targets 4K at 60fps with high visual quality. In practice, the fidelity/quality mode."
+        "description": "4K at a locked 60fps with high visual quality. In practice, the fidelity/quality mode."
       },
       {
         "name": "performance",
-        "description": "Targets 1440p at 120fps with reduced visual quality."
+        "description": "1440p at a stable 120fps with reduced visual quality."
       }
     ],
-    "extraInfo": "Pro's 2 modes are also on base PS5, but Pro hits the target framerate/resolution more often than their base PS5 equivalents, resulting in a far sharper/more fluid experience (especially in performance mode). Interestingly, Apex Legends doesn't follow the standard naming convention as there's no fidelity/graphics mode that would have been the 30fps mode in this case."
+    "extraInfo": "Base PS5 has the same 2 modes that target the same framerates, but at lower resolutions (dynamic 4K for balanced and 1080p for performance). Base PS5 performance mode also has a less stable 120fps, with more frequent drops to around 100fps. Interestingly, Apex Legends doesn't follow the standard naming convention as there's no fidelity/graphics/30fps mode on either console."
   },
   {
     "name": "Arc Raiders",
