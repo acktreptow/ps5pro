@@ -1089,11 +1089,26 @@
     "release": "March 19, 2026",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "extraInfo": "Pearl Abyss have confirmed to me that Pro enhancements won't be discussed until next year. However, when looking at the officially released Pro gameplay of Crimson Desert, both a 4K output and 60fps seem very likely. A 30fps mode with improved graphical settings (better open-world LODs etc) would also be a great option for people who don't mind 30fps in third-person titles."
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "TBD",
+    "resolution": "4K",
+    "fps": "60+fps with VRR",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K at 30fps with RT quality set to Ultra."
+      },
+      {
+        "name": "balanced",
+        "description": "1440p to 4K PSSR2 at 40fps, or 48fps+ with VRR. RT quality set to High."
+      },
+      {
+        "name": "performance",
+        "description": "1080p to 4K PSSR2 at 60fps, or 60fps+ with VRR. RT quality set to High."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same 3 modes with the same framerate targets. However, its RT quality is only set to High in its quality mode and Low in its balanced/performance modes. Base PS5 also uses FSR3 as its upscaler with lower internal resolutions (1440p to 4K in quality mode, 1280p to 4K in balanced and native 1080p in performance)."
   },
   {
     "name": "Cronos: The New Dawn",
