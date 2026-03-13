@@ -223,10 +223,10 @@
       },
       {
         "name": "performance",
-        "description": "4K at a steady 120fps."
+        "description": "Upscaled 4K (likely) at a steady 120fps."
       }
     ],
-    "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is capped at 60fps. Performance mode might have a slightly lower resolution, but its difference is negligible even when switching between the 2 modes. This is most likely why performance is the default mode on Pro."
+    "extraInfo": "While Pro's performance mode can reach up to 120fps, base PS5 is capped at 60fps. Performance mode might have a slightly lower resolution, but any difference is negligible even when switching between the 2 modes. This is most likely why performance is the default mode on Pro."
   },
   {
     "name": "Anno 117: Pax Romana",
@@ -245,7 +245,7 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "4K",
     "fps": "30fps",
-    "extraInfo": "Both base PS5 have the same resolution and framerate. However, Pro's RTGI implementation and the overall lighting is higher quality than base PS5. Pro also has some local light sources and reflections that aren't there on base PS5."
+    "extraInfo": "Both Pro and base PS5 have the same resolution and framerate. However, Pro's RTGI implementation, reflections, and overall lighting are higher quality. Pro also has some reflections and shadows for local light sources which aren't on base PS5."
   },
   {
     "name": "Apex Legends",
