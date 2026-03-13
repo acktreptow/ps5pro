@@ -110,7 +110,7 @@
     "name": "Albatroz",
     "id": "Albatroz",
     "urlPath": "albatroz",
-    "genre": "Immersive Sim RPG",
+    "genre": "Adventure, RPG",
     "developer": "Among Giants",
     "publisher": "Soedesco",
     "psStudios": false,
@@ -122,7 +122,8 @@
     "rt": false,
     "resolution": "4K TSR",
     "fps": "60fps",
-    "extraInfo": "Pro can render up to 4K (1080p-4K DRS), compared to 1440p on base PS5 (900p-1440p DRS). Pro also uses Unreal Engine 5's TSR to upscale it final output, whereas base PS5 uses TAAU. The increased resolution and superior upscaler results in a much sharper image on Pro. While both consoles also target 60fps, Pro's framerate is more stable. PSSR as well as RT reflections, ambient occlusion and shadows were experimented with for Pro, but were ultimately not implemented due to time constraints."
+    "extraInfo": "Pro can render up to 4K (1080p-4K DRS), compared to 1440p on base PS5 (900p-1440p DRS). Pro also uses Unreal Engine 5's TSR for upscaling, whereas base PS5 uses TAAU. The increased resolution and superior upscaler results in a much sharper image on Pro, which also has improved shadow quality and a better draw distance. While both consoles also target 60fps, Pro's framerate is more stable.",
+    "extraInfo2": "PSSR as well as RT reflections, ambient occlusion and shadows were experimented with for Pro, but were ultimately not implemented due to time constraints."
   },
   {
     "name": "Alien: Rogue Incursion",
