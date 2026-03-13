@@ -104,7 +104,7 @@
         "description": "864p to 4K PSSR/FSR at a mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5's quality mode (more foliage/better lighting etc)."
       }
     ],
-    "extraInfo": "Pro can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K like in stills. PSSR looks sharper in motion with less artifacting. Differences are less obvious in quality mode as base resolution is 1224p (others look relatively soft regardless as 864p to 4K is a big jump). There's no RT on base PS5 and Pro's quality mode also has higher quality shadows, volumetric lighting and fog. All Pro modes have a more stable framerate than their base PS5 equivalent."
+    "extraInfo": "Pro can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K-like in stills, but PSSR is sharper in motion with less artifacting. Differences are less obvious in quality mode as internal resolution is 1224p (though other modes look relatively soft regardless as 864p to 4K is a big upscale). There's no RT on base PS5 and Pro's quality mode also has higher quality shadows, volumetric lighting and fog. All Pro modes also have a more stable framerate than their base PS5 equivalent."
   },
   {
     "name": "Albatroz",
