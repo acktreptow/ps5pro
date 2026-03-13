@@ -52,7 +52,7 @@
     "rt": false,
     "resolution": "2000 x 2040 per eye (likely)",
     "fps": "120fps native (likely)",
-    "extraInfo": "Pro features 1.5x supersampling, resulting in a sharper image compared to base PS5. This also virtually eliminates shimmering, which is particularly noticeable in the distance. While the exact resolution and framerate haven't been confirmed, the more basic art style, as well as supersampling now being implemented, suggests it's likely rendering at the PSVR2 panel's highest resolution and refresh rate."
+    "extraInfo": "Pro features 1.5x supersampling, resulting in a sharper image compared to base PS5. This also virtually eliminates shimmering, which is still particularly noticeable in the distance on base PS5. While the exact resolution and framerate haven't been confirmed, the more basic art style, as well as supersampling now being implemented, suggests it's likely rendering at the PSVR2 panel's highest resolution and refresh rate."
   },
   {
     "name": "ActionCam: SC",
