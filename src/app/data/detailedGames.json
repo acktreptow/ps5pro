@@ -141,7 +141,7 @@
     "rt": false,
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Both base PS5 and Pro run at 60fps and upscale to 4K. Pro however uses PSSR to upscale, whereas base PS5 (likely) uses TSR as it's a UE5 game. While the internal resolution before upscaling is unknown, the game is still very sharp on Pro which suggests that it's at least 1080p. Survios has also told Gaming Bolt that Pro has 'greater lighting/volumetric fog fidelity and more realistic reflections and surfacing'."
+    "extraInfo": "Both base PS5 and Pro run at 60fps and upscale to 4K. Pro however uses PSSR to upscale, whereas base PS5 (likely) uses TSR as it's a UE5 game. While the internal resolution before upscaling is unknown, the game is still very sharp on Pro which suggests that it's at least 1080p. Pro also has greater lighting/volumetric fog fidelity and more realistic reflections/surfacing."
   },
   {
     "name": "Amer Fighting",
