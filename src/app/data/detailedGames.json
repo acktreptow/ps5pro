@@ -1091,7 +1091,7 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "TBD",
+    "rtTypes": "Ray traced diffuse global illumination (including local lights) and reflections.",
     "resolution": "4K",
     "fps": "60+fps with VRR",
     "modes": [
