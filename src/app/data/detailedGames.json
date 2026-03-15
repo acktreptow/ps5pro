@@ -4853,7 +4853,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Base PS5 and Pro both achieve a nearly locked 60fps. However, Pro runs at 4K native compared to base PS5's 1440p, which is a 2x resolution increase."
+    "extraInfo": "Both base PS5 and Pro run at a stable 60fps, with only minor dips that are well within VRR. However, Pro renders at native 4K compared to base PS5's 1440p, which is a 2.25x resolution increase."
   },
   {
     "name": "Silent Hill 2",
