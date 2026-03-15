@@ -1714,7 +1714,7 @@
   {
     "name": "EA Sports UFC 5",
     "id": "UFC 5",
-    "urlPath": "ufc-5",
+    "urlPath": "ea-sports-ufc-5",
     "genre": "Sports, MMA",
     "developer": "EA Vancouver",
     "publisher": "Electronic Arts",
@@ -1727,7 +1727,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro's resolution during gameplay is slightly higher than base PS5. Pro also renders KO replays at 60fps instead of base PS5's 30fps. However, other cutscenes like ring entrances remain at 30fps on both consoles."
+    "extraInfo": "Pro renders at native 4K during gameplay, whereas base PS5 is a dynamic 4K with slight dips to around 1800p. Pro also renders KO replays at 60fps instead of base PS5's 30fps. Finally, both consoles run at a locked 60fps during gameplay, but other non-KO cutscenes like ring entrances remain at 30fps."
   },
   {
     "name": "Elemental War Clash",
