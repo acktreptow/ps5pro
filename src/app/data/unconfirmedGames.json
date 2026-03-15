@@ -84,6 +84,18 @@
     "metacritic": 63
   },
   {
+    "name": "Aphelion",
+    "id": "Aphelion",
+    "genre": "Action-Adventure",
+    "developer": "Don't Nod",
+    "publisher": "Don't Nod",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 28, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Arizona Sunshine 2",
     "id": "AS2",
     "genre": "VR FPS",
