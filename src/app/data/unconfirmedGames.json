@@ -288,6 +288,18 @@
     "metacritic": 0
   },
   {
+    "name": "Fallout 76",
+    "id": "Fallout 76",
+    "genre": "Western Action RPG",
+    "developer": "Bethesda Studios",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Early 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy VII Remake",
     "id": "FF7",
     "genre": "Cinematic Action JRPG",
