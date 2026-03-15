@@ -744,6 +744,18 @@
     "metacritic": 76
   },
   {
+    "name": "Marvel 1943: ROH",
+    "id": "Marvel 1943",
+    "genre": "Action-adventure",
+    "developer": "Skydance Games",
+    "publisher": "Plaion",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Metaphor: ReFantazio",
     "id": "Metaphor",
     "genre": "JRPG",
