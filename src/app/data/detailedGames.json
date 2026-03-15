@@ -2873,7 +2873,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR",
     "fps": "95fps",
-    "extraInfo": "Pro is 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR. Base PS5 is only 1080p to 1440p FSR at 60fps, though 1440p to 4K FSR at 30fps. Even though Pro can have a lower internal resolution than base PS5 fidelity mode before upscaling, PSSR still produces the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5 fidelity mode, but at 60+fps."
+    "extraInfo": "Pro has 1 mode that's 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR. Base PS5 has 2 modes - 1080p to 1440p FSR at 60fps (performance mode), or 1440p to 4K FSR at 30fps (fidelity mode). Even though Pro can have a lower internal resolution than base PS5 fidelity mode, its PSSR upscaling still resolves the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5 fidelity mode, but at 60+fps."
   },
   {
     "name": "Kinki Spiritual Affairs B",
