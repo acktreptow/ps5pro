@@ -264,6 +264,18 @@
     "metacritic": 0
   },
   {
+    "name": "Wild West Legacy",
+    "id": "WWL",
+    "genre": "Survival, Adventure",
+    "developer": "Moon Punch Studio",
+    "publisher": "Toplitz Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 13, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "WWE 2K26",
     "id": "WWE 26",
     "genre": "Sports, Wrestling",
