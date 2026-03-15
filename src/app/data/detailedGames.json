@@ -673,8 +673,8 @@
     "metacritic": 83,
     "pssr": true,
     "rt": false,
-    "resolution": "1440p+ to 4K PSSR",
-    "fps": "110fps",
+    "resolution": "1440p to 4K PSSR",
+    "fps": "120fps",
     "modes": [
       {
         "name": "balanced",
