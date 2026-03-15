@@ -2030,7 +2030,7 @@
     "rt": false,
     "resolution": "4K PSSR/FSR2",
     "fps": "60fps",
-    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. The only toggle on Pro is whether you want to use PSSR or FSR2 as your upscaler to 4K. This isn't an option on base PS5 (which uses FSR2 to upscale to 1440p) as it can't use PSSR."
+    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. However, Pro can use either PSSR or FSR2 to upscale to 4K, and they perform similarly to their AW2 implementation (PSSR has better motion clarity and less artifacting, but FSR is less noisy and more 4K-like in stills). Base PS5 exclusively uses FSR2 to upscale to only 1440p, though also achieves a stable 60fps."
   },
   {
     "name": "Final Fantasy VII Rebirth",
@@ -2120,7 +2120,7 @@
         "description": "4K at a locked 60fps. Same graphical settings as quality mode, but with no RT reflections."
       }
     ],
-    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but at a locked 60fps instead of 30fps. Base PS5 performance mode is a big step down from all others. There's far less foliage, more pop-in, and can render under 4K (DRS can dip as low as 1728p for a few seconds). RT on Pro quality mode is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
+    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but at a locked 60fps instead of 30fps. Base PS5 performance mode is a big step down from all others. There's far less foliage, more pop-in, and can render under 4K (DRS can dip as low as 1728p for a few seconds). RT on Pro quality mode is nice, but only affects certain assets (only player's car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
     "name": "Frostpunk 2",
