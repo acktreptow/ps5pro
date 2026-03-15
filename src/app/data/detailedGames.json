@@ -2097,7 +2097,7 @@
     "name": "Forza Horizon 5",
     "id": "FH5",
     "urlPath": "forza-horizon-5",
-    "genre": "Driving, Arcade",
+    "genre": "Racing, Arcade",
     "developer": "Playground Games",
     "publisher": "Xbox Game Studios",
     "psStudios": false,
@@ -2120,7 +2120,7 @@
         "description": "4K at a locked 60fps. Same graphical settings as quality mode, but with no RT reflections."
       }
     ],
-    "extraInfo": "Graphics in Pro's performance mode are equivalent to base PS5's quality mode, but at a locked 60fps instead of 30fps. Base PS5's performance mode is a big step down from all others. It has far less foliage onscreen, more pop-in, and can render under 4K (DRS hovers around 1728p-1872p when it drops) for a few seconds. RT on Pro is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
+    "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but at a locked 60fps instead of 30fps. Base PS5 performance mode is a big step down from all others. There's far less foliage, more pop-in, and can render under 4K (DRS can dip as low as 1728p for a few seconds). RT on Pro quality mode is nice, but only affects certain assets (only player car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
     "name": "Frostpunk 2",
