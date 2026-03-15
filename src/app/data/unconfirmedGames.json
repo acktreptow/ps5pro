@@ -1260,6 +1260,18 @@
     "metacritic": 90
   },
   {
+    "name": "Turok: Origins",
+    "id": "Turok",
+    "genre": "Third-Person Shooter",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Uncharted: LOTC",
     "id": "Uncharted: LoT",
     "genre": "Action-Adventure",
