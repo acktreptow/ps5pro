@@ -4212,7 +4212,7 @@
     "resolution": "1080p to 4K PSSR",
     "fps": "60fps",
     "disclaimer": "All tech information is based off the demo and could change for the final release in April.",
-    "extraInfo": "Pro has 1 mode that runs at a locked 60fps with RTGI and reflections. While the internal resolution is around 1080p, Pro's excellent PSSR implementation results in a sharper 4K-like image than both base PS5 modes, despite similar internal resolutions. Base PS5 has an RT and non-RT mode that target 60fps. With RT, base PS5 struggles to maintain 60fps and hovers in the mid 50s during fights. Without RT, base PS5 locks to 60fps. But while lighting is worse, reflections are even more of a downgrade as its reversion to screen space reflections is something the RE engine is notoriously poor at."
+    "extraInfo": "Pro has 1 mode that runs at a locked 60fps with RTGI and reflections. While the internal resolution is around 1080p, Pro's excellent PSSR implementation results in a sharper 4K-like image than both base PS5 modes, despite similar internal resolutions. Base PS5 has an RT and non-RT mode that target 60fps. With RT, base PS5 struggles to maintain 60fps and hovers in the mid 50s during fights. Without RT, base PS5 locks to 60fps, though lighting is worse, and reflections are even more of a downgrade as its reversion to screen space reflections is something the RE engine is notoriously poor at."
   },
   {
     "name": "Pro Baseball Spirits 24-25",
@@ -5724,7 +5724,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "30fps",
-    "extraInfo": "Both Pro and base PS5 render at native 4K with a locked 30fps. However, Pro has numerous improved graphical settings over base PS5. These include, but aren't limited to, lighting, textures, shadows (resolution & quality), reflections, animation, effects, and crowds. Pro's graphical settings are equivalent to high/very high on PC. Finally, Fallen Tree Games has confirmed there's no plans for a 60fps mode due to CPU limitations on both base and Pro."
+    "extraInfo": "Both Pro and base PS5 render at native 4K and run at a locked 30fps, with no plans for a 60fps mode due to CPU limitations. However, Pro has numerous improved graphical settings over base PS5. These include, but aren't limited to, lighting, textures, shadows (resolution & quality), reflections, animation, effects, and crowds. Pro's graphical settings are equivalent to high/very high on PC."
   },
   {
     "name": "The Rogue Prince Of Persia",
