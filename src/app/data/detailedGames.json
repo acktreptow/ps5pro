@@ -2508,7 +2508,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro is a locked 60fps at native 4K, compared to 1800p at a mostly stable 60fps on base PS5. Unfortunately, despite the additional headroom, there's no RT implementation found in the PC version. Instead, the slight resolution increase and framerate stability over base PS5 essentially puts Pro on par with the Series X version."
+    "extraInfo": "Pro is a locked 60fps at native 4K, compared to 1800p at a mostly stable 60fps on base PS5. Unfortunately, despite Pro's additional headroom, it lacks any RT which is available in the PC version. Instead, Pro's slight resolution increase and framerate stability over base PS5 essentially puts it on par with Series X."
   },
   {
     "name": "High On Life 2",
