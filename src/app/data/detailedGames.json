@@ -1690,7 +1690,7 @@
     "rtTypes": "Ray traced ambient occlusion",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro combines base PS5's 'resolution' and 'enhanced visuals' modes into a singular mode. Although all modes look 4K-like due to high internal resolutions, Pro sometimes renders an even sharper image than base PS5 resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps as opposed to 30fps on base PS5. Fortunately, both consoles run at a locked 60fps during gameplay."
+    "extraInfo": "Pro combines base PS5's 'favor resolution' and 'enhanced visuals' modes into a singular mode. Although all modes look 4K-like due to high internal resolutions, Pro sometimes renders an even sharper image than base PS5 resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps as opposed to 30fps on base PS5, though both consoles run at a locked 60fps during gameplay."
   },
   {
     "name": "EA Sports FC 26",
@@ -1709,7 +1709,8 @@
     "rtTypes": "Ray traced ambient occlusion",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "FC 26 provides the same Pro enhancements that were seen in last year's FC 25. Pro combines base PS5's 'resolution' and 'enhanced visuals' modes into just one default mode. Pro sometimes renders an even sharper image than base PS5's resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps, as opposed to 30fps on base PS5."
+    "disclaimer": "FC 26 provides the same Pro enhancements that were seen in last year's FC 25:",
+    "extraInfo": "'Pro combines base PS5's 'favor resolution' and 'enhanced visuals' modes into a singular mode. Although all modes look 4K-like due to high internal resolutions, Pro sometimes renders an even sharper image than base PS5 resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps as opposed to 30fps on base PS5, though both consoles run at a locked 60fps during gameplay.'"
   },
   {
     "name": "EA Sports UFC 5",
