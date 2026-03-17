@@ -5243,6 +5243,35 @@
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in clarity/stability in motion. Quality mode is the only one with stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
+    "name": "Starfield",
+    "id": "Starfield",
+    "urlPath": "starfield",
+    "genre": "Sci-Fi, Action RPG",
+    "developer": "Bethesda Studios",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 7, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K (likely) at 60fps with enhanced visuals."
+      }
+    ],
+    "disclaimer": "All info is taken from the PlayStation Blog announcement.",
+    "extraInfo": "Currently, there's very little information to go on, aside from knowing that Pro will also have two modes. Hopefully, we'll learn more detailed specifics when reputable sources like Digital Foundry/NX Gamer etc are able to take an in-depth look closer to Starfield's launch in April. For example, it would be great to know exactly what 'enhanced visuals' entails."
+  },
+  {
     "name": "Stellar Blade",
     "id": "Stellar Blade",
     "urlPath": "stellar-blade",
