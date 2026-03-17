@@ -5142,7 +5142,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Base PS5 has dynamic resolution scaling, which internally ranges between 1523p-1800p, then upscales to 4K. Whereas Pro's resolution is native 4K. Fortunately, both consoles run at a locked 60fps. Finally, despite being on Unreal Engine 5, Pro (and even PC) doesn't use any form of RT, including UE5's Lumen."
+    "extraInfo": "While Pro renders at native 4K, base PS5 has dynamic resolution scaling that's internally 1523p-1800p, before upscaling to 4K. Fortunately, both consoles run at a locked 60fps. Finally, despite being on Unreal Engine 5, Pro (and even PC) doesn't use any form of RT, including UE5's Lumen."
   },
   {
     "name": "Stalker 2: Heart Chornobyl",
