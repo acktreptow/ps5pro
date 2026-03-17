@@ -1217,7 +1217,7 @@
     "name": "Dead Island 2",
     "id": "DI2",
     "urlPath": "dead-island-2",
-    "genre": "First-Person Action RPG",
+    "genre": "Action RPG, Horror",
     "developer": "Dambuster Studios",
     "publisher": "Deep Silver",
     "psStudios": false,
@@ -1229,7 +1229,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The framerate is a locked 60fps on both consoles, but Pro improves shadow quality, motion blur, texture filtering and depth of field over base PS5. Pro also has longer draw distances and contact shadows on all objects/lights. Pro uses DRS, but the resolution is above 2000p for the majority of gameplay, including often at native 4K. It can drop down as low as 1620p (technically lower than base PS5's fixed 1728p), but this is very rare and only lasts a couple of seconds."
+    "extraInfo": "Both Pro and base PS5 run at a locked 60fps. However, Pro renders above 2000p for the majority of gameplay, including often at native 4K, while base PS5 renders at a fixed 1728p. Pro also has improved shadow quality, motion blur, texture filtering, and depth of field, along with longer draw distances and contact shadows on all objects and lights. Technically, Pro's DRS floor is 1620p which is lower than base PS5, but this is very rare and only lasts a couple of seconds."
   },
   {
     "name": "Dead Rising Deluxe",
