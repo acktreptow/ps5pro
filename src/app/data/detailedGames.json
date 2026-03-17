@@ -2492,7 +2492,7 @@
     "extraInfo": "Pro sees resolution increases in both modes as on base PS5, quality mode is 1728p and performance is 1080p. However, both consoles render a relatively unstable image due to mediocre TAA, regardless of mode. There's therefore a larger gap between performance modes, with less shimmering/clearer text on Pro. Pro's 60fps is more stable than base PS5, with only the hardest difficulties causing 5-10fps drops (still within VRR). Both quality modes are improperly paced, but Pro is more stable."
   },
   {
-    "name": "Hitman Trilogy",
+    "name": "Hitman WOA",
     "pageTitle": "Hitman World of Assassination",
     "id": "Hitman WoA",
     "urlPath": "hitman-world-of-assassination",
@@ -2501,14 +2501,14 @@
     "publisher": "IO Interactive",
     "psStudios": false,
     "psvr2": true,
-    "release": "January 20, 2022",
+    "release": "January 26, 2023",
     "hasShipped": true,
-    "metacritic": 84,
+    "metacritic": 89,
     "pssr": false,
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro is a locked 60fps at 4K native, compared to the 1800p mostly stable 60fps on base PS5. Essentially, putting Pro on par with the Series X version."
+    "extraInfo": "Pro is a locked 60fps at native 4K, compared to 1800p at a mostly stable 60fps on base PS5. Unfortunately, despite the additional headroom, there's no RT implementation found in the PC version. Instead, the slight resolution increase and framerate stability over base PS5 essentially puts Pro on par with the Series X version."
   },
   {
     "name": "High On Life 2",
