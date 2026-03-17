@@ -3489,7 +3489,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "The only big difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate SSR (screen space reflections). Pro still has dynamic resolution scaling that can go as low as 1800p, but renders at native 4K more often than base PS5. Finally, both consoles run at a basically locked 60fps."
+    "extraInfo": "The biggest difference between Pro and base PS5 is how reflections are rendered. Pro uses RT, whereas base PS5 uses less accurate screen space reflections. Pro still has dynamic resolution scaling, but only dips as low as 1800p. Pro also renders at native 4K more often than base PS5. Finally, both consoles run at a basically locked 60fps outside of cutscenes, which are capped at 30fps."
   },
   {
     "name": "Motel Business Simulator",
