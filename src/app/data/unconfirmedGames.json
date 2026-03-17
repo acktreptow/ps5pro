@@ -180,18 +180,6 @@
     "metacritic": 71
   },
   {
-    "name": "Cyberpunk 2077",
-    "id": "Cyberpunk",
-    "genre": "FPS, Action RPG",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 15, 2022",
-    "hasShipped": true,
-    "metacritic": 75
-  },
-  {
     "name": "Dead Space",
     "id": "DS",
     "genre": "Survival Horror",
