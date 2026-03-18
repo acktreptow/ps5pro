@@ -3752,14 +3752,14 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "Upscaled 4K TSR at locked 60fps except for some cutscenes (lows of mid 50s)."
+        "description": "Upscaled 4K TSR at a locked 60fps except for some cutscenes (lows of mid 50s)."
       },
       {
         "name": "performance",
-        "description": "Upscaled 1080p TSR at somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
+        "description": "Upscaled 1080p TSR at a somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
       }
     ],
-    "extraInfo": "There's no actual modes. Instead, you switch between the 2 framerate targets via the FPS limit toggle's 60fps and 120fps values. Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Base PS5 has the same 2 modes, however, Pro has a higher base resolution before upscaling and hits its target framerate more often."
+    "extraInfo": "There are no actual modes. Instead, you switch between the 2 framerate targets via the FPS limit toggle's 60fps and 120fps options. Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Pro also has a higher internal resolution before upscaling and hits its target framerate more often than the equivalent modes on base PS5."
   },
   {
     "name": "Ninja Gaiden 4",
