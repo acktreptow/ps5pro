@@ -1249,7 +1249,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "Pro uses RT reflections, which are a huge improvement over base PS5's screen space reflections due to the shopping mall setting (storefront windows etc). While both base PS5 and Pro run at native 4K, Pro also has a locked 60fps even with RT reflections, whereas base PS5 dips into the low 50s in the most demanding scenarios. This is most likely why base PS5 doesn't support RT."
+    "extraInfo": "Pro uses RT reflections, which, despite some occasional visual noise, are a significant improvement over base PS5's less accurate screen space reflections due to the shopping mall setting (storefront windows, etc). While both base PS5 and Pro run at native 4K, Pro only has minor 1-5fps dips that are short-lived with RT on, whereas base PS5 dips into the low 50s in the most demanding scenarios with SSR. This is most likely why base PS5 doesn't support RT, as it would likely fall out of the VRR window in these instances. However, you can toggle RT off on Pro for a locked 60fps."
   },
   {
     "name": "Death Stranding 1: DC",
@@ -5269,7 +5269,7 @@
       }
     ],
     "disclaimer": "All info is taken from the PlayStation Blog announcement.",
-    "extraInfo": "Currently, there's very little information to go on, aside from knowing that Pro will also have two modes. Hopefully, we'll learn more detailed specifics when reputable sources like Digital Foundry/NX Gamer etc are able to take an in-depth look closer to Starfield's launch in April. For example, it would be great to know exactly what 'enhanced visuals' entails."
+    "extraInfo": "Currently, there's very little information to go on, aside from knowing that Pro will also have 2 modes. Hopefully, we'll learn more detailed specifics when reputable sources like Digital Foundry/NX Gamer etc can take an in-depth look closer to Starfield's April launch. For example, it'd be great to know exactly what 'enhanced visuals' entails."
   },
   {
     "name": "Stellar Blade",
