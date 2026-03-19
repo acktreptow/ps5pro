@@ -316,7 +316,7 @@
     "name": "Arken Age",
     "id": "Arken Age",
     "urlPath": "arken-age",
-    "genre": "VR Adventure",
+    "genre": "VR Action-Adventure",
     "developer": "VitruviusVR",
     "publisher": "Vitruvius Technologies",
     "psStudios": false,
@@ -326,19 +326,19 @@
     "metacritic": 84,
     "pssr": false,
     "rt": false,
-    "resolution": "4096p",
+    "resolution": "4000 x 4096p",
     "fps": "90fps native",
     "modes": [
       {
         "name": "quality",
-        "description": "4096p per eye at 60fps re-projected to 120fps."
+        "description": "4000 x 4096p per eye at 60fps (reprojected to 120fps) with dynamic foveated rendering."
       },
       {
         "name": "performance",
-        "description": "2240p per eye at 90fps native (no-reprojection)."
+        "description": "3040 x 2240p per eye at 90fps native (no reprojection) with dynamic foveated rendering."
       }
     ],
-    "extraInfo": "VitruviusVR recommend Pro's performance mode in the settings menu, likely due to the native motion. Base PS5's resolutions are 2432p in quality mode and 2048p in performance mode (framerates remain the same)."
+    "extraInfo": "VitruviusVR recommends performance mode in the settings menu on both Pro and base PS5, likely due to the native motion. Base PS5 renders at lower resolutions (3360 x 2432p in quality mode and 2816 x 2048p in performance mode), resulting in a sharper image on Pro in equivalent modes, while framerate targets remain the same."
   },
   {
     "name": "Arknights: Endfield",
