@@ -3759,7 +3759,7 @@
         "description": "Upscaled 1080p TSR at a somewhat stable 120fps depending on level (lows of 90s). Less detailed shadows/non-Nanite geometry."
       }
     ],
-    "extraInfo": "There are no actual modes. Instead, you switch between the 2 framerate targets via the FPS limit toggle's 60fps and 120fps options (each has been given a named mode here for readability). Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Pro also has a higher internal resolution before upscaling compared to the equivalent mode on base PS5, and manages a much more stable 120fps in performance mode. Fortunately, both consoles lock to 60fps in fidelity mode."
+    "extraInfo": "There are no actual modes. Instead, you switch between the 2 framerate targets via the FPS limit toggle's 60fps and 120fps options (each has been given a named mode here for readability). Both modes use Lumen combined with SSR for reflections and Lumen GI for indirect lighting. Pro also has a higher internal resolution before upscaling compared to the equivalent modes on base PS5, resulting in a sharper image, and manages a much more stable 120fps in performance mode. Fortunately, both consoles lock to 60fps in fidelity mode."
   },
   {
     "name": "Ninja Gaiden 4",
@@ -5896,7 +5896,7 @@
     "pageTitle": "John Carpenter's Toxic Commando",
     "id": "Toxic Commando",
     "urlPath": "john-carpenters-toxic-commando",
-    "genre": "Co-Op FPS",
+    "genre": "Co-Op FPS, Zombies",
     "developer": "Saber Interactive",
     "publisher": "Focus Entertainment",
     "psStudios": false,
@@ -5918,7 +5918,7 @@
         "description": "1080p-1440p DRS to 4K at a very stable 60fps."
       }
     ],
-    "extraInfo": "Quality mode's framerate has rare, short-lived 1-2fps dips. Performance mode still maintains 60fps most of the time, but can dip more often in heavy scenes and to as low as 50fps (which is still within VRR). Base PS5 has the same 2 modes, with similar framerate performance and higher graphics presets in quality mode. However, the internal res is lower (common 1080p in quality mode and 720p-1080p DRS in performance mode) resulting in a noticeably softer image compared to the same mode on Pro."
+    "extraInfo": "Quality mode's framerate has rare, short-lived 1-2fps dips. Performance mode still maintains 60fps most of the time, but can dip more often in heavy scenes and to as low as 50fps (which is still within VRR). Base PS5 has the same 2 modes, with similar framerate performance and higher graphics presets in quality mode. However, the internal resolution is lower (commonly 1080p in quality mode and 720p-1080p DRS in performance mode) before upscaling to 4K, resulting in a noticeably softer image compared to the same mode on Pro."
   },
   {
     "name": "Truck Driver: TAD",
