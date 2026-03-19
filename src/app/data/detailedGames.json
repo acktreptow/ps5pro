@@ -2709,9 +2709,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (placeholder)",
-    "fps": "60fps (placeholder)",
-    "extraInfo": "Nacon Studio Ghent have confirmed to me that they have nothing to share about the technical specifications of Hunting Simulator 3 at this time. This is understandable as HS3 doesn't even have a release window yet, let alone a firm date."
+    "resolution": "Upscaled 4K (placeholder - see extra info)",
+    "fps": "60fps (placeholder - see extra info)",
+    "extraInfo": "Nacon Studio Ghent has confirmed to me that they have nothing to share regarding the technical specifications of Hunting Simulator 3 at this time. This is understandable, as HS3 doesn't even have a release window yet, let alone a firm date. Hopefully, we get a close approximation of Hunting Simulator 2's performance (dynamic 4K and 60fps). However, as a 5+ year-old title that never received a Pro update, was originally a PS4 game, and runs on UE4 (HS3 is UE5), we can't reliably use HS2 as a baseline to fairly speculate on HS3's performance."
   },
   {
     "name": "Hypercharge: Unboxed",
