@@ -2469,7 +2469,7 @@
     "name": "Helldivers 2",
     "id": "HD 2",
     "urlPath": "helldivers-2",
-    "genre": "Co-Op PvE TPS",
+    "genre": "Co-Op TPS, PvE",
     "developer": "Arrowhead Game Studios",
     "publisher": "Sony Interactive",
     "psStudios": true,
@@ -2491,7 +2491,7 @@
         "description": "1440p at a mostly stable 60fps (drops to 50s with explosions etc)."
       }
     ],
-    "extraInfo": "Pro sees resolution increases in both modes as on base PS5, quality mode is 1728p and performance is 1080p. However, both consoles render a relatively unstable image due to mediocre TAA, regardless of mode. There's therefore a larger gap between performance modes, with less shimmering/clearer text on Pro. Pro's 60fps is more stable than base PS5, with only the hardest difficulties causing 5-10fps drops (still within VRR). Both quality modes are improperly paced, but Pro is more stable."
+    "extraInfo": "Pro sees resolution increases in both modes, as base PS5's quality mode is 1728p and performance mode is 1080p. However, both consoles render a relatively unstable image due to mediocre TAA, regardless of mode. As a result, there's a larger image quality gap between performance modes, with less shimmering and clearer text on Pro. Pro's 60fps is more stable than base PS5, with only the hardest difficulties causing 5-10fps drops (still within VRR) due to more chaotic gameplay. Pro quality mode also maintains 30fps more often, but as both consoles suffer from improper frame pacing, their quality modes feel worse than properly paced 30fps modes in other games."
   },
   {
     "name": "Hitman WOA",
