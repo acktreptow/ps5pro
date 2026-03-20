@@ -2317,6 +2317,40 @@
     "extraInfo": "Pro can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20fps fewer in HFR mode. Both upscalers use 1440p as the base resolution but PS5 Pro Enhanced mode can regularly have an internal resolution of around 1800p. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
   },
   {
+    "name": "Granblue Fantasy: R - ER",
+    "pageTitle": "Granblue Fantasy: Relink - Endless Ragnarok",
+    "id": "Granblue",
+    "urlPath": "granblue-fantasy-relink-endless-ragnarok",
+    "genre": "Action JRPG",
+    "developer": "Cygames",
+    "publisher": "Cygames",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 9, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "performance pro",
+        "description": "4K at 60fps. Exclusive to PS5 Pro."
+      },
+      {
+        "name": "quality",
+        "description": "4K at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p at 60fps."
+      }
+    ],
+    "disclaimer": "All tech info is taken from Endless Ragnarok's beta and is subject to change for the expansion's July launch. Though based on the base game's current performance, this is unlikely.",
+    "extraInfo": "Currently, the base Granblue Fantasy: Relink game doesn't have any Pro support, as it only has the 4K/30fps quality mode and 1080p/60fps performance. Hopefully, this Pro performance mode will also come to the base game when the ER expansion arrives in July, as the 1080p resolution in performance mode resolves a noticeably blurrier image. This isn't a guarantee however, and although on another ecosystem, we've seen games like Super Mario Party Jamboree syphon off performance upgrades to just the DLC."
+  },
+  {
     "name": "Gran Turismo 7",
     "id": "GT7",
     "urlPath": "gran-turismo-7",
