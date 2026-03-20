@@ -3944,7 +3944,7 @@
     "name": "Only Up Rush",
     "id": "Only Up Rush",
     "urlPath": "only-up-rush",
-    "genre": "Action, Platformer",
+    "genre": "3D Platformer, Racing",
     "developer": "Nostra Games",
     "publisher": "Nostra Games",
     "psStudios": false,
@@ -3954,9 +3954,9 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (likely)",
+    "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. Pro has a slightly higher resolution which results in a cleaner/more 4K-like image with less shimmer/instability in assets like railings/billboards/tarp etc."
+    "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, Pro has a slightly higher resolution, resulting in a cleaner/more 4K-like image, with less shimmer/instability in assets like railings/billboards/tarp."
   },
   {
     "name": "Operation Candy Land",
