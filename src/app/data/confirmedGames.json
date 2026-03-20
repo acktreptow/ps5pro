@@ -240,6 +240,18 @@
     "metacritic": 0
   },
   {
+    "name": "Thomas & Friends: WOS",
+    "id": "Thomas & Friends",
+    "genre": "Simulation, Trains",
+    "developer": "Dovetail Games",
+    "publisher": "Dovetail Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 17, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Tokyo Xtreme Racer",
     "id": "TXR",
     "genre": "Racing, Arcade",
