@@ -12,6 +12,18 @@
     "metacritic": 0
   },
   {
+    "name": "Crime Simulator",
+    "id": "Crime Sim",
+    "genre": "Simulation, Roguelite, Heist",
+    "developer": "CookieDev",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 9, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Cyberpunk 2077",
     "id": "Cyberpunk",
     "genre": "Action RPG",
