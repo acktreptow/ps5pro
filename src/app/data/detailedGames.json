@@ -6231,7 +6231,7 @@
     "rt": false,
     "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "Both base PS5 and Pro run at a locked 60fps and graphical settings like LODs are the same. However, Pro's internal resolution is slightly higher, which leads to less shimmering on assets like railings and fewer sawtooth edges on shadows."
+    "extraInfo": "Both base PS5 and Pro run at a locked 60fps, and graphical settings like LODs are the same. However, Pro's internal resolution is slightly higher before outputting to 4K, leading to less shimmering on assets like railings and fewer sawtooth edges on shadows."
   },
   {
     "name": "Where Winds Meet",
