@@ -2369,7 +2369,7 @@
     "resolution": "4K Upscaled (likely)",
     "fps": "30fps (likely)",
     "disclaimer": "GTA 6 isn't even confirmed to be Pro enhanced yet, but given its pedigree, it's the one game worth speculating about. All information is based on Digital Foundry's analysis of real-time base PS5 gameplay, making it a solid baseline for potential enhancements on Pro.",
-    "extraInfo": "GTA 6's resolution was 1440p. It uses diffuse RTGI for direct/indirect lighting, and it's more stable than the software-based UE5 Lumen solution that's currently popular on consoles. RT reflections include dynamic objects like people, even on rough/opaque surfaces (like water), though SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) are top-tier. While there are no RT shadows, they still look great with accurate diffuse.",
+    "extraInfo": "GTA 6 was rendering at 1440p. It uses diffuse RTGI for direct/indirect lighting, and it's more stable than the software-based UE5 Lumen solution that's currently popular on consoles. RT reflections include dynamic objects like people, even on rough/opaque surfaces (like water), though SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) are top-tier. While there are no RT shadows, they still look great with accurate diffuse.",
     "extraInfo2": "The trailer's most impressive aspect is the accurate and natural hair rendering, including body hair. Finally, even on Pro, a 60fps mode is unlikely, but 40fps could be possible - especially with the delay to November 2026. This gives Rockstar time to implement superior upscalers like PSSR2 and/or FSR4, as they would allow a larger drop in internal resolution while maintaining good image quality."
   },
   {
@@ -3172,8 +3172,8 @@
         "description": "1008p-1189p DRS to 4K TSR at a basically locked 60fps. Reduced vegetation, shadows, draw distance, lighting, resolution, terrain, and reflections quality."
       }
     ],
-    "extraInfo": "While Pro's performance mode only dips to 1008p, base PS5 performance mode falls to 720p for much of the time. In quality mode, base PS5's 831p-960p DRS is below even Pro's lowest 1189p DRS bounds. Furthermore, base PS5 only upscales to 1440p in both modes, whereas Pro upscales to 4K.",
-    "extraInfo2": "Pro also applies fewer cuts to its graphical settings (shadows/lighting etc) in its performance mode (Lumen reflections are even better than base PS5 quality mode), and all of Pro quality mode's graphical settings are higher than base PS5 quality mode. Base PS5 quality mode has a higher average framerate that primarily stays within the VRR window though, whereas Pro's doesn't, and both maintain a solid 60fps in their performance modes with no option to go higher."
+    "extraInfo": "Base PS5 has the same 2 modes, however, they only upscale to 1440p compared to Pro's 4K output. In quality mode, Base PS5's 831p-960p DRS is below even Pro's lowest 1189p DRS bounds. All of Pro quality mode's graphical settings are also higher than base PS5 quality mode. However, when the framerate is unlocked, base PS5 has a higher average framerate that primarily stays within the VRR window, whereas Pro doesn't.",
+    "extraInfo2": "In performance mode, base PS5 falls to 720p for much of the time, which is far below  Pro's 1008p DRS floor. Pro also applies fewer cuts to its graphical settings (shadows/lighting etc) in its performance mode (Lumen reflections are even better than base PS5 quality mode). Fortunately, both maintain a solid 60fps in their performance modes, though with no option to go higher."
   },
   {
     "name": "Mandragora: WOTWT",
