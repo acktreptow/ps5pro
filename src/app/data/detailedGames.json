@@ -2803,8 +2803,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination and sun shadows",
-    "resolution": "1440p (likely) to 4K PSSR",
+    "resolution": "4K PSSR",
     "fps": "30fps",
+    "disclaimer": "JWE3 uses PSSR1, and the extra info section analyzes the game's default upscale implementation. You can force PSSR2 via the toggle in the PS5 Pro system menu, which should improve image quality (improved clarity, stability, etc.). This is the case for most PSSR1 games. However, as a system-wide toggle for Pro Enhanced games without a bespoke PSSR2 implementation, results may vary.",
     "extraInfo": "Both base PS5 and Pro run at 30fps and have RTGI. However, only Pro has RT sun shadows. This provides accurate penumbra for shadows, making subtle details more noticeable due to the increased contrast. RT sun shadows also provides greater realism, with shadows cast by foliage/dinosaurs appearing softer the further the shadow is from them. Pro's PSSR upscaling from a high internal resolution should also provide sharper assets like foliage, trees and water reflections compared to base PS5."
   },
   {
