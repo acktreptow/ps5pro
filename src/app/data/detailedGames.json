@@ -1308,7 +1308,7 @@
         "description": "1440p-4K DRS at a very nearly locked 60fps."
       }
     ],
-    "extraInfo": "Pro's performance and quality modes look nearly identical despite a 2x difference in framerate. While both Pro and base PS5 performance modes are capped at 60fps, they run in a 120 Hz container, resulting in lower input lag. Outside of base PS5 quality mode's higher DRS (1800p-4K), Pro performance mode matches its graphical settings (distant terrain detail/geometry, shadows, AO & texture LODs). Base PS5 performance mode's 1260p-1800p DRS can be noticeably blurrier, with more image instability/shimmer/fizzle, as well as worse reflections/shadows/draw distance than all other modes."
+    "extraInfo": "Pro's performance and quality modes look nearly identical despite a 2x difference in framerate. While both Pro and base PS5 performance modes are capped at 60fps, they run in a 120 Hz container, resulting in lower input lag. Outside of base PS5 quality mode's higher DRS (1800p-4K), Pro performance mode matches its graphical settings (distant terrain detail/geometry, shadows, AO & texture LODs). Base PS5 performance mode's 1260p-1800p DRS can be noticeably blurrier, with more image instability, shimmer, and fizzle, as well as worse reflections/shadows/draw distance than all other modes. Finally, Pro is roughly equivalent to PC's high to very high graphics settings."
   },
   {
     "name": "Delta Force",
