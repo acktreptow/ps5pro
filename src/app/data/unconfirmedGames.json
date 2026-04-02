@@ -120,6 +120,18 @@
     "metacritic": 70
   },
   {
+    "name": "Atomic Heart II",
+    "id": "Atomic Heart 2",
+    "genre": "First-Person Shooter",
+    "developer": "Mundfish",
+    "publisher": "Mundfish",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Beast Of Reincarnation",
     "id": "BoI",
     "genre": "Action RPG",
