@@ -2051,7 +2051,7 @@
     "modes": [
       {
         "name": "versatility",
-        "description": "1224p-1440 DRS to 4K PSSR at a very stable 60fps."
+        "description": "1224p-1440 DRS to 4K PSSR2 at a very stable 60fps."
       },
       {
         "name": "graphics",
@@ -2062,7 +2062,8 @@
         "description": "Legacy base PS5 performance mode(s), with a sharp or smooth variation. 1152p-1440p DRS at a stable 60fps."
       }
     ],
-    "extraInfo": "Pro's new versatility mode runs at 1224p-1440p DRS to 4K PSSR at a very stable 60fps. All legacy base PS5 modes are present and its 30fps graphics mode can have a much higher internal resolution. However Pro's PSSR implementation, though a bit noisier/unstable, still creates a sharper image (especially distant detail) than even graphics mode, with better SSR and less ghosting/artifacting, and at 60fps. Considering versatility mode has both the clearest image and highest/most stable framerate (its 60fps is more stable than the either legacy performance mode), all other modes are redundant unless you really can't stand any image stability."
+    "disclaimer": "As a whitelisted game, Final Fantasy VII Rebirth uses PSSR2 regardless of whether the 'Enhance PSSR Image Quality' toggle is on/off in the PS5 system settings. You can therefore safely disregard any Pro analysis conducted before March 2026 (or at least hasn't been updated to include PSSR2 testing), as this PSSR1-centered performance discussion no longer applies.",
+    "extraInfo": "Pro's versatility mode runs at 1224p-1440p DRS to 4K PSSR2 at a very stable 60fps, whereas the others are legacy base PS5 modes. Pre-March 2026, Pro used PSSR1 which gave versatility mode a sharper image (especially distant detail) than even graphics mode despite its higher internal resolution, with better SSR and less ghosting and artifacting, at 60fps. However, PSSR1 suffered from some extra noise, instability, and artifacting compared to graphics mode. Now with PSSR2, these issues have not only been fixed, but the image is even sharper and resolves more texture detail. There's now no reason to choose against versatility mode due to PSSR2."
   },
   {
     "name": "Fortnite",
