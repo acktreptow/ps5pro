@@ -336,6 +336,18 @@
     "metacritic": 75
   },
   {
+    "name": "WWE 2K26",
+    "id": "WWE 26",
+    "genre": "Sports, Wrestling",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 13, 2026",
+    "hasShipped": true,
+    "metacritic": 78
+  },
+  {
     "name": "Warhammer 40,000: DH",
     "id": "40K: DH",
     "genre": "CRPG",
@@ -358,18 +370,6 @@
     "release": "March 13, 2026",
     "hasShipped": true,
     "metacritic": 0
-  },
-  {
-    "name": "WWE 2K26",
-    "id": "WWE 26",
-    "genre": "Sports, Wrestling",
-    "developer": "Visual Concepts",
-    "publisher": "2K",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 13, 2026",
-    "hasShipped": true,
-    "metacritic": 78
   },
   {
     "name": "You're Nuts",
