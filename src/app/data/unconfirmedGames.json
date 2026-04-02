@@ -816,6 +816,18 @@
     "metacritic": 0
   },
   {
+    "name": "Mortal Shell II",
+    "id": "Mortal Shell 2",
+    "genre": "Soulsborne",
+    "developer": "Cold Symmetry",
+    "publisher": "Playstack",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Ontos",
     "id": "Ontos",
     "genre": "Adventure, Horror",
