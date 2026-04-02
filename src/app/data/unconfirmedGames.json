@@ -1176,6 +1176,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Boys: Trigger Warning",
+    "id": "The Boys: TW",
+    "genre": "VR Action-Adventure",
+    "developer": "Arvore Immersive Exp",
+    "publisher": "Sony Pictures VR",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Dark Pictures VR",
     "id": "The Dark Pictures VR",
     "genre": "VR Horror, Rail Shooter",
