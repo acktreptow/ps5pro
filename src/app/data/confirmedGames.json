@@ -334,5 +334,17 @@
     "release": "March 13, 2026",
     "hasShipped": true,
     "metacritic": 78
+  },
+  {
+    "name": "You're Nuts",
+    "id": "YN",
+    "genre": "Puzzle, Adventure",
+    "developer": "EP Games",
+    "publisher": "EP Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
