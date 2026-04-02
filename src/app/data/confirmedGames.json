@@ -168,6 +168,18 @@
     "metacritic": 0
   },
   {
+    "name": "Necrophosis: FC",
+    "id": "Necrophosis",
+    "genre": "Horror, Adventure",
+    "developer": "Dragonis Games",
+    "publisher": "PQube",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Neverness To Everness",
     "id": "NTE",
     "genre": "F2P Action RPG",
