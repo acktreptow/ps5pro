@@ -88,23 +88,25 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
-    "resolution": "1224p to 4K PSSR/FSR",
+    "resolution": "1224p to 4K PSSR2/FSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "1224p to 4K PSSR/FSR at a mostly stable 30fps with RT reflections."
+        "description": "1224p to 4K PSSR2/FSR at a mostly stable 30fps with RT reflections."
       },
       {
         "name": "balanced",
-        "description": "864p to 4K PSSR/FSR at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120 Hz display."
+        "description": "864p to 4K PSSR2/FSR at a locked 40fps. Combines the RT of the quality mode with image settings of performance. Requires 120 Hz display."
       },
       {
         "name": "performance",
-        "description": "864p to 4K PSSR/FSR at a mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5's quality mode (more foliage/better lighting etc)."
+        "description": "864p to 4K PSSR2/FSR at a mostly stable 60fps (lows of 50fps) with no RT. Graphics settings of base PS5's quality mode (more foliage/better lighting etc)."
       }
     ],
-    "extraInfo": "Pro can toggle between PSSR and FSR for upscaling. FSR is less noisy and more 4K-like in stills, but PSSR is sharper in motion with less artifacting. Differences are less obvious in quality mode as internal resolution is 1224p (though other modes look relatively soft regardless as 864p to 4K is a big upscale). There's no RT on base PS5 and Pro's quality mode also has higher quality shadows, volumetric lighting and fog. All Pro modes also have a more stable framerate than their base PS5 equivalent."
+    "disclaimer": "As a whitelisted game, Alan Wake 2 uses PSSR2 regardless of whether the 'Enhance PSSR Image Quality' toggle is on/off in the PS5 system settings. You can therefore safely disregard any Pro analysis conducted before March 2026 (or at least hasn't been updated to include PSSR2 testing), as this PSSR1-centered performance discussion no longer applies.",
+    "extraInfo": "PSSR2 significantly improves on the PSSR1 implementation AW2 used until March 2026. It removes PSSR1's film grain-like noise and pulsing SSAO, it's sharper, more stable, less aliased, resolves cleaner textures, has even better motion clarity and has slightly more stable RT. PSSR2 should now always be chosen over FSR2, whereas before, it was a subjective choice (FSR2 was less noisy in stills, but PSSR1 was sharper in motion etc).",
+    "extraInfo2": "PSSR2 improvements are especially obvious in performance mode, as despite the low 864p internal res, now looks better than base PS5 quality mode (which uses FSR2, has no RT, and has lower quality shadows, volumetric lighting and fog than Pro quality mode). Pro modes also have a more stable framerate than the base PS5 equivalent."
   },
   {
     "name": "Albatroz",
