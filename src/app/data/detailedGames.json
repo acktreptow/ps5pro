@@ -5291,7 +5291,8 @@
         "description": "Lowest visual quality of all modes. 720p-936p DRS to 4K PSSR/FSR at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling. FSR looks clearer/less noisy with assets like foliage in stills, but the difference is miniscule now that Outlaws updated its PSSR implementation, which beats FSR in clarity/stability in motion. Quality mode is the only one with stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
+    "disclaimer": "In order to use PSSR2 in Star Wars Outlaws, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As SWO isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed SWO with PSSR2 toggled on and confirm it fixes the issues mentioned below with a more stable, sharper image and no more PSSR1 film grain-like noise (especially in foliage, though there is still some flicker). PSSR2 is therefore recommended over PSSR1/FSR3 for SWO.",
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. PSSR has better motion clarity, but is more noisy/unstable and looks softer in stills (check disclaimer to easily fix these PSSR issues with PSSR2). Quality mode is the only one with stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
     "name": "Starfield",
