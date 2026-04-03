@@ -5254,7 +5254,8 @@
         "description": "900p average DRS to 1800p PSSR. Nearly locked at 60fps with RT."
       }
     ],
-    "extraInfo": "Pro now has the latest PSSR version, which is far less noisy/unstable/shimmery than the original, objectively ugly patch. Flickering in foliage and RT reflections are especially improved and is now on par with FSR on base PS5. PSSR is also sharper than FSR (and even DLSS on PC) in motion, though softest in stills. Pro performance mode also brings back RT that's not in the base PS5 version, but the implementation is still worse than either PS5's quality mode."
+    "disclaimer": "In order to use PSSR2 in Star Wars Jedi: Survivor, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As SWJ isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed SWJ with PSSR2 toggled on and confirm it fixes the issues mentioned below with a more stable, sharper image and no more PSSR1 film grain-like noise (especially foliage), though there is still some issues with RT reflections. PSSR2 is therefore for SWJ.",
+    "extraInfo": "Pro now uses the latest PSSR1 version. While far less noisy/unstable/shimmery than the original, objectively ugly/pulsing implementation seen during Pro's launch, these issues still remain and look worse than base PS5's FSR. Especially with foliage and RT reflections (check disclaimer to easily improve these PSSR1 issues with PSSR2). PSSR1 does beat FSR in motion clarity though, though looks softer in stills (again, fixed with PSSR2). Finally, Pro performance mode also brings back RT that's not in the base PS5 version, but the implementation is still worse than either PS5's quality mode."
   },
   {
     "name": "Star Wars Outlaws",
