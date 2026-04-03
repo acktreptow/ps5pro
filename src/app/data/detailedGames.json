@@ -1488,23 +1488,24 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination",
-    "resolution": "1440p to 4K PSSR",
+    "resolution": "1440p to 4K PSSR2",
     "fps": "90fps",
     "modes": [
       {
         "name": "prioritize graphics",
-        "description": "1440p to 4K PSSR at an unevenly paced 30fps. Around 40-50fps with VRR."
+        "description": "1440p to 4K PSSR2 at an unevenly paced 30fps. Around 40-50fps with VRR."
       },
       {
         "name": "balanced",
-        "description": "1080p to 4K PSSR at a relatively locked 60fps (lows of low 50s)."
+        "description": "1080p to 4K PSSR2 at a relatively locked 60fps (lows of low 50s)."
       },
       {
         "name": "prioritize performance",
-        "description": "720p to 4K PSSR at a mostly locked 60fps. Usually around 70-85fps with VRR."
+        "description": "720p to 4K PSSR2 at a mostly locked 60fps. Usually around 70-85fps with VRR."
       }
     ],
-    "extraInfo": "All modes can toggle RTGI on/off. When enabled, the framerate is around 10fps fewer than the values stated above. Due to PSSR, RT is noisy/aliased and looks worse as the internal resolution lowers in subsequent modes. This exacerbation is also true with regular occlusion, although PSSR still creates a sharper image and significantly improves ghosting, texture detail and material quality compared to FSR on base PS5. Pro also hits its target framerate much more often than base PS5 in all modes."
+    "disclaimer": "As a whitelisted game, Dragon's Dogma 2 uses PSSR2 regardless of whether the 'Enhance PSSR Image Quality' toggle is on/off in the PS5 system settings. You can therefore safely disregard any Pro analysis conducted before March 2026 (or at least hasn't been updated to include PSSR2 testing), as this PSSR1-centered performance discussion no longer applies.",
+    "extraInfo": "All modes can toggle RTGI on/off. With PSSR1 (pre-March 2026), the RT was noisy/aliased during camera movement, especially when the internal resolution lowered in subsequent modes. Unfortunately even with PSSR2, while much better, these issues still remain. This is also true with regular occlusion, although PSSR2 still creates a sharper image and significantly improves ghosting, texture detail and material quality compared to FSR on base PS5. Pro also hits its target framerate much more often than base PS5 in all modes, although the framerate is around 10fps fewer than the values stated above with RTGI on."
   },
   {
     "name": "Dreams Of Another",
