@@ -552,7 +552,8 @@
         "description": "Lowest visual quality. 720p-936p DRS to 4K PSSR/FSR at a nearly locked 60fps."
       }
     ],
-    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. FSR is less noisy/unstable and looks sharper in stills, however PSSR is both sharper and clearer in motion (where most of the gameplay will be). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality, balanced and performance are all the legacy modes from base PS5 (FSR only), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
+    "disclaimer": "In order to use PSSR2 in Avatar, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As Avatar isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed Avatar with PSSR2 toggled on and confirm it fixes the issues mentioned below with a more stable, sharper image and no more PSSR1 film grain-like noise/lighting issues (especially in foliage). PSSR2 is therefore recommended over PSSR1/FSR3 for Avatar.",
+    "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. PSSR has better motion clarity, but is more noisy/unstable and looks softer in stills (check disclaimer to easily fix these PSSR issues with PSSR2). PSSR works best with the quality 30fps mode due to its highest internal DRS. Quality, balanced and performance are all the legacy modes from base PS5 (FSR only), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
     "name": "Avowed",
