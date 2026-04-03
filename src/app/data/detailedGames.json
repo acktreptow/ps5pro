@@ -1453,19 +1453,20 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced ambient occlusion",
-    "resolution": "1296p to 4K PSSR",
+    "resolution": "1296p to 4K PSSR2",
     "fps": "60fps",
     "modes": [
       {
         "name": "fidelity",
-        "description": "Roughly 1296p to 4K PSSR at a nearly locked 30fps with RTAO."
+        "description": "Roughly 1296p to 4K PSSR2 at a nearly locked 30fps with RTAO."
       },
       {
         "name": "performance",
-        "description": "Roughly 864p-1296p DRS to 1800p PSSR at a nearly locked 60fps with RTAO. Can flicker a lot/look very aliased due to low base resolution."
+        "description": "Roughly 864p-1296p DRS to 1800p PSSR2 at a nearly locked 60fps with RTAO. Can flicker a lot/look very aliased due to low base resolution."
       }
     ],
-    "extraInfo": "Base PS5 uses FSR instead of PSSR, where it's 1080p to 1800p FSR (fidelity) and 864p to 1440p FSR (performance). Base PS5 is a lot softer, but less flickering/aliasing can make foliage/reflections look better compared to Pro. You can see the differences in the background of the menu when toggling between the modes (AO on foliage etc)."
+    "disclaimer": "As a whitelisted game, Dragon Age: The Veilguard uses PSSR2 regardless of whether the 'Enhance PSSR Image Quality' toggle is on/off in the PS5 system settings. You can therefore safely disregard any Pro analysis conducted before March 2026 (or at least hasn't been updated to include PSSR2 testing), as this PSSR1-centered performance discussion no longer applies.",
+    "extraInfo": "Base PS5 has the same modes that target the same framerates, but at lower resolutions that upscale via FSR instead of PSSR2 (1080p to 1800p FSR in fidelity mode. 864p to 1440p FSR in performance mode). Prior to March 2026, base PS5's image looked softer, but actually had better foliage/reflections due to Pro's flickering/aliasing and overall unstable PSSR1 implementation. Fortunately, these issues have now been substantially improved with PSSR2 along with an overall sharper/less noisy image, though still not quite as 4K-like as you'd expect. Finally, you can see the differences in the background of the menu when toggling between modes (AO on foliage etc)."
   },
   {
     "name": "Dragon's Dogma 2",
