@@ -2569,7 +2569,8 @@
     "rtTypes": "Unreal Engine 5 Lumen software-based global illumination/reflections",
     "resolution": "792p to 4K TSR/PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro has DRS (usually around 792p) before upscaling to 4K via TSR or PSSR. While TSR has more aliasing/shimmering on edges, PSSR has more overall instability/noise and is softer. PSSR also has noticeably more flickering/fizzle in lighting, which makes sense as TSR is UE5's default upscaler that's been developed to work well with Lumen. Pro's framerate maintains 60fps most of the time in smaller areas, but can dip into the mid 50s in cities.",
+    "disclaimer": "In order to use PSSR2 in High on Life 2, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As HL2 isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed HL2 with PSSR2 toggled on and confirm it fixes the issues mentioned below with a sharper image and no more PSSR1 film grain-like noise/lighting issues. PSSR2 is therefore recommended for HL2.",
+    "extraInfo": "Pro has DRS (usually around 792p) before upscaling to 4K via TSR or PSSR. While TSR has more aliasing/shimmering on edges, PSSR has more overall instability/noise and is softer with noticeably more flickering/fizzle in lighting (check disclaimer to easily fix these PSSR issues with PSSR2). Pro's framerate maintains 60fps most of the time in smaller areas, but can dip into the mid 50s in cities.",
     "extraInfo2": "Base PS5 also uses DRS, but is usually around 720p before upscaling to 4K via TSR only. It also has a less stable 60fps which can drop under the VRR window, with traversal stutters, in cities/larger fights. Finally, both consoles use screen space contact shadows in conjunction with UE5's virtual shadow maps. This can be distracting when a close shadow is occluded from screen space."
   },
   {
