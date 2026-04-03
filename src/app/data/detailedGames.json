@@ -3494,23 +3494,24 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
-    "resolution": "1944p to 4K PSSR",
+    "resolution": "1944p to 4K PSSR2",
     "fps": "80fps",
     "modes": [
       {
         "name": "prioritize resolution",
-        "description": "1728p-1944p DRS to 4K PSSR with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
+        "description": "1728p-1944p DRS to 4K PSSR2 with RT reflections. Nearly locked 30fps, or up to 45fps with VRR."
       },
       {
         "name": "balanced",
-        "description": "1404p to 4K PSSR with very slightly worse RT than prioritize resolution mode. Nearly locked 40fps, or low 40s in VRR."
+        "description": "1404p to 4K PSSR2 with very slightly worse RT than prioritize resolution mode. Nearly locked 40fps, or low 40s in VRR."
       },
       {
         "name": "prioritize framerate",
-        "description": "1080p to 4K PSSR with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes."
+        "description": "1080p to 4K PSSR2 with RT disabled. Nearly locked 60fps, or up to 80fps with VRR. Worse GI, lighting and LODs than other modes."
       }
     ],
-    "extraInfo": "RT reflections look significantly better than SSR due to no occlusion issues. Pro's PSSR looks much better than base PS5's FSR1 as the image (though slightly softer) has a lot less aliasing/breakup and more temporal stability. This contrast is widened as internal resolution lowers to as low as 720p on base PS5. Pro prioritize framerate mode also hits 60fps more often than the base PS5 version. There's no LFC, so VRR isn't recommended in resolution/balanced modes that rarely reach above 60fps anyways."
+    "disclaimer": "As a whitelisted game, Monster Hunter Wilds uses PSSR2 regardless of whether the 'Enhance PSSR Image Quality' toggle is on/off in the PS5 system settings. You can therefore safely disregard any Pro analysis conducted before March 2026 (or at least hasn't been updated to include PSSR2 testing), as this PSSR1-centered performance discussion no longer applies.",
+    "extraInfo": "Pro's PSSR1 implementation already improved upon base PS5's FSR1, as the image, though slightly softer, had a lot less aliasing/breakup and more temporal stability. With PSSR2, Pro's image is now much sharper/4K-like, removes PSSR1's noise, and has even less aliasing/breakup. SSR is also more stable with PSSR2, but RT reflections still look better. When comparing the same modes on base PS5, these PSSR2 improvements are most noticeable as internal resolution lowers (down to 720p on base PS5 framerate mode). Pro framerate mode also hits 60fps more often. Though with no LFC, VRR isn't recommended in resolution/balanced modes as they rarely hit 48fps."
   },
   {
     "name": "Mortal Kombat 1",
