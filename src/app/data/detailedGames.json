@@ -495,7 +495,8 @@
     "rt": false,
     "resolution": "1872p to 4K PSSR",
     "fps": "60fps",
-    "extraInfo": "Pro runs at 1368p-1872p DRS to 4K PSSR, with a locked 60fps, and is more often in the higher bounds of the DRS. Despite Pro's DRS having a lower base resolution than base PS5, Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to base PS5's TAA. PSSR is however slightly noisier (especially SSR) and more unstable, but this isn't particularly visible at normal viewing distances."
+    "disclaimer": "In order to use PSSR2 in Astro Bot, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As AB isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed AB with PSSR2 toggled on and confirm it fixes the issues mentioned below with a more stable image (especially SSR) and no more PSSR1 film grain-like noise. PSSR2 is therefore recommended for AB.",
+    "extraInfo": "Pro runs at 1368p-1872p DRS to 4K PSSR, with a locked 60fps, and is more often in the higher bounds of the DRS. Despite Pro's DRS having a lower base resolution than base PS5, Pro's PSSR upscaling is cleaner/sharper with less aliasing compared to base PS5's TAA. PSSR is however slightly noisier, especially its SSR (check disclaimer to easily improve these PSSR1 issues with PSSR2)."
   },
   {
     "name": "Atomfall",
