@@ -1166,6 +1166,25 @@
     "extraInfo": "Nuverse has confirmed that Pro uses PSSR to upscale to a 4K image. This isn't possible on base PS5 as PSSR is an AI upscaler."
   },
   {
+    "name": "Cyberpunk 2077",
+    "id": "Cyberpunk",
+    "urlPath": "cyberpunk-2077",
+    "genre": "Action RPG",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 15, 2022",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced shadows. Hopefully ray traced global illumination and/or reflections.",
+    "resolution": "4K PSSR2",
+    "fps": "120fps (likely)",
+    "extraInfo": "The only Pro enhancement currently confirmed for Cyberpunk 2077 is the use of PSSR2. However, Digital Foundry have speculated that RTGI and/or RT reflections are 2 other enhancements that should be easily viable for Pro. These would be great additions, as RT shadows (already on base PS5) do far less to enhance image quality compared to when these RT implementations were tested on the PC version. DF also stated that the Pro patch has been in the works for a while, which, combined with how well PSSR2 has been received, bodes well for an excellent Pro version. We'll just have to wait until closer to launch to see exactly what this entails beyond the upscaler."
+  },
+  {
     "name": "CyubeVR",
     "pageTitle": "cyubeVR",
     "id": "CyubeVR",

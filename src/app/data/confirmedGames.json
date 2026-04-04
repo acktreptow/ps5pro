@@ -36,18 +36,6 @@
     "metacritic": 0
   },
   {
-    "name": "Cyberpunk 2077",
-    "id": "Cyberpunk",
-    "genre": "Action RPG",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 15, 2022",
-    "hasShipped": true,
-    "metacritic": 75
-  },
-  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
