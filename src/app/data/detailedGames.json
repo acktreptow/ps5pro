@@ -5709,7 +5709,8 @@
         "description": "Legacy base PS5 mode. 1440p to 4K TAA at a locked 60fps, or around 80-110fps with VRR."
       }
     ],
-    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. Finally, PSSR beats FSR in the PC version and comes very close to DLSS."
+    "disclaimer": "In order to use PSSR2 in The Last of Us, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As TLOU isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed TLOU with PSSR2 toggled on and confirm a more stable, even sharper image with no more PSSR1 film grain-like noise (especially in foliage). PSSR2 is therefore recommended for TLOU.",
+    "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. Finally, PSSR beats FSR in the PC version and comes very close to DLSS (check disclaimer to improve PSSR even further with PSSR2)."
   },
   {
     "name": "The Last Of Us Part II",
