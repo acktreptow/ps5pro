@@ -1100,22 +1100,23 @@
     "rt": true,
     "rtTypes": "Ray traced diffuse global illumination (including local lights) and reflections.",
     "resolution": "4K",
-    "fps": "60+fps with VRR",
+    "fps": "105fps",
     "modes": [
       {
         "name": "quality",
-        "description": "4K at 30fps with RT quality set to Ultra."
+        "description": "4K at a mostly stable 30fps (1-8fps dips in effect heavy scenes) with RT quality set to Ultra."
       },
       {
         "name": "balanced",
-        "description": "1440p to 4K PSSR2 at 40fps, or 48fps+ with VRR. RT quality set to High."
+        "description": "1440p to 4K PSSR2 at a basically locked 40fps, or usually around low 50s with VRR. RT quality set to High."
       },
       {
         "name": "performance",
-        "description": "1080p to 4K PSSR2 at 60fps, or 60fps+ with VRR. RT quality set to High."
+        "description": "1080p to 4K PSSR2 at a very stable 60fps (1-8fps dips in effect heavy scenes), or up to 105fps (usually around 65fps) with VRR. RT quality set to High."
       }
     ],
-    "extraInfo": "Base PS5 has the same 3 modes with the same framerate targets. However, its RT quality is only set to High in its quality mode and Low in its balanced/performance modes. Base PS5 also uses FSR3 as its upscaler with lower internal resolutions (1440p to 4K in quality mode, 1280p to 4K in balanced and native 1080p in performance)."
+    "extraInfo": "Framerates can tank into the mid 20s in all modes in very select CPU-heavy scenes. Of the 12 graphics settings presets, the only other difference between quality and balanced mode is lighting quality going from ultra to high. While most settings are reduced in performance mode (some of which by more than 1 preset like model quality), the image is actually sharper than balanced and quality mode. Digital Foundry theorizes this is due to the lower post processing preset which is blurring the image at ultra settings on balanced/quality mode. With performance mode presets still being good (only slightly worse than base PS5 quality mode), Pro performance mode is actually the best way to play considering it also has the clearest image and highest framerate.",
+    "extraInfo2": "Base PS5 has the same 3 modes with worse framerates, but it's performance mode is especially far less stable - regularly falling out of the VRR window and it's even worse with the fixed 4K screen setting toggled on. RT quality is also only set to High in its quality mode and Low in its balanced/performance modes. Base PS5 also uses FSR3 as its upscaler with lower internal resolutions (1440p to 4K in quality mode, 1280p to 4K in balanced and native 1080p in performance)."
   },
   {
     "name": "Cronos: The New Dawn",
