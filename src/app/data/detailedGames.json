@@ -1391,6 +1391,7 @@
         "description": "Legacy base PS5 mode. 1440p at a locked 60fps."
       }
     ],
+    "disclaimer": "As Demon's Souls isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with DS yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "While the native 4K in base PS5's cinematic (quality) mode is a little sharper than PS5 Pro mode, it's also far more noisy, more aliased, and less temporally stable than the 1440p-1584p DRS to 4K PSSR in the Pro mode, which therefore has the better image quality despite the lower internal resolution. PS5 Pro mode also has improved shadows and a locked 60fps, therefore making the legacy cinematic/performance modes redundant."
   },
   {
