@@ -2065,6 +2065,7 @@
     "rt": false,
     "resolution": "4K PSSR/FSR2",
     "fps": "60fps",
+    "disclaimer": "As FBC: Firebreak isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with FBC yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. However, Pro can use either PSSR or FSR2 to upscale to 4K, and they perform similarly to their AW2 implementation (PSSR has better motion clarity and less artifacting, but FSR is less noisy and more 4K-like in stills). Base PS5 exclusively uses FSR2 to upscale to only 1440p, though also achieves a stable 60fps."
   },
   {
