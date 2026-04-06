@@ -2236,6 +2236,7 @@
         "description": "1440p to 4K PSSR at 90-120fps (usually around 100fps)."
       }
     ],
+    "disclaimer": "As Gears Of War: Reloaded isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with GOW yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro has improved shadows/reflections (less noisy etc) over base PS5. The internal resolution for base PS5's 60 HZ mode is only 1440p compared to Pro's 1620p, and its 120 HZ mode internally renders at 1080p compared to Pro's 1440p. Pro also uses PSSR to upscale to 4K, which results in sharper foliage/textures compared to base PS5's FSR3. Base PS5 is usually around 20fps lower than Pro in their 120 HZ modes (drops to 70fps), though both consoles maintain a locked 60fps in their 60 Hz modes.",
     "extraInfo2": "Between the same 1440p internal resolution and the superior PSSR upscale, Pro's 120 HZ mode is actually sharper than base PS5's 60 HZ mode, with better graphics settings, at nearly 2x the framerate."
   },
