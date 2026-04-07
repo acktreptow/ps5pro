@@ -5186,6 +5186,7 @@
         "description": "1440p to 4K PSSR at a locked 60fps, or usually around 70fps with VRR. Base PS5's fidelity mode level of RT quality."
       }
     ],
+    "disclaimer": "As Spider-Man 2 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with SM2 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in Performance Pro still resolves more detail than the upscaler seen in any base PS5 mode. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution (50% in Performance Pro) and RTAO has more contact shadows, adding depth to assets all over the screen. RT types can be toggled on/off which affects VRR framerate approx +- 10. Draw distance/distant reflections are also improved over Performance Pro (which is at base PS5 Fidelity mode), e.g. more onscreen distant objects like trees. Graphics settings are equivalent to PC's high/very high."
   },
   {
