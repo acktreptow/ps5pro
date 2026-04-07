@@ -837,6 +837,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
+    "disclaimer": "As BoF isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with BoF yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Both PS5 consoles cap the framerate at 60fps. On Pro, there's dynamic resolution scaling that ranges from 1080p-4K native before being upscaled to 4K PSSR. With 1080p being the lowest internal resolution value, PSSR is still able to reconstruct an excellent 4K image in the most demanding areas."
   },
   {
