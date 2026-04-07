@@ -1171,6 +1171,7 @@
     "rt": false,
     "resolution": "4K Upscaled (likely)",
     "fps": "60fps (likely)",
+    "disclaimer": "As CoA isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with CoA yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Nuverse has confirmed that Pro uses PSSR to upscale to a 4K image. This isn't possible on base PS5 as PSSR is an AI upscaler."
   },
   {
