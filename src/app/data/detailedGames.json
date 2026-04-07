@@ -636,6 +636,7 @@
         "description": "1440p to 4K PSSR at a mostly stable 60fps."
       }
     ],
+    "disclaimer": "As BG3 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with BG3 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro's performance mode looks better than even base PS5's quality mode due to upscalers used. PSSR is a little bit softer than base PS5's FSR, but much more stable with less artifacting/flickering. This instability is especially noticeable with assets in motion, such as moving shadows. Pro also has an approx 10% higher framerate, so manages to reach 60fps more often than base PS5 (especially important in later acts where base PS5 is particularly unstable). Finally, Pro can also run split screen at either 30fps or 60fps, compared to just 30fps on base PS5."
   },
   {
