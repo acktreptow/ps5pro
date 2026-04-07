@@ -445,7 +445,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR",
     "fps": "60fps",
-    "disclaimer": "To use PSSR2, activate 'Enhance PSSR Image Quality' in PS5 system settings. As AC Mirage isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with AC Mirage yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2, and only revert back if there are major issues.",
+    "disclaimer": "As Mirage isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Mirage yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Through PSSR, Pro combines the 4K resolution, better shadows/reflections, higher texture resolution, and improved draw distance seen in the base PS5's 30fps quality mode, with the 60fps seen in base PS5's performance mode. Pro's framerate is also a nearly locked 60fps and more stable than base PS5's performance mode."
   },
   {
