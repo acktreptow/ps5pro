@@ -714,6 +714,7 @@
     "rt": false,
     "resolution": "4K PSSR",
     "fps": "60fps",
+    "disclaimer": "As Beneath isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Beneath yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Camel 101 have confirmed that they're targeting 4K and 60fps on both base PS5 and Pro. They've also confirmed that Pro will utilize PSSR for 'enhanced visuals'. This potentially means that PSSR is doing a better job of creating a 4K-like image than base PS5's upscaler, or could simply mean that PSSR is using a higher internal resolution than what's on base PS5 due to Pro's extra power. We'll find out closer to the game's late 2025 launch."
   },
   {
