@@ -944,7 +944,7 @@
         "description": "1440p to 4K TAA at a relatively stable 120fps. Graphics settings the same as base PS5's fidelity mode that runs at 60fps."
       }
     ],
-    "disclaimer": "All tech information on the page is based off Black Ops 6's enhancements as there's been no analsysis done by a trusted secondary source like Digital Foundry at the time of writing. Fortunately, B06 and B07 were developed simultaneously by the same teams. B06 therefore provides a good baseline of expectations, especially as B07 has the same toggles and shows similar results in general gameplay:",
+    "disclaimer": "As B07 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with B07 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5). Base PS5 120 Hz mode is less stable than Pro's and also runs at a lower, more 1008p-1080p resolution. Base PS5 fidelity mode has a similar resolution, but still looks less stable due to Pro's good PSSR implementation.'"
   },
   {
