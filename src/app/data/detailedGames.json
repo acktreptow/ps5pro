@@ -1835,6 +1835,7 @@
         "description": "1620p to 4K PSSR at a stable 120fps."
       }
     ],
+    "disclaimer": "As Enlisted isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Enlisted yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro's high performance mode now hits a solid 120fps, whereas base PS5's version is usually around 90fps with a lower 1440p internal resolution. Pro also has higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality/clarity has improved."
   },
   {
