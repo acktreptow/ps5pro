@@ -3227,8 +3227,9 @@
     "rt": false,
     "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "disclaimer": "Madden 26 is the first current-gen only entry. However, its Pro enhancements mirrors Madden 25 (all tech info on the page). Madden 26 still provides visual upgrades due to this year's focus on stadium presentation/authenticity and extreme weather visuals, it's just that these improvements are also on base PS5:",
-    "extraInfo": "'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
+    "disclaimer": "As Madden 26 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Madden 26 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "extraInfo": "Madden 26 is the first current-gen only entry. However, its Pro enhancements mirrors Madden 25 (all tech info on the page). Madden 26 still provides visual upgrades due to this year's focus on stadium presentation/authenticity and extreme weather visuals, it's just that these improvements are also on base PS5:",
+    "extraInfo2": "'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
   },
   {
     "name": "Mafia: The Old Country",
