@@ -2199,7 +2199,7 @@
         "description": "Upscaled 4K PSSR/TSR at 60fps. Lower internal resolution (presumably) than balanced mode to go from 40fps to 60fps."
       }
     ],
-    "disclaimer": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler.",
+    "disclaimer": "Despite Frostpunk 2 not being marked as Pro Enhanced on the PSN store, it absolutely is by the mere fact that it offers PSSR as an upscaler. As it's not whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Frostpunk yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Based off other UE5 games that also give the choice between PSSR and TSR (like Hellblade 2, Hell Is Us etc), it's likely that TSR upscales a more stable image, but the difference is only slight and neither provide a FPS advantage. Base PS5 has the same modes but at (presumably) worse internal resolutions, though pixel counts aren't currently available."
   },
   {
