@@ -2363,6 +2363,7 @@
         "description": "Legacy base PS5 performance mode capped at 60fps. Now redundant."
       }
     ],
+    "disclaimer": "As GoW:R isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with GoW:R yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro can toggle between TAA and PSSR for upscaling. PSSR is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20fps fewer in HFR mode. Both upscalers use 1440p as the base resolution but PS5 Pro Enhanced mode can regularly have an internal resolution of around 1800p. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
   },
   {
