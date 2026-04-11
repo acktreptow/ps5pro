@@ -3745,6 +3745,7 @@
         "description": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
       }
     ],
+    "disclaimer": "As NB isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with NB yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution, which it locks to at 60fps."
   },
   {
