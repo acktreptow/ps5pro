@@ -5370,22 +5370,27 @@
     "release": "April 7, 2026",
     "hasShipped": true,
     "metacritic": 80,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "4K at 30fps."
+        "name": "enhanced",
+        "description": "1800p to 4K PSSR at a mostly stable 30fps, or around 55fps with VRR. Improved LODs."
       },
       {
-        "name": "performance",
-        "description": "Upscaled 4K (likely) at 60fps with enhanced visuals."
+        "name": "prioritize visuals",
+        "description": "1440p to 4K PSSR at a mostly stable 30fps. Superfluous on Pro."
+      },
+      {
+        "name": "priorite performance",
+        "description": "1080p to 4K PSSR at an unstable 60fps or up to 90fps with VRR."
       }
     ],
-    "disclaimer": "All info is taken from the PlayStation Blog announcement.",
-    "extraInfo": "Currently, there's very little information to go on, aside from knowing that Pro will also have 2 modes. Hopefully, we'll learn more detailed specifics when reputable sources like Digital Foundry/NX Gamer etc can take an in-depth look closer to Starfield's April launch. For example, it'd be great to know exactly what 'enhanced visuals' entails."
+    "disclaimer": "As Starfield isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry have reviewed Starfield with PSSR2 toggled on and confirm that While there can be small issues with foliage occlusion the overall image is more stable, sharper, and removes PSSR1's film grain-like noise. PSSR2 is therefore recommended for Starfield (activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings).",
+    "extraInfo": "Due to multiple toggles (VSync, framerate etc) and modes, Pro has over 20 variations with the vast majorirty being rendundant. Therefore to keep it simple, if you want to max out the framerate, choose priortitize performance and uncap the framerate target if you have a capable TV. Otherwise, choose the Pro's exclusive enhanced mode and cap the framerate to either 30fps/40fps for a stable experience, or 60fps if you have a capable TV and don't mind some drops out of VRR.",
+    "extraInfo2": "Prioritize visuals mode should only be chosen on a base PS5, as that's mode's graphics settings are significantly worse compared to enhanced. However, that its the recommended mode for base PS5 as unlike Pro, it can't maintain a stable 60fps. It's FSR also compares decently with Pro's default PSSR1 upscaling, but this is improved on Pro with PSSR2.(check disclaimer)"
   },
   {
     "name": "Stellar Blade",
