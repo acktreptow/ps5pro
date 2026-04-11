@@ -2875,6 +2875,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR",
     "fps": "120fps",
+    "disclaimer": "As Isonzo isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Isonzo yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro uses PSSR to upscale to 4K, whereas base PS5 uses FSR 2.2 to upscale to 1800p. While both consoles also use DRS, Pro internally renders between 756p-1440p, whereas base PS5 is between 630p-1200p. Between the higher internal DRS and output resolution, Pro looks noticeably sharper. Pro also runs in High CPU Frequency mode for improved performance (a more stable framerate that targets 60fps, but can go up to 120fps with HFR/VRR)."
   },
   {
