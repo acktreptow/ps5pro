@@ -2969,6 +2969,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR",
     "fps": "95fps",
+    "disclaimer": "As KCD2 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with KCD2 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro has 1 mode that's 1296p-1440p DRS to 4K PSSR at a nearly locked 60fps, or around 70fps (highs of 90s) with VRR. Base PS5 has 2 modes - 1080p to 1440p FSR at 60fps (performance mode), or 1440p to 4K FSR at 30fps (fidelity mode). Even though Pro can have a lower internal resolution than base PS5 fidelity mode, its PSSR upscaling still resolves the clearest (albeit a little noisier) image. Pro also has the same improved tree/shadow LODs, ambient occlusion and object quality of base PS5 fidelity mode, but at 60+fps."
   },
   {
