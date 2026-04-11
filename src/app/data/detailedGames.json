@@ -3764,7 +3764,7 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "4K PSSR",
     "fps": "60fps",
-    "disclaimer": "To use PSSR2, activate 'Enhance PSSR Image Quality' in PS5 system settings. As NBA 2K25 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with 2K25 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2, and only revert back if there are major issues.",
+    "disclaimer": "As 2K25 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with 2K25 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "The biggest difference between Pro and base PS5 is the addition of RT reflections in The City mode. Pro also uses PSSR to upscale to 4K, creating a slightly sharper image compared to base PS5. However, it can also cause certain assets, like handrails in the stands, to appear a bit more unstable. Fortunately, both consoles run at a basically locked 60fps."
   },
   {
