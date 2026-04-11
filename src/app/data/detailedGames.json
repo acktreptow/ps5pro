@@ -3929,6 +3929,7 @@
         "description": "4K PSSR at a basically locked 60fps."
       }
     ],
+    "disclaimer": "As NMS isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with NMS yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "While base PS5 has a singular mode that also runs at 4K/60fps, both Pro modes have improved lighting, ultra quality reflections and higher quality ambient occlusion. These improvements are also seen in the PSVR2 version. PSSR implementation works very well due to the high base resolution in both modes."
   },
   {
