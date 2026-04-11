@@ -2781,6 +2781,7 @@
     "rt": false,
     "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
+    "disclaimer": "As Hunt isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Hunt yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, Pro's PSSR implementation results in a lot more shimmering/flickering than FSR2. To the point that many feel Pro's image looks worse despite the sharper render."
   },
   {
