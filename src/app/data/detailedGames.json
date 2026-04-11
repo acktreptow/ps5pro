@@ -3315,6 +3315,7 @@
     "rt": false,
     "resolution": "4K PSSR",
     "fps": "60fps",
+    "disclaimer": "As Marathon isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Marathon yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Pro has improved ambient occlusion and higher resolution reflections compared to base PS5. While Pro can also use CMAA and FSR for resolution scaling, PSSR resolves the sharpest/most stable image. PSSR also provides the most stable 60fps, although there's only ever short-lived 1-5fps drops regardless of upscaler used. Base PS5 can use either CMAA or FSR with similar image stability/framerate results."
   },
   {
