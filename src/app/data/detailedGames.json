@@ -3784,8 +3784,9 @@
     "rtTypes": "Ray traced reflections",
     "resolution": "1440p (likely) to 4K PSSR",
     "fps": "60fps",
-    "disclaimer": "The info below is taken from NBA 2K25's page as NBA 2K26 has the same Pro enhancements. It does look better than last year due to improved shading/lighting/animations etc, but these are on base PS5 as well:",
-    "extraInfo": "'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
+    "disclaimer": "As 2K26 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with 2K26 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "extraInfo": "The info below is taken from NBA 2K25's page as NBA 2K26 has the same Pro enhancements. It does look better than last year due to improved shading/lighting/animations etc, but these are on base PS5 as well:",
+    "extraInfo2": "'The biggest difference between Pro and base PS5 is the addition of RT reflections in The City. Pro also uses PSSR to upscale from 1440p (likely) to 4K. This creates a slightly sharper image compared to base PS5, however PSSR also causes certain assets like handrails in the stands to render a bit more unstable.'"
   },
   {
     "name": "NHL 26",
