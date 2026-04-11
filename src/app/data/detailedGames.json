@@ -2914,6 +2914,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
+    "disclaimer": "As Karma isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Karma yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "The developers claim Pro is native 4K, but also using PSSR in order to get a 'rock solid' 60fps. Pro also has enhanced texture streaming and volumetric effects, higher quality texture filtering, improved distance rendering, and better temporal stability compared to base PS5."
   },
   {
