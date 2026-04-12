@@ -5436,6 +5436,7 @@
         "description": "Legacy base PS5 performance mode. See below for reasons why it's redundant."
       }
     ],
+    "disclaimer": "As SB isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with SB yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "The legacy modes from base PS5 are still present, but like Pro Max mode, they use TAA. The 80fps Pro mode is the only one that uses PSSR. The PSSR implementation is far better than TAA at de-noising/sharpening/stabilizing/de-shimmering the image. So even with a lower base resolution (1800p), Pro mode looks better than the native 4K TAA in Pro Max, let alone the legacy modes that max out at 60fps. With the best image quality and highest framerate, Pro mode makes all the others redundant."
   },
   {
