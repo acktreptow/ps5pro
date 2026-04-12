@@ -6125,7 +6125,7 @@
         "description": "Favors higher framerates (40/60/120fps) over resolution, which is 1080p-1440p DRS. No RT."
       }
     ],
-    "disclaimer": "As TD:TAD isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with TD:TAD yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "disclaimer": "As TD:TDC isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with TD:TDC yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "All tech information is based off Kyodai's Truck Driver: The American Dream. The only aspect that's been confirmed is that Pro will use hardware RT, whereas base PS5 is using software RT.",
     "extraInfo2": "'All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro.'"
   },
@@ -6266,6 +6266,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
+    "disclaimer": "As Warframe isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Warframe yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "There's no strict quality/performance modes, nor can you go above 60fps. Instead, Warframe's menus are very PC-like in UI. For example, you can toggle graphical settings of aspects like particle quality and volumetric fog. You can also toggle PSSR on/off. If PSSR is on and all graphical settings so to their highest, the framerate is a basically locked 60fps. If toggled off/no upscaler used, it will rarely maintain 60fps, but will stay above the 48fps VRR window for the vast majority of gameplay."
   },
   {
