@@ -5749,6 +5749,7 @@
         "description": "1440p PSSR at 60fps, which is achieved more often with frame gen on. Has all RT except for RT shadows and translucent surface reflections."
       }
     ],
+    "disclaimer": "As TFD isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with TFD yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "One of the few Pro games to combine PSSR's upscaling with AMD's FSR frame generation, whereas base PS5 uses FSR for upscaling. You can toggle both RT and frame gen on/off in all modes. Frame gen increases framerates, but isn't recommended in any mode as the base framerate is too low, resulting in too much input lag."
   },
   {
