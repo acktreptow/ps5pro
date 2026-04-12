@@ -4139,6 +4139,7 @@
     "rtTypes": "Ray traced reflections and shadows",
     "resolution": "4K PSSR",
     "fps": "60fps",
+    "disclaimer": "As Outbreak isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with Outbreak yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Both base PS5 and Pro likely have the same internal resolution. However, Pro upscales to 4K via PSSR which results in a far sharper image compared to base PS5. Especially with certain graphical effects like rain, which looks sub-1080p on the base console. Pro also improves texture resolution and other visual effects, although the PSSR implementation does cause strobing/instability on certain RT assets. Finally, Pro's 60fps is far more stable - only dipping on rare occasion to mid 50s, whereas base PS5 is constantly dipping from 60fps and can go as low as 45fps in the opening section."
   },
   {
