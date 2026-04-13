@@ -216,18 +216,6 @@
     "metacritic": 0
   },
   {
-    "name": "Panic House: Awakening",
-    "id": "PHA",
-    "genre": "Horror",
-    "developer": "Webnetic",
-    "publisher": "Webnetic",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Project Motor Racing",
     "id": "PMR",
     "genre": "Racing, Simulation",
