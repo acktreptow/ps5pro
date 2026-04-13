@@ -2641,7 +2641,6 @@
     "disclaimer": "In order to use PSSR2 in Hogwarts Legacy, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As HL isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed HL with PSSR2 toggled on and confirm it resolves a sharper image (especially foliage in trees). PSSR2 is therefore recommended for HL.",
     "extraInfo": "You can remove the framerate cap in the fidelity and balanced modes, increasing the framerate by 5-10fps. RT shadows are better quality than base PS5, but less accurate on some moving objects. RT reflections have twice the resolution on Pro compared to base PS5. It also applies to bodies of water unlike base PS5 which uses SSR, though can look noisy due to PSSR. Pro performance modes have same graphical settings as the other Pro modes outside of RT. Base PS5 uses FSR 1 to upscale, which looks sharper, but more aliased than PSSR."
   },
-
   {
     "name": "Horizon 1 Zero Dawn",
     "pageTitle": "Horizon Zero Dawn Remastered",

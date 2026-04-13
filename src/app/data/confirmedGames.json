@@ -108,6 +108,18 @@
     "metacritic": 0
   },
   {
+    "name": "Invincible VS",
+    "id": "Invincible",
+    "genre": "2D Tag Fighter",
+    "developer": "Quarter Up",
+    "publisher": "Skybound Games",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "April 30, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Kiborg",
     "id": "Kiborg",
     "genre": "Roguelite, Beat'em up",
