@@ -62,6 +62,24 @@
     "metacritic": 0
   },
   {
+    "name": "Motel Business Simulator",
+    "id": "MBS",
+    "urlPath": "motel-business-simulator",
+    "genre": "Simulation, Strategy",
+    "developer": "Nostra Games",
+    "publisher": "Nostra Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 2, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower."
+  },
+  {
     "name": "Only Up Rush",
     "id": "Only Up Rush",
     "urlPath": "only-up-rush",
