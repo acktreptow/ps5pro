@@ -116,6 +116,18 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, Pro has a slightly higher resolution, resulting in a cleaner/more 4K-like image, with less shimmer/instability in assets like railings/billboards/tarp."
   },
   {
+    "name": "Panic House: Awakening",
+    "id": "PHA",
+    "genre": "Horror",
+    "developer": "Webnetic",
+    "publisher": "Webnetic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Project Songbird",
     "id": "Songbird",
     "genre": "Psychological Horror",
