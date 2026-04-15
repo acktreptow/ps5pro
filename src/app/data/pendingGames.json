@@ -116,6 +116,25 @@
     "extraInfo": "Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower."
   },
   {
+    "name": "OneTry",
+    "id": "OneTry",
+    "urlPath": "onetry",
+    "genre": "Horror, Action",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 14, 2026",
+    "hasShipped": true,
+    "metacritic": 30,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "disclaimer": "All tech information is based off Quisisana, which was Domynyo's previous game that had a similar genre/scope and therefore provides a good baseline of expectations until OneTry is tested:",
+    "extraInfo": "'Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal.'"
+  },
+  {
     "name": "Only Up Rush",
     "id": "Only Up Rush",
     "urlPath": "only-up-rush",
