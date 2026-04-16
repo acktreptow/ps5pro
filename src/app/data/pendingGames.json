@@ -282,6 +282,18 @@
     "metacritic": 0
   },
   {
+    "name": "Snoot Runner",
+    "id": "Snoot Runner",
+    "genre": "Action, Arcade",
+    "developer": "KCI Soft Works",
+    "publisher": "KCI Soft Works",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 28, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "The Here",
     "id": "The Here",
     "genre": "Survival Horror",
