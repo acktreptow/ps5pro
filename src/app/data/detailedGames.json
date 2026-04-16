@@ -109,25 +109,6 @@
     "extraInfo": "Both base PS5 and Pro run at 60fps and upscale to 4K. Pro however uses PSSR to upscale, whereas base PS5 (likely) uses TSR as it's a UE5 game. While the internal resolution before upscaling is unknown, the game is still very sharp on Pro which suggests that it's at least 1080p. Pro also has greater lighting/volumetric fog fidelity and more realistic reflections/surfacing."
   },
   {
-    "name": "Amer: The Chase Hit & Run",
-    "pageTitle": "Amer: The Chase Hit and Run",
-    "id": "Amer Hit and Run",
-    "urlPath": "amer-the-chase-hit-and-run",
-    "genre": "Driving, Boxing",
-    "developer": "Mad Hook",
-    "publisher": "Mad Hook",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 19, 2026",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "Upscaled 4K",
-    "fps": "60fps",
-    "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both consoles also render a very 4K-like image (Pro could be slightly higher), with shimmering/aliasing only being particularly noticeable on traffic lights."
-  },
-  {
     "name": "Anger Foot",
     "id": "Anger Foot",
     "urlPath": "anger-foot",
