@@ -288,6 +288,24 @@
     "extraInfo": "'Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower.'"
   },
   {
+    "name": "Sanguis Luna",
+    "id": "SL",
+    "urlPath": "sanguis-luna",
+    "genre": "Survival Horror",
+    "developer": "Domynyo",
+    "publisher": "Domynyo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 15, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
+  },
+  {
     "name": "Snoot Booper",
     "id": "Snoot Booper",
     "genre": "Action, Casual",
