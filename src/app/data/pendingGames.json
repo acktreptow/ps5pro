@@ -270,6 +270,18 @@
     "extraInfo": "'Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower.'"
   },
   {
+    "name": "Snoot Booper",
+    "id": "Snoot Booper",
+    "genre": "Action, Casual",
+    "developer": "KCI Soft Works",
+    "publisher": "KCI Soft Works",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 14, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "The Here",
     "id": "The Here",
     "genre": "Survival Horror",
