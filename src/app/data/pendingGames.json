@@ -153,6 +153,25 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, Pro has a slightly higher resolution, resulting in a cleaner/more 4K-like image, with less shimmer/instability in assets like railings/billboards/tarp."
   },
   {
+    "name": "Operation Candy Land",
+    "id": "Candy Land",
+    "urlPath": "operation-candy-land",
+    "genre": "Action, Strategy",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "disclaimer": "All info is taken from the demo and is subject to change for Operation Candy Land's launch.",
+    "extraInfo": "Both base PS5 and Pro run at a locked 60fps. However, both render a soft 1080p-looking SDR image with noticeable shimmering/jaggies etc. If there are Pro enhancements, they're essentially imperceptible in general gameplay. Again, like the disclaimer states, a lack of meaningful enhancements could be down to it just being a demo of an unreleased game. However, considering the Pro enhancements (or lack thereof) in many other Mad Hook titles, anything meaningful is far from a guarantee."
+  },
+  {
     "name": "Panic House: Awakening",
     "id": "PHA",
     "genre": "Horror",
