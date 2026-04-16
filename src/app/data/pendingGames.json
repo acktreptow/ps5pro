@@ -50,6 +50,24 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, you can significantly increase the FOV, and it's here where Pro will have an easier time maintaining 60fps in more demanding scenes. Pro potentially has a slightly higher resolution than base PS5, but any difference is negligible - especially when the camera effects are toggled on."
   },
   {
+    "name": "Highway Drifter: Hajwala",
+    "id": "Highway Drifter",
+    "urlPath": "highway-drifter-hajwala",
+    "genre": "Racing, Simulation",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 1, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K Upscaled",
+    "fps": "60fps",
+    "extraInfo": "While Highway Drifter has the Pro Enhanced badge on the PSN Store, it's unclear what enhancements, if any, are actually present. Both base PS5 and Pro run at a locked 60fps. However, both consoles share image quality issues, including extreme pop-in, stair-stepped occlusion around the car on wet roads, and shimmering/instability on certain assets. Both also use SSR for reflections and seem to render at the same resolution, as they exhibit an identical number of stair-stepped edges in menus - something easy to verify due to no anti-aliasing. If there are Pro enhancements, they're minimal at best and base PS5 is easily capable of delivering the same experience."
+  },
+  {
     "name": "Hole Digging Master",
     "id": "HDM",
     "urlPath": "hole-digging-master",
