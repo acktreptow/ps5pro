@@ -50,6 +50,24 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, you can significantly increase the FOV, and it's here where Pro will have an easier time maintaining 60fps in more demanding scenes. Pro potentially has a slightly higher resolution than base PS5, but any difference is negligible - especially when the camera effects are toggled on."
   },
   {
+    "name": "Amer Fighting",
+    "id": "AF",
+    "urlPath": "amer-fighting",
+    "genre": "Action, Fighting",
+    "developer": "Mad Hook",
+    "publisher": "Mad Hook",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 3, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at a locked 60fps. While both consoles also suffer from aliasing/shimmering alongside many assets with straight edges, these issues are worse on base PS5 (which also looks softer) due to its slightly lower internal resolution."
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "urlPath": "highway-drifter-hajwala",
