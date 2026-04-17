@@ -227,6 +227,27 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps. However, both render a soft 1080p-looking SDR image with noticeable shimmering/jaggies etc. If there are Pro enhancements, they're essentially imperceptible in general gameplay. Again, like the disclaimer states, a lack of meaningful enhancements could be down to it just being a demo of an unreleased game. However, considering the Pro enhancements (or lack thereof) in many other Mad Hook titles, anything meaningful is far from a guarantee."
   },
   {
+    "name": "Outbreak: SOH",
+    "pageTitle": "Outbreak: Shades of Horror",
+    "id": "Outbreak MP",
+    "urlPath": "outbreak-shades-of-horror",
+    "genre": "Co-Op Survival Horror",
+    "developer": "Dead Drop Studios",
+    "publisher": "Dead Drop Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 6, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced reflections and shadows",
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "disclaimer": "All info is taken from Outbreak: Shades of Horror Chromatic Split (the more singleplayer-focused entry in the IP) as no Pro enhancements have been detailed at the time of writing and will be updated accordingly. However, despite the more multiplayer focus, Chromatic Split at least provides a good baseline of expectations considering the similar scope/aesthetic of both games.",
+    "extraInfo": "Both base PS5 and Pro likely have the same internal resolution. However, Pro upscales to 4K via PSSR which results in a far sharper image compared to base PS5. Especially with certain graphical effects like rain, which looks sub-1080p on the base console. Pro also improves texture resolution and other visual effects, although the PSSR implementation does cause strobing/instability on certain RT assets. Finally, Pro's 60fps is far more stable - only dipping on rare occasion to mid 50s, whereas base PS5 is constantly dipping from 60fps and can go as low as 45fps in the opening section."
+  },
+  {
     "name": "Panic House: Awakening",
     "id": "PHA",
     "genre": "Horror",
