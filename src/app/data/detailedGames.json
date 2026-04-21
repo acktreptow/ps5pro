@@ -4610,13 +4610,11 @@
     "release": "April 30, 2026",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
-    "rt": true,
-    "rtTypes": "Ray traced audio (based off Returnal)",
-    "resolution": "1728p to 4K (based off Returnal)",
-    "fps": "60fps (based off Returnal)",
-    "disclaimer": "All tech info is based on Returnal. However, despite the move from UE4 (Returnal) to UE5 (Saros), Returnal's performance still provides a good baseline of expectations as according to DF, Saros's debut base PS5 gameplay looked like a highly customized version of UE5 (no Lumen, Nanite or VSMs). Therefore, Saros shouldn't struggle as much as other UE5 games. Especially as base PS5 ran Saros at 1080p/60fps:",
-    "extraInfo": "'Pro has a very frequent internal resolution of 1728p (infrequent DRS floor of 1350p) that outputs to 4K. Whereas base PS5 is a fixed 1080p, then reconstructed to 1440p before upscaling to a 4K checkerboard. This roughly 2.5x resolution increase leads to a significantly less noisy/grainy image with less aliasing/flickering on Pro, though some image instability remains. Both PS5 consoles have framerate dips into the low 50s, but this occurs less often on Pro, and even the largest dips are within VRR. While there's other forms of RT outside of audio, this is only for background calculations, not for visual improvements, so it's not listed.'"
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "All that's been confirmed so far is that Pro will use PSSR2 to render a higher resolution than on base PS5. We should however find out more very soon though due to Saros's imminent launch next week."
   },
   {
     "name": "Satisfactory",
