@@ -1114,10 +1114,24 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced shadows. Hopefully also a combination of ray traced global illumination, reflections and sun shadows.",
-    "resolution": "4K PSSR2",
-    "fps": "120fps (likely)",
-    "extraInfo": "The only Pro enhancement currently confirmed for Cyberpunk 2077 is PSSR2. However, Digital Foundry have speculated that a combination of RTGI, RT reflections, and sun shadows are 3 other enhancements that should be easily viable for Pro. These would be great additions, as RT shadows (already on base PS5, but only at 30fps) does far less to enhance image quality - especially if they could be added to a 40fps or 60fps mode. Finally, a path traced mode would also be interesting, even if it ran at a low resolution and framerate.",
-    "extraInfo2": "DF also stated that the Pro patch has been in the works for a while, which, combined with how well PSSR2 has been received (especially compared to FSR2 in the base PS5 version), bodes well for an excellent Pro version. We'll just have to wait until closer to launch to see exactly what this entails beyond the upscaler."
+    "resolution": "Dynamic 4K PSSR2",
+    "fps": "90fps",
+    "modes": [
+      {
+        "name": "ray tracing pro",
+        "description": ""
+      },
+      {
+        "name": "ray tracing",
+        "description": ""
+      },
+      {
+        "name": "performance",
+        "description": ""
+      }
+    ],
+    "extraInfo": "",
+    "extraInfo2": ""
   },
   {
     "name": "CyubeVR",
