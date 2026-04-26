@@ -168,6 +168,18 @@
     "metacritic": 0
   },
   {
+    "name": "Mistfall Hunter",
+    "id": "MH",
+    "genre": "Action Extraction RPG",
+    "developer": "Bellring Games",
+    "publisher": "Nuverse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Necrophosis: FC",
     "id": "Necrophosis",
     "genre": "Horror, Adventure",
