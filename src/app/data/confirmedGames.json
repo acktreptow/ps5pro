@@ -12,6 +12,18 @@
     "metacritic": 0
   },
   {
+    "name": "Assassin's Creed IV",
+    "id": "AC4",
+    "genre": "Action-Adventure",
+    "developer": "Ubisoft Singapore",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 9, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",
