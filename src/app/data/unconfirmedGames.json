@@ -24,18 +24,6 @@
     "metacritic": 82
   },
   {
-    "name": "A Quiet Place: TRA",
-    "id": "A Quiet Place",
-    "genre": "Survival Horror",
-    "developer": "Stormind Games",
-    "publisher": "Saber Interactive",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 17, 2024",
-    "hasShipped": true,
-    "metacritic": 67
-  },
-  {
     "name": "Ace Combat 8: WOT",
     "id": "AC8",
     "genre": "Simulation, Aerial Combat",
