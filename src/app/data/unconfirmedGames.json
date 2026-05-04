@@ -948,18 +948,6 @@
     "metacritic": 70
   },
   {
-    "name": "Star Ocean: Divine Force",
-    "id": "Star Ocean: TDF",
-    "genre": "Action JRPG",
-    "developer": "Tri-Ace",
-    "publisher": "Square Enix",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 27, 2022",
-    "hasShipped": true,
-    "metacritic": 69
-  },
-  {
     "name": "Star Wars: Galactic Racer",
     "id": "Star Wars: GR",
     "genre": "Racing, Arcade",
