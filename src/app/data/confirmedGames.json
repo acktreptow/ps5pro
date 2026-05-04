@@ -168,6 +168,18 @@
     "metacritic": 80
   },
   {
+    "name": "Madden NFL 27",
+    "id": "Madden 27",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Marvel Tōkon: Fighting S",
     "id": "Marvel Tōkon",
     "genre": "2D Fighter",
