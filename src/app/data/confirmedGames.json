@@ -48,6 +48,18 @@
     "metacritic": 55
   },
   {
+    "name": "EA College Football 27",
+    "id": "College Football 27",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
