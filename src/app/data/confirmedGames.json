@@ -60,6 +60,18 @@
     "metacritic": 0
   },
   {
+    "name": "EA Sports UFC 6",
+    "id": "UFC 6",
+    "genre": "Sports, MMA",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 19, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
