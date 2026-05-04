@@ -108,18 +108,6 @@
     "metacritic": 73
   },
   {
-    "name": "Atomic Heart",
-    "id": "Atomic Heart",
-    "genre": "First-Person Shooter",
-    "developer": "Mundfish",
-    "publisher": "Focus Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 21, 2023",
-    "hasShipped": true,
-    "metacritic": 70
-  },
-  {
     "name": "Atomic Heart II",
     "id": "Atomic Heart 2",
     "genre": "First-Person Shooter",
