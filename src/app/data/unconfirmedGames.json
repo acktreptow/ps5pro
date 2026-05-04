@@ -816,18 +816,6 @@
     "metacritic": 0
   },
   {
-    "name": "Painkiller",
-    "id": "Painkiller",
-    "genre": "First-Person Shooter",
-    "developer": "Anshar Studios",
-    "publisher": "3D Realms & Saber",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 21, 2025",
-    "hasShipped": true,
-    "metacritic": 64
-  },
-  {
     "name": "Phasmophobia VR",
     "id": "Phasmophobia VR",
     "genre": "VR Co-Op Horror, Puzzle",
