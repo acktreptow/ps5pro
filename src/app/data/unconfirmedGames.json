@@ -372,18 +372,6 @@
     "metacritic": 67
   },
   {
-    "name": "Granblue Fantasy: Relink",
-    "id": "GF:R",
-    "genre": "Action RPG",
-    "developer": "Osaka Cygames",
-    "publisher": "Cygames",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 1, 2024",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "Guardians Of The Galaxy",
     "id": "GotG",
     "genre": "Action-Adventure",
