@@ -1008,18 +1008,6 @@
     "metacritic": 94
   },
   {
-    "name": "Thief: Legacy Of Shadow",
-    "id": "Thief VR",
-    "genre": "VR Action-Adventure",
-    "developer": "Maze Theory",
-    "publisher": "Vertigo Games",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "December 4, 2025",
-    "hasShipped": true,
-    "metacritic": 69
-  },
-  {
     "name": "Tomb Raider: Catalyst",
     "id": "Tomb Raider",
     "genre": "Action-Adventure",
