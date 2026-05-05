@@ -624,18 +624,6 @@
     "metacritic": 73
   },
   {
-    "name": "Madison VR",
-    "id": "Madison VR",
-    "genre": "VR First-Person Horror",
-    "developer": "Bloodious Games",
-    "publisher": "Perpetual Games",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "May 2, 2024",
-    "hasShipped": true,
-    "metacritic": 76
-  },
-  {
     "name": "Marvel 1943: ROH",
     "id": "Marvel 1943",
     "genre": "Action-adventure",
