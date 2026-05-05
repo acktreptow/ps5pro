@@ -996,18 +996,6 @@
     "metacritic": 0
   },
   {
-    "name": "The Talos Principle: R",
-    "id": "TTP: Reawakened",
-    "genre": "Puzzle",
-    "developer": "Croteam",
-    "publisher": "Devolver Digital",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 10, 2025",
-    "hasShipped": true,
-    "metacritic": 85
-  },
-  {
     "name": "The Witcher 3: Wild Hunt",
     "id": "Witcher 3 Complete Edition",
     "genre": "Action RPG",
