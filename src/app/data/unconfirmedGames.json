@@ -804,18 +804,6 @@
     "metacritic": 80
   },
   {
-    "name": "Scorn",
-    "id": "Scorn",
-    "genre": "Survival Horror, Puzzle",
-    "developer": "Ebb Software",
-    "publisher": "Kepler Interactive",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 3, 2023",
-    "hasShipped": true,
-    "metacritic": 68
-  },
-  {
     "name": "Sea Of Thieves",
     "id": "SoT",
     "genre": "Action-Adventure, Pirates",
