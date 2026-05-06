@@ -780,18 +780,6 @@
     "metacritic": 72
   },
   {
-    "name": "Scarlet Nexus",
-    "id": "Scarlet Nexus",
-    "genre": "Action JRPG",
-    "developer": "Bandai Namco Studios",
-    "publisher": "Bandai Namco Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 25, 2021",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "Sea Of Thieves",
     "id": "SoT",
     "genre": "Action-Adventure, Pirates",
