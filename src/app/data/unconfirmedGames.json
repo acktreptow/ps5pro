@@ -228,6 +228,18 @@
     "metacritic": 0
   },
   {
+    "name": "Fairgames",
+    "id": "Fairgames",
+    "genre": "Third-Person Shooter, Heist",
+    "developer": "Haven Studios",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Fallout 76",
     "id": "Fallout 76",
     "genre": "Western Action RPG",
