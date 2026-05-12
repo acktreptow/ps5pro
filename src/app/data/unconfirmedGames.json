@@ -48,18 +48,6 @@
     "metacritic": 74
   },
   {
-    "name": "Alone In The Dark",
-    "id": "AitD",
-    "genre": "Survival Horror",
-    "developer": "Pieces Interactive",
-    "publisher": "THQ Nordic",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 20, 2024",
-    "hasShipped": true,
-    "metacritic": 63
-  },
-  {
     "name": "Arizona Sunshine 2",
     "id": "AS2",
     "genre": "VR FPS",
