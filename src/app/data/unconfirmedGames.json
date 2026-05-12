@@ -960,18 +960,6 @@
     "metacritic": 0
   },
   {
-    "name": "Tony Hawk Pro Skater 1/2",
-    "id": "TH 1+2",
-    "genre": "Sports, Skateboarding",
-    "developer": "Vicarious Visions",
-    "publisher": "Activision",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 26, 2021",
-    "hasShipped": true,
-    "metacritic": 90
-  },
-  {
     "name": "Turok: Origins",
     "id": "Turok",
     "genre": "Third-Person Shooter",
