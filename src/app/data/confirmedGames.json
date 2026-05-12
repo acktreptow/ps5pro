@@ -156,6 +156,18 @@
     "metacritic": 60
   },
   {
+    "name": "Halo: Campaign Evolved",
+    "id": "Halo CE",
+    "genre": "First-Person Shooter",
+    "developer": "Halo Studios",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Hello Neighbor",
     "id": "HN",
     "genre": "Stealth, Horror",
