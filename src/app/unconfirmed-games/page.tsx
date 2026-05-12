@@ -89,6 +89,9 @@ const UnconfirmedGamesPage = async () => {
             audiences.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
+            Is a first or second-party game.
+          </li>
+          <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
             Is AAA, with a sequel scheduled to launch in 2026.
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
@@ -104,7 +107,7 @@ const UnconfirmedGamesPage = async () => {
             games to improve Pro sales in China etc).
           </li>
           <li className="mb-2 ml-10 mr-8 list-disc md:ml-12">
-            It&#39;s in my backlog!
+            Is in my backlog!
           </li>
         </ul>
       </div>
