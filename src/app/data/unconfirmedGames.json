@@ -624,18 +624,6 @@
     "metacritic": 0
   },
   {
-    "name": "Ontos",
-    "id": "Ontos",
-    "genre": "Adventure, Horror",
-    "developer": "Frictional Games",
-    "publisher": "Kepler Interactive",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Reach",
     "id": "Reach",
     "genre": "VR Action-Adventure",
