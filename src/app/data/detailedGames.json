@@ -4091,10 +4091,19 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections and global illumination",
-    "resolution": "1080p to 4K PSSR",
-    "fps": "60fps",
-    "disclaimer": "All tech information is based off the demo and could change for the final release in April.",
-    "extraInfo": "Pro has 1 mode that runs at a locked 60fps with RTGI and reflections. While the internal resolution is around 1080p, Pro's excellent PSSR implementation results in a sharper 4K-like image than both base PS5 modes, despite similar internal resolutions. Base PS5 has an RT and non-RT mode that target 60fps. With RT, base PS5 struggles to maintain 60fps and hovers in the mid 50s during fights. Without RT, base PS5 locks to 60fps, though lighting is worse, and reflections are even more of a downgrade as its reversion to screen space reflections is something the RE engine is notoriously poor at."
+    "resolution": "864p to 4K PSSR2",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "resolution",
+        "description": "864p to 4K PSSR2 at a basically locked 60fps."
+      },
+      {
+        "name": "high frame rate",
+        "description": "864p to 1440p PSSR2 at up to 120fps (usually 80-100fps in general gameplay with some dips to around 65fps)."
+      }
+    ],
+    "extraInfo": "Base PS5 also has 2 modes. However, its performance mode removes RT to achieve a basically locked 60fps, whereas its RT mode reguarlarly falls below the 48fps VRR window. 60+fps is therefore exclusive to Pro. Despite similar internal resolutions, Pro's PSSR2 implementation also results in a significantly sharper/more stable image than base PS5's FSR1 upscaling. This is especially seen in Diana's hair, which is regularly a big part of the image in general gameplay. Pro's PSSR2 also helps to reduce noise/flickering in RTGI compared to base PS5."
   },
   {
     "name": "Pro Baseball Spirits 24-25",
