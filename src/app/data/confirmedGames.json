@@ -24,6 +24,18 @@
     "metacritic": 0
   },
   {
+    "name": "BeastLink",
+    "id": "BeastLink",
+    "genre": "Kaiju Action, TPS",
+    "developer": "Grove Street Games",
+    "publisher": "Grove Street Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Blind Descent",
     "id": "Blind D",
     "genre": "Adventure, Survival",
