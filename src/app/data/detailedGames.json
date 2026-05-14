@@ -4635,9 +4635,9 @@
     "metacritic": 87,
     "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K PSSR2",
+    "resolution": "1440p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "All that's been confirmed so far is that Pro will use PSSR2 to render a higher resolution than on base PS5. We should however find out more very soon though due to Saros's imminent launch next week."
+    "extraInfo": "Base PS5 is 1296p to 4K FSR with a less stable 60fps."
   },
   {
     "name": "Satisfactory",
