@@ -780,18 +780,6 @@
     "metacritic": 73
   },
   {
-    "name": "Stranger Than Heaven",
-    "id": "STH",
-    "genre": "Action RPG",
-    "developer": "Ryu Ga Gotoku Studio",
-    "publisher": "Sega",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Winter 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Synapse",
     "id": "Synapse",
     "genre": "VR FPS, Roguelite",

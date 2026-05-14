@@ -396,6 +396,18 @@
     "metacritic": 0
   },
   {
+    "name": "Stranger Than Heaven",
+    "id": "STH",
+    "genre": "Action RPG",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Winter 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Boys: Trigger Warning",
     "id": "The Boys: TW",
     "genre": "VR Action-Adventure",
