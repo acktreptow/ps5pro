@@ -384,6 +384,18 @@
     "metacritic": 0
   },
   {
+    "name": "Riven",
+    "id": "Riven",
+    "genre": "Puzzle, Adventure",
+    "developer": "Cyan Worlds",
+    "publisher": "Cyan Worlds",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "May 19, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Screamer",
     "id": "Screamer",
     "genre": "Racing, Arcade",
