@@ -4096,7 +4096,7 @@
     "modes": [
       {
         "name": "resolution",
-        "description": "864p to 4K PSSR2 at a basically locked 60fps."
+        "description": "1080p to 4K PSSR2 at a basically locked 60fps."
       },
       {
         "name": "high frame rate",
