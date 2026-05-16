@@ -4637,7 +4637,7 @@
     "rt": false,
     "resolution": "1440p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Base PS5 is 1296p to 4K FSR with a less stable 60fps."
+    "extraInfo": "Pro's excellent PSSR2 implementation results in a sharper, more stable overall image than base PS5, which is 1224p to 4K FSR. Particles (which FSR is notoriously poor at, and are constantly onscreen during general gameplay) provide the biggest upgrade. They're a blurry, artifact-ridden mess on base PS5, but are sharp, with no ghosting/flickering on Pro with PSSR2. Pro is also able to achieve a basically locked 60fps, whereas base PS5 more often dips into the mid 50s in more intense combat, and also suffers from minor traversal stutter more frequently. However, cutscenes are 30fps and pre-rendered videos are encoded at 24fps on both consoles."
   },
   {
     "name": "Satisfactory",
