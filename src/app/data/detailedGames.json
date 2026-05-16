@@ -1113,13 +1113,13 @@
     "metacritic": 75,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray traced reflections on transparent objects, shadows (local and sun), sky lighting, emissive lighting and ambient occlusion.",
+    "rtTypes": "Ray traced reflections on transparent objects, shadows (local lights and sun), sky lighting, emissive lighting (neon signs etc) and ambient occlusion.",
     "resolution": "4K PSSR2.",
     "fps": "100fps",
     "modes": [
       {
         "name": "ray tracing pro",
-        "description": "1440p to 4K PSSR2 at a basically locked 30fps, or a mostly stable 40fps (some dips to mid 30s) on 120 Hz screens. Includes all RT."
+        "description": "1440p to 4K PSSR2 at a basically locked 30fps, or a mostly stable 40fps (some dips to mid 30s during intense scenes) on 120 Hz screens. Includes all RT."
       },
       {
         "name": "ray tracing",
@@ -1130,7 +1130,7 @@
         "description": "Up to 4K PSSR2 via DRS at a basically locked 60fps (minor 1-2fps dips) or up to 100fps with VRR (usually targets 90fps) with no RT."
       }
     ],
-    "extraInfo": "While FSR2 can be toggled on, it does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity - it should therefore never be used. As base PS5 uses FSR2 in all of its modes, base PS5's overall image is downgraded, and with a lot less RT support (shadows only and even then, only at 30fps). Finally, RT mode is CD Projekt's recommended mode and RT Pro mode is roughly equivalent to PC's Ultra RT settings."
+    "extraInfo": "While FSR2 can be toggled on, it does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity - it should therefore never be used. As base PS5 uses FSR2 in all of its modes, its overall image is downgraded, and with a lot less RT support (local shadows only and even then, only at 30fps). Finally, RT mode is CD Projekt's recommended mode and RT Pro mode is roughly equivalent to PC's Ultra RT settings."
   },
   {
     "name": "CyubeVR",
