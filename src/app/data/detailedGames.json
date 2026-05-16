@@ -4657,6 +4657,25 @@
     "extraInfo": "Both Pro and base PS5 have a 30fps quality mode, a 40fps balanced mode and a 60fps performance mode. Resolution lowers and certain graphical settings like LODs/GI will be worse as the framerate increases. However, both consoles still have look 4K-like image in performance mode and only ever dip below 60fps with very crazy factory builds. Pro has increased draw distance, enhanced volumetrics, improved ambient occlusion and more compared to the same mode on base PS5."
   },
   {
+    "name": "Screamer",
+    "id": "Screamer",
+    "urlPath": "screamer",
+    "genre": "Racing, Arcade",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": true,
+    "metacritic": 76,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "4K Upscaled TSR",
+    "fps": "120fps",
+    "extraInfo": "On 120 Hz screens, Pro runs at 90-100fps in general gameplay, whereas base PS5 is only around 70fps. Fortunately, this means both consoles run at a locked 60fps on 60 Hz screens. Image quality can look quite soft however, which suggests a relatively low internal resolution before upscaling. Though other negative effects of a low resolution (visual artifacts etc) are still kept to a minimum."
+  },
+  {
     "name": "Sengoku Dynasty",
     "id": "Sengoku Dynasty",
     "urlPath": "sengoku-dynasty",
