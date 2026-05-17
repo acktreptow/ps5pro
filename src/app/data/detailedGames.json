@@ -5122,15 +5122,15 @@
     "modes": [
       {
         "name": "enhanced",
-        "description": "1800p to 4K PSSR at a basically locked 30fps, or around 55fps with VRR. Improved LODs/shadows, higher resolution cube maps, increased foliage over visual mode. Exclusive to Pro."
+        "description": "1800p to 4K PSSR at 30fps, or around 55fps with VRR. Improved LODs/shadows/cube maps & increased foliage than visuals mode. Pro exclusive."
       },
       {
         "name": "prioritize visuals",
-        "description": "1440p to 4K PSSR at a basically locked 30fps. Don't use on Pro (check extra info)."
+        "description": "1440p to 4K PSSR at 30fps. Don't use on Pro (check extra info)."
       },
       {
         "name": "prioritize performance",
-        "description": "900p to 4K PSSR at a somewhat stable 60fps (mainly dips to around 55fps in cities) or usually around 75fps-90fps with VRR. Reduced lighting/crowds/draw distance/shadows etc than even visuals mode."
+        "description": "900p to 4K PSSR at 60fps (dips to around 55fps in cities), or mostly 75-90fps with VRR. Worse lighting/draw distance/shadows than visuals mode."
       }
     ],
     "disclaimer": "As Starfield still uses PSSR1 by default, this page's analysis displays PSSR1 metrics. Fortunately, Digital Foundry have reviewed Starfield with PSSR2. They confirm that despite small issues with foliage occlusion, the overall image is more stable, sharper, and removes PSSR1's film grain-like noise. PSSR2 is therefore recommended for Starfield (activate 'Enhance PSSR Image Quality' in PS5 system settings).",
