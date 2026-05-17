@@ -1123,14 +1123,14 @@
       },
       {
         "name": "ray tracing",
-        "description": "1440p to 4K PSSR2 at mostly stable 60fps (dips to low 50s), or around 60-70fps with VRR. Includes RT reflections and shadows."
+        "description": "1440p to 4K PSSR2 at mostly stable 60fps (dips to low 50s in more open/intense scenes), or around 60-70fps with VRR. Includes RT reflections and shadows."
       },
       {
         "name": "performance",
-        "description": "Up to 4K PSSR2 via DRS at a basically locked 60fps (minor 1-2fps dips) or up to 100fps with VRR (usually targets 90fps) with no RT."
+        "description": "Up to 4K PSSR2 via DRS (regularly close to 4K) at a basically locked 60fps (minor 1-2fps dips) or up to 100fps with VRR (usually targets 90fps & dips of high 70s) with no RT."
       }
     ],
-    "extraInfo": "While FSR2 can be toggled on, it does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity - it should therefore never be used. As base PS5 uses FSR2 in all of its modes, its overall image is downgraded, and with a lot less RT support (local shadows only and even then, only at 30fps). Finally, RT mode is CD Projekt's recommended mode and RT Pro mode is roughly equivalent to PC's Ultra RT settings."
+    "extraInfo": "While FSR2 can be toggled on, it does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity - it should therefore never be used. As base PS5 uses FSR2 in all of its modes, its overall image is downgraded, and with a lot less RT support (local shadows only and even then, only at 30fps). Both RT Pro and RT modes also use DRS and will more often fall slightly below 1440p to achieve higher framerates on 120 Hz screens. Finally, RT mode is CD Projekt's recommended mode, but the extra RT features in RT Pro mode (roughly equivalent to PC's Ultra RT settings) does significantly improve image quality/realism if you don't mind 30/40fps."
   },
   {
     "name": "CyubeVR",
