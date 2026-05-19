@@ -468,6 +468,18 @@
     "metacritic": 69
   },
   {
+    "name": "Intergalactic: THP",
+    "id": "Intergalactic",
+    "genre": "Action-Adventure",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "InZOI",
     "id": "InZOI",
     "genre": "Life Simulation",
