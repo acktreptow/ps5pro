@@ -636,6 +636,18 @@
     "metacritic": 0
   },
   {
+    "name": "Project Gummy Bears",
+    "id": "Project Gummy Bears",
+    "genre": "MOBA, Action",
+    "developer": "TeamLFG",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Reach",
     "id": "Reach",
     "genre": "VR Action-Adventure",
