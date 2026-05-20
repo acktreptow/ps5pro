@@ -660,6 +660,18 @@
     "metacritic": 0
   },
   {
+    "name": "No Law",
+    "id": "No Law",
+    "genre": "Action RPG, FPS",
+    "developer": "Neon Giant",
+    "publisher": "Krafton",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Project Gummy Bears",
     "id": "Project Gummy Bears",
     "genre": "MOBA, Action",
