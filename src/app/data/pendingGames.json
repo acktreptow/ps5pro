@@ -408,6 +408,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Ghost - Task of the Ghost Hunters",
+    "id": "The Ghost - Task of the Ghost Hunters",
+    "genre": "Horror, Puzzle",
+    "developer": "MS Games and Software UG",
+    "publisher": "MS Games and Software UG",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Here",
     "id": "The Here",
     "genre": "Survival Horror",
