@@ -924,6 +924,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Talos Principle 3",
+    "id": "Talos Principle 3",
+    "genre": "Puzzle, Adventure",
+    "developer": "Croteam",
+    "publisher": "Devolver Digital",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Witcher 3: Wild Hunt",
     "id": "Witcher 3 Complete Edition",
     "genre": "Action RPG",
