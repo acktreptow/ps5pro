@@ -472,5 +472,17 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Zumba - The Pharaohs Marble Revenge",
+    "id": "Zumba",
+    "genre": "Puzzle, Arcade",
+    "developer": "EpiXR Games UG",
+    "publisher": "EpiXR Games UG",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 27, 2026",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
