@@ -600,6 +600,18 @@
     "metacritic": 0
   },
   {
+    "name": "Metro 2039",
+    "id": "Metro 2039",
+    "genre": "First-Person Shooter",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Winter 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Metro Awakening",
     "id": "MA VR",
     "genre": "VR FPS",
