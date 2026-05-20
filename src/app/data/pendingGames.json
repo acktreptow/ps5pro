@@ -135,18 +135,6 @@
     "metacritic": 0
   },
   {
-    "name": "Midnight Town Stories",
-    "id": "Midnight Town Stories",
-    "genre": "FPS, Horror, Visual Novel",
-    "developer": "Dark Ocean Games",
-    "publisher": "GoGo Games Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Lonely Hospital",
     "id": "Lonely Hospital",
     "urlPath": "lonely-hospital",
@@ -163,6 +151,18 @@
     "resolution": "Upscaled 4K (likely)",
     "fps": "60fps",
     "extraInfo": "The biggest difference between Pro and base PS5 is the framerate. While Pro runs at a basically locked 60fps, base PS5 hovers in the low 50s and regularly dips below the 48fps VRR window. Both consoles output a 4K-like image, however both exhibit significant noise/instability in reflections which suggests a low internal resolution. Pro's internal resolution is likely slightly higher as its noise is a bit more stable, but any resolution differences are minimal - the framerate stability is the true game changer."
+  },
+  {
+    "name": "Midnight Town Stories",
+    "id": "Midnight Town Stories",
+    "genre": "FPS, Horror, Visual Novel",
+    "developer": "Dark Ocean Games",
+    "publisher": "GoGo Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "Motel Business Simulator",
