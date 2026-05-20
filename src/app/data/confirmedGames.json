@@ -108,6 +108,18 @@
     "metacritic": 0
   },
   {
+    "name": "Empulse",
+    "id": "Empulse",
+    "genre": "First-Person Shooter",
+    "developer": "1047 Games",
+    "publisher": "1047 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
