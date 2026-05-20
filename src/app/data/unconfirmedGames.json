@@ -576,6 +576,18 @@
     "metacritic": 82
   },
   {
+    "name": "Little Nightmares VR: AE",
+    "id": "Little Nightmares VR",
+    "genre": "VR Adventure, Puzzle",
+    "developer": "Iconik",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "April 24, 2026",
+    "hasShipped": true,
+    "metacritic": 70
+  },
+  {
     "name": "MLB The Show 26",
     "id": "MLB 26",
     "genre": "Sports, Baseball",
