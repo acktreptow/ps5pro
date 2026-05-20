@@ -876,6 +876,18 @@
     "metacritic": 72
   },
   {
+    "name": "Terminator: Survivors",
+    "id": "Terminator Survivors",
+    "genre": "Action-Adventure",
+    "developer": "Nacon Studio Milan",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Blood Of Dawnwalker",
     "id": "Blood of Dawnwalker",
     "genre": "Action RPG",
