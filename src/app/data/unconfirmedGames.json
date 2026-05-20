@@ -456,6 +456,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hunter: TR - Deathwish",
+    "id": "Hunter The Reckoning",
+    "genre": "Action RPG",
+    "developer": "Teyon",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "ILL",
     "id": "ILL",
     "genre": "Survival Action Horror",
