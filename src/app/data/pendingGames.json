@@ -396,6 +396,18 @@
     "metacritic": 0
   },
   {
+    "name": "Sports Card Shop Simulator",
+    "id": "Sports Card Shop Sim",
+    "genre": "Simulation",
+    "developer": "OverPowered Team",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Here",
     "id": "The Here",
     "genre": "Survival Horror",
