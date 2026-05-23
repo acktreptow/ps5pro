@@ -2739,25 +2739,6 @@
     "extraInfo": "Nacon Studio Ghent has confirmed to me that they have nothing to share regarding the technical specifications of Hunting Simulator 3 at this time. This is understandable, as HS3 doesn't even have a release window yet, let alone a firm date. Hopefully, we get a close approximation of Hunting Simulator 2's performance (dynamic 4K and 60fps). However, as a 5+ year-old title that never received a Pro update, was originally a PS4 game, and runs on UE4 (HS3 is UE5), we can't reliably use HS2 as a baseline to fairly speculate on HS3's performance."
   },
   {
-    "name": "Hypercharge: Unboxed",
-    "id": "Hypercharge",
-    "urlPath": "hypercharge-unboxed",
-    "genre": "First & Third-Person Shooter",
-    "developer": "Digital Cybercherries",
-    "publisher": "Digital Cybercherries",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 30, 2025",
-    "hasShipped": true,
-    "metacritic": 65,
-    "notEnhanced": true,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Digital Cybercherries has confirmed that a PS5 Pro patch is in development, though no timeline or specific enhancements have been announced. Given that Hypercharge already runs at native 4K and is primarily a multiplayer-focused title, the most logical upgrade would be the addition of a 120fps mode. Ray tracing reflections could also meaningfully enhance the game's visuals, especially in the campaign, thanks to its cartoon/toy-like aesthetic. However, 120fps support would likely remain the priority as most players engage with the game through PvP."
-  },
-  {
     "name": "Indiana Jones: GC",
     "pageTitle": "Indiana Jones And The Great Circle",
     "id": "IJ: GC",

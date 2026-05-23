@@ -123,6 +123,25 @@
     "extraInfo": "Both the Pro and base PS5 versions are the same for all intents and purposes. For example, the framerate is a locked 60fps on both. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when comparing both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower."
   },
   {
+    "name": "Hypercharge: Unboxed",
+    "id": "Hypercharge",
+    "urlPath": "hypercharge-unboxed",
+    "genre": "First & Third-Person Shooter",
+    "developer": "Digital Cybercherries",
+    "publisher": "Digital Cybercherries",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 30, 2025",
+    "hasShipped": true,
+    "metacritic": 65,
+    "notEnhanced": true,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Digital Cybercherries has confirmed that a PS5 Pro patch is in development, though no timeline or specific enhancements have been announced. Given that Hypercharge already runs at native 4K and is primarily a multiplayer-focused title, the most logical upgrade would be the addition of a 120fps mode. Ray tracing reflections could also meaningfully enhance the game's visuals, especially in the campaign, thanks to its cartoon/toy-like aesthetic. However, 120fps support would likely remain the priority as most players engage with the game through PvP."
+  },
+  {
     "name": "Isle of Z",
     "id": "Isle of Z",
     "genre": "Horror",
