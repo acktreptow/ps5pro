@@ -87,6 +87,25 @@
     "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both consoles also render a very 4K-like image (Pro could be slightly higher), with shimmering/aliasing only being particularly noticeable on traffic lights."
   },
   {
+    "name": "Everspace 2",
+    "id": "Everspace 2",
+    "urlPath": "everspace-2",
+    "genre": "Space Combat Shooter",
+    "developer": "Rockfish Games",
+    "publisher": "Rockfish Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 15, 2023",
+    "hasShipped": true,
+    "metacritic": 80,
+    "notEnhanced": true,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Despite Everspace 2 being one of the earliest games to be mentioned for Pro support, it still isn't Pro enhanced as of August 2025. The last update came in early 2025, when Rockfish told a Redditor that they were still trying to acquire a PS5 Pro dev kit. These were quite rare at the time, so Rockfish couldn't provide a timeframe for a patch. Hopefully, this situation changes soon and Everspace 2 receives its Pro enhancements before 2026."
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "urlPath": "highway-drifter-hajwala",

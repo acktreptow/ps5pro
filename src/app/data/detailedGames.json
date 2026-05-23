@@ -1840,25 +1840,6 @@
     "extraInfo": "Pro's default mode (and base PS5's singular mode) run at 4K/60fps. However, Pro can exclusively toggle on RTGI for better lighting at the expense of slightly lower resolution. While the resolution dip is noticeable, Pro still renders a very 4K-like image with RT. At least in the early stages, both Pro modes and base PS5 run at a locked 60fps. Presumably, if there are some framerate dips in later, more chaotic stages, Pro should also maintain 60fps more often due to the extra horsepower."
   },
   {
-    "name": "Everspace 2",
-    "id": "Everspace 2",
-    "urlPath": "everspace-2",
-    "genre": "Space Combat Shooter",
-    "developer": "Rockfish Games",
-    "publisher": "Rockfish Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 15, 2023",
-    "hasShipped": true,
-    "metacritic": 80,
-    "notEnhanced": true,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Despite Everspace 2 being one of the earliest games to be mentioned for Pro support, it still isn't Pro enhanced as of August 2025. The last update came in early 2025, when Rockfish told a Redditor that they were still trying to acquire a PS5 Pro dev kit. These were quite rare at the time, so Rockfish couldn't provide a timeframe for a patch. Hopefully, this situation changes soon and Everspace 2 receives its Pro enhancements before 2026."
-  },
-  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",
