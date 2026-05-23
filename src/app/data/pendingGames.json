@@ -520,6 +520,26 @@
     "extraInfo": "A Gamespot article states that Poncle claims the Pro is capable of 9000p resolution (compared to 4K on base PS5) and even more vampires. However, Gamespot doesn't cite any source for this claim, nor could I source Poncle's words myself. At the very least, Pro maintains 60fps more consistently - a framerate target that isn't always achieved on base PS5 in later stages/weapon combinations."
   },
   {
+    "name": "Wanderer: TFOF",
+    "pageTitle": "Wanderer: The Fragments Of Fate",
+    "id": "Wanderer",
+    "urlPath": "wanderer-the-fragments-of-fate",
+    "genre": "VR Action-Adventure",
+    "developer": "Mighty Eyes",
+    "publisher": "Mighty Eyes",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "April 3, 2025",
+    "hasShipped": true,
+    "metacritic": 85,
+    "notEnhanced": true,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "90fps native",
+    "extraInfo": "There's currently no Pro patch, but Mighty Eyes's roadmap confirmed that one is coming sometime after July 2025. This will come with exclusive 'visual enhancements and effects to bring more fidelity and realism to each world', so expect more than just a resolution bump. A 60fps resolution mode that uses 'repositional' reprojection is also coming to both Pro and base PS5. Considering Pro's extra power and drop in framerate, resolution mode should be able to push PSVR2's screen to its maximum resolution of 2000 x 2040 per eye. Finally, it's currently unknown if an 120fps native mode will also be added with these enhancements."
+  },
+  {
     "name": "Weed & Greed",
     "id": "W&G",
     "urlPath": "weed-and-greed",
