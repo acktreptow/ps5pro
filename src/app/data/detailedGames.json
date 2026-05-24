@@ -1391,15 +1391,15 @@
       },
       {
         "name": "balanced",
-        "description": "Typical 1440p DRS to 4K PSSR2 at a locked, but unevenly paced 40fps."
+        "description": "Typical 1440p DRS to 4K PSSR2/TSR at a locked, but unevenly paced 40fps."
       },
       {
         "name": "performance",
-        "description": "864p-1440p DRS (usually in higher res bound) to 4K PSSR2 at a mostly stable 60fps (dips to 51fps with PSSR and 55fps with TSR)."
+        "description": "864p-1440p DRS (usually in higher res bound) to 4K PSSR2/TSR at a mostly stable 60fps (approx dips to 51fps with PSSR2, 55fps with TSR)."
       }
     ],
-    "extraInfo": "While Pro can toggle between PSSR2 and TSR to upscale, PSSR2 provides are far sharper and stable image that's also less noisy. TSR should only be considered in performance mode, as it maintains a slightly more stable 60fps. However, while quality and balanced modes having locked framerates, the uneven pacing results in an even more juddery image thant you'd expect in these modes.",
-    "extraInfo2": "Base PS5 only has software-based Lumen, resulting in significantly less accurate/detailed reflections and GI compared to Pro's superior hardware-based solution. Base PS5 is also less stable in motion with more flickering GI and shimmering reflections (especially in performance mode due to its lower quality Lumen setting). Base PS5 also only has TSR to upscale and generally has lower internal resolutions (usually 864p in performance mode, 1552p in balanced mode and 1440p in quality mode etc) compared to the equivalent mode on Pro. With better RT, a better upscaler, and higher internal resolutions, not only does the equivalent mode look vastly superior on Pro with the same framerate performance."
+    "extraInfo": "While Pro can upscale via PSSR2 and TSR, PSSR2 resolves a far sharper, stable, and less noisy image. TSR is only viable in performance mode, as framerate dips are slightly less drastic. Quality and balanced modes don't dip, but uneven frame pacing results in an even more juddery image than usual for these modes.",
+    "extraInfo2": "Base PS5 uses software-based Lumen, resulting in less accurate/detailed RT, and more instability (flickering GI and shimmering reflections) compared to Pro's superior hardware-based solution - especially in its performance mode due to lower quality Lumen. Base PS5 also only upscales via TSR, and at lower internal resolutions (usually 864p in performance, 1152p in balanced, and 1440p in quality mode). With hardware RT, PSSR2 upscaling, and higher res, equivalent modes look vastly superior on Pro, at similar framerate stability."
   },
   {
     "name": "Divinity: Original Sin 2 DE",
