@@ -87,6 +87,24 @@
     "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both consoles also render a very 4K-like image (Pro could be slightly higher), with shimmering/aliasing only being particularly noticeable on traffic lights."
   },
   {
+    "name": "Carmageddon: Rogue Shift",
+    "id": "Carmageddon",
+    "urlPath": "carmageddon-rogue-shift",
+    "genre": "Vehicle Combat, Roguelite",
+    "developer": "34BigThings",
+    "publisher": "34BigThings",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 6, 2026",
+    "hasShipped": true,
+    "metacritic": 63,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (placeholder)",
+    "fps": "60fps (placeholder)",
+    "extraInfo": "While 34BigThings have already begun their marketing cycle just a few days into 2026, they've confirmed to me on Jan 5 that they're not sharing technical information like Pro enhancements just yet, but an announcement regarding it will come 'soon'. I'll be sure to update this page as soon as any technical information is made public."
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
