@@ -4479,6 +4479,24 @@
     "extraInfo": "Both graphics modes' framerate fall far below the VRR limit for a majority of gameplay. You can cap the framerate to 30fps, but it has uneven frame pacing so these modes will feel choppy regardless of your setup. The superior RT reflections make little difference in this scenario because of the framerate issue. Prioritize FPS mode however runs great because it always remains in the VRR window, and even with the lower bound of its dynamic resolution scaling, Pro's PSSR renders a more clear/less aliased image than base PS5's FSR (even in its graphics modes). Especially with foliage which regularly fills the screen."
   },
   {
+    "name": "Riven",
+    "id": "Riven",
+    "urlPath": "riven",
+    "genre": "Puzzle, Adventure",
+    "developer": "Cyan Worlds",
+    "publisher": "Cyan Worlds",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "May 19, 2026",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "Pro targets 60fps but can dip. Fortunately, any dips that do occur are minor as they stay above PS5's 48fps VRR threshold. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps."
+  },
+  {
     "name": "RoadCraft",
     "id": "RC",
     "urlPath": "road-craft",
