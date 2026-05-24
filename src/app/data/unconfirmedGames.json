@@ -156,18 +156,6 @@
     "metacritic": 88
   },
   {
-    "name": "Destiny 2",
-    "id": "D2",
-    "genre": "F2P FPS, MMO",
-    "developer": "Bungie",
-    "publisher": "Bungie",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "December 8, 2020",
-    "hasShipped": true,
-    "metacritic": 85
-  },
-  {
     "name": "Dune: Awakening",
     "id": "Dune",
     "genre": "Open-World, Survival, RPG",
