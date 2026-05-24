@@ -1074,18 +1074,18 @@
     "modes": [
       {
         "name": "ray tracing pro",
-        "description": "1440p to 4K PSSR2 at a basically locked 30fps, or mostly stable 40fps (dips to mid 30s during intense scenes) with VRR. Includes all RT."
+        "description": "1224p-1440p DRS to 4K PSSR2 at a basically locked 30fps, or stable 40fps (rare dips to mid 30s) with VRR. Includes all RT."
       },
       {
         "name": "ray tracing",
-        "description": "1440p to 4K PSSR2 at a mostly stable 60fps (dips to low 50s in more open/intense scenes), or around 60-70fps with VRR. Only RT reflections & shadows."
+        "description": "1296p-1440p DRS to 4K PSSR2 at a mostly stable 60fps (dips to low 50s in more open/intense scenes), or usually 60-70fps with VRR. Only RT reflections & shadows."
       },
       {
         "name": "performance",
-        "description": "DRS up to 4K PSSR2 (often close to 4K) at a basically locked 60fps (minor 1-2fps dips) or up to 100fps with VRR (targets 90fps, dips of high 70s). No RT."
+        "description": "DRS up to 4K PSSR2 (often close to 4K) at a basically locked 60fps (minor 1-2fps dips) or up to 100fps with VRR (targets 90fps, averages approx 75fps). No RT."
       }
     ],
-    "extraInfo": "FSR2 can be toggled on, but don't. It does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity. As base PS5 uses FSR2, its overall image in all modes is downgraded and has much less RT support (local shadows only and only at 30fps). Both RT Pro and RT modes also use DRS and will more often fall slightly below 1440p to achieve higher framerates with VRR. Finally, RT mode is CD Projekt's recommended mode, but the extra RT features in RT Pro mode (roughly equivalent to PC's Ultra RT settings) does significantly improve image quality/realism if you don't mind 30/40fps."
+    "extraInfo": "FSR2 can be toggled on, but don't. It does a much worse job than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity/more ghosting. As base PS5 uses FSR2, its overall image in all modes is downgraded and has much less RT support (local shadows only and only at 30fps). Finally, RT mode is CD Projekt's recommended mode, but the extra RT features in RT Pro mode (roughly equivalent to PC's Ultra RT settings) does significantly improve image quality/realism if you don't mind 30/40fps."
   },
   {
     "name": "CyubeVR",
