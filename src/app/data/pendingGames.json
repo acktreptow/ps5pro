@@ -87,6 +87,34 @@
     "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both consoles also render a very 4K-like image (Pro could be slightly higher), with shimmering/aliasing only being particularly noticeable on traffic lights."
   },
   {
+    "name": "Black Desert",
+    "id": "BD",
+    "urlPath": "black-desert",
+    "genre": "MMORPG",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 26, 2025",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a mostly locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p at a locked 60fps."
+      }
+    ],
+    "extraInfo": "Black Desert (likely) doesn't have Pro enhancements yet despite confirmation that Pearl Abyss are working on it. At the very least, the fidelity mode's 60fps will be more stable on Pro due to the extra horsepower. However, both modes suffer from severe pop in that includes texture quality and actual assets. This makes the image rather poor regardless of mode and can't be fixed on console."
+  },
+  {
     "name": "Carmageddon: Rogue Shift",
     "id": "Carmageddon",
     "urlPath": "carmageddon-rogue-shift",
