@@ -4631,10 +4631,10 @@
     "metacritic": 87,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray traced shadow maps and dynamic cube maps",
+    "rtTypes": "Ray traced shadow maps and dynamic cubemaps",
     "resolution": "1620p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Pro's 1440p-1620p DRS to 4K PSSR2 upscale results in a sharper, cleaner, and more stable overall image (especially in motion) than base PS5, which is 1080p-1260p DRS to 4K via FSR2. Pro also has improved shadows, reflections and hair quality, but particles (which FSR is notoriously poor at, and are constantly onscreen during general gameplay) provide the biggest upgrade. They're blurry and artifact-ridden on base PS5, but are sharp, with no ghosting/flickering on Pro with PSSR2. Fortunately, both consoles run at a near-locked 60fps, though both suffer from infrequent traversal stutter. Both consoles also render cutscenes at 30fps and encode pre-rendered videos at 24fps."
+    "extraInfo": "Pro's 1440p-1620p DRS to 4K PSSR2 upscale resolves a sharper, cleaner, and more stable overall image (especially in motion) than base PS5, which is 1080p-1260p DRS to 4K via FSR2. Pro also has improved shadows/reflections, but particles (constantly onscreen during gameplay) and hair provide the biggest upgrades. They're blurry and artifact-ridden on base PS5, but are sharp, with no ghosting/flickering on Pro with PSSR2. Fortunately, both consoles run at a near-locked 60fps, though both suffer from infrequent traversal stutter. Both consoles also render cutscenes at 30fps and encode pre-rendered videos at 24fps."
   },
   {
     "name": "Satisfactory",
