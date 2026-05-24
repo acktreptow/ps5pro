@@ -300,18 +300,6 @@
     "metacritic": 0
   },
   {
-    "name": "Myst",
-    "id": "Myst",
-    "genre": "Puzzle, Adventure",
-    "developer": "Cyan Worlds",
-    "publisher": "Cyan Worlds",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "May 19, 2026",
-    "hasShipped": true,
-    "metacritic": 77
-  },
-  {
     "name": "Necrophosis: FC",
     "id": "Necrophosis",
     "genre": "Horror, Adventure",
