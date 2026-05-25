@@ -4095,14 +4095,14 @@
     "modes": [
       {
         "name": "resolution",
-        "description": "1080p to 4K PSSR2 at a basically locked 60fps. Sharper RT than HFR mode due to higher resolution targets."
+        "description": "1080p to 4K PSSR2 at a basically locked 60fps (rare 1-3fps dips). Sharper RT than HFR mode due to higher resolution targets."
       },
       {
         "name": "high frame rate",
-        "description": "864p to 1440p PSSR2 at up to 120fps (usually 80-100fps in general gameplay, with some dips to around 65fps)."
+        "description": "864p to 1440p PSSR2 at up to 120fps (usually 75-95fps in general gameplay, with some dips to around 65fps)."
       }
     ],
-    "extraInfo": "120fps is only on Pro, as base PS5's non-RT mode also drops hair quality to achieve a basically locked 60fps, whereas its RT mode reguarlarly falls below the 48fps VRR window in open areas and cutscenes. Despite base PS5's 1080p to 4K resolution in both of its modes, Pro's PSSR2 also results in a significantly sharper/more stable/less noisy image than base PS5's FSR1 upscaling, especially in motion (even compared to Pro's HFR mode). PSSR2 also reduces noise/flickering in RTGI and reflections, with its biggest upgrade seen in Diana's hair which takes up big part of the image in general gameplay."
+    "extraInfo": "120fps is only on Pro, as base PS5's non-RT mode also drops hair quality to achieve a basically locked 60fps, and its RT mode can even fall below the 48fps VRR window in open areas and cutscenes. Despite base PS5's 1080p to 4K resolution in both of its modes, Pro's PSSR2 also resolves a significantly sharper/more stable/less noisy image than base PS5's FSR1 upscaling, especially in motion (even in Pro's 864p HFR mode). PSSR2 also reduces noise/flickering in RTGI and reflections, with its biggest upgrade seen in Diana's hair which is a big part of the image in general gameplay."
   },
   {
     "name": "Pro Baseball Spirits 24-25",
