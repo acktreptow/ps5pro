@@ -5430,12 +5430,12 @@
     "release": "December 7, 2023",
     "hasShipped": true,
     "metacritic": 90,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination",
-    "resolution": "4K",
+    "resolution": "4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "The only difference between Pro and base PS5 is a resolution increase (base PS5 has 1440p-4K DRS). General gameplay looks slightly sharper on Pro as it renders 4K more often, with a more stable 60fps due to the extra GPU horsepower. RTGI quality is the same on both consoles and neither have an option for 120fps."
+    "extraInfo": "Pro uses PSSR2 to upscale, which resolves a sharper, cleaner/more detailed (especially fine detail), and more stable overall image (especially in motion) compared to base PS5's TSR. While both consoles can render at 4K, Pro does so more often, with a more stable 60fps. RTGI quality is the same on both and there's no 120fps option."
   },
   {
     "name": "The First Berserker: K",
