@@ -218,9 +218,9 @@
     "metacritic": 85,
     "pssr": false,
     "rt": false,
-    "resolution": "4K",
+    "resolution": "4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Both Pro and base PS5 use dynamic resolution scaling that can internally dip to as low as 720p. However, Pro can still render native 4K, whereas base PS5 can only render a maximum of 1600p (which then upscales to 4K). Pro also has improved global illumination, shadows, reflections, post-processing, texture resolution/filtering, VFX and draw distance. Finally, Pro's framerate is more stable, although base PS5 only suffers from minor dips below 60fps."
+    "extraInfo": "Both Pro and base PS5 use dynamic resolution scaling that can internally dip to as low as 720p. However, Pro can still render native 4K, whereas base PS5 only renders at 1600p max (then upscales to 4K). Pro also uses PSSR2 to upscale, which resolves a sharper, cleaner/more detailed (especially fine detail like rain that no longer suffers from ghosting), and more stable overall image (especially in motion) compared to base PS5's TSR. Pro also has improved global illumination, shadows, reflections, post-processing, texture resolution/filtering, VFX and draw distance. Finally, Pro's framerate is more stable, though base PS5 only suffers from minor dips below 60fps."
   },
   {
     "name": "Ark: Survival Ascended",
