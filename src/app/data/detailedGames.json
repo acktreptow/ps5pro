@@ -370,10 +370,10 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "TBD",
+    "rtTypes": "Ray traced global illumination and reflections",
     "resolution": "Upscaled 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Ubisoft has confirmed that Pro will use PSSR2 as its upscaler, resolving a sharp and stable overall image that's free of visible upscaling artifacts. Ubisoft have also confirmed that RT will be used in all modes across Pro and base PS5, but that Pro will have 'advanced' RT."
+    "extraInfo": "Ubisoft has confirmed that Pro will use PSSR2 as its upscaler, resolving a sharp and stable overall image that's free of visible upscaling artifacts. Ubisoft have also confirmed that RT will be used in all modes across Pro and base PS5 (even at 60fps), but that Pro will have 'advanced' RT."
   },
   {
     "name": "Assassin's Creed Mirage",
