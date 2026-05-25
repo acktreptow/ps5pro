@@ -356,6 +356,26 @@
     "extraInfo": "Pro performance mode's dynamic resolution scaling doesn't dip very far from 4K in order to maintain 120fps. It's near-impossible to tell a difference from normal viewing distances unless looking at the modes side-by-side. Base PS5 has the same modes, however its performance mode looks noticeably blurrier/1440p-like and its quality mode averages around 10-15fps less (lots of time at 65-75fps and with possible short dips into the mid 50s during effects-heavy crashes)."
   },
   {
+    "name": "Assassin's Creed IV: BF",
+    "pageTitle": "Assassin's Creed Black Flag Resynced",
+    "id": "Assassin's Creed Black Flag Resynced",
+    "urlPath": "assassins-creed-black-flag-resynced",
+    "genre": "Action-Adventure",
+    "developer": "Ubisoft Singapore",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 9, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "TBD",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Ubisoft has confirmed that Pro will use PSSR2 as its upscaler, resolving a sharp and stable overall image that's free of visible upscaling artifacts. Ubisoft have also confirmed that RT will be used in all modes across Pro and base PS5, but that Pro will have 'advanced' RT."
+  },
+  {
     "name": "Assassin's Creed Mirage",
     "id": "AC Mirage",
     "urlPath": "assassins-creed-mirage",
