@@ -3545,11 +3545,21 @@
     "hasShipped": true,
     "metacritic": 77,
     "pssr": false,
-    "rt": false,
-    "resolution": "Upscaled 4K (likely)",
+    "rt": true,
+    "rtTypes": "Ray traced reflections",
+    "resolution": "Upscaled 4K TSR",
     "fps": "60fps",
-    "disclaimer": "All tech info is based off Riven. However, Riven is a similarly-scoped sequel to Myst and was also re-released by Cyan Worlds on the same day. Riven therefore provides an excellent baseline of expectations for Myst for the time being.",
-    "extraInfo": "Pro targets 60fps but can dip. Fortunately, any dips that do occur are minor as they stay above PS5's 48fps VRR threshold. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K TSR (higher internal resolution than performance mode) at 30fps with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K TSR at 60fps. No RT (uses screen space reflections)."
+      }
+    ],
+    "extraInfo": "Pro has better view distance, foliage, textures, post-processing, and shading compared to base PS5, as well as a higher internal res in both its VR mode and performance mode. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps."
   },
   {
     "name": "Naraka: Bladepoint",
