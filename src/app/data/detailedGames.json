@@ -16,7 +16,7 @@
     "rtTypes": "Software-based ray traced global illumination",
     "resolution": "1440p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Pro uses PSSR2 to run at 60fps, with the graphics settings of base PS5's 30fps quality mode (also 1440p to 4K). Base PS5 will also have a 60fps performance mode that's 1080p to 4K. This is particularly noteworthy as the September State of Play demo (running on base PS5 quality mode with no RT at 1440p) couldn't even sustain 30fps, and dipped as low as 18fps. Fortunately in late December, there was a delay from March to May 2026. This suggests IOI took the necessary time to ensure proper optimization."
+    "extraInfo": "Pro will run at 60fps, with the graphics settings of base PS5's 30fps quality mode (also 1440p to 4K). Pro will also use PSSR2 to upscale, which will result in a sharper, cleaner (especially in fine detail, foliage etc), and more stable overall image (especially in motion) compared to base PS5's FSR3 upscaling. Fortunately, base PS5 will still have a 60fps performance mode, but at 1080p to 4K."
   },
   {
     "name": "90s Extreme Skiing",
