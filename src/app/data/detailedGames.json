@@ -14,9 +14,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Software-based ray traced global illumination",
-    "resolution": "1440p to 4K PSSR2",
+    "resolution": "1000p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Pro will run at 60fps, with the graphics settings of base PS5's 30fps quality mode (also 1440p to 4K). Pro will also use PSSR2 to upscale, which will result in a sharper, cleaner (especially in fine detail, foliage etc), and more stable overall image (especially in motion) compared to base PS5's FSR3 upscaling. Fortunately, base PS5 will still have a 60fps performance mode, but at 1080p to 4K."
+    "extraInfo": "Pro runs at a locked 60fps, with higher graphics settings (like shadows) than base PS5's 30fps quality mode. Despite a lower internal resolution (Pro is usually around 1000p compared to base PS5 quality mode's 1152p), Pro's PSSR2 upscaling to 4K also resolves a sharper, cleaner (especially in fine detail), and more stable overall image (especially in motion) compared to base PS5's FSR3, which has significant artifacting, edge breakup, ghosting etc. Base PS5 performance mode then drops image quality further with a 720p internal res, and with a less stable 60fps than Pro in more open/intense scenes. Pro therefore has the vastly superior mode to play 007."
   },
   {
     "name": "90s Extreme Skiing",
