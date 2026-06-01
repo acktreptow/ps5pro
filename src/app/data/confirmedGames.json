@@ -360,6 +360,18 @@
     "metacritic": 0
   },
   {
+    "name": "Planet Zoo 2",
+    "id": "Planet Zoo 2",
+    "genre": "Simulation, Strategy",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 13, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Project Motor Racing",
     "id": "PMR",
     "genre": "Racing, Simulation",
