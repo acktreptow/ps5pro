@@ -628,6 +628,18 @@
     "metacritic": 0
   },
   {
+    "name": "Wild West Supermarket Simulator",
+    "id": "WWSS",
+    "genre": "Simulation",
+    "developer": "SunDust",
+    "publisher": "Toplitz Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Zumba - The Pharaohs Marble Revenge",
     "id": "Zumba",
     "genre": "Puzzle, Arcade",
