@@ -616,11 +616,11 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps, and graphical settings like LODs are the same. However, Pro's internal resolution is slightly higher before outputting to 4K, leading to less shimmering on assets like railings and fewer sawtooth edges on shadows."
   },
   {
-    "name": "What have you done, Father?",
+    "name": "What Have You Done, Father?",
     "id": "What have you done, Father?",
     "genre": "Horror, Adventure",
-    "developer": "Marco Domingo Navarro",
-    "publisher": "Marco Domingo Navarro",
+    "developer": "Making Port",
+    "publisher": "Making Port",
     "psStudios": false,
     "psvr2": false,
     "release": "TBD",
