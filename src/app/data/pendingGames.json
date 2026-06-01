@@ -127,6 +127,18 @@
     "extraInfo": "Black Desert (likely) doesn't have Pro enhancements yet despite confirmation that Pearl Abyss are working on it. At the very least, the fidelity mode's 60fps will be more stable on Pro due to the extra horsepower. However, both modes suffer from severe pop in that includes texture quality and actual assets. This makes the image rather poor regardless of mode and can't be fixed on console."
   },
   {
+    "name": "Car Simulator: Driving School",
+    "id": "CS:DS",
+    "genre": "Simulation, Driving",
+    "developer": "Ovilex Software",
+    "publisher": "Ovilex Software",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Carmageddon: Rogue Shift",
     "id": "Carmageddon",
     "urlPath": "carmageddon-rogue-shift",
