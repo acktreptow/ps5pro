@@ -300,6 +300,18 @@
     "metacritic": 75
   },
   {
+    "name": "God Of War Laufey",
+    "id": "GoW Laufey",
+    "genre": "Action-Adventure",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "God Of War Trilogy",
     "id": "GoW Trilogy",
     "genre": "Action-Adventure",
