@@ -72,6 +72,18 @@
     "metacritic": 55
   },
   {
+    "name": "Dune: Awakening",
+    "id": "Dune",
+    "genre": "Open-World, Survival, RPG",
+    "developer": "Funcom",
+    "publisher": "Funcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 22, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "E Baseball: Pro Spirit 26",
     "id": "Baseball Pro Spirit 2026",
     "genre": "Sports, Baseball",
