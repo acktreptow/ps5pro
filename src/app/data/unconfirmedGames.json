@@ -936,6 +936,18 @@
     "metacritic": 87
   },
   {
+    "name": "Until Dawn 2",
+    "id": "UD2",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Firesprite",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Watch Dogs: Legion",
     "id": "WD3",
     "genre": "Open-World, Action TPS",
