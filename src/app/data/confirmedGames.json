@@ -1,5 +1,17 @@
 [
   {
+    "name": "Ace Combat 8: WOT",
+    "id": "AC8",
+    "genre": "Simulation, Aerial Combat",
+    "developer": "Bandai Namco Aces",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 2, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Alien Deathstorm",
     "id": "Alien Deathstorm",
     "genre": "Sci-Fi, FPS",
