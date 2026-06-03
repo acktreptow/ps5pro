@@ -960,18 +960,6 @@
     "metacritic": 0
   },
   {
-    "name": "Tomb Raider: LOA",
-    "id": "Tomb Raider",
-    "genre": "Action-Adventure",
-    "developer": "CD & Flying Wild Hog",
-    "publisher": "Amazon Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 12, 2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Turok: Origins",
     "id": "Turok",
     "genre": "Third-Person Shooter",
