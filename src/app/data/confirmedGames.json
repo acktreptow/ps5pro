@@ -72,6 +72,18 @@
     "metacritic": 0
   },
   {
+    "name": "Control Resonant",
+    "id": "Control 2",
+    "genre": "Action RPG",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crime Simulator",
     "id": "Crime Sim",
     "genre": "Simulation, Roguelite, Heist",
