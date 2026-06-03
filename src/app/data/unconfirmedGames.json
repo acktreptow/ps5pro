@@ -432,18 +432,6 @@
     "metacritic": 0
   },
   {
-    "name": "ILL",
-    "id": "ILL",
-    "genre": "Survival Action Horror",
-    "developer": "Team Clout",
-    "publisher": "Mundfish Powerhouse",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Immortals Of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",

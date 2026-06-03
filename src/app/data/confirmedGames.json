@@ -240,6 +240,18 @@
     "metacritic": 0
   },
   {
+    "name": "ILL",
+    "id": "ILL",
+    "genre": "Survival Action Horror",
+    "developer": "Team Clout",
+    "publisher": "Mundfish Powerhouse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Infinity Nikki",
     "id": "Infinity Nikki",
     "genre": "RPG, Adventure",
