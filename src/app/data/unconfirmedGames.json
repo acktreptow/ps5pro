@@ -780,6 +780,18 @@
     "metacritic": 73
   },
   {
+    "name": "Stuntman: Hollywood",
+    "id": "Stuntman: Hollywood",
+    "genre": "Action, Driving",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Synapse",
     "id": "Synapse",
     "genre": "VR FPS, Roguelite",
