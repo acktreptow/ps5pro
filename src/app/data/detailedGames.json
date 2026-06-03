@@ -1902,6 +1902,24 @@
     "extraInfo": "The only display setting is a brightness slider. However, Pro has a locked framerate that runs within an 120 Hz container to improve input lag (base PS5 is only at at 60 Hz). Pro could potentially render below native 4K sometimes, but it would only be for a very short duration, with dips would be so minor that FP still has a 4K-like image."
   },
   {
+    "name": "Fallout 76",
+    "id": "Fallout 76",
+    "urlPath": "fallout-76",
+    "genre": "Western Action RPG",
+    "developer": "Bethesda Studios",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Summer 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "While both Pro and base PS5 will target 60fps and support VRR, Pro will render at 4K, compared to 1440p on base PS5."
+  },
+  {
     "name": "Fantasy Life I: TGWST",
     "pageTitle": "Fantasy Life I: The Girl Who Steals Time",
     "id": "Fantasy Life",
