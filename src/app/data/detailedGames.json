@@ -2274,6 +2274,26 @@
     "extraInfo2": "However as a beta, it's likely that Pro enhancements aren't in Goals yet as base PS5 modes look identical to their Pro equivalent. The only consistent difference was base PS5 running at 58fps when aiming corner kicks compared to 60fps on Pro - a difference that's almost certainly due to Pro's extra horsepower."
   },
   {
+    "name": "God Of War Laufey",
+    "pageTitle": "God Of War Laufey",
+    "id": "GoW Laufey",
+    "urlPath": "god-of-war-laufey",
+    "genre": "Action-Adventure",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2 (likely)",
+    "fps": "60fps (potentially)",
+    "disclaimer": "All info is taken from the first 20 minutes of God of War Laufey, which was captured on Pro hardware and shown at Sony's June 2026 State of Play. Although the uninterrupted footage provides an excellent baseline of expectations for the time being, performance is subject to change before the game's release.",
+    "extraInfo": "Digital Foundry analyzed the footage and confirmed that it was using PSSR and ran at 60fps (with some framerate drops). It also already looked better than Ragnarök, with improved hair strands, character models, global illumination, and foliage (which has also increased)."
+  },
+  {
     "name": "God Of War: Ragnarök",
     "id": "GOW:R",
     "urlPath": "god-of-war-ragnarok",
