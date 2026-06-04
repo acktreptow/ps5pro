@@ -2275,7 +2275,7 @@
   },
   {
     "name": "God Of War Laufey",
-    "pageTitle": "God Of War Laufey",
+    "pageTitle": "God of War Laufey",
     "id": "GoW Laufey",
     "urlPath": "god-of-war-laufey",
     "genre": "Action-Adventure",
@@ -2294,7 +2294,8 @@
     "extraInfo": "Digital Foundry analyzed the footage and confirmed that it was using PSSR and ran at 60fps (with some framerate drops). It also already looked better than Ragnarök, with improved hair strands, character models, global illumination, and foliage (which has also increased)."
   },
   {
-    "name": "God Of War: Ragnarök",
+    "name": "God Of War Ragnarök",
+    "pageTitle": "God of War Ragnarök",
     "id": "GOW:R",
     "urlPath": "god-of-war-ragnarok",
     "genre": "Action-Adventure",
