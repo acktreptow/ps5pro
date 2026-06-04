@@ -552,18 +552,6 @@
     "metacritic": 75
   },
   {
-    "name": "Tomb Raider: LOA",
-    "id": "Tomb Raider",
-    "genre": "Action-Adventure",
-    "developer": "CD & Flying Wild Hog",
-    "publisher": "Amazon Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 12, 2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",

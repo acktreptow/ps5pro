@@ -5763,6 +5763,26 @@
     "extraInfo": "While base PS5 and Pro utilize native resolution, Pro runs at a native 120fps, whereas base PS5 is only a native 90fps."
   },
   {
+    "name": "Tomb Raider: LOA",
+    "pageTitle": "Tomb Raider: Legacy of Atlantis",
+    "id": "Tomb Raider",
+    "urlPath": "tomb-raider-legacy-of-atlantis",
+    "genre": "Action-Adventure",
+    "developer": "CD & Flying Wild Hog",
+    "publisher": "Amazon Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 12, 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K TSR and/or PSSR2 (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "Digital Foundry looked at the June 2026 State of Play gameplay trailer (confirmed to be running on Pro) and noted that parts of it ran at 30fps and other parts were 60fps. This suggests that at the very least, there will be a 60fps mode. Perhaps some scenes just weren't optimized enough to run above 30fps yet, or more preferably, there will also be a 30fps quality mode. DF stated that LoA looked very 'UE5' with its Lumen implementation (shading/reflections etc), so a 30fps quality would therefore be a great addition for gamers who prefer temporal consistency over 60fps."
+  },
+  {
     "name": "Tony Hawk's Pro Skater 3/4",
     "pageTitle": "Tony Hawk's Pro Skater 3 + 4",
     "id": "THPS 3 + 4",
