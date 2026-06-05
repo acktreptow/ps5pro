@@ -4131,7 +4131,7 @@
     "rt": true,
     "rtTypes": "Ray traced reflections and global illumination",
     "resolution": "1080p to 4K PSSR2",
-    "fps": "120fps",
+    "fps": "100fps",
     "modes": [
       {
         "name": "resolution",
