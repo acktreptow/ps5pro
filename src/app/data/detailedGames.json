@@ -5192,19 +5192,19 @@
     "modes": [
       {
         "name": "enhanced",
-        "description": "1800p to 4K PSSR at 30fps, or around 55fps with VRR. Improved LODs/shadows/cube maps & increased foliage than visuals mode. Pro exclusive."
+        "description": "1800p to 4K PSSR at 30fps, or around 40-45fps with VRR. Improved LODs/shadows/cube maps & increased foliage than visuals mode. Pro exclusive."
       },
       {
         "name": "prioritize visuals",
-        "description": "1440p to 4K PSSR at 30fps. Don't use on Pro (check extra info)."
+        "description": "1440p to 4K PSSR at 30fps, or 50-65fps with VRR. "
       },
       {
         "name": "prioritize performance",
         "description": "900p to 4K PSSR at 60fps (dips to around 55fps in cities), or mostly 75-90fps with VRR. Worse lighting/draw distance/shadows than visuals mode."
       }
     ],
-    "disclaimer": "As Starfield still uses PSSR1 by default, this page's analysis displays PSSR1 metrics. Fortunately, Digital Foundry have reviewed Starfield with PSSR2. They confirm that despite small issues with foliage occlusion, the overall image is more stable, sharper, and removes PSSR1's film grain-like noise. PSSR2 is therefore recommended for Starfield (activate 'Enhance PSSR Image Quality' in PS5 system settings).",
-    "extraInfo": "Due to multiple toggles (VSync, framerate etc), Pro has 24 modes - most of which are redundant. To keep it simple, for the highest framerate, use performance mode and uncap it. Otherwise, use Pro's exclusive enhanced mode and cap the framerate to either 30fps/40fps on 60/120 Hz screens for a stable experience, or 60fps if you don't mind some drops out of VRR in cities. While visuals mode looks significantly worse than enhanced, it's the recommended mode for base PS5 as its performance mode can hover at 40fps in cities. Base PS5's FSR upscaling performs similarly to PSSR1, but this is improved on Pro with PSSR2 (check disclaimer)."
+    "disclaimer": "As Starfield still uses PSSR1 by default, this page displays PSSR1 metrics. Fortunately, Digital Foundry have tested PSSR2, and confirm that despite small issues with foliage occlusion, the overall image is more stable, sharper, and removes PSSR1's film grain-like noise. PSSR2 is therefore recommended (activate 'Enhance PSSR Image Quality' in PS5 system settings).",
+    "extraInfo": "Due to multiple toggles (VSync, framerate etc), Pro has 24 modes - most of which are redundant. To keep it simple, for the highest framerate, use performance mode and uncap it. Otherwise, use Pro's exclusive enhanced mode and cap the framerate to either 30fps/40fps on 60/120 Hz screens for a stable experience, or visuals mode capped at 60fps for a middle ground. While visuals mode looks worse than enhanced, it's the recommended mode for base PS5 as its performance mode can still be poor in cities. Base PS5's FSR upscaling performs similarly to PSSR1, but this is improved on Pro with PSSR2 (check disclaimer)."
   },
   {
     "name": "Stellar Blade",
