@@ -24,6 +24,18 @@
     "metacritic": 0
   },
   {
+    "name": "Alien: Isolation 2",
+    "id": "A: I2",
+    "genre": "Survival Horror",
+    "developer": "Creative Assembly",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Anima: Song From Abyss",
     "id": "ASFTA",
     "genre": "Action RPG",
