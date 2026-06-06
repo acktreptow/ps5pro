@@ -696,18 +696,6 @@
     "metacritic": 80
   },
   {
-    "name": "Resident Evil Veronica",
-    "id": "RE Veronica",
-    "genre": "Survival Horror",
-    "developer": "Capcom",
-    "publisher": "Capcom",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Revenge Savage Planet",
     "id": "ROTSP",
     "genre": "Action-Adventure",
