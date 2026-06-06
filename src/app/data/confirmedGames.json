@@ -492,6 +492,18 @@
     "metacritic": 0
   },
   {
+    "name": "RuneScape: Dragonwilds",
+    "id": "Runescape",
+    "genre": "Survival, Adventure",
+    "developer": "Jagex",
+    "publisher": "Jagex",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat'em Up",
