@@ -96,6 +96,18 @@
     "metacritic": 0
   },
   {
+    "name": "Clutch",
+    "id": "Clutch",
+    "genre": "Driving, Action",
+    "developer": "Maverick Games",
+    "publisher": "Maverick Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Spring 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crime Simulator",
     "id": "Crime Sim",
     "genre": "Simulation, Roguelite, Heist",
