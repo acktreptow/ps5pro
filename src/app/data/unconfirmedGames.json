@@ -120,6 +120,18 @@
     "metacritic": 70
   },
   {
+    "name": "Crossfire",
+    "id": "Crossfire",
+    "genre": "Third-Person Shooter",
+    "developer": "That's No Moon",
+    "publisher": "Smilegate",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Dead Space",
     "id": "DS",
     "genre": "Survival Horror",
