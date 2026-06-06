@@ -252,6 +252,18 @@
     "metacritic": 81
   },
   {
+    "name": "Gen ATLAS",
+    "id": "Gen ATLAS",
+    "genre": "Action-Adventure",
+    "developer": "genDESIGN",
+    "publisher": "Epic Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Genshin Impact",
     "id": "Genshin Impact",
     "genre": "F2P Action RPG, Gacha",
