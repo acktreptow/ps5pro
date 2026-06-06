@@ -348,6 +348,18 @@
     "metacritic": 80
   },
   {
+    "name": "Guild Wars 3",
+    "id": "GW3",
+    "genre": "MMO, Action RPG",
+    "developer": "ArenaNet",
+    "publisher": "ArenaNet",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Halloween",
     "id": "Halloween",
     "genre": "Asymmetric MP, Horror",
