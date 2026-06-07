@@ -552,6 +552,18 @@
     "metacritic": 0
   },
   {
+    "name": "Spyder: Agent 8",
+    "id": "Spyder",
+    "genre": "Puzzle",
+    "developer": "Sumo Digital",
+    "publisher": "PQube",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Star Wars Zero Company",
     "id": "SW: Zero Company",
     "genre": "Turn-Based Tactics",
