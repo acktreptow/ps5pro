@@ -169,6 +169,18 @@
     "extraInfo": "While 34BigThings have already begun their marketing cycle just a few days into 2026, they've confirmed to me on Jan 5 that they're not sharing technical information like Pro enhancements just yet, but an announcement regarding it will come 'soon'. I'll be sure to update this page as soon as any technical information is made public."
   },
   {
+    "name": "Cozy Grove: Camp Spirit",
+    "id": "CG:CS",
+    "genre": "Adventure, Casual",
+    "developer": "Spry Fox",
+    "publisher": "Quantum Astrophysicists Guild",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
