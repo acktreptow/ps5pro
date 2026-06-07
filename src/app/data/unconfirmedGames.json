@@ -1006,5 +1006,17 @@
     "release": "November 12, 2020",
     "hasShipped": true,
     "metacritic": 66
+  },
+  {
+    "name": "Wo Long 2: WOE",
+    "id": "Wo Long 2",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Early 2027",
+    "hasShipped": false,
+    "metacritic": 0
   }
 ]
