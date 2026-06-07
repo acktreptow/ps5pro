@@ -748,6 +748,18 @@
     "metacritic": 0
   },
   {
+    "name": "YAR: Forgotten Throne",
+    "id": "Yar",
+    "genre": "Action RPG",
+    "developer": "Honor Games",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Zumba - The Pharaohs Marble Revenge",
     "id": "Zumba",
     "genre": "Puzzle, Arcade",
