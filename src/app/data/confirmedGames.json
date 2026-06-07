@@ -576,6 +576,18 @@
     "metacritic": 0
   },
   {
+    "name": "State Of Decay 3",
+    "id": "SoD3",
+    "genre": "Survival, Action, Horror",
+    "developer": "Undead Labs",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Stranger Than Heaven",
     "id": "STH",
     "genre": "Action RPG",
