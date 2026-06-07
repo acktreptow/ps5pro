@@ -212,6 +212,18 @@
     "metacritic": 0
   },
   {
+    "name": "Football Kick-Ups",
+    "id": "Football Kick Ups",
+    "genre": "Sports, Football",
+    "developer": "Super PowerUp Games",
+    "publisher": "Super PowerUp Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 26, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "urlPath": "highway-drifter-hajwala",
