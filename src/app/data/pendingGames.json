@@ -712,6 +712,18 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps, and graphical settings like LODs are the same. However, Pro's internal resolution is slightly higher before outputting to 4K, leading to less shimmering on assets like railings and fewer sawtooth edges on shadows."
   },
   {
+    "name": "Welcome To Kowloon",
+    "id": "Kowloon",
+    "genre": "Horror, Adventure",
+    "developer": "N4bA",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "What Have You Done, Father?",
     "id": "What have you done, Father?",
     "genre": "Horror, Adventure",
