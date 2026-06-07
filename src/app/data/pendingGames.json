@@ -497,6 +497,18 @@
     "metacritic": 78
   },
   {
+    "name": "Psalm 5:9-13",
+    "id": "Psalm 5:9-13",
+    "genre": "Psychological Horror",
+    "developer": "N4bA",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Quisisana",
     "id": "Quisisana",
     "urlPath": "quisisana",
