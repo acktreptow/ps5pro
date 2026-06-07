@@ -367,7 +367,7 @@
     "publisher": "Electronic Arts",
     "psStudios": false,
     "psvr2": false,
-    "release": "TBD",
+    "release": "August 13, 2026",
     "hasShipped": false,
     "metacritic": 0
   },
@@ -490,7 +490,8 @@
     "release": "February 13, 2026",
     "hasShipped": true,
     "metacritic": 80
-  },  {
+  },
+  {
     "name": "Resident Evil Veronica",
     "id": "RE Veronica",
     "genre": "Survival Horror",
