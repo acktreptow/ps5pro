@@ -351,6 +351,18 @@
     "extraInfo": "Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower."
   },
   {
+    "name": "My Cannibal Family",
+    "id": "My Cannibal Family",
+    "genre": "Action, City Builder",
+    "developer": "Wolf & Wood Interactive",
+    "publisher": "Raw Fury",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Nomad Drive",
     "id": "Nomad Drive",
     "genre": "Driving, Survival",
