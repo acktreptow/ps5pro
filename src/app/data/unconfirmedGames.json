@@ -204,6 +204,18 @@
     "metacritic": 0
   },
   {
+    "name": "Final Fantasy VII Part 3",
+    "id": "FF7",
+    "genre": "Cinematic Action JRPG",
+    "developer": "Square Enix CBU I",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Spring 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Final Fantasy VII Remake",
     "id": "FF7",
     "genre": "Cinematic Action JRPG",
