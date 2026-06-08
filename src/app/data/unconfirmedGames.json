@@ -288,18 +288,6 @@
     "metacritic": 86
   },
   {
-    "name": "Ghost Of Tsushima: DC",
-    "id": "GoT",
-    "genre": "Action-Adventure",
-    "developer": "Sucker Punch",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "August 20, 2021",
-    "hasShipped": true,
-    "metacritic": 87
-  },
-  {
     "name": "Ghostwire: Tokyo",
     "id": "Ghostwire",
     "genre": "Action, Horror",
