@@ -600,18 +600,6 @@
     "metacritic": 74
   },
   {
-    "name": "Metro Exodus",
-    "id": "Metro E",
-    "genre": "FPS, Open-World",
-    "developer": "4A Games",
-    "publisher": "Deep Silver",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "June 18, 2021",
-    "hasShipped": true,
-    "metacritic": 83
-  },
-  {
     "name": "Minecraft",
     "id": "Minecraft",
     "genre": "Sandbox, Survival",
