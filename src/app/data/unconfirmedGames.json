@@ -384,18 +384,6 @@
     "metacritic": 0
   },
   {
-    "name": "High On Life",
-    "id": "HoL",
-    "genre": "FPS, Adventure",
-    "developer": "Squanch Games",
-    "publisher": "Squanch Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 23, 2023",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "Honkai: Star Rail",
     "id": "Honkai: SR",
     "genre": "F2P Role-Playing, Gacha",
