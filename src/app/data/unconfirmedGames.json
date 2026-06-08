@@ -576,6 +576,18 @@
     "metacritic": 73
   },
   {
+    "name": "Magicians: Devil's Deal",
+    "id": "Magician",
+    "genre": "Action, FPS",
+    "developer": "Uppercut Games",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Marvel 1943: ROH",
     "id": "Marvel 1943",
     "genre": "Action-adventure",
