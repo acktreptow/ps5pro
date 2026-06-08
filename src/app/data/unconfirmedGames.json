@@ -276,18 +276,6 @@
     "metacritic": 86
   },
   {
-    "name": "Ghostwire: Tokyo",
-    "id": "Ghostwire",
-    "genre": "Action, Horror",
-    "developer": "Tango Gameworks",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 25, 2022",
-    "hasShipped": true,
-    "metacritic": 75
-  },
-  {
     "name": "God Of War Trilogy",
     "id": "GoW Trilogy",
     "genre": "Action-Adventure",
