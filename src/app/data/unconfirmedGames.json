@@ -132,18 +132,6 @@
     "metacritic": 89
   },
   {
-    "name": "Deathloop",
-    "id": "Deathloop",
-    "genre": "FPS, Immersive Sim",
-    "developer": "Arkane Lyon",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 14, 2021",
-    "hasShipped": true,
-    "metacritic": 88
-  },
-  {
     "name": "Elden Ring",
     "id": "ER",
     "genre": "Soulsborne",
