@@ -420,18 +420,6 @@
     "metacritic": 0
   },
   {
-    "name": "InZOI",
-    "id": "InZOI",
-    "genre": "Life Simulation",
-    "developer": "InZOI Studio",
-    "publisher": "Krafton",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "John Wick",
     "id": "John Wick",
     "genre": "Gun-Fu Action",
