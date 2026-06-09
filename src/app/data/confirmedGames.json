@@ -606,9 +606,9 @@
     "developer": "Arvore Immersive Exp",
     "publisher": "Sony Pictures VR",
     "psStudios": false,
-    "psvr2": false,
+    "psvr2": true,
     "release": "June 9, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0
   },
   {
