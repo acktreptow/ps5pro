@@ -468,6 +468,18 @@
     "metacritic": 0
   },
   {
+    "name": "Kingdom Hearts IV",
+    "id": "KH4",
+    "genre": "Action RPG",
+    "developer": "Square Enix CBU I",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lego Batman: LOTDK",
     "id": "Lego Batman",
     "genre": "Action-Adventure",
