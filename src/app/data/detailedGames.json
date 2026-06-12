@@ -3135,6 +3135,34 @@
     "extraInfo2": "'Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps.'"
   },
   {
+    "name": "Madden NFL 27",
+    "id": "Madden 27",
+    "urlPath": "madden-27",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 13, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2 (likely)",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "visual pro",
+        "description": "Will have 'the highest possible visual quality' of all PS5 modes, at 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Will ensure the 'highest possible framerate', which will be 100+fps while in-game."
+      }
+    ],
+    "extraInfo": "While Madden 26 had the same Pro upgrades as Madden 25, these 2 Pro-exclusive modes are new to Madden 27. The ability to go up to 120fps is particularly significant, as this marks the first Madden to go above 60fps on console. Even with a floor of 100fps, that's a substantial framerate increase over previous years. So far, this is all EA have confirmed these modes on their site. They'll hopefully go into more detail about each one closer to launch in August."
+  },
+  {
     "name": "Mafia: The Old Country",
     "id": "Mafia: TOC",
     "urlPath": "mafia-the-old-country",
