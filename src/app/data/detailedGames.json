@@ -3980,12 +3980,23 @@
     "release": "September 25, 2026",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
-    "resolution": "Upscaled 4K (likely)",
-    "fps": "120fps (likely)",
-    "extraInfo": "Digital Foundry confirmed that the framerate for the August 2025 Gamescom demo was a somewhat unstable 60fps (dips to 55fps) with no RT. However, when the same demo came to consoles after the June 2026 State of Play, there was RT support on Pro, but not base PS5. There was now also a quality and performance mode, with the latter achieving well above 60fps the majority of the time on 120 Hz screens. This suggests Capcom is finding success further optimizing Onimusha, which will hopefully achieve similar results to Capcom's other 2026 titles (RE9 & Pragmata) when it launches in September."
+    "resolution": "4K",
+    "fps": "90fps",
+    "modes": [
+      {
+        "name": "prioritize quality",
+        "description": "4K at a locked 30fps/40fps for 60 Hz/120 Hz screens with RT."
+      },
+      {
+        "name": "prioritize performance",
+        "description": "1296p-4K DRS to 4K PSSR2 at a locked 60fps in gameplay (dips to low 50s in cutscenes) or averaging around 75fps with VRR/RT."
+      }
+    ],
+    "disclaimer": "All info is taken from DF's analysis of the demo and is therefore subject to change before launch.",
+    "extraInfo": "RT reflections are supported on Pro, but not base PS5. And while activating RT is a toggle in Pro's settings, you should do so. They not only improve image quality, but surprisingly, also run 2-3fps higher than the SSR fallback option. Base PS5 has the same 2 modes - while quality mode is similar, Pro's performance mode is far superior. While both run at a locked 60fps in gameplay, Pro does so with RT, has less severe dips in cutscenes, and ranges 4-8fps higher when the framerate is unlocked. Pro's PSSR2's upscaling from a 1296p floor also resolves a sharper, cleaner, and more stable image than base PS5's upscaling, despite its higher 1440p DRS floor."
   },
   {
     "name": "Oniriam",
