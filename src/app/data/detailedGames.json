@@ -2025,8 +2025,8 @@
     "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. However, Pro can use either PSSR or FSR2 to upscale to 4K, and they perform similarly to their AW2 implementation (PSSR has better motion clarity and less artifacting, but FSR is less noisy and more 4K-like in stills). Base PS5 exclusively uses FSR2 to upscale to only 1440p, though also achieves a stable 60fps."
   },
   {
-    "name": "Final Fantasy VII Rebirth",
-    "id": "FF7 Rebirth",
+    "name": "Final Fantasy 7 Rebirth",
+    "pageTitle": "Final Fantasy VII Rebirth",
     "urlPath": "final-fantasy-vii-rebirth",
     "genre": "Cinematic Action JRPG",
     "developer": "Square Enix CBU I",
@@ -2043,7 +2043,7 @@
     "modes": [
       {
         "name": "versatility",
-        "description": "1224p-1440 DRS to 4K PSSR2 at a very stable 60fps."
+        "description": "1224p-1440p DRS to 4K PSSR2 at a very stable 60fps."
       },
       {
         "name": "graphics",
