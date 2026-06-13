@@ -4472,6 +4472,36 @@
     "extraInfo": "There's a lot of toggles in this game for RT/HFR/better hair quality etc, so the 2 modes above represent the image quality with all the toggles either on or off. Resolution mode holds a much more stable 60fps than same mode on base PS5, which hovers around 45fps."
   },
   {
+    "name": "Resident Evil Veronica",
+    "id": "RE Veronica",
+    "urlPath": "resident-evil-veronica",
+    "genre": "Survival Action Horror",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination and reflections",
+    "resolution": "1116p to 4K PSSR2",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "ray tracing on",
+        "description": "1116p to 4K PSSR2 at a basically locked 60fps (rare, minor 1-5fps dips that are short-lived) with RT."
+      },
+      {
+        "name": "ray tracing off",
+        "description": "1116p to 4K FSR1 at up to 120fps (lows of 80fps, usually 90-105fps during combat) with no RT."
+      }
+    ],
+    "disclaimer": "Like Requiem (and most other recent Resident Evil titles), Veronica is being developed internally by Capcom Division 1. It's also being led by the directors of the RE2/4 remakes, who have confirmed Veronica is also 3rd-person. These facts allow Requiem's default 3rd-person Leon gameplay (all tech info on the page) to provide an excellent baseline of expectations for Veronica's performance, especially as their releases will only be 1 year apart.",
+    "extraInfo": "Base PS5 only has 1 mode - it's Pro's no RT/FSR1/120fps mode, but capped at 60fps. While all modes have the same 1116p internal resolution, PSSR2's upscaling in Pro's RT mode resolves a significantly sharper and more stable 4K-looking image. The FSR1 spatial upscaling in the other modes looks significantly more aliased in areas like hair, with more shimmering in assets like railings. Pro's RT mode also creates a far more realistic/natural looking image with more accurate shading due to RTGI, and although RT reflections can be somewhat noisy, its positives (more immersive horror sections etc) outweigh any drawbacks."
+  },
+  {
     "name": "Resident Evil Requiem",
     "id": "RE9",
     "urlPath": "resident-evil-requiem",

@@ -444,18 +444,6 @@
     "metacritic": 80
   },
   {
-    "name": "Resident Evil Veronica",
-    "id": "RE Veronica",
-    "genre": "Survival Horror",
-    "developer": "Capcom",
-    "publisher": "Capcom",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Resonance: Plague Tale",
     "id": "Resonance: APTL",
     "genre": "Action-Adventure, Stealth",
