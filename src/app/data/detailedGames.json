@@ -2058,6 +2058,32 @@
     "extraInfo": "Pro's versatility mode runs at 1224p-1440p DRS to 4K PSSR2 at a very stable 60fps, whereas the others are legacy base PS5 modes. Pre-March 2026, Pro used PSSR1 which gave versatility mode a sharper image (especially distant detail) than even graphics mode despite its higher internal resolution, with better SSR and less ghosting and artifacting, at 60fps. However, PSSR1 suffered from some extra noise, instability, and artifacting compared to graphics mode. Now with PSSR2, these issues have not only been fixed, but the image is even sharper and resolves more texture detail. There's now no reason to choose against versatility mode due to PSSR2."
   },
   {
+    "name": "Final Fantasy 7 Revelation",
+    "pageTitle": "Final Fantasy VII Revelation",
+    "id": "FF7 Revelation",
+    "urlPath": "final-fantasy-vii-revelation",
+    "genre": "Cinematic Action JRPG",
+    "developer": "Square Enix CBU I",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Spring 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p to 4K PSSR2 (based off Rebirth)",
+    "fps": "60fps (based off Rebirth)",
+    "modes": [
+      {
+        "name": "versatility",
+        "description": "1224p-1440p DRS to 4K PSSR2 at a very stable 60fps."
+      }
+    ],
+    "disclaimer": "Digital Foundry reviewed Revelation's reveal trailer and concluded that it looks similar to Rebirth, which isn't surprising. As a similarly-scoped sequel, on a 3-year dev cycle, that's now coming to Series S/Switch 2 on day 1, it makes sense to remain on Unreal Engine 4, and instead focus on concluding the trilogy's story effectively. This means Rebirth's versatility mode (all tech info on the page) provides an excellent baseline of expectations for Revelation's performance, especially as Rebirth got a native PSSR2 update. With 3 more years of UE4 optimization though, it's likely that Revelations achieves slightly higher IQ.",
+    "extraInfo": "Pro's versatility mode runs at 1224p-1440p DRS to 4K PSSR2 at a very stable 60fps. Pre-March 2026, Pro used PSSR1, which gave versatility mode a sharper image (especially distant detail) than base PS5's 30fps mode, with better SSR and less ghosting/artifacting. However, PSSR1 suffered from some extra noise, instability, and artifacting. Now with PSSR2, these issues have not only been fixed, but the image is even sharper and resolves more texture detail. With PSSR issues resolved, Revelation should therefore provide excellent image quality at launch."
+  },
+  {
     "name": "Fortnite",
     "id": "Fortnite",
     "urlPath": "fortnite",
