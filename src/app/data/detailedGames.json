@@ -1720,6 +1720,25 @@
     "extraInfo": "Pro renders at native 4K during gameplay, whereas base PS5 is a dynamic 4K with slight dips to around 1800p. Pro also runs KO replays at 60fps instead of base PS5's 30fps. Finally, both consoles run at a locked 60fps during gameplay, but other non-KO cutscenes like ring entrances remain at 30fps."
   },
   {
+    "name": "EA Sports UFC 6",
+    "id": "UFC 6",
+    "urlPath": "ea-sports-ufc-6",
+    "genre": "Sports, MMA",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 19, 2026",
+    "hasShipped": true,
+    "metacritic": 83,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced ambient occlusion",
+    "resolution": "4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Pro uses RTAO in both gameplay and replays for improved lighting. It also uses dynamic resolution scaling which can reach native 4K, with an average framerate that's generally higher than base PS5 (DRS floor currently unknown)."
+  },
+  {
     "name": "Elemental War Clash",
     "id": "EWC",
     "urlPath": "elemental-war-clash",
