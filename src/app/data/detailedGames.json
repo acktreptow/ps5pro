@@ -3837,6 +3837,26 @@
     "extraInfo": "Base PS5 internally renders at 1440p before upscaling to 4K, whereas Pro renders at native 4K, which is a 2.25x resolution increase. This results in a sharper image on assets like handrails, goal nets, and jerseys. However, this is the only difference - both run at a locked 60fps with no option for 120fps, for example."
   },
   {
+    "name": "Necrophosis: FC",
+    "pageTitle": "Necrophosis: Full Consciousness",
+    "id": "Necrophosis",
+    "urlPath": "necrophosis-full-consciousness",
+    "genre": "Horror, Adventure, Puzzle",
+    "developer": "Dragonis Games",
+    "publisher": "PQube",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2026",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "The framerate is a locked 60fps."
+  },
+  {
     "name": "Nioh 3",
     "id": "Nioh 3",
     "urlPath": "nioh-3",
