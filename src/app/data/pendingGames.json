@@ -648,6 +648,18 @@
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
   },
   {
+    "name": "Seven Chambers: Zodiac Mystery",
+    "id": "Seven Chambers: Zodiac Mystery",
+    "genre": "Adventure, Puzzle",
+    "developer": "Cateia Games",
+    "publisher": "Fortune Cookie",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Snoot Booper",
     "id": "Snoot Booper",
     "genre": "Action, Casual",
