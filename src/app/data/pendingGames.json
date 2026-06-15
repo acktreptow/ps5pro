@@ -193,6 +193,18 @@
     "metacritic": 0
   },
   {
+    "name": "Construction Crew",
+    "id": "Construction Crew",
+    "genre": "Simulation, Construction",
+    "developer": "Ultimate Games",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Cozy Grove: Camp Spirit",
     "id": "CG:CS",
     "genre": "Adventure, Casual",
