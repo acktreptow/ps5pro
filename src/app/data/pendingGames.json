@@ -551,6 +551,18 @@
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal."
   },
   {
+    "name": "Rin: The Last Child",
+    "id": "Rin",
+    "genre": "Metroidvania",
+    "developer": "Space Fox Games",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Road Cafe Simulator",
     "id": "RCS",
     "urlPath": "road-cafe-simulator",

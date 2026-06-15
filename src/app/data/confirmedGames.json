@@ -444,18 +444,6 @@
     "metacritic": 0
   },
   {
-    "name": "Rin: The Last Child",
-    "id": "Rin",
-    "genre": "Metroidvania",
-    "developer": "Space Fox Games",
-    "publisher": "Ultimate Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "RuneScape: Dragonwilds",
     "id": "Runescape",
     "genre": "Survival, Adventure",
