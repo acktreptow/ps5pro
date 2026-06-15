@@ -540,6 +540,18 @@
     "metacritic": 0
   },
   {
+    "name": "Thief: The Dark Project",
+    "id": "Thief",
+    "genre": "Stealth, Action",
+    "developer": "Nightdive Studios",
+    "publisher": "Atari",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Thomas & Friends: WOS",
     "id": "Thomas & Friends",
     "genre": "Simulation, Trains",
