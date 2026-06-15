@@ -181,6 +181,18 @@
     "extraInfo": "While 34BigThings have already begun their marketing cycle just a few days into 2026, they've confirmed to me on Jan 5 that they're not sharing technical information like Pro enhancements just yet, but an announcement regarding it will come 'soon'. I'll be sure to update this page as soon as any technical information is made public."
   },
   {
+    "name": "Cassette Beasts 2002",
+    "id": "Cassette Beasts 2002",
+    "genre": "RPG, Adventure",
+    "developer": "Bytten Studio",
+    "publisher": "Raw Fury",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Cozy Grove: Camp Spirit",
     "id": "CG:CS",
     "genre": "Adventure, Casual",
