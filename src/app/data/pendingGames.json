@@ -87,6 +87,18 @@
     "extraInfo": "Any Pro enhancements are essentially imperceptible during general gameplay. For example, both base PS5 and Pro run at a locked 60fps, in SDR, with the same graphics presets for settings like LoDs, depth of field etc. Fortunately, both consoles also render a very 4K-like image (Pro could be slightly higher), with shimmering/aliasing only being particularly noticeable on traffic lights."
   },
   {
+    "name": "Asphalt Racing Bundle 3 in 1",
+    "id": "Asphalt Racing",
+    "genre": "Racing",
+    "developer": "Super PowerUp Games",
+    "publisher": "Super Power Up Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 5, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Backrooms: Escape Together",
     "id": "Backrooms: ET",
     "genre": "Co-Op Horror",
