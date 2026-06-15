@@ -4662,25 +4662,6 @@
     "extraInfo": "There is only one difference between Pro and base PS5. Pro runs at 120 Hz whereas base PS5 runs at 90 Hz."
   },
   {
-    "name": "Retrieval",
-    "id": "Retrieval",
-    "urlPath": "retrieval",
-    "genre": "Survival Action Horror",
-    "developer": "333 Studios",
-    "publisher": "333 Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0,
-    "pssr": true,
-    "rt": true,
-    "rtTypes": "Ray traced reflections",
-    "resolution": "4K PSSR",
-    "fps": "60fps",
-    "extraInfo": "The Pro version will have more detailed environments, higher quality RT reflections and a sharper resolution compared to the base PS5 version. All at a more stable 60fps."
-  },
-  {
     "name": "Returnal",
     "id": "Returnal",
     "urlPath": "returnal",
