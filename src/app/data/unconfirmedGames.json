@@ -696,6 +696,18 @@
     "metacritic": 0
   },
   {
+    "name": "Spyro: A Realm Beyond",
+    "id": "Spyro",
+    "genre": "Action-Adventure",
+    "developer": "Toys For Bob",
+    "publisher": "Activision",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Star Wars: Galactic Racer",
     "id": "Star Wars: GR",
     "genre": "Racing, Arcade",
