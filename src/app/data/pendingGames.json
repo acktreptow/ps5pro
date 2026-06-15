@@ -423,6 +423,18 @@
     "metacritic": 0
   },
   {
+    "name": "My Time at Evershine",
+    "id": "My Time at Evershine",
+    "genre": "Simulation, RPG",
+    "developer": "Pathea Games",
+    "publisher": "PM Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Nomad Drive",
     "id": "Nomad Drive",
     "genre": "Driving, Survival",
