@@ -217,6 +217,18 @@
     "metacritic": 0
   },
   {
+    "name": "Code UltraViolet",
+    "id": "Code Violet 2",
+    "genre": "Action-Adventure",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Cozy Grove: Camp Spirit",
     "id": "CG:CS",
     "genre": "Adventure, Casual",
