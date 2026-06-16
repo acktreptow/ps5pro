@@ -241,6 +241,18 @@
     "metacritic": 0
   },
   {
+    "name": "Dodo Duckie",
+    "id": "DD",
+    "genre": "Puzzle, Adventure",
+    "developer": "BornMonkie",
+    "publisher": "BornMonkie",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
