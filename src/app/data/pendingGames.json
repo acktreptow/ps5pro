@@ -151,6 +151,18 @@
     "extraInfo": "Black Desert (likely) doesn't have Pro enhancements yet despite confirmation that Pearl Abyss are working on it. At the very least, the fidelity mode's 60fps will be more stable on Pro due to the extra horsepower. However, both modes suffer from severe pop in that includes texture quality and actual assets. This makes the image rather poor regardless of mode and can't be fixed on console."
   },
   {
+    "name": "Black Tides: The Curse of Blackbeard",
+    "id": "Black Tides",
+    "genre": "Action-Adventure",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Car Simulator: Driving School",
     "id": "CS:DS",
     "genre": "Simulation, Driving",
