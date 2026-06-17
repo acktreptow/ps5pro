@@ -2332,7 +2332,7 @@
         "description": "Upscaled 4K (lower internal resolution) at a basically locked 120fps."
       }
     ],
-    "extraInfo": "While favor performance mode has some graphical effects either disabled or simplified, any differences are virtually indistinguishable during gameplay. As both modes also lock to their framerate target 99% of the time, 120fps is the right choice (unless you can't stand very slight reductions in areas like resolution, which is still 4K-like). Finally, base PS5 also has the same modes that mostly lock to the same target framerates. The only consistent difference was base PS5 running at 58fps when aiming corner kicks compared to 60fps on Pro."
+    "extraInfo": "While performance mode has some graphical effects either disabled or simplified, any differences are virtually indistinguishable during gameplay. As both modes also lock to their framerate target 99% of the time, 120fps is the right choice (unless you can't stand very slight reductions in areas like resolution, which is still 4K-like). Finally, base PS5 also has the same modes with the same framerate performance, but look slightly blurrier."
   },
   {
     "name": "God Of War Laufey",
