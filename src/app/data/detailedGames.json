@@ -992,6 +992,24 @@
     "extraInfo2": "Both upscalers ensure a locked 30/60fps though and when unlocked, both run higher than base PS5 (around 70fps in performance mode and up to 40fps in graphics mode). Finally, Pro has better performance mode SSR, and improved texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
   },
   {
+    "name": "Crime Simulator",
+    "id": "Crime Sim",
+    "urlPath": "crime-simulator",
+    "genre": "Simulation, Roguelite, Heist",
+    "developer": "CookieDev",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 9, 2026",
+    "hasShipped": true,
+    "metacritic": 55,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "120fps",
+    "extraInfo": "Pro renders at 1440p and targets 120fps, whereas base PS5 renders at 1080p and only targets 60fps. You can also turn off various effects such as ambient occlusion in order to achieve a potentially more stable framerate."
+  },
+  {
     "name": "Crimson Desert",
     "id": "CD",
     "urlPath": "crimson-desert",
