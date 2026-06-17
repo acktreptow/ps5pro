@@ -3568,7 +3568,7 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "Upscaled 4K TSR or PSSR2 (likely)",
+    "resolution": "Upscaled 4K TSR (likely)",
     "fps": "60fps",
     "modes": [
       {
@@ -3581,7 +3581,7 @@
       }
     ],
     "disclaimer": "All tech info is taken from the open beta and is subject to change for Mistfall's launch in July.",
-    "extraInfo": "Quality mode has a much higher internal resolution, which results in a far more 4K-like image. Especially in areas like your character's clothing/facial hair and foliage. However, quality mode's framerate is far too unstable, with constant dips that can fall out VRR (especially in your camp). Performance mode, despite looking a bit soft, is therefore the ony viable option as it's a basically locked 60fps. Base PS5 has the same modes with similar framerate performance, but it's likely using FSR to upscale as both modes resolve a far blurrier/less stable image that's full of salt and pepper artifacts compared to the equivalent mode on Pro."
+    "extraInfo": "Quality mode has a higher internal resolution, which results in a more 4K-like image. Especially in areas like your character's clothing/facial hair and foliage. However, quality mode's framerate is far too unstable, with constant dips that can fall out VRR (especially in your camp). Performance mode, despite looking a bit soft, is therefore the ony viable option as it's a basically locked 60fps. Base PS5 has the same modes with similar framerate performance, but their lower internals resolutions in both modes resolve a far blurrier/less stable image that's full of salt and pepper artifacts compared to the equivalent mode on Pro."
   },
   {
     "name": "Monster E Supercross 25",
