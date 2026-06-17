@@ -4535,6 +4535,34 @@
     "extraInfo2": "Fortunately, VOID have acknowledged these issues and said this will be fixed in a future patch, which hopefully also comes with proper Pro enhancements. At the very least right now, Pro helps Ready or Not maintain its 60fps more often, though it can still dip into the mid 50s. Due to the unevenly paced 30fps, quality mode isn't recommended as it results in a sub-optimal experience on both PS5 consoles."
   },
   {
+    "name": "Reanimal",
+    "id": "Reanimal",
+    "urlPath": "reanimal",
+    "genre": "Puzzle, Horror, Adventure",
+    "developer": "Tarsier Studios",
+    "publisher": "THQ Nordic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 13, 2026",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality pro",
+        "description": "Upscaled 4K at a locked 30fps."
+      },
+      {
+        "name": "performance pro",
+        "description": "Upscaled 4K (lower internal resolution) at a basically locked 60fps."
+      }
+    ],
+    "extraInfo": "Although performance mode has a lower internal resolution before upscaling to 4K, both modes can look somewhat aliased depending on the scene. Base PS5 has the same 2 modes with the same framerate performance, but the image is slightly softer compared to the equivalent mode on Pro."
+  },
+  {
     "name": "Redacted",
     "pageTitle": "[REDACTED]",
     "id": "Redacted",
