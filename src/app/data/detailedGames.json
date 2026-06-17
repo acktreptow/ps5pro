@@ -2659,6 +2659,24 @@
     "extraInfo": "Pro sees resolution increases in both modes, as base PS5's quality mode is 1728p and performance mode is 1080p. However, both consoles render a relatively unstable image due to mediocre TAA, regardless of mode. As a result, there's a larger image quality gap between performance modes, with less shimmering and clearer text on Pro. Pro's 60fps is more stable than base PS5, with only the hardest difficulties causing 5-10fps drops (still within VRR) due to more chaotic gameplay. Pro quality mode also maintains 30fps more often, but as both consoles suffer from improper frame pacing, their quality modes feel worse than properly paced 30fps modes in other games."
   },
   {
+    "name": "Hello Neighbor",
+    "id": "HN",
+    "urlPath": "hello-neighbor",
+    "genre": "Stealth, Horror",
+    "developer": "Dynamic Pixels",
+    "publisher": "TinyBuild",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 26, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at a locked 60fps, at least in the early part of the game. Pro does have a slightly higher internal resolution, which results in far away assets like fences/foliage etc resolving a little sharper/more stable. However, this improvement is very small. You're far more likely to notice the HDR support and improved graphics settings (lighting, textures etc) if you're coming from the PS4 version."
+  },
+  {
     "name": "Hitman WOA",
     "pageTitle": "Hitman World of Assassination",
     "id": "Hitman WoA",

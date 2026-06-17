@@ -216,18 +216,6 @@
     "metacritic": 60
   },
   {
-    "name": "Hello Neighbor",
-    "id": "HN",
-    "genre": "Stealth, Horror",
-    "developer": "Dynamic Pixels",
-    "publisher": "TinyBuild",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 26, 2026",
-    "hasShipped": true,
-    "metacritic": 0
-  },
-  {
     "name": "Hot Wheels Infinite Rush",
     "id": "HWIR",
     "genre": "Racing, Arcade",
