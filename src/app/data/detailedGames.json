@@ -3918,6 +3918,24 @@
     "extraInfo": "The framerate is a locked 60fps."
   },
   {
+    "name": "Neverness To Everness",
+    "id": "NTE",
+    "urlPath": "neverness-to-everness",
+    "genre": "F2P Action RPG",
+    "developer": "Hotta Studio",
+    "publisher": "Perfect World Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 29, 2026",
+    "hasShipped": true,
+    "metacritic": 73,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Both base PS5 and Pro run at a stable 60fps with seemingly the same graphics settings (LoDs, reflections etc). However, Pro has a higher internal resolution resulting in more image stability in motion. This can be seen on assets like fencing and AC grates, especially when they're far away."
+  },
+  {
     "name": "Nioh 3",
     "id": "Nioh 3",
     "urlPath": "nioh-3",
