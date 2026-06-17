@@ -586,17 +586,5 @@
     "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
-  },
-  {
-    "name": "World Of Tanks: HEAT",
-    "id": "World of Tanks",
-    "genre": "F2P Tank Action",
-    "developer": "Wargaming Group",
-    "publisher": "Wargaming Group",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 26, 2026",
-    "hasShipped": true,
-    "metacritic": 73
   }
 ]
