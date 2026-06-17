@@ -3555,6 +3555,35 @@
     "extraInfo": "MindsEye is one of very few Pro titles that lacks a 60fps mode. However, it also struggles to maintain a stable, properly paced 30fps - regularly dipping into the low 20s in various open-world and combat scenarios, with visible screen tearing (base PS5 performs even worse with drops under 20fps). Pro also has slightly improved textures, terrain detail and shadows over base PS5, but its 720p-1296p DRS to 4K output can still look blurry when at its lowest internal resolution. Image stability is however still better on Pro, as base PS5 can internally render below 720p. At the very least, cutscene quality on both consoles looks much better than gameplay."
   },
   {
+    "name": "Mistfall Hunter",
+    "id": "MH",
+    "urlPath": "mistfall-hunter",
+    "genre": "Action Extraction RPG",
+    "developer": "Bellring Games",
+    "publisher": "Nuverse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 29, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K TSR or PSSR2 (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "Quality",
+        "description": "Upscaled 4K at a very unstable 60fps (dips below the 48fps VRR window)."
+      },
+      {
+        "name": "Performance",
+        "description": "Upscaled 4K (lower internal resolution) at a basically locked 60fps."
+      }
+    ],
+    "disclaimer": "All tech info is taken from the open beta and is subject to change for Mistfall's launch in July.",
+    "extraInfo": "Quality mode has a much higher internal resolution, which results in a far more 4K-like image. Especially in areas like your character's clothing/facial hair and foliage. However, quality mode's framerate is far too unstable, with constant dips that can fall out VRR (especially in your camp). Performance mode, despite looking a bit soft, is therefore the ony viable option as it's a basically locked 60fps. Base PS5 has the same modes with similar framerate performance, but it's likely using FSR to upscale as both modes resolve a far blurrier/less stable image that's full of salt and pepper artifacts compared to the equivalent mode on Pro."
+  },
+  {
     "name": "Monster E Supercross 25",
     "pageTitle": "Monster Energy Supercross 25",
     "id": "MES 25",
