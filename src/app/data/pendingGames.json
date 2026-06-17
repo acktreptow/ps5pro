@@ -163,6 +163,18 @@
     "metacritic": 0
   },
   {
+    "name": "Blind Descent",
+    "id": "Blind D",
+    "genre": "Adventure, Survival",
+    "developer": "Pokuch",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Car Simulator: Driving School",
     "id": "CS:DS",
     "genre": "Simulation, Driving",
