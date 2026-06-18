@@ -6454,19 +6454,19 @@
     "metacritic": 72,
     "pssr": false,
     "rt": false,
-    "resolution": "Upscaled 4K",
+    "resolution": "4K PSSR2",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality pro",
-        "description": "Upscaled 4K at a locked 30fps."
+        "description": "4K PSSR2 at a locked 30fps. 'Visual settings cranked up to maximum'."
       },
       {
         "name": "performance pro",
-        "description": "Upscaled 4K (lower internal resolution) at a basically locked 60fps."
+        "description": "1440p-4K DRS to 4K PSSR2 at a basically locked 60fps (rare, short-lived 1-5 fps drops)."
       }
     ],
-    "extraInfo": "Although performance mode has a lower internal resolution before upscaling to 4K, it still looks very 4K-like even in the the dense foliage that's constantly on the screen. Base PS5 has the same 2 modes with the same framerate performance, but the image is slightly softer compared to the equivalent mode on Pro."
+    "extraInfo": "Although performance mode's internal resolution can drop to 1440p, due to PSSR2, it still looks very 4K-like even in the the dense foliage. PSSR2 also helps to significantly close the image quality gap with quality mode, despite its improved visual settings. Base PS5 has the same 2 modes with the same framerate performance, but with lower DRS floors (1080p in performance mode etc) leading to a softer image compared to the equivalent mode on Pro. Base PS5's lack of PSSR2 upscaling also results in issues like more aliasing when panning the camera."
   },
   {
     "name": "Wreckreation",
