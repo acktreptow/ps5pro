@@ -2883,6 +2883,34 @@
     "extraInfo": "Pro's dynamic resolution scaling ranges from 1440p to native 4K, which it regularly hits. Base PS5's DRS only renders up to 1800p and dips as low as 1200p. Both consoles have a very stable 60fps framerate, but Pro hits 60fps a little more often and has slightly improved RTGI and ambient occlusion/shadows. There's no option to unlock the framerate, even though Pro often looks like it has the headroom for a noticeable increase past 60fps. Cutscenes are also locked to 60fps everywhere (even PC)."
   },
   {
+    "name": "Infinity Nikki",
+    "id": "Infinity Nikki",
+    "urlPath": "infinity-nikki",
+    "genre": "RPG, Adventure",
+    "developer": "Papergames",
+    "publisher": "Infold Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 5, 2024",
+    "hasShipped": true,
+    "metacritic": 75,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K PSSR2 at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 (slightly lower internal resolution than quality mode) at a basically locked 60fps."
+      }
+    ],
+    "extraInfo": "While performance mode's internal res is lower, it still looks very 4K-like due to PSSR2, even in troublesome areas like foliage and hair. Base PS5 has the same 2 modes with similar framerate performance, but Pro enhances environmental detail, lighting, outfit materials, and long-distance rendering. Pro's PSSR2 also resolves a sharper, cleaner and more stable image. These PSSR2 upgrades are particularly noticeable in large areas and combat, although both base PS5 modes still have good IQ."
+  },
+  {
     "name": "Into Black",
     "id": "Into Black",
     "urlPath": "into-black",
