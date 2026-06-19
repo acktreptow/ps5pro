@@ -2673,7 +2673,7 @@
     "rt": false,
     "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "Both Pro and base PS5 run at a locked 60fps, at least in the early part of the game. Pro does have a slightly higher internal resolution, which results in far away assets like fences/foliage etc resolving a little sharper/more stable. However, this improvement is very small. You're far more likely to notice the HDR support and improved graphics settings (lighting, textures etc) if you're coming from the PS4 version."
+    "extraInfo": "Both Pro and base PS5 run at a locked 60fps, at least in the early part of the game. Pro does have a slightly higher internal resolution, which results in far away assets like fences/foliage etc being a little sharper/more stable. However, this improvement is very small and both consoles resolve a very 4K-like image. You're far more likely to notice the HDR support, better framerate, and improved graphics settings (lighting, textures etc) if you're coming from the PS4 version."
   },
   {
     "name": "Hitman WOA",
