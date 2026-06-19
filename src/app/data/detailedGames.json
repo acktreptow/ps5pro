@@ -3958,11 +3958,11 @@
     "release": "April 29, 2026",
     "hasShipped": true,
     "metacritic": 73,
-    "pssr": false,
+    "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K",
+    "resolution": "Upscaled 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Both base PS5 and Pro run at a stable 60fps with seemingly the same graphics settings (LoDs, reflections etc). However, Pro has a higher internal resolution resulting in more image stability in motion. This can be seen on assets like fencing and AC grates, especially when they're far away."
+    "extraInfo": "Both base PS5 and Pro run at a basically locked 60fps (at least in the early stages). However, Pro adds advanced graphics settings like volumetric fog and distant field ambient occlusion. Pro also utilizes a higher internal resolution and PSSR2 upscaling to resolve a sharper, cleaner, and more temporally stable image compared to base PS5. This increased image quality can be seen on assets like fencing and AC grates, especially when they're far away."
   },
   {
     "name": "Nioh 3",
