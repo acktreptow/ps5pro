@@ -2499,9 +2499,9 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Unreal Engine 5 hardware-based Lumen global illumination, reflections and MegaLights for interior/local lights.",
-    "resolution": "Upscaled 4K TSR and/or PSSR2 (likely)",
+    "resolution": "Upscaled 4K PSSR2 (likely)",
     "fps": "60fps (likely)",
-    "extraInfo": "Digital Foundry played the Series X version in performance mode and confirmed that it ran at a very stable 60fps, with hardware Lumen. This provides an excellent baseline of expectations and allows us to make 2 educated guesses about the PS5 versions. Firstly, as base PS5 reguarlarly mirrors Series X, it too will also have a 30fps quality mode and 60fps performance mode. Secondly, regardless of how many modes are on Pro, it's likely that all PS5 modes will use far superior hardware Lumen (more accurate reflections/lighting etc). Hopefully, Xbox provides more concrete info closer to launch, but until then, these educated guesses still provide some clarity."
+    "extraInfo": "The only thing confirmed for Pro so far is PSSR2 support. However, Digital Foundry played Series X's performance mode and confirmed that it ran at a very stable 60fps, with hardware Lumen. This provides an excellent baseline of expectations and allows us to make 2 educated guesses about the PS5 versions. Firstly, as base PS5 regularly mirrors Series X, it too will also have a 30fps quality mode and 60fps performance mode. Secondly, regardless of how many modes are on Pro, it's likely that all PS5 modes will use far superior hardware Lumen (more accurate reflections/lighting etc). Hopefully, Xbox provides more concrete info closer to launch, but until then, these educated guesses still provide some clarity."
   },
   {
     "name": "Hell Is Us",
