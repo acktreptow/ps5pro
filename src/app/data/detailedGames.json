@@ -1681,6 +1681,25 @@
     "extraInfo": "CFB 26 on Pro provides the same upgrades over base PS5 that CFB 25 had. Pro removes the resolution, performance and visual quality modes on base PS5 for just one mode. Pro's PSSR renders a sharper image than even base PS5's resolution mode and there's now 3D grass in gameplay, on more zoomed in cameras. However, PSSR also causes assets like crowd handrails to be more unstable. Pro's cutscenes/instant replays are now 60fps like in base PS5's performance mode and gameplay is a locked 60fps. Finally, the GIBS RT implementation seems unchanged."
   },
   {
+    "name": "EA College Football 27",
+    "id": "College Football 27",
+    "urlPath": "ea-college-football-27",
+    "genre": "Sports, American Football",
+    "developer": "EA Orlando",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 9, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "GIBS (EA's own global illumination - hardware ray tracing for indirect lighting) (if like previous year)",
+    "resolution": "Upscaled 4K PSSR2 (likely)",
+    "fps": "60fps (if like previous year)",
+    "extraInfo": "While EA haven't discussed Pro upgrades for College Football 27, they have for Madden 27. Unlike Madden 25/26, there will be a Pro-specific quality mode that will maximize visuals at 60fps, and more importantly, a performance mode that will run at 100fps+ in general gameplay. Hopefully, CFB 27 will have something similar as there's no reason why this year's Madden should push past 60fps on consoles, but not CFB. If this is the case, it's certainly not a great look for there to be such a framerate advantage for similar IP launching 1 month apart by the same publisher."
+  },
+  {
     "name": "EA Sports FC 25",
     "id": "Fifa 25",
     "urlPath": "ea-sports-fc-25",
