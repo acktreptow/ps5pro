@@ -180,18 +180,6 @@
     "metacritic": 0
   },
   {
-    "name": "Final Fantasy 7 Remake",
-    "id": "FF7",
-    "genre": "Cinematic Action JRPG",
-    "developer": "Square Enix CBU I",
-    "publisher": "Square Enix",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 10, 2021",
-    "hasShipped": true,
-    "metacritic": 89
-  },
-  {
     "name": "Final Fantasy 14",
     "id": "FF14",
     "genre": "MMORPG",
@@ -214,6 +202,18 @@
     "release": "June 22, 2023",
     "hasShipped": true,
     "metacritic": 87
+  },
+  {
+    "name": "Final Fantasy 7 Remake",
+    "id": "FF7",
+    "genre": "Cinematic Action JRPG",
+    "developer": "Square Enix CBU I",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 10, 2021",
+    "hasShipped": true,
+    "metacritic": 89
   },
   {
     "name": "Forza Horizon 6",
