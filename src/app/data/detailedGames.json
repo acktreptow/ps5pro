@@ -3854,39 +3854,6 @@
     "extraInfo": "Pro has better view distance, foliage, textures, post-processing, and shading compared to base PS5, as well as a higher internal res in both its VR mode and performance mode. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps."
   },
   {
-    "name": "Naraka: Bladepoint",
-    "id": "Naraka",
-    "urlPath": "naraka-bladepoint",
-    "genre": "Battle Royale, TPA",
-    "developer": "24 Entertainment",
-    "publisher": "NetEase Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "July 13, 2023",
-    "hasShipped": true,
-    "metacritic": 71,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "120fps",
-    "modes": [
-      {
-        "name": "quality",
-        "description": "4K at a stable 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'."
-      },
-      {
-        "name": "balanced",
-        "description": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap - 'balancing both visual quality and smoothness'."
-      },
-      {
-        "name": "high frames",
-        "description": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
-      }
-    ],
-    "disclaimer": "As NB isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with NB yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
-    "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution, which it locks to at 60fps."
-  },
-  {
     "name": "NBA 2K25",
     "id": "NBA 25",
     "urlPath": "nba-2k25",
@@ -3944,6 +3911,39 @@
     "resolution": "4K",
     "fps": "60fps",
     "extraInfo": "Base PS5 internally renders at 1440p before upscaling to 4K, whereas Pro renders at native 4K, which is a 2.25x resolution increase. This results in a sharper image on assets like handrails, goal nets, and jerseys. However, this is the only difference - both run at a locked 60fps with no option for 120fps, for example."
+  },
+  {
+    "name": "Naraka: Bladepoint",
+    "id": "Naraka",
+    "urlPath": "naraka-bladepoint",
+    "genre": "Battle Royale, TPA",
+    "developer": "24 Entertainment",
+    "publisher": "NetEase Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 13, 2023",
+    "hasShipped": true,
+    "metacritic": 71,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K at a stable 60fps. According to 24 Entertainment - 'ideal for users seeking better visual experiences'."
+      },
+      {
+        "name": "balanced",
+        "description": "1080p (likely) to 4K PSSR, with either a 60fps or 120fps cap - 'balancing both visual quality and smoothness'."
+      },
+      {
+        "name": "high frames",
+        "description": "Native 1080p at 60fps, 120fps, 240fps, or 'unlimited' fps (check extra info) - 'for users who need the highest frame rates, ensuring smoother gameplay'."
+      }
+    ],
+    "disclaimer": "As NB isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with NB yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution, which it locks to at 60fps."
   },
   {
     "name": "Necrophosis: FC",
