@@ -3984,35 +3984,6 @@
     "extraInfo": "Both base PS5 and Pro run at a basically locked 60fps (at least in the early stages). However, Pro adds advanced graphics settings like volumetric fog and distant field ambient occlusion. Pro also utilizes a higher internal resolution and PSSR2 upscaling to resolve a sharper, cleaner, and more temporally stable image compared to base PS5. This increased image quality can be seen on assets like fencing and AC grates, especially when they're far away."
   },
   {
-    "name": "Nioh 3",
-    "id": "Nioh 3",
-    "urlPath": "nioh-3",
-    "genre": "Soulsborne",
-    "developer": "Team Ninja",
-    "publisher": "Koei Tecmo",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "February 6, 2026",
-    "hasShipped": true,
-    "metacritic": 86,
-    "pssr": true,
-    "rt": false,
-    "resolution": "1440p to 4K PSSR",
-    "fps": "60fps",
-    "modes": [
-      {
-        "name": "prioritize resolution",
-        "description": "1440p to 4K PSSR at an unevenly paced 30fps. Higher screen space reflections and draw distance quality preset than fps mode."
-      },
-      {
-        "name": "prioritize FPS",
-        "description": "792p-1296p DRS to 4K PSSR at a mostly stable 60fps (quick dips to mid 50s when lots of effects are onscreen)."
-      }
-    ],
-    "extraInfo": "Base PS5 has the same 2 modes with similar framerate performance, but uses FSR to upscale to 4K. FSR results in less shimmer/break up in SSR and is sharper in stills despite lower internal resolutions (1152p in resolution mode and 720p-1152p DRS in fps mode). However, on the whole, Pro's PSSR implementation is superior due to its much improved motion clarity, lack of ghosting trails, and overall much better resolve (less flickering/instability in foliage/hair etc).",
-    "extraInfo2": "Regardless of mode/console, Nioh 3 suffers from pop-in of objects/shadows and cutscenes run at an unevenly paced 30fps. Finally, there's no RT mode that was present in Team Ninja's last game - Rise of the Ronin."
-  },
-  {
     "name": "Ninja Gaiden 2 Black",
     "id": "NG2 Black",
     "urlPath": "ninja-gaiden-2-black",
@@ -4078,6 +4049,35 @@
     "disclaimer": "As NG4 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with NG4 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Prioritize graphics, framerate and 120 Hz modes are also the modes on base PS5. However, Pro can uncap the framerate (base PS5 can't) and will also reach the higher bounds of the DRS more often. Prioritize framerate Pro takes the visual settings of graphics mode, but runs at 60fps+ instead of 30fps. While both of these mode also internally render at 1440p, base PS5 uses FSR to upscale to 4K whereas Pro uses an excellent implementation of PSSR (both modes looks very 4K-like).",
     "extraInfo2": "The 120 Hz mode has no SSR, missing rain effects, and a far worse draw distance/LODs where many assets like trash bags/rocks don't render at all. It also looks considerably blurrier due to both the lower internal and output resolutions, making it a pointless mode on Pro as its exclusive mode is superior in every way."
+  },
+  {
+    "name": "Nioh 3",
+    "id": "Nioh 3",
+    "urlPath": "nioh-3",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 6, 2026",
+    "hasShipped": true,
+    "metacritic": 86,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1440p to 4K PSSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "prioritize resolution",
+        "description": "1440p to 4K PSSR at an unevenly paced 30fps. Higher screen space reflections and draw distance quality preset than fps mode."
+      },
+      {
+        "name": "prioritize FPS",
+        "description": "792p-1296p DRS to 4K PSSR at a mostly stable 60fps (quick dips to mid 50s when lots of effects are onscreen)."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same 2 modes with similar framerate performance, but uses FSR to upscale to 4K. FSR results in less shimmer/break up in SSR and is sharper in stills despite lower internal resolutions (1152p in resolution mode and 720p-1152p DRS in fps mode). However, on the whole, Pro's PSSR implementation is superior due to its much improved motion clarity, lack of ghosting trails, and overall much better resolve (less flickering/instability in foliage/hair etc).",
+    "extraInfo2": "Regardless of mode/console, Nioh 3 suffers from pop-in of objects/shadows and cutscenes run at an unevenly paced 30fps. Finally, there's no RT mode that was present in Team Ninja's last game - Rise of the Ronin."
   },
   {
     "name": "No Man's Sky",
