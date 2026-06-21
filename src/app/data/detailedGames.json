@@ -2696,25 +2696,6 @@
     "extraInfo": "Both Pro and base PS5 run at a locked 60fps, at least in the early part of the game. Pro does have a slightly higher internal resolution, which results in far away assets like fences/foliage etc being a little sharper/more stable. However, this improvement is very small and both consoles resolve a very 4K-like image. You're far more likely to notice the HDR support, better framerate, and improved graphics settings (lighting, textures etc) if you're coming from the PS4 version."
   },
   {
-    "name": "Hitman WOA",
-    "pageTitle": "Hitman World of Assassination",
-    "id": "Hitman WoA",
-    "urlPath": "hitman-world-of-assassination",
-    "genre": "Stealth, Action",
-    "developer": "IO Interactive",
-    "publisher": "IO Interactive",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "January 26, 2023",
-    "hasShipped": true,
-    "metacritic": 89,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro is a locked 60fps at native 4K, compared to 1800p at a mostly stable 60fps on base PS5. Unfortunately, despite Pro's additional headroom, it lacks any RT which is available in the PC version. Instead, Pro's slight resolution increase and framerate stability over base PS5 essentially puts it on par with Series X."
-  },
-  {
     "name": "High On Life 2",
     "id": "HoL 2",
     "urlPath": "high-on-life-2",
@@ -2734,6 +2715,25 @@
     "disclaimer": "In order to use PSSR2 in High on Life 2, you must activate the 'Enhance PSSR Image Quality' toggle in the PS5 system settings. As HL2 isn't whitelisted by Sony and therefore still uses PSSR1 by default, this page's analysis still displays PSSR1 metrics. Fortunately, Digital Foundry reviewed HL2 with PSSR2 toggled on and confirm it fixes the issues mentioned below with a sharper image and no more PSSR1 film grain-like noise/lighting issues. PSSR2 is therefore recommended for HL2.",
     "extraInfo": "Pro has DRS (usually around 792p) before upscaling to 4K via TSR or PSSR. While TSR has more aliasing/shimmering on edges, PSSR has more overall instability/noise and is softer with noticeably more flickering/fizzle in lighting (check disclaimer to easily fix these PSSR issues with PSSR2). Pro's framerate maintains 60fps most of the time in smaller areas, but can dip into the mid 50s in cities.",
     "extraInfo2": "Base PS5 also uses DRS, but is usually around 720p before upscaling to 4K via TSR only. It also has a less stable 60fps which can drop under the VRR window, with traversal stutters, in cities/larger fights. Finally, both consoles use screen space contact shadows in conjunction with UE5's virtual shadow maps. This can be distracting when a close shadow is occluded from screen space."
+  },
+  {
+    "name": "Hitman WOA",
+    "pageTitle": "Hitman World of Assassination",
+    "id": "Hitman WoA",
+    "urlPath": "hitman-world-of-assassination",
+    "genre": "Stealth, Action",
+    "developer": "IO Interactive",
+    "publisher": "IO Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "January 26, 2023",
+    "hasShipped": true,
+    "metacritic": 89,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro is a locked 60fps at native 4K, compared to 1800p at a mostly stable 60fps on base PS5. Unfortunately, despite Pro's additional headroom, it lacks any RT which is available in the PC version. Instead, Pro's slight resolution increase and framerate stability over base PS5 essentially puts it on par with Series X."
   },
   {
     "name": "Hogwarts Legacy",
