@@ -756,18 +756,6 @@
     "metacritic": 77
   },
   {
-    "name": "TWD: Saints & Sinners 2",
-    "id": "TWD: S&S 2",
-    "genre": "VR Survival Horror",
-    "developer": "Skydance Interactive",
-    "publisher": "Skydance Interactive",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "March 21, 2023",
-    "hasShipped": true,
-    "metacritic": 72
-  },
-  {
     "name": "Terminator: Survivors",
     "id": "Terminator Survivors",
     "genre": "Action-Adventure",
@@ -838,6 +826,18 @@
     "release": "2027",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "The Walking Dead: S&S 2",
+    "id": "TWD: S&S 2",
+    "genre": "VR Survival Horror",
+    "developer": "Skydance Interactive",
+    "publisher": "Skydance Interactive",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "March 21, 2023",
+    "hasShipped": true,
+    "metacritic": 72
   },
   {
     "name": "The Witcher 3: Wild Hunt",
