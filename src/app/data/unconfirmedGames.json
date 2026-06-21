@@ -684,18 +684,6 @@
     "metacritic": 81
   },
   {
-    "name": "Silent Hill: Townfall",
-    "id": "SH: Townfall",
-    "genre": "Survival Horror",
-    "developer": "Screen Burn Interactive",
-    "publisher": "Konami & Annapurna",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 24, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Spyro: A Realm Beyond",
     "id": "Spyro",
     "genre": "Action-Adventure",
