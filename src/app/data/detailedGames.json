@@ -1940,6 +1940,25 @@
     "extraInfo2": "Base PS5's quality mode has no RT during gameplay, whereas Pro's quality mode has 3/4 RT which dramatically improves realism. Pro even brings back RT shadows for cutscenes (which are now at 40fps, instead of base PS5's 30fps) and replays. Base PS5's quality mode resolution is 1800p-4K DRS, yet Pro's PSSR very nearly matches its sharpness despite being at 1080p-1440p DRS. Base PS5 has no 8K mode and its 120 Hz performance mode is also usually at 1080p compared to Pro's 1440p."
   },
   {
+    "name": "FBC: Firebreak",
+    "id": "Firebreak",
+    "urlPath": "fbc-firebreak",
+    "genre": "PvE Co-Op FPS",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 17, 2025",
+    "hasShipped": true,
+    "metacritic": 65,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR/FSR2",
+    "fps": "60fps",
+    "disclaimer": "As FBC: Firebreak isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with FBC yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. However, Pro can use either PSSR or FSR2 to upscale to 4K, and they perform similarly to their AW2 implementation (PSSR has better motion clarity and less artifacting, but FSR is less noisy and more 4K-like in stills). Base PS5 exclusively uses FSR2 to upscale to only 1440p, though also achieves a stable 60fps."
+  },
+  {
     "name": "Faaast Penguin",
     "id": "Fast Penguin",
     "urlPath": "faaast-penguin",
@@ -2060,25 +2079,6 @@
     "resolution": "Upscaled 4K",
     "fps": "30fps",
     "extraInfo": "Both base PS5 and Pro output to 4K after upscaling, run at an improperly paced 30fps, and uses the 'standard' quality for character models. Pro however utilizes a higher internal resolution before upscaling to 4K, resulting in a sharper image (especially in areas like hair, where there's less fizzle/breakup) than base PS5 in the same scene. As a remake of a PS2 game, there also really should be a 60fps mode, yet there's not even a properly implemented 30fps cap."
-  },
-  {
-    "name": "FBC: Firebreak",
-    "id": "Firebreak",
-    "urlPath": "fbc-firebreak",
-    "genre": "PvE Co-Op FPS",
-    "developer": "Remedy Entertainment",
-    "publisher": "Remedy Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 17, 2025",
-    "hasShipped": true,
-    "metacritic": 65,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K PSSR/FSR2",
-    "fps": "60fps",
-    "disclaimer": "As FBC: Firebreak isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with FBC yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
-    "extraInfo": "Unlike Alan Wake 2, which offered a graphics, balanced and performance mode, FBC only has one mode that's 4K at a mostly locked 60fps with no RT. However, Pro can use either PSSR or FSR2 to upscale to 4K, and they perform similarly to their AW2 implementation (PSSR has better motion clarity and less artifacting, but FSR is less noisy and more 4K-like in stills). Base PS5 exclusively uses FSR2 to upscale to only 1440p, though also achieves a stable 60fps."
   },
   {
     "name": "Final Fantasy 7 Rebirth",
