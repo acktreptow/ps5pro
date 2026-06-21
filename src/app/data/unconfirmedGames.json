@@ -588,6 +588,18 @@
     "metacritic": 0
   },
   {
+    "name": "Rainbow Six Siege X",
+    "id": "R6 Siege X",
+    "genre": "PvP Tactical FPS",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 10, 2025",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Reach",
     "id": "Reach",
     "genre": "VR Action-Adventure",
@@ -742,18 +754,6 @@
     "release": "July 4, 2023",
     "hasShipped": true,
     "metacritic": 77
-  },
-  {
-    "name": "Rainbow Six Siege X",
-    "id": "R6 Siege X",
-    "genre": "PvP Tactical FPS",
-    "developer": "Ubisoft Montreal",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 10, 2025",
-    "hasShipped": true,
-    "metacritic": 80
   },
   {
     "name": "TWD: Saints & Sinners 2",
