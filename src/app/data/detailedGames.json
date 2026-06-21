@@ -4233,6 +4233,24 @@
     "extraInfo": "Pro is a native 4K at 60fps. This combines the best of base PS5's performance (1440p/60fps) and quality (4K/30fps) modes."
   },
   {
+    "name": "PUBG: Battlegrounds",
+    "id": "PUBG",
+    "urlPath": "pubg-battlegrounds",
+    "genre": "Battle Royale, TPS, FPS",
+    "developer": "PUBG Studios",
+    "publisher": "Krafton",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 12, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Dynamic 4K",
+    "fps": "60fps",
+    "extraInfo": "Pro renders at a dynamic 4K, but base PS5 only renders at a fixed 1440p. Both consoles run at a 'stable' 60fps and neither support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play."
+  },
+  {
     "name": "Paladin's Passage",
     "id": "Paladin's Passage",
     "urlPath": "paladins-passage",
@@ -4445,24 +4463,6 @@
     "fps": "60fps",
     "disclaimer": "All tech info is taken from eBaseball: Pro Spirit as no analysis is available for the 2024-2025 edition at the time of writing. However, as a F2P version of the same IP, eBaseball provides an excellent baseline of what to expect from this older entry in the Konami series.",
     "extraInfo": "While both base PS5 and Pro run at a locked 60fps, base PS5 renders at a lower internal resolution which results in a softer image. There's also more aliasing/shimmering/image breakup that's particularly noticeable in close-up shots of athletes (beards etc) and wide shots of stadiums (railings)."
-  },
-  {
-    "name": "PUBG: Battlegrounds",
-    "id": "PUBG",
-    "urlPath": "pubg-battlegrounds",
-    "genre": "Battle Royale, TPS, FPS",
-    "developer": "PUBG Studios",
-    "publisher": "Krafton",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 12, 2025",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "Dynamic 4K",
-    "fps": "60fps",
-    "extraInfo": "Pro renders at a dynamic 4K, but base PS5 only renders at a fixed 1440p. Both consoles run at a 'stable' 60fps and neither support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play."
   },
   {
     "name": "Pure Pool Pro",
