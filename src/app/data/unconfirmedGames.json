@@ -228,18 +228,6 @@
     "metacritic": 0
   },
   {
-    "name": "GTA V",
-    "id": "GTA 5",
-    "genre": "Action-Adventure",
-    "developer": "Rockstar North",
-    "publisher": "Rockstar Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 15, 2022",
-    "hasShipped": true,
-    "metacritic": 81
-  },
-  {
     "name": "Gen ATLAS",
     "id": "Gen ATLAS",
     "genre": "Action-Adventure",
@@ -286,6 +274,18 @@
     "release": "October 21, 2022",
     "hasShipped": true,
     "metacritic": 67
+  },
+  {
+    "name": "Grand Theft Auto 5",
+    "id": "GTA 5",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 15, 2022",
+    "hasShipped": true,
+    "metacritic": 81
   },
   {
     "name": "Guardians Of The Galaxy",
