@@ -1332,7 +1332,8 @@
     "extraInfo": "While the native 4K in base PS5's cinematic (quality) mode is a little sharper than PS5 Pro mode, it's also far more noisy, more aliased, and less temporally stable than the 1440p-1584p DRS to 4K PSSR in the Pro mode, which therefore has the better image quality despite the lower internal resolution. PS5 Pro mode also has improved shadows and a locked 60fps, therefore making the legacy cinematic/performance modes redundant."
   },
   {
-    "name": "Diablo IV",
+    "name": "Diablo 4",
+    "pageTitle": "Diablo IV",
     "id": "Diablo 4",
     "urlPath": "diablo-iv",
     "genre": "Dungeon Crawler",
