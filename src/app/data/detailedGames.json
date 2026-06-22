@@ -5901,9 +5901,10 @@
     "extraInfo": "The fidelity and performance modes are the same as on base PS5, but with VRR enabled, there's usually around a 25fps advantage on Pro. PSSR in Pro mode looks much sharper (especially foliage) than performance mode's TAA. There's also less noise/anti-aliasing in motion and improved SSR compared to legacy modes, but fidelity mode is still very close in image quality and some reflections can even look better. Finally, PSSR beats FSR in the PC version and comes very close to DLSS (check disclaimer to improve PSSR even further with PSSR2)."
   },
   {
-    "name": "The Last Of Us Part II",
+    "name": "The Last Of Us Part 2",
+    "pageTitle": "The Last of Us Part II Remastered",
     "id": "TLOU2",
-    "urlPath": "the-last-of-us-part-ii",
+    "urlPath": "the-last-of-us-part-2-remastered",
     "genre": "Cinematic Action-Adventure",
     "developer": "Naughty Dog",
     "publisher": "Sony Interactive",
