@@ -3132,9 +3132,10 @@
     "extraInfo": "While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair."
   },
   {
-    "name": "Little Nightmares III",
+    "name": "Little Nightmares 3",
+    "pageTitle": "Little Nightmares III",
     "id": "LI3",
-    "urlPath": "little-nightmares-iii",
+    "urlPath": "little-nightmares-3",
     "genre": "Puzzle, Horror, Adventure",
     "developer": "Supermassive Games",
     "publisher": "Bandai Namco",
