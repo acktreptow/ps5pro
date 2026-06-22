@@ -5867,9 +5867,10 @@
     "extraInfo": "One of the few Pro games to combine PSSR's upscaling with AMD's FSR frame generation, whereas base PS5 uses FSR for upscaling. You can toggle both RT and frame gen on/off in all modes. Frame gen increases framerates, but isn't recommended in any mode as the base framerate is too low, resulting in too much input lag."
   },
   {
-    "name": "The Last Of Us Part I",
+    "name": "The Last Of Us Part 1",
+    "pageTitle": "The Last Of Us Part I",
     "id": "TLOU",
-    "urlPath": "the-last-of-us-part-i",
+    "urlPath": "the-last-of-us-part-1",
     "genre": "Cinematic Action-Adventure",
     "developer": "Naughty Dog",
     "publisher": "Sony Interactive",
