@@ -6468,26 +6468,6 @@
     "extraInfo": "The Sept 2025 State of Play demo ran at 30fps, with an internal resolution of 1440p in gameplay and 15120p-1600p in cutscenes, with RT reflections. DF stated while there was continuity from Spider-Man 2, there were already noticeable upgrades like facial models. The June 2026 State of Play demo then ran at 60fps with the same rendering features. Even with less RT than Spider-Man 2 however, DF believes the overall image looks better - likely due to the non open-world design, which allows Insomniac to be more deliberate and detailed. This all bodes well for the game's performance at launch in September, where this can all be finalized."
   },
   {
-    "name": "World Of Warships: L",
-    "pageTitle": "World Of Warships: Legends",
-    "id": "WoW: Legends",
-    "urlPath": "world-of-warships-legends",
-    "genre": "Multiplayer Naval Combat",
-    "developer": "Wargaming Group",
-    "publisher": "Wargaming Group",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 4, 2021",
-    "hasShipped": true,
-    "metacritic": 83,
-    "pssr": false,
-    "rt": true,
-    "rtTypes": "Hardware-based ray traced reflections",
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro runs at 4K/60fps, which is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
-  },
-  {
     "name": "World Of Tanks: HEAT",
     "id": "World of Tanks",
     "urlPath": "world-of-tanks-heat",
@@ -6514,6 +6494,26 @@
       }
     ],
     "extraInfo": "Although performance mode's internal resolution can drop to 1440p, due to PSSR2, it still looks very 4K-like even in the the dense foliage. PSSR2 also helps to significantly close the image quality gap with quality mode, despite its improved visual settings. Base PS5 has the same 2 modes with the same framerate performance, but with lower DRS floors (1080p in performance mode etc) leading to a softer image compared to the equivalent mode on Pro. Base PS5's lack of PSSR2 upscaling also results in issues like more aliasing when panning the camera."
+  },
+  {
+    "name": "World Of Warships: L",
+    "pageTitle": "World Of Warships: Legends",
+    "id": "WoW: Legends",
+    "urlPath": "world-of-warships-legends",
+    "genre": "Multiplayer Naval Combat",
+    "developer": "Wargaming Group",
+    "publisher": "Wargaming Group",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 4, 2021",
+    "hasShipped": true,
+    "metacritic": 83,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Hardware-based ray traced reflections",
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro runs at 4K/60fps, which is the same as the Series X version. Base PS5 only runs at 1440p/60fps, which means a 2.25x increase in resolution for Pro. There's also an RT toggle for hardware-based reflections on both Pro and base PS5, but the framerate is then capped at a locked 30fps."
   },
   {
     "name": "Wreckreation",
