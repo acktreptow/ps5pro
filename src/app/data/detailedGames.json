@@ -1145,7 +1145,8 @@
     "extraInfo": "Pro has increased distance for maximum LOD quality of the landscape and anything the player has built on it. Pro also has higher LOD quality for trees so changes are less noticeable from a distance."
   },
   {
-    "name": "Days Gone Remastered",
+    "name": "Days Gone",
+    "pageTitle": "Days Gone Remastered",
     "id": "DG Remastered",
     "urlPath": "days-gone-remastered",
     "genre": "Action-Adventure",
