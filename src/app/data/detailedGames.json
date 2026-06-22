@@ -5270,10 +5270,10 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps, except for characters which are stop motion. However, Pro can look noticeably sharper and more 4K-like in areas such as foliage and particle effects, due to its higher average internal resolution, before upscaling to 4K. Both consoles also unfortunately suffer from stutter."
   },
   {
-    "name": "Spider-Man 1 Remastered",
-    "pageTitle": "Spider-Man",
+    "name": "Spider-Man 1",
+    "pageTitle": "Marvel's Spider-Man Remastered",
     "id": "Spider-Man",
-    "urlPath": "spider-man-remastered",
+    "urlPath": "marvels-spider-man-remastered",
     "genre": "Cinematic Action-Adventure",
     "developer": "Insomniac Games",
     "publisher": "Sony Interactive",
