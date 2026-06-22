@@ -5219,6 +5219,34 @@
     "extraInfo": "Both PS5 consoles have dynamic resolution scaling, but Pro hits native 4K often, which is extremely rare on base PS5. Base PS5 also renders a low of 1296p often when that's less than 1% on Pro. However, all versions (Xbox/PC too) are poorly aliased, so resolution gaps are less noticeable than in other games because there's so much shimmer regardless. Pro's 60fps is locked aside from some effect-heavy explosions. This is more stable than base PS5, which can drop to low 50s in general gameplay."
   },
   {
+    "name": "Sonic Racing: CrossWorlds",
+    "id": "Sonic Racing",
+    "urlPath": "sonic-racing-crossworlds",
+    "genre": "Racing, Arcade Kart",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 25, 2025",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "graphics",
+        "description": "4K at a basically locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "4K at a basically locked 60fps. Drops to 1440p in 4-player split screen."
+      }
+    ],
+    "extraInfo": "Base PS5 is 4K/30fps in its graphics mode and 1080p/60fps in its performance mode."
+  },
+  {
     "name": "South Of Midnight",
     "id": "SoM",
     "urlPath": "south-of-midnight",
@@ -5326,34 +5354,6 @@
     ],
     "disclaimer": "As Spider-Man 2 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with SM2 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "Fidelity Pro is sharper/more stable than Performance Pro, but PSSR in Performance Pro still resolves more detail than the upscaler seen in any base PS5 mode. Fidelity Pro RT key light shadows now includes very distant buildings, RT reflections are full resolution (50% in Performance Pro) and RTAO has more contact shadows, adding depth to assets all over the screen. RT types can be toggled on/off which affects VRR framerate approx +- 10. Draw distance/distant reflections are also improved over Performance Pro (which is at base PS5 Fidelity mode), e.g. more onscreen distant objects like trees. Graphics settings are equivalent to PC's high/very high."
-  },
-  {
-    "name": "Sonic Racing: CrossWorlds",
-    "id": "Sonic Racing",
-    "urlPath": "sonic-racing-crossworlds",
-    "genre": "Racing, Arcade Kart",
-    "developer": "Sonic Team",
-    "publisher": "Sega",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 25, 2025",
-    "hasShipped": true,
-    "metacritic": 82,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "modes": [
-      {
-        "name": "graphics",
-        "description": "4K at a basically locked 60fps."
-      },
-      {
-        "name": "performance",
-        "description": "4K at a basically locked 60fps. Drops to 1440p in 4-player split screen."
-      }
-    ],
-    "extraInfo": "Base PS5 is 4K/30fps in its graphics mode and 1080p/60fps in its performance mode."
   },
   {
     "name": "Split Fiction",
