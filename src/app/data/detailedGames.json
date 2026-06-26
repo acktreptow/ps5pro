@@ -1302,8 +1302,9 @@
   },
   {
     "name": "Demon's Souls",
+    "pageTitle": "Demon's Souls Remake",
     "id": "DS",
-    "urlPath": "demons-souls",
+    "urlPath": "demons-souls-remake",
     "genre": "Soulsborne",
     "developer": "Bluepoint Games",
     "publisher": "Sony Interactive",
