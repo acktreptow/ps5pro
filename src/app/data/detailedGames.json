@@ -6484,7 +6484,8 @@
     "extraInfo": "The Sept 2025 State of Play demo ran at 30fps, with an internal resolution of 1440p in gameplay and 15120p-1600p in cutscenes, with RT reflections. DF stated while there was continuity from Spider-Man 2, there were already noticeable upgrades like facial models. The June 2026 State of Play demo then ran at 60fps with the same rendering features. Even with less RT than Spider-Man 2 however, DF believes the overall image looks better - likely due to the non open-world design, which allows Insomniac to be more deliberate and detailed. This all bodes well for the game's performance at launch in September, where this can all be finalized."
   },
   {
-    "name": "World Of Tanks: HEAT",
+    "name": "World Of Tanks: Heat",
+    "pageTitle": "World of Tanks: HEAT",
     "id": "World of Tanks",
     "urlPath": "world-of-tanks-heat",
     "genre": "F2P Tank Action",
