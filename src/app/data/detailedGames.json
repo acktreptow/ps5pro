@@ -1398,7 +1398,7 @@
     "extraInfo2": "Base PS5 uses software-based Lumen, resulting in less accurate/detailed RT, and more instability (flickering GI and shimmering reflections) compared to Pro's superior hardware-based solution - especially in its performance mode due to lower quality Lumen. Base PS5 also only upscales via TSR, and at lower internal resolutions (usually 864p in performance, 1152p in balanced, and 1440p in quality mode). With hardware RT, PSSR2 upscaling, and higher res, equivalent modes look vastly superior on Pro, at similar framerate stability."
   },
   {
-    "name": "Divinity: Original Sin 2 DE",
+    "name": "Divinity: Original Sin 2",
     "pageTitle": "Divinity: Original Sin 2 - Definitive Edition",
     "id": "Divinity: Original Sin 2",
     "urlPath": "divinity-original-sin-2-definitive-edition",
