@@ -1222,7 +1222,7 @@
     "extraInfo": "Pro uses RT reflections, which, despite some occasional visual noise, are a significant improvement over base PS5's less accurate screen space reflections due to the shopping mall setting (storefront windows, etc). While both base PS5 and Pro run at native 4K, Pro only has minor 1-5fps dips that are short-lived with RT on, whereas base PS5 dips into the low 50s in the most demanding scenarios with SSR. This is most likely why base PS5 doesn't support RT, as it would likely fall out of the VRR window in these instances. However, you can toggle RT off on Pro for a locked 60fps."
   },
   {
-    "name": "Death Stranding 1: DC",
+    "name": "Death Stranding",
     "pageTitle": "Death Stranding: Director's Cut",
     "id": "DS: DC",
     "urlPath": "death-stranding-directors-cut",
