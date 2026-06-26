@@ -1202,7 +1202,7 @@
     "extraInfo": "Both Pro and base PS5 run at a locked 60fps. However, Pro renders above 2000p for the majority of gameplay, including often at native 4K, while base PS5 renders at a fixed 1728p. Pro also has improved shadow quality, motion blur, texture filtering, and depth of field, along with longer draw distances and contact shadows on all objects and lights. Technically, Pro's DRS floor is 1620p which is lower than base PS5, but this is very rare and only lasts a couple of seconds."
   },
   {
-    "name": "Dead Rising Deluxe",
+    "name": "Dead Rising",
     "pageTitle": "Dead Rising Deluxe Remaster",
     "id": "Dead Rising 1",
     "urlPath": "dead-rising-deluxe-remaster",
