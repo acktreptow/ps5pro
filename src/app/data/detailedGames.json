@@ -4982,7 +4982,8 @@
     "extraInfo": "Despite having the Pro Enhanced badge on the PSN Store, Owlcat has confirmed to me that Rue Valley has no unique Pro upgrades - it's essentially the same experience as on PC. However, Pro will still have a more stable 60fps simply due to its extra horsepower."
   },
   {
-    "name": "Rush: Apex Edition",
+    "name": "Rush: Apex",
+    "pageTitle": "Rush: Apex Edition",
     "id": "Rush",
     "urlPath": "rush-apex-edition",
     "genre": "VR Wingsuit Flight, Racing",
