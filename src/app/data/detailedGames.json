@@ -2253,7 +2253,8 @@
     "extraInfo": "While Pro can reach up to 120fps, base PS5 is capped at 60fps. In general combat, Pro's framerate is usually around 75-95fps, with rare dips to around 65fps and can still hit 120fps relatively often. Both Pro and base PS5 also render at 4K and neither natively support HDR."
   },
   {
-    "name": "Gears Of War: Reloaded",
+    "name": "Gears Of War",
+    "pageTitle": "Gears of War: Reloaded",
     "id": "GOW: Reloaded",
     "urlPath": "gears-of-war-reloaded",
     "genre": "Third-Person Shooter",
