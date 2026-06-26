@@ -6453,8 +6453,9 @@
   },
   {
     "name": "Wolverine",
+    "pageTitle": "Marvel's Wolverine",
     "id": "Wolverine",
-    "urlPath": "wolverine",
+    "urlPath": "marvels-wolverine",
     "genre": "Action-Adventure",
     "developer": "Insomniac Games",
     "publisher": "Sony Interactive",
