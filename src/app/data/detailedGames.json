@@ -5510,6 +5510,26 @@
     "extraInfo": "All modes can use either PSSR or FSR3 for upscaling to 4K. PSSR has better motion clarity, but is more noisy/unstable and looks softer in stills (check disclaimer to easily fix these PSSR issues with PSSR2). Quality mode is the only one with stable RT. Quality/balanced/performance are all the legacy modes from base PS5 (which only uses FSR), but will run at the higher DRS bounds (1800p for quality etc) more often, with a more stable framerate, due to Pro's extra power."
   },
   {
+    "name": "Star Wars: Galactic Racer",
+    "id": "Star Wars: GR",
+    "urlPath": "star-wars-galactic-racer",
+    "genre": "Racing, Roguelite",
+    "developer": "Fuse Games",
+    "publisher": "Secret Mode",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 6, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 hardware-based Lumen global illumination.",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "disclaimer": "All tech info is taken from Digital Foundry's analysis of a preview build and their subsequent interview with Fuse Games. Some performance metrics are therefore likely to slightly change before the October release.",
+    "extraInfo": "While both base PS5 and Pro target 60fps and use the superior/more accurate hardware version of Lumen GI, Pro has many image quality improvements. Base PS5 internally renders between 1440p-1690p, but Pro targets a higher internal resolution. Pro also uses PSSR2 to upscale, which resolves a sharper, cleaner, and more stable image than base PS5's TSR, especially in motion. Finally, Pro has improved graphics settings like effects quality and higher particle density, which Fuse Games state will be particularly noticable during more explosive slow-mo crashes."
+  },
+  {
     "name": "Starfield",
     "id": "Starfield",
     "urlPath": "starfield",
