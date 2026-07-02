@@ -5024,6 +5024,7 @@
   },
   {
     "name": "Saros",
+    "pageTitle": "SAROS",
     "id": "Saros",
     "urlPath": "saros",
     "genre": "TPS, Roguelite",
