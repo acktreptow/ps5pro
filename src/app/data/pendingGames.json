@@ -808,6 +808,18 @@
     "metacritic": 0
   },
   {
+    "name": "Tailbreak",
+    "id": "Tailbreak",
+    "genre": "On-Rails Shooter",
+    "developer": "Dead Drop Studios",
+    "publisher": "Dead Drop Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 7, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Ghost - Task of the Ghost Hunters",
     "id": "The Ghost - Task of the Ghost Hunters",
     "genre": "Horror, Puzzle",
