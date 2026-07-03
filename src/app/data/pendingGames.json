@@ -856,6 +856,18 @@
     "metacritic": 0
   },
   {
+    "name": "Task Force Ranger - Breakpoint",
+    "id": "TFR",
+    "genre": "First-Person Shooter",
+    "developer": "Daniel Wengenroth",
+    "publisher": "Daniel Wengenroth",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 7, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Ghost - Task of the Ghost Hunters",
     "id": "The Ghost - Task of the Ghost Hunters",
     "genre": "Horror, Puzzle",
