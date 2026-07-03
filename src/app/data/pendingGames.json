@@ -119,7 +119,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "May 29, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0
   },
   {
@@ -328,7 +328,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "June 26, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0
   },
   {
@@ -975,9 +975,9 @@
     "publisher": "Making Port",
     "psStudios": false,
     "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
+    "release": "June 16, 2026",
+    "hasShipped": true,
+    "metacritic": 70
   },
   {
     "name": "Wild West Legacy",
