@@ -356,6 +356,18 @@
     "metacritic": 0
   },
   {
+    "name": "Helicopter Rescue Simulator",
+    "id": "HRS",
+    "genre": "Simulation, Action",
+    "developer": "Daniel Wengenroth",
+    "publisher": "Daniel Wengenroth",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Highway Drifter: Hajwala",
     "id": "Highway Drifter",
     "urlPath": "highway-drifter-hajwala",
