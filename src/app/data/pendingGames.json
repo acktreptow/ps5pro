@@ -423,6 +423,18 @@
     "extraInfo": "Digital Cybercherries has confirmed that a PS5 Pro patch is in development, though no timeline or specific enhancements have been announced. Given that Hypercharge already runs at native 4K and is primarily a multiplayer-focused title, the most logical upgrade would be the addition of a 120fps mode. Ray tracing reflections could also meaningfully enhance the game's visuals, especially in the campaign, thanks to its cartoon/toy-like aesthetic. However, 120fps support would likely remain the priority as most players engage with the game through PvP."
   },
   {
+    "name": "Iridio",
+    "id": "Iridio",
+    "genre": "Action-Adventure, FPS",
+    "developer": "KR Games",
+    "publisher": "KR Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Isle of Z",
     "id": "Isle of Z",
     "genre": "Horror",
