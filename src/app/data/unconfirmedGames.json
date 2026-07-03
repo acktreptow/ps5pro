@@ -696,6 +696,18 @@
     "metacritic": 81
   },
   {
+    "name": "Silent Hill",
+    "id": "SH",
+    "genre": "Survival Horror",
+    "developer": "Bloober Team",
+    "publisher": "Konami",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spyro: A Realm Beyond",
     "id": "Spyro",
     "genre": "Action-Adventure",
