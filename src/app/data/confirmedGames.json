@@ -288,6 +288,18 @@
     "metacritic": 0
   },
   {
+    "name": "NHL 27",
+    "id": "NHL 27",
+    "genre": "Sports, Ice Hockey",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Norse: Oath Of Blood",
     "id": "Norse: OOB",
     "genre": "Turn-Based Tactics",
