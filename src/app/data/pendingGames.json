@@ -868,6 +868,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Fox of Capistrano",
+    "id": "Capistrano",
+    "genre": "Adventure, Action",
+    "developer": "TeamKill Media",
+    "publisher": "TeamKill Media",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Ghost - Task of the Ghost Hunters",
     "id": "The Ghost - Task of the Ghost Hunters",
     "genre": "Horror, Puzzle",
