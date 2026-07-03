@@ -528,6 +528,18 @@
     "metacritic": 0
   },
   {
+    "name": "Max Payne 1 & 2",
+    "id": "Max Payne",
+    "genre": "Third-Person Shooter",
+    "developer": "Remedy Entertainment",
+    "publisher": "Rockstar Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Metro 2039",
     "id": "Metro 2039",
     "genre": "First-Person Shooter",
