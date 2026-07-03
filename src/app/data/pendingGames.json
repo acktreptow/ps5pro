@@ -253,6 +253,18 @@
     "metacritic": 0
   },
   {
+    "name": "Crown Of Greed",
+    "id": "CoG",
+    "genre": "Fantasy RTS",
+    "developer": "Blum Entertainment",
+    "publisher": "ConsoleWay",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Dodo Duckie",
     "id": "DD",
     "genre": "Puzzle, Adventure",
