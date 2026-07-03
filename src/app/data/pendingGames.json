@@ -923,6 +923,18 @@
     "extraInfo": "While the launch trailer on PlayStation's YouTube channel states that The Rogue Prince of Persia is Pro enhanced, this is unlikely to be the case. The game isn't marked as such on the PSN store, and there's no mention from another primary source about enhancements. If it's Pro enhanced, any differences between it and base PS5 are so small that they're imperceptible even when comparing up close. Let alone the average gamer just playing on Pro at a regular viewing distance (both run at 4K for instance). Pro probably maintains its 120fps framerate more often, but VRR would completely negate this advantage at this framerate target."
   },
   {
+    "name": "The Trap 2: Buzludzha Monument",
+    "id": "Trap 2",
+    "genre": "Horror, Adventure",
+    "developer": "Bul Games",
+    "publisher": "Bul Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Thomas & Friends: WOS",
     "id": "Thomas & Friends",
     "genre": "Simulation, Trains",
