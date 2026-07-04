@@ -5792,6 +5792,24 @@
     "extraInfo": "Looks much more detailed than even base PS5's 30fps resolution mode due to more objects, decals, vegetation and crowds. However, there is no introduction of RT. The 60fps is also locked at 1700p (approx) to 4K PSSR, which is a big improvement over base PS5's 1080p in performance and even its 30fps mode which renders at 1440p."
   },
   {
+    "name": "The Elder Scrolls Online",
+    "id": "ESO",
+    "urlPath": "the-elder-scrolls-online",
+    "genre": "MMORPG",
+    "developer": "Zenimax Online",
+    "publisher": "Bethesda Softworks",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 15, 2021",
+    "hasShipped": true,
+    "metacritic": 79,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro uses variable rate shading to render native 4K at 60fps. This one Pro mode combines the 2 modes on base PS5 (a 4K/30fps fidelity mode with higher graphical settings such as shadows, textures and ambient occlusion etc, and a 1440p/60fps performance mode). Pro also gets the higher graphical settings seen in base PS5 fidelity mode."
+  },
+  {
     "name": "The Elder Scrolls: Oblivion",
     "pageTitle": "The Elder Scrolls IV: Oblivion Remastered",
     "id": "ES4",
@@ -5820,24 +5838,6 @@
       }
     ],
     "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Resolution and framerate in Pro performance mode are slightly increased compared to base PS5 (internal res can drop to 900p). There's no HDR and quality mode is improperly paced everywhere. No matter the console, performance gets worse if booting up from rest mode, cycling through saves or a continuous playthrough due to memory leak and needs a fresh start of the app to fix. These issues are still present as of patch 1.2/Aug 2025."
-  },
-  {
-    "name": "The Elder Scrolls Online",
-    "id": "ESO",
-    "urlPath": "the-elder-scrolls-online",
-    "genre": "MMORPG",
-    "developer": "Zenimax Online",
-    "publisher": "Bethesda Softworks",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "June 15, 2021",
-    "hasShipped": true,
-    "metacritic": 79,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro uses variable rate shading to render native 4K at 60fps. This one Pro mode combines the 2 modes on base PS5 (a 4K/30fps fidelity mode with higher graphical settings such as shadows, textures and ambient occlusion etc, and a 1440p/60fps performance mode). Pro also gets the higher graphical settings seen in base PS5 fidelity mode."
   },
   {
     "name": "The Finals",
