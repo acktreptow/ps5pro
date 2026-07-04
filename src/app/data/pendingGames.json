@@ -983,6 +983,18 @@
     "metacritic": 70
   },
   {
+    "name": "Towers Of Aghasba",
+    "id": "ToA",
+    "genre": "Action-Adventure",
+    "developer": "Dreamlit",
+    "publisher": "Dreamlit",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 19, 2024",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Train Sim World 6",
     "id": "TSW6",
     "genre": "Simulation, Trains",
