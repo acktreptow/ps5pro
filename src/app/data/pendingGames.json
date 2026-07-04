@@ -971,6 +971,18 @@
     "metacritic": 75
   },
   {
+    "name": "Truck Simulator USA : EVO",
+    "id": "TS:USA",
+    "genre": "Simulation, Driving",
+    "developer": "Ovilex Software",
+    "publisher": "Ovilex Software",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Ultra Kingdoms",
     "id": "Ultra Kingdoms",
     "genre": "Metaverse MMORPG",
