@@ -5050,7 +5050,7 @@
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "4K Upscaled TSR",
     "fps": "120fps",
-    "extraInfo": "On 120 Hz screens, Pro runs at 90-100fps in general gameplay, whereas base PS5 is only around 70fps. Fortunately, this means both consoles run at a locked 60fps on 60 Hz screens. Image quality can look quite soft however, and there can be noticable temporal instability/artifacting in puddle reflections, railings, buildings etc. This suggests a relatively low internal resolution before upscaling to a 4K output."
+    "extraInfo": "On 120 Hz screens, Pro generally runs at 90-100fps in gameplay, whereas base PS5 is only around 65-80fps. Fortunately, this means both consoles run at a locked 60fps on 60 Hz screens. Image quality can look quite soft however (especially on base PS5), and there can be noticable temporal instability/artifacting in puddle reflections, railings, buildings etc. This suggests a relatively low internal resolution before upscaling to 4K via UE5's TSR."
   },
   {
     "name": "Sengoku Dynasty",
