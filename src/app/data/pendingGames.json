@@ -356,18 +356,6 @@
     "metacritic": 60
   },
   {
-    "name": "Fractal Space",
-    "id": "Fractal Space",
-    "genre": "Puzzle, Adventure",
-    "developer": "Haze Games",
-    "publisher": "Haze Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2028",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Helicopter Rescue Simulator",
     "id": "HRS",
     "genre": "Simulation, Action",

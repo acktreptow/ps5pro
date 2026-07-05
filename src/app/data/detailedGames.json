@@ -2211,6 +2211,35 @@
     "extraInfo": "Graphics in Pro performance mode are equivalent to base PS5 quality mode, but at a locked 60fps instead of 30fps. Base PS5 performance mode is a big step down from all others. There's far less foliage, more pop-in, and can render under 4K (DRS can dip as low as 1728p for a few seconds). RT on Pro quality mode is nice, but only affects certain assets (only player's car, not other racers etc) and is hard to notice in general gameplay. Cutscenes are 30fps regardless of mode or console."
   },
   {
+    "name": "Fractal Space",
+    "id": "Fractal Space",
+    "urlPath": "fractal-space",
+    "genre": "Puzzle, Adventure",
+    "developer": "Haze Games",
+    "publisher": "Haze Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2028",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality pro",
+        "description": "4K at a locked 60fps with dynamic reflections and enhanced visuals."
+      },
+      {
+        "name": "performance pro",
+        "description": "4K at a locked 120fps with static reflections and other lower graphics settings."
+      }
+    ],
+    "disclaimer": "All tech information is taken from the demo and is subject to change.",
+    "extraInfo": "Base PS5 has the same 2 modes with the same target framerates and graphics settings breakdown. However, base PS5 only renders at 2070p."
+  },
+  {
     "name": "Frostpunk 2",
     "id": "Frostpunk 2",
     "urlPath": "frostpunk-2",
