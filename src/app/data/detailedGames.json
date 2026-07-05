@@ -6455,6 +6455,26 @@
     "extraInfo": "Base PS5 also has dynamic resolution scaling, but instead uses FSR2 to upscale its modes and have a lower base resolution before upscaling (e.g. 720p for speed mode). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
+    "name": "What You Do, Father?",
+    "pageTitle": "What have you done, Father?",
+    "id": "What have you done, Father?",
+    "urlPath": "what-have-you-done-father",
+    "genre": "Adventure, Horror",
+    "developer": "Darkania Works",
+    "publisher": "Making Port",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "June 16, 2026",
+    "hasShipped": true,
+    "metacritic": 70,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "disclaimer": "All tech information is taken from the demo.",
+    "extraInfo": "While both Pro and base PS5 target 60fps, this is very rarely achieved as Pro is usually at around 55fps, and base PS5 is at 53fps. Both consoles are therefore perfectly fine for VRR screens, but won't come close to running smoothly on non-VRR screens. Fortunately, both consoles resolve a sharp, 4K-looking image. Pro's internal resolution is slightly higher before upscaling though, resulting in less aliasing on the edges of picture frames/shadows etc."
+  },
+  {
     "name": "Where Winds Meet",
     "id": "WWM",
     "urlPath": "where-winds-meet",
