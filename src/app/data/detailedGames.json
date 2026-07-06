@@ -1826,6 +1826,35 @@
     "extraInfo": "Base PS5 uses dynamic resolution scaling, which can have a higher internal resolution than Pro as it ranges from 1400p-1600p to 4K TSR, but only runs at 30fps compared to Pro's locked 60fps. Pro's fixed internal resolution of 1440p is also high enough that there's barely a difference between consoles once UE5's TSR is implemented."
   },
   {
+    "name": "Empulse",
+    "id": "Empulse",
+    "urlPath": "empulse",
+    "genre": "First-Person Shooter",
+    "developer": "1047 Games",
+    "publisher": "1047 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 1, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (higher internal resolution than performance mode) at a locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at a basically locked 120fps. Toggle on 'High Frame Rate' in settings for this mode."
+      }
+    ],
+    "disclaimer": "Empulse is currently in early access. Any performance metrics are therefore subject to change when it launches into 1.0 (there's no timeframe for this).",
+    "extraInfo": "Quality mode is noticeably sharper, more stable, and cleaner than performance mode, which can look very soft/non-4K like. Quality mode also locks to 60fps in all modes, whereas performance mode can sometimes dip to around 100fps in matches where everyone is in mechs. Base PS5 has the same 2 modes with the same framerate targets. However, its performance mode has more intense frame drops that occur more often in all-mech matches, and its quality mode now also drops frames here. Base PS5 modes also have lower internal resolutions than their Pro equivalent, though base PS5 quality mode is still sharper than Pro performance mode."
+  },
+  {
     "name": "Enlisted",
     "id": "Enlisted",
     "urlPath": "enlisted",
