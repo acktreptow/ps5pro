@@ -16,7 +16,8 @@
     "rtTypes": "Software-based ray traced global illumination",
     "resolution": "1440p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Pro has 1 mode that runs at a basically locked 60fps, with improved reflections over base PS5's locked 30fps quality mode. Both modes also have the same 900p-1440p internal DRS range, with Pro regularly around 1080p compared to 1152p on base PS5 quality mode. Despite a lower average internal resolution though, Pro's PSSR2 upscaling to 4K still resolves a sharper, cleaner (especially fine detail), and more stable image (especially in motion) compared to base PS5's FSR3, which has significant artifacting and edge breakup. Both modes also have improved shadows over base PS5 performance mode, which suffers even worse FSR3 issues due to its 720p-1080p DRS (regularly at 900p). Its 60fps is also less stable than Pro in more open scenes (brief 1-5fps dips)."
+    "extraInfo": "Pro's 1 mode runs at a basically locked 60fps, with improved reflections over base PS5's locked 30fps quality mode. Both modes have the same 900p-1440p DRS, with Pro regularly around 1080p compared to 1152p on base PS5 quality mode. Despite a lower average internal res though, Pro's PSSR2 upscale to 4K resolves a sharper, cleaner (especially fine detail), and more stable image (especially in motion) compared to base PS5's FSR3, which exhibits artifacting and edge breakup.",
+    "extraInfo2": "Both modes have improved shadows over base PS5 performance mode, which suffers even worse FSR3 issues due to its 720p-1080p DRS (regularly at 900p). Its 60fps is also less stable than Pro in more open scenes (brief 1-5fps dips)."
   },
   {
     "name": "90s Extreme Skiing",
