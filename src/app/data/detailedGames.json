@@ -781,6 +781,25 @@
     "extraInfo": "Both Pro and base PS5 run at a basically locked 120fps (at least in the early stages) and render a very sharp, 4K-like image. However, the framerate can drop in menus and cutscenes, and it's here where we see a difference between consoles. Pro ranges between 85-120fps and averages around 100fps, whereas base PS5 ranges between 60-100fps and averages around 75fps. Presumably, this means in later stages where there's more intense gameplay, Pro should maintain 120fps more often."
   },
   {
+    "name": "Blood Message",
+    "id": "Blood Message",
+    "urlPath": "blood-message",
+    "genre": "Action-Adventure",
+    "developer": "24 Entertainment",
+    "publisher": "NetEase Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "Upscaled 4K PSSR2 (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "According to an interview with Digital Foundry, 24 Entertainment will be Pro enhanced, and they're currently experimenting with PSSR2 and various RT features. However, with the game so far away, no Pro enhancements are set in stone yet. We'll have to wait until we're closer to Blood Message's currently unknown launch before finding out more. Though based off what's already been shown, BM should achieve a high level of technical competency."
+  },
+  {
     "name": "Borderlands 4",
     "id": "B4",
     "urlPath": "borderlands-4",
