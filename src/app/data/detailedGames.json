@@ -1702,14 +1702,14 @@
     "psStudios": false,
     "psvr2": false,
     "release": "July 9, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "GIBS (EA's own global illumination - hardware ray tracing for indirect lighting) (if like previous year)",
-    "resolution": "Upscaled 4K PSSR2 (likely)",
-    "fps": "60fps (if like previous year)",
-    "extraInfo": "While EA haven't discussed Pro upgrades for College Football 27, they have for Madden 27. Unlike Madden 25/26, there will be a Pro-specific quality mode that will maximize visuals at 60fps, and more importantly, a performance mode that will run at 100fps+ in general gameplay. Hopefully, CFB 27 will have something similar as there's no reason why this year's Madden should push past 60fps on consoles, but not CFB. If this is the case, it's certainly not a great look for there to be such a framerate advantage for similar IP launching 1 month apart by the same publisher."
+    "rtTypes": "GIBS (EA's own global illumination - hardware ray tracing for indirect lighting)",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Pro has the same improvements seen in the previous 2 College Football games - it's slightly sharper, it has 3D grass and the replays are 60fps. Unfortunately, this is particularly disappointing this year due to Madden 27. Unlike Madden 25/26, 27 will have a Pro-specific quality mode that will maximize visuals at 60fps, and more importantly, a performance mode that will run at 100fps+ in general gameplay. Hopefully, these modes come to CFB 27 later in the year, potentially around when Madden 27 launches. It's certainly not a great look for there to be such a framerate advantage for similar IP, launching 1 month apart, by the same publisher."
   },
   {
     "name": "EA Sports FC 25",
