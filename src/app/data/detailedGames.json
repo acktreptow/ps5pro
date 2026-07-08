@@ -374,10 +374,24 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray traced global illumination and specular reflections (mirrors, puddles etc)",
+    "rtTypes": "Hardware-accelerated ray traced global illumination and specular reflections (mirrors, puddles, ocean surface etc)",
     "resolution": "Upscaled 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Ubisoft has confirmed that Pro will use PSSR2 as its upscaler, resolving a sharp and stable overall image that's free of visible upscaling artifacts. Ubisoft have also confirmed that RT will be used in all modes across Pro and base PS5 (even at 60fps), but that Pro will have 'advanced' RT."
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "Upscaled 4K PSSR2 at 30fps with RT."
+      },
+      {
+        "name": "balanced",
+        "description": "Upscaled 4K PSSR2 at 40fps with RT. Requires 120 Hz display."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 at 60fps with RT."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same 3 modes that target the same framerate. However, only base PS5 balanced/fidelity modes have the full RT suite, as base PS5 performance mode doesn't include RT reflections. Base PS5 also can't use PSSR2 to upscale to 4K, which should resolve a sharper, cleaner and more stable image on Pro compared to the equivalent mode on base PS5. Finally, Pro has improved hair quality for Edward/all characters in cinematics by rendering individual strands compared to base PS5's hair cards, and this extends to nearby NPCs in fidelity mode gameplay."
   },
   {
     "name": "Assassin's Creed Mirage",
