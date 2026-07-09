@@ -380,18 +380,18 @@
     "modes": [
       {
         "name": "fidelity",
-        "description": "Upscaled 4K PSSR2 at 30fps with RT."
+        "description": "Upscaled 4K PSSR2 at a basically locked 30fps with RT."
       },
       {
         "name": "balanced",
-        "description": "Upscaled 4K PSSR2 at 40fps with RT. Requires 120 Hz display."
+        "description": "Upscaled 4K PSSR2 at a basically locked 40fps with RT. Requires 120 Hz display."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K PSSR2 at 60fps with RT."
+        "description": "Upscaled 4K PSSR2 (lower internal resolution) at a basically locked 60fps with RT."
       }
     ],
-    "extraInfo": "Base PS5 has the same 3 modes that target the same framerate, while targeting at 1080p, 1280p and 1440p respectively though it can be generally lower in practice. However, only base PS5 balanced/fidelity modes have the full RT suite, as base PS5 performance mode doesn't include RT reflections and has lower quality RTGI. Base PS5 also can't use PSSR2 to upscale to 4K, which should resolve a sharper, cleaner and more stable image on Pro compared to the equivalent mode on base PS5 via TAAU. Finally, Pro has improved hair quality for Edward/all characters in cinematics by rendering individual strands compared to base PS5's hair cards, and this extends to nearby NPCs in fidelity mode gameplay."
+    "extraInfo": "All modes can have very brief 1-2fps. Pro fidelity mode is more stable than performance mode due to its higher internal resolution, and this is best seen in areas like reflections. Pro fidelity mode also has improved draw distance, best seen in assets like trees. Base PS5 has the same 3 modes that target the same framerate, while targeting at 1080p, 1280p and 1440p respectively though it can be generally lower in practice. However, only base PS5 balanced/fidelity modes have the full RT suite, as base PS5 performance mode doesn't include RT reflections and has lower quality RTGI. Base PS5 also can't use PSSR2 to upscale to 4K, which resolves a sharper, cleaner and more stable image on Pro compared to the equivalent mode on base PS5 via TAAU (Pro performance looks similar to base PS5 fidelity mode). Finally, Pro has improved hair quality for Edward/all characters in cinematics by rendering individual strands compared to base PS5's hair cards, and this extends to nearby NPCs in fidelity mode gameplay."
   },
   {
     "name": "Assassin's Creed Mirage",
