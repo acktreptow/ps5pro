@@ -1482,8 +1482,9 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced global illumination",
-    "resolution": "1800p to 4K TAA",
+    "resolution": "1800p to 4K PSSR2",
     "fps": "60fps",
+    "disclaimer": "PSSR2 was added an optional upscaler in July 2026. You can therefore safely disregard any Pro analysis conducted before then that hasn't been updated to include PSSR2 testing.",
     "extraInfo": "Pro drops below 60fps in more demanding open arenas, but stays within VRR (mid 50s) and is still more stable than base PS5. Pro also renders at 1260p-1800p DRS (usually around 1620p) before outputting to 4K, which is higher than base PS5's 1008p-1440p DRS (usually around 1080p). Pro's lower DRS bounds are also only in the open arenas. RTGI quality is the same on both, but Pro has a slightly better draw distance and anisotropic filtering. Variable rate shading is used on every console (Xbox too), resulting in a blurrier image than the resolution would suggest. VRS is therefore least noticeable on Pro. Finally, RT reflections/path tracing are PC only."
   },
   {
