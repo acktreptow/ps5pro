@@ -2556,18 +2556,17 @@
     "extraInfo": "Unlike base PS5, RT reflections are now available during gameplay. Its excellent implementation is far superior to the cube maps used when RT is disabled. Both TAA and PSSR are available for upscaling and both support RT except for cockpit mode, which is only PSSR. PSSR still looks great, but can can produce additional shimmer/noise in thin objects and artifacting on a few cars compared to TAA (check disclaimer to easily improve these PSSR1 issues with PSSR2). All framerates are locked 99% of the time in gameplay, but replays can drop the framerate more often. Finally, Pro significantly improves motion clarity and image quality in its optional PSVR2 mode."
   },
   {
-    "name": "Granblue Fantasy: R - ER",
-    "pageTitle": "Granblue Fantasy: Relink - Endless Ragnarok",
+    "name": "Granblue Fantasy: Relink",
     "id": "Granblue",
-    "urlPath": "granblue-fantasy-relink-endless-ragnarok",
+    "urlPath": "granblue-fantasy-relink",
     "genre": "Action JRPG",
-    "developer": "Cygames",
+    "developer": "Osaka Cygames",
     "publisher": "Cygames",
     "psStudios": false,
     "psvr2": false,
-    "release": "July 9, 2026",
-    "hasShipped": false,
-    "metacritic": 0,
+    "release": "February 1, 2024",
+    "hasShipped": true,
+    "metacritic": 80,
     "pssr": false,
     "rt": false,
     "resolution": "4K",
@@ -2586,8 +2585,7 @@
         "description": "1080p at 60fps."
       }
     ],
-    "disclaimer": "All tech info is taken from Endless Ragnarok's beta and is subject to change for the expansion's July launch. Though based on the base game's current performance, this is unlikely.",
-    "extraInfo": "Currently, the base Granblue Fantasy: Relink game doesn't have any Pro support, as it only has the 4K/30fps quality mode and 1080p/60fps performance. Hopefully, this Pro performance mode will also come to the base game when the ER expansion arrives in July, as the 1080p resolution in performance mode resolves a noticeably blurrier image. This isn't a guarantee however, and although on another ecosystem, we've seen games like Super Mario Party Jamboree syphon off performance upgrades to just the DLC."
+    "extraInfo": "Performance pro mode arrived with the Endless Ragnarok expansion, but is also usable in the base game. It combines the 4K output of quality mode, with the 60fps of performance mode. Performance pro mode therefore makes these legacy modes redundant, especially as it even renders a slightly more stable image than quality mode. Though thankfully, all modes are essentially locked to their framerate target on Pro (base PS5 has the legacy modes, but its performance mode can suffer minor dips)."
   },
   {
     "name": "Grand Theft Auto 6",
