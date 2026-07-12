@@ -1485,7 +1485,8 @@
     "resolution": "1800p to 4K PSSR2",
     "fps": "60fps",
     "disclaimer": "PSSR2 was added an optional upscaler in July 2026. You can therefore safely disregard any Pro analysis conducted before then that hasn't been updated to include PSSR2 testing.",
-    "extraInfo": "Pro drops below 60fps in more demanding open arenas, but stays within VRR (mid 50s) and is still more stable than base PS5. Pro also renders at 1260p-1800p DRS (usually around 1620p) before outputting to 4K, which is higher than base PS5's 1008p-1440p DRS (usually around 1080p). Pro's lower DRS bounds are also only in the open arenas. RTGI quality is the same on both, but Pro has a slightly better draw distance and anisotropic filtering. Variable rate shading is used on every console (Xbox too), resulting in a blurrier image than the resolution would suggest. VRS is therefore least noticeable on Pro. Finally, RT reflections/path tracing are PC only."
+    "extraInfo": "Pro's DRS is 1260p-1800p, but is usually around 1620p. It only falls to the lower range in more open arenas, where Pro's framerate can now briefly drop into the mid 50s. Pro can also use either PSSR2 or TAA to upscale to 4K. However, PSSR2 resolves a sharper, cleaner, and more stable image, that also better minimizes the game's variable rate shading, which can lead to blocky parts of the image. TAA should therefore never be used on Pro.",
+    "extraInfo2": "Base PS5 can only use TAA, and its lower DRS is only 1008p-1440p (usually around 1080p). Base PS5 also has worse draw distance and anisotropic filtering, which all leads to a softer, overall worse image quality compared to Pro, with a less stable 60fps. It does however have the same RTGI quality, with RT reflections/path tracing being PC only."
   },
   {
     "name": "Dragon Age: The Veilguard",
