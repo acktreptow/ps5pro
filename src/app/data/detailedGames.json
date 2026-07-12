@@ -2938,6 +2938,26 @@
     "extraInfo2": "Digital Foundry thinks HFW is the best-looking console game (along with Horizon Zero Dawn) ever. It's equivalent to a high-end PC game, and its Pico upscaling even beats DLSS in areas like SSR."
   },
   {
+    "name": "Hot Wheels Infinite Rush",
+    "id": "HWIR",
+    "urlPath": "hot-wheels-infinite-rush",
+    "genre": "Racing, Arcade",
+    "developer": "Milestone",
+    "publisher": "Milestone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen (likely)",
+    "resolution": "4K Upscaled TSR (likely)",
+    "fps": "120fps (likely)",
+    "disclaimer": "Milestone haven't discussed Pro enhancements for Hot Wheels yet. However, they've already shipped 5 racing games on Pro that use UE5 to deliver very similar image quality/framerate metrics. As Hot Wheels is also using UE5, it's very likely it gets the same performance (around 100fps on Pro & 75fps on base PS5 etc). While the tech info on this page uses Screamer for a baseline of expectations as its a recent Milestone game that also uses a less realistic art style, you can view the pages of their other games (Ride 6/Supercross 25 etc) to see just how close their games are performance-wise.",
+    "extraInfo": "'On 120 Hz screens, Pro generally runs at 90-100fps in gameplay, whereas base PS5 is only around 65-80fps. Fortunately, this means both consoles run at a locked 60fps on 60 Hz screens. Image quality can look quite soft however (especially on base PS5), and there can be noticable temporal instability/artifacting in puddle reflections, railings, buildings etc. This suggests a relatively low internal resolution before upscaling to 4K via UE5's TSR.'"
+  },
+  {
     "name": "Hunt: Showdown 1896",
     "id": "HS 1896",
     "urlPath": "hunt-showdown-1896",
