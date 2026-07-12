@@ -4528,6 +4528,26 @@
     "extraInfo": "The only difference between Pro and base PS5 is resolution - Pro runs at native 4K, whereas base PS5 internally runs at 1440p before upscaling to 4K. This results in Pro rendering sharper assets like foliage, trees and water reflections, as well as less image instability on assets like railings. Both consoles still run at a locked 30fps, and Pro's pause menu (the controller outline etc) and loading screen animations still have the approx 1080p looking jaggies."
   },
   {
+    "name": "Planet Zoo 2",
+    "id": "Planet Zoo 2",
+    "urlPath": "planet-zoo-2",
+    "genre": "Simulation, Strategy",
+    "developer": "Frontier Developments",
+    "publisher": "Frontier Developments",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 13, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination and sun shadows (likely)",
+    "resolution": "4K PSSR2 (likely)",
+    "fps": "30fps (likely)",
+    "disclaimer": "All tech info is derived from Jurassic World Evolution 3, as none exist for Planet Zoo 2 yet. However, JWE3 provides an excellent baseline of expectations as its Frontier Developments's most recent game, it got significant Pro enhancements that FD proudly advertised, and it's a similarly scoped simulation/strategy title. The only big change is likely a move to native PSSR2 support. While 60fps would be ideal, it's unlikely given that FD's 2 Pro titles stuck to 30fps due to CPU constraints.",
+    "extraInfo": "'Both base PS5 and Pro run at 30fps and have RTGI. However, only Pro has RT sun shadows. This provides accurate penumbra for shadows, making subtle details more noticeable due to the increased contrast. RT sun shadows also provides greater realism, with shadows cast by foliage/dinosaurs appearing softer the further the shadow is from them. Pro's PSSR upscaling from a high internal resolution should also provide sharper assets like foliage, trees and water reflections compared to base PS5.'"
+  },
+  {
     "name": "Pragmata",
     "pageTitle": "PRAGMATA",
     "id": "Pragmata",
