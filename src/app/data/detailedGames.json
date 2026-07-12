@@ -1807,24 +1807,6 @@
     "extraInfo": "'Pro combines base PS5's 'favor resolution' and 'enhanced visuals' modes into a singular mode. Although all modes look 4K-like due to high internal resolutions, Pro sometimes renders an even sharper image than base PS5 resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps as opposed to 30fps on base PS5, though both consoles run at a locked 60fps during gameplay.'"
   },
   {
-    "name": "EA Sports UFC 5",
-    "id": "UFC 5",
-    "urlPath": "ea-sports-ufc-5",
-    "genre": "Sports, MMA",
-    "developer": "EA Vancouver",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 27, 2023",
-    "hasShipped": true,
-    "metacritic": 78,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro renders at native 4K during gameplay, whereas base PS5 is a dynamic 4K with slight dips to around 1800p. Pro also runs KO replays at 60fps instead of base PS5's 30fps. Finally, both consoles run at a locked 60fps during gameplay, but other non-KO cutscenes like ring entrances remain at 30fps."
-  },
-  {
     "name": "EA Sports UFC 6",
     "id": "UFC 6",
     "urlPath": "ea-sports-ufc-6",
@@ -6421,6 +6403,24 @@
     "disclaimer": "As TD:TDC isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with TD:TDC yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
     "extraInfo": "All tech information is based off Kyodai's Truck Driver: The American Dream. The only aspect that's been confirmed is that Pro will use hardware RT, whereas base PS5 is using software RT.",
     "extraInfo2": "'All modes use dynamic resolutions scaling. PSSR implementation produces much better assets, including moving ones like foliage, compared to TSR on base PS5. The resolution is also higher and there's better shadows regardless of mode. Pro also uses hardware accelerated RT reflections, RTAO and RTGI compared to the inferior software based RT on base PS5. Finally, the performance RT mode is exclusive to PS5 Pro.'"
+  },
+  {
+    "name": "UFC 5",
+    "id": "UFC 5",
+    "urlPath": "ufc-5",
+    "genre": "Sports, MMA",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 27, 2023",
+    "hasShipped": true,
+    "metacritic": 78,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro renders at native 4K during gameplay, whereas base PS5 is a dynamic 4K with slight dips to around 1800p. Pro also runs KO replays at 60fps instead of base PS5's 30fps. Finally, both consoles run at a locked 60fps during gameplay, but other non-KO cutscenes like ring entrances remain at 30fps."
   },
   {
     "name": "UFL",
