@@ -1484,8 +1484,8 @@
     "rtTypes": "Ray traced global illumination",
     "resolution": "1800p to 4K PSSR2",
     "fps": "60fps",
-    "disclaimer": "PSSR2 was added an optional upscaler in July 2026. You can therefore safely disregard any Pro analysis conducted before then that hasn't been updated to include PSSR2 testing.",
-    "extraInfo": "Pro can use TAA or PSSR2 to upscale to 4K. With TAA, Pro's DRS is 1260p-1800p, but is usually around 1620p and only falls to the lower range in more open arenas. PSSR2's internal res is around 15% lower. However, its superior upscaling still resolves a sharper, cleaner, and more stable image. It also better minimizes variable rate shading's more blocky parts, so don't use TAA.",
+    "disclaimer": "PSSR2 was added in July 2026. You can therefore safely disregard any Pro analysis conducted before then that hasn't been updated with PSSR2 testing.",
+    "extraInfo": "Pro can use TAA or PSSR2 to upscale to 4K. With TAA, Pro's DRS is 1260p-1800p, but is usually around 1620p and only falls to the lower range in more open arenas. PSSR2's internal res is around 15% lower. However, it still resolves a sharper, cleaner (especially fine detail like particles), and more stable image. It also better minimizes variable rate shading's blocky parts, so don't use TAA (PSSR2 is on by default anyways).",
     "extraInfo2": "Base PS5 can only use TAA, has a lower DRS of 1008p-1440p (usually around 1080p), and has worse draw distance and anisotropic filtering. This all leads to a softer, overall worse image quality compared to Pro. Both consoles do however have the same RTGI quality, and many updates, have a basically locked 60fps (brief 1-2fps dips, most likely during glory kills/open arenas). With RT reflections/path tracing being PC only."
   },
   {
