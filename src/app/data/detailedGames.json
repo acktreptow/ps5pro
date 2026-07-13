@@ -3572,7 +3572,8 @@
     "rt": false,
     "resolution": "Upscaled 4K PSSR2",
     "fps": "60fps (likely)",
-    "extraInfo": "PlayStation's website confirms that Pro will use PSSR2 to upscale to 4K. Given PSSR2's performance in most titles, Pro should therefore resolve a sharper, cleaner (especially fine detail), and more stable image over whatever upscaler base PS5 uses. All improved further when in motion. Tōkon's Steam page also mentions being locked at 60fps. As there's cross-play support, it's likely that both Pro and base PS5 will also target 60fps to ensure there's no competitive advantage. Hopefully, this is confirmed soon as we get closer to the August launch."
+    "disclaimer": "Tech info is a mixture of confirmed features from Sony and educated speculation based off these features. It'll be updated once Tōkon can be tested in August.",
+    "extraInfo": "PlayStation's website confirms that Pro will use PSSR2 to upscale to 4K. Given PSSR2's performance in most titles, Pro should therefore resolve a sharper, cleaner (especially fine detail), and more stable image compared to whatever upscaler base PS5 uses. All improved further when in motion. Tōkon's Steam page also mentions being locked at 60fps. As there's cross-play support, it's likely that both Pro and base PS5 will also target 60fps to ensure no competitive advantage."
   },
   {
     "name": "MechWarrior 5: Clans",
