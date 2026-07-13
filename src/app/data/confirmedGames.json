@@ -192,18 +192,6 @@
     "metacritic": 80
   },
   {
-    "name": "Marvel Tōkon: Fighting S",
-    "id": "Marvel Tōkon",
-    "genre": "2D Fighter",
-    "developer": "Arc System Works",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "August 6, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Mortal Shell 2",
     "id": "Mortal Shell 2",
     "genre": "Soulsborne",

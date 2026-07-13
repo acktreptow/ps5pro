@@ -3556,6 +3556,25 @@
     "extraInfo": "Base PS5 only has Lumen GI in its 60fps quality mode, whereas Pro also has Lumen Reflections. Pro's PSSR implementation renders a sharper image than possible on base PS5, but is also a bit noisier/unstable. Pro also not only hits 120fps in its HFR mode much more often than base PS5, which regularly dips to around 110fps, but does so at a higher resolution too."
   },
   {
+    "name": "Marvel Tōkon: Fight Souls",
+    "pageTitle": "Marvel Tōkon: Fighting Souls",
+    "id": "Marvel Tōkon",
+    "urlPath": "marvel-tokon-fighting-souls",
+    "genre": "2D Fighter",
+    "developer": "Arc System Works",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "August 6, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps (likely)",
+    "extraInfo": "PlayStation's website confirms that Pro will use PSSR2 to upscale to 4K. Given PSSR2's performance in most titles, Pro should therefore resolve a sharper, cleaner (especially fine detail), and more stable image over whatever upscaler base PS5 uses. All improved further when in motion. Tōkon's Steam page also mentions being locked at 60fps. As there's cross-play support, it's likely that both Pro and base PS5 will also target 60fps to ensure there's no competitive advantage. Hopefully, this is confirmed soon as we get closer to the August launch."
+  },
+  {
     "name": "MechWarrior 5: Clans",
     "id": "MW5: Clans",
     "urlPath": "mechwarrior-5-clans",
