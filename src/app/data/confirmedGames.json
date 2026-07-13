@@ -132,18 +132,6 @@
     "metacritic": 0
   },
   {
-    "name": "ILL",
-    "id": "ILL",
-    "genre": "Survival Action Horror",
-    "developer": "Team Clout",
-    "publisher": "Mundfish Powerhouse",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Invincible VS",
     "id": "Invincible",
     "genre": "2D Tag Fighter",

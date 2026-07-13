@@ -3053,6 +3053,26 @@
     "extraInfo": "Nacon Studio Ghent has confirmed to me that they have nothing to share regarding the technical specifications of Hunting Simulator 3 at this time. This is understandable, as HS3 doesn't even have a release window yet, let alone a firm date. Hopefully, we get a close approximation of Hunting Simulator 2's performance (dynamic 4K and 60fps). However, as a 5+ year-old title that never received a Pro update, was originally a PS4 game, and runs on UE4 (HS3 is UE5), we can't reliably use HS2 as a baseline to fairly speculate on HS3's performance."
   },
   {
+    "name": "ILL",
+    "id": "ILL",
+    "urlPath": "ill",
+    "genre": "Survival Action Horror",
+    "developer": "Team Clout",
+    "publisher": "Mundfish Powerhouse",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps (likely)",
+    "extraInfo": "While Ill is still 1 year away and Team Clout haven't discussed Pro enhancements, they did showcase a gameplay trailer at June's State of Play, which was running on Pro. It's here where we can at least make some educated guesses. Firstly, the game was targeting 60fps. Secondly, Ill is running on Unreal Engine 5, which isn't surprising as there was evidence of Lumen. However due to UE5, it's very likely the final game will use a lower internal resolution, then upscale to 4K via TSR or (hopefully) PSSR2.",
+    "extraInfo2": "Regardless, Team Clout continue to do interviews, so hopefully some more concrete tech information comes out as we get closer to Ill's 2027 release date."
+  },
+  {
     "name": "Indiana Jones: GC",
     "pageTitle": "Indiana Jones and the Great Circle",
     "id": "IJ: GC",
