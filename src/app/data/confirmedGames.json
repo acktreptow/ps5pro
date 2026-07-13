@@ -372,18 +372,6 @@
     "metacritic": 0
   },
   {
-    "name": "Thief: The Dark Project",
-    "id": "Thief",
-    "genre": "Stealth, Action",
-    "developer": "Nightdive Studios",
-    "publisher": "Atari",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Winter 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Tokyo Xtreme Racer",
     "id": "TXR",
     "genre": "Racing, Arcade",

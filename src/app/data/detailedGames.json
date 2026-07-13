@@ -6233,6 +6233,25 @@
     "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image difference is mainly with the worse Lumen GI and missing reflections on assets like railings. Base PS5 performs very similar to Pro (also has Lumen/4K textures etc), with the only difference (likely) being lower internal DRS bounds in each mode."
   },
   {
+    "name": "Thief: The Dark Project",
+    "pageTitle": "Thief: The Dark Project Remastered",
+    "id": "Thief",
+    "urlPath": "thief-the-dark-project-remastered",
+    "genre": "Stealth, Action",
+    "developer": "Nightdive Studios",
+    "publisher": "Atari",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Winter 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "120fps (likely)",
+    "extraInfo": "The Thief: TDP object on the PSN store mentions 'up to 4K 120FPS visuals'. As this the maximum resolution and framerate of PS5, this will be what Pro presumably achieves. Whereas base PS5 will lower the resolution and/or framerate performance in order for the 'up to' part of the sentence to make any sense. We'll hopefully get more clarity, including whether Pro will go further on the promised textures, models, and animations enhancements than base PS5, closer to launch."
+  },
+  {
     "name": "Tides Of Annihilation",
     "pageTitle": "Tides of Annihilation",
     "id": "ToA",
