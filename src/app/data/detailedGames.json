@@ -1631,6 +1631,34 @@
     "extraInfo": "Q-Games has confirmed that Pro will have 'detailed point cloud visuals'. Pro will also render at 1440p compared to 1080p on base PS5. Both consoles use 60 Hz to 120 Hz reprojection in the optional VR mode (exclusive to PSVR2)."
   },
   {
+    "name": "Dune: Awakening",
+    "id": "Dune",
+    "urlPath": "dune-awakening",
+    "genre": "Open-World, Survival, RPG",
+    "developer": "Funcom",
+    "publisher": "Funcom",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 22, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (higher internal resolution than performance mode) at a locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at 60fps."
+      }
+    ],
+    "extraInfo": "Both base PS5 and Pro will have a 60fps performance mode. However, base PS5 will need to use frame-gen to reach that target, whereas Pro performance mode will be a native 60fps, resulting in less input lag. Funcom have also confirmed that regardless of console/mode, Dune will render at upscaled 4K, and that they will confirm internal resolutions closer to launch."
+  },
+  {
     "name": "Dying Light 2: Stay Human",
     "id": "DL2: SH",
     "urlPath": "dying-light-2-stay-human",
