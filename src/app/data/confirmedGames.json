@@ -72,18 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "Call Of Duty: MW4",
-    "id": "COD: MW4",
-    "genre": "First-Person Shooter",
-    "developer": "Infinity Ward",
-    "publisher": "Activision",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 23, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Clutch",
     "id": "Clutch",
     "genre": "Driving, Action",
