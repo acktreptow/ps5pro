@@ -289,19 +289,20 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced reflections and shadows",
-    "resolution": "4K",
+    "resolution": "Upscaled 4K PSSR2",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "4K at an unstable 60fps."
+        "description": "Upscaled 4K PSSR2 at a mostly stable 60fps."
       },
       {
         "name": "performance",
-        "description": "4K DRS (likely) at an unstable 60fps (see extra info)."
+        "description": "Upscaled 4K PSSR2 at 60fps."
       }
     ],
-    "extraInfo": "Both base PS5 and Pro have the same quality/performance mode options, but in regards to image quality, even the difference between Pro quality mode and base PS5 performance mode is minimal. Image quality looks great with sharp/stable RT regardless of console/mode - at most, base PS5's alpha effects can look a little more pixelated during combat. Framerate is however a different story. Regardless of console/mode, it can dip significantly after the opening section and VRR has been forcibly disabled. Performance mode should therefore be used to hit 60fps as much as possible."
+    "extraInfo": "As of July 2026, Pro uses PSSR2 to upscale to 4K. This resolves a sharper, cleaner (especially fine detail like clothing/foliage) and more stable image than before, especially in motion. 60fps stability is also improved significantly after updates. However, as the game forces off VRR, use performance mode if you can't stand minor framerate dips. Both modes also use very high internal resolutions (near native 4K) before PSSR2 upscaling, so the image quality gap between modes is minimal.",
+    "extraInfo2": "Base PS5 has the same 2 modes that also target 60fps, but at lower internal resolutions. This, combined with no PSSR2, results in a softer, overall worse image (slightly more pixelated alpha effects in combat etc), but image quality is still very good. RT is sharp/stable regardless of console/mode, for example."
   },
   {
     "name": "Arma Reforger",
