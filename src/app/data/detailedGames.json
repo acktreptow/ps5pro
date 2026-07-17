@@ -4526,9 +4526,19 @@
     "metacritic": 0,
     "pssr": false,
     "rt": false,
-    "resolution": "Dynamic 4K",
-    "fps": "60fps",
-    "extraInfo": "Pro renders at a dynamic 4K, but base PS5 only renders at a fixed 1440p. Both consoles run at a 'stable' 60fps and neither support 120fps - apparently due to wanting to maintain fairness across platforms during cross-play."
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "resolution priority",
+        "description": "Up to 4K (DRS in use) at 60fps."
+      },
+      {
+        "name": "performance priority",
+        "description": "Up to 1800p (DRS in use) at 120fps."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same modes that also use DRS to target the same framerate performance. However, its 60fps mode only renders up to 1800p, and its 120fps mode only renders up to 1440p. Despite PUBG Studios initially being hesitant about including 120fps modes during cross-play for competitive reasons, these high framerate modes were added in July 2026."
   },
   {
     "name": "Paladin's Passage",
