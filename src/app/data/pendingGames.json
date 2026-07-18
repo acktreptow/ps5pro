@@ -217,6 +217,18 @@
     "metacritic": 0
   },
   {
+    "name": "Citizen Vigilante",
+    "id": "Citizen Vigilante",
+    "genre": "First-Person Shooter",
+    "developer": "Daniel Wengenroth",
+    "publisher": "Daniel Wengenroth",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 17, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Code UltraViolet",
     "id": "Code Violet 2",
     "genre": "Action-Adventure",
