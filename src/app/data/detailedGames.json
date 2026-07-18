@@ -1817,7 +1817,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "July 16, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 0,
     "pssr": false,
     "rt": false,
@@ -6841,7 +6841,7 @@
     "extraInfo": "Base PS5 also has dynamic resolution scaling, but instead uses FSR2 to upscale its modes and have a lower base resolution before upscaling (e.g. 720p for speed mode). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
-    "name": "What Have U Done Father",
+    "name": "What Have U Done, Father",
     "pageTitle": "What have you done, Father?",
     "id": "What have you done, Father?",
     "urlPath": "what-have-you-done-father",
