@@ -6324,7 +6324,7 @@
     "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 only has inferior screen space reflections. While Pro's RT can cause the resolution to dip slightly below native 4K in more complex scenes, the difference is basically imperceptible even when directly comparing, let alone in general gameplay. Otherwise, both Pro and base PS5 are native 4K at a locked 60fps when using SSR."
   },
   {
-    "name": "The Perplexing Orb Touch!",
+    "name": "The Perplexing Orb Touch",
     "pageTitle": "The Perplexing Orb Touch!",
     "id": "Perplexing Orb",
     "urlPath": "the-perplexing-orb-touch",
@@ -6841,7 +6841,7 @@
     "extraInfo": "Base PS5 also has dynamic resolution scaling, but instead uses FSR2 to upscale its modes and have a lower base resolution before upscaling (e.g. 720p for speed mode). The result is a noticeably blurrier image compared to the Pro versions, especially in motion where PSSR excels. Pro also hits 60fps more often, though it's still not ideal as it can fall out of the VRR window."
   },
   {
-    "name": "What You Do, Father?",
+    "name": "What Have U Done Father",
     "pageTitle": "What have you done, Father?",
     "id": "What have you done, Father?",
     "urlPath": "what-have-you-done-father",
