@@ -6324,6 +6324,24 @@
     "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 only has inferior screen space reflections. While Pro's RT can cause the resolution to dip slightly below native 4K in more complex scenes, the difference is basically imperceptible even when directly comparing, let alone in general gameplay. Otherwise, both Pro and base PS5 are native 4K at a locked 60fps when using SSR."
   },
   {
+    "name": "The Perplexing Orb Touch!",
+    "id": "Perplexing Orb",
+    "urlPath": "the-perplexing-orb-touch",
+    "genre": "Puzzle, Arcade",
+    "developer": "TreeFall Studios",
+    "publisher": "TreeFall Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 30, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps",
+    "extraInfo": "While both base PS5 and Pro run at a locked 60fps, Pro renders a native 1440p, whereas base PS5 renders a native 1080p. Pro also has improved lighting in some worlds."
+  },
+  {
     "name": "The Precinct",
     "id": "Precinct",
     "urlPath": "the-precinct",
