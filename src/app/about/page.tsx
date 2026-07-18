@@ -150,6 +150,7 @@ const AboutPage = (): JSX.Element => {
           <li>Ripstone Games</li>
           <li>Stonebrick Studios</li>
           <li>Superkami</li>
+          <li>TreeFall Studios</li>
           <li>Tower Five</li>
         </ul>
         <h3 className="text-center text-xl font-semibold mb-2 md:text-start lg:text-2xl lg:mb-2">
