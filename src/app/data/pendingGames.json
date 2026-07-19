@@ -50,6 +50,18 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps. However, you can significantly increase the FOV, and it's here where Pro will have an easier time maintaining 60fps in more demanding scenes. Pro potentially has a slightly higher resolution than base PS5, but any difference is negligible - especially when the camera effects are toggled on."
   },
   {
+    "name": "Alaska Gold Fever",
+    "id": "AGF",
+    "genre": "Simulation, Adventure",
+    "developer": "Baked Games",
+    "publisher": "Ultimate Game",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Amer Fighting",
     "id": "AF",
     "urlPath": "amer-fighting",
