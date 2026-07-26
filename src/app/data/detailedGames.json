@@ -2718,9 +2718,20 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Unreal Engine 5 hardware-based Lumen global illumination, reflections (glossy and rough surfaces) and MegaLights for interior/local lights.",
-    "resolution": "Upscaled 4K PSSR2",
+    "resolution": "4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Both base and Pro use the superior hardware-based Lumen, which means more accurate reflections/lighting etc. Both consoles also used Virtual Shadow Maps for stable shadows and run at 60fps. However, Pro uses PSSR2 to upscale to 4K, which resolves an overall sharper, cleaner and more stable image than possible on base PS5. These improvements are especially seen in Lumen RT, which has significantly less noise/boiling on Pro."
+    "modes": [
+      {
+        "name": "quality",
+        "description": "4K PSSR2 at a locked 30fps. Some slight graphics settings improvements (check extra info)."
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1440p DRS to 4K PSSR2 at a basically locked 60fps (rare, short-lived 1-2fps dips)."
+      }
+    ],
+    "extraInfo": "Quality mode's higher internal resolution results in a slightly more stable RT and also has improved terrain detail, but the image quality gap between Pro's modes is only slight. Base PS5 has the same 2 modes that also use superior hardware-base Lumen (more accurate reflections/lighting), use Virtual Shadow Maps for stable shadows, and achieve the same framerate performance. However, Pro uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image (especially in motion) compared to base PS5's TSR.",
+    "extraInfo2": "These PSSR2 improvements are significant enough that Pro performance mode has better image quality than base PS5 quality mode in many aspects (sharper foliage, more stable RT reflections etc), but the image quality gap between performance modes is even wider. Base PS5 performance mode also has reduced vegetation, worse LoDs at distance, blurrier shadows, and its lower internal resolution results in significantly more unstable and noisy, almost boiling looking RTGI and reflections that UE5 Lumen is known for."
   },
   {
     "name": "Hell Is Us",
