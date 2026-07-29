@@ -2723,15 +2723,15 @@
     "modes": [
       {
         "name": "quality",
-        "description": "4K PSSR2 at a locked 30fps. Some slight graphics settings improvements (check extra info)."
+        "description": "Around 1728p DRS to 4K PSSR2 at a locked 30fps. Some slight graphics settings improvements (check extra info)."
       },
       {
         "name": "performance",
-        "description": "1080p-1440p DRS to 4K PSSR2 at a mostly stable 60fps (framerate dips remain in VRR and occur more often in later levels/network co-op)."
+        "description": "Around 1224p-1440p DRS to 4K PSSR2 at a basically locked 60fps (rare, short-lived 1-2fps dips in very few areas)."
       }
     ],
-    "extraInfo": "Quality mode's higher internal resolution results in a slightly more stable RT and also has improved terrain detail, but the image quality gap between Pro's modes is only slight. Base PS5 has the same 2 modes that also use superior hardware-base Lumen (more accurate reflections/lighting), use Virtual Shadow Maps for stable shadows, and achieve the same framerate performance. However, Pro uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image (especially in motion) compared to base PS5's TSR. Halo also has excessive chromatic aberration which can't be toggled off. As this effect blurs the image, its even more pronounced on base PS5 due to TSR.",
-    "extraInfo2": "These PSSR2 improvements are significant enough that Pro performance mode has better image quality than base PS5 quality mode in many aspects (sharper foliage, more stable RT reflections etc), but the image quality gap between performance modes is even wider. Base PS5 performance mode also has reduced vegetation, worse LoDs at distance, blurrier shadows, and its lower internal resolution results in significantly more unstable and noisy, almost boiling looking RTGI and reflections that UE5 Lumen is known for."
+    "extraInfo": "Quality mode's higher DRS resolves slightly more stable RT and improved terrain detail, but the image quality gap between Pro's modes is only slight. Base PS5 has the same 2 modes that also use the more accurate hardware-based Lumen RT, but has lower DRS values at around 1440p and 1152p for its quality and performance modes. Pro also uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image (especially in motion) compared to base PS5, which uses TSR. Halo also forces excessive chromatic aberration which blurs the image, and is more pronounced on base PS5 due to TSR.",
+    "extraInfo2": "These PSSR2 improvements are significant enough that Pro performance mode has better image quality than base PS5 quality mode in many ways (sharper foliage, more stable RT reflections etc), but the IQ gap between performance modes is even wider. Base PS5's has reduced foliage, worse LoDs at distance, blurrier shadows, a softer image, and noisier Lumen RT. Base PS5's 60fps is also less stable, with maintained 1-5fps dips in some firefights."
   },
   {
     "name": "Hell Is Us",
