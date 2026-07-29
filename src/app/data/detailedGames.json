@@ -4550,7 +4550,7 @@
         "description": "Up to 1800p (DRS in use) at 120fps."
       }
     ],
-    "extraInfo": "Base PS5 has the same modes that also use DRS to target the same framerate performance. However, its 60fps mode only renders up to 1800p, and its 120fps mode only renders up to 1440p. Despite PUBG Studios initially being hesitant about including 120fps modes during cross-play for competitive reasons, these high framerate modes were added in July 2026."
+    "extraInfo": "Base PS5 has the same modes that also use DRS to target the same framerates. However, its 60fps mode only renders up to 1800p, and its 120fps mode only renders up to 1440p. In practice, the lower bounds of base PS5's DRS can result in a blurry image in both modes, whereas both Pro modes maintain a much sharper/4K-like image (especially seen in foliage). Both consoles also lock to 60fps in resolution mode and achieve a stable 120fps in performance mode. Base PS5's 120fps is a little more stable, but Pro still maintains 120fps most of the time, only falling to around 100fps in more asset-dense areas of maps (forests etc) and/or large firefights."
   },
   {
     "name": "Paladin's Passage",
