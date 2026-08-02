@@ -72,18 +72,6 @@
     "metacritic": 0
   },
   {
-    "name": "Break In",
-    "id": "Break In",
-    "genre": "Third-Person Shooter, Heist",
-    "developer": "Haven Studios",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
@@ -164,6 +152,18 @@
     "psStudios": false,
     "psvr2": false,
     "release": "February 23, 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
+    "name": "Fairgames",
+    "id": "Fairgames",
+    "genre": "PvP Heist Shooter",
+    "developer": "Haven Studios",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "TBD",
     "hasShipped": false,
     "metacritic": 0
   },
