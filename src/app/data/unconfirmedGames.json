@@ -564,6 +564,18 @@
     "metacritic": 0
   },
   {
+    "name": "Neo Berlin 2087",
+    "id": "Neo Berlin",
+    "genre": "Action RPG, TPS",
+    "developer": "Elysium Game Studio",
+    "publisher": "ByteRockers Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2028",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "No Law",
     "id": "No Law",
     "genre": "Action RPG, FPS",
