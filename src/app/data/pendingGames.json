@@ -199,6 +199,18 @@
     "metacritic": 0
   },
   {
+    "name": "BrokenLore: Don't Lie",
+    "id": "BrokenLore: Don't Lie",
+    "genre": "Psychological Horror",
+    "developer": "Serafini Productions",
+    "publisher": "Wired Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 10, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Car Simulator: Driving School",
     "id": "CS:DS",
     "genre": "Simulation, Driving",
