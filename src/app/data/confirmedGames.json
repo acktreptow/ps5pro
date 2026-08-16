@@ -176,8 +176,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "July 10, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 80
   },
   {
     "name": "Project Motor Racing",
