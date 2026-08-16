@@ -168,6 +168,18 @@
     "metacritic": 0
   },
   {
+    "name": "NBA 2K27",
+    "id": "NBA 27",
+    "genre": "Sports, Basketball",
+    "developer": "Visual Concepts",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 4, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Norse: Oath Of Blood",
     "id": "Norse: OOB",
     "genre": "Turn-Based Tactics",
