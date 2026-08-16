@@ -507,6 +507,18 @@
     "extraInfo": "Digital Cybercherries has confirmed that a PS5 Pro patch is in development, though no timeline or specific enhancements have been announced. Given that Hypercharge already runs at native 4K and is primarily a multiplayer-focused title, the most logical upgrade would be the addition of a 120fps mode. Ray tracing reflections could also meaningfully enhance the game's visuals, especially in the campaign, thanks to its cartoon/toy-like aesthetic. However, 120fps support would likely remain the priority as most players engage with the game through PvP."
   },
   {
+    "name": "I'm Having A Bad Day",
+    "id": "I'm Having A Bad Day",
+    "genre": "VR Arcade, Action",
+    "developer": "PlaySys",
+    "publisher": "PlaySys",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "October 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Iridio",
     "id": "Iridio",
     "genre": "Action-Adventure, FPS",
