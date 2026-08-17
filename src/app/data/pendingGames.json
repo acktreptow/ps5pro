@@ -325,6 +325,18 @@
     "metacritic": 0
   },
   {
+    "name": "Enshrouded",
+    "id": "Enshrouded",
+    "genre": "Survival, Action RPG",
+    "developer": "Keen Games",
+    "publisher": "Keen Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
