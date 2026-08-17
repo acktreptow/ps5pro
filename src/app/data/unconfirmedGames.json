@@ -824,8 +824,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 18, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 79
   },
   {
     "name": "The Talos Principle 3",
