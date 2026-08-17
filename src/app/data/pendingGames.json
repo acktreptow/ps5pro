@@ -649,6 +649,18 @@
     "metacritic": 0
   },
   {
+    "name": "Monuments Renovator",
+    "id": "Monuments",
+    "genre": "Simulation, Building",
+    "developer": "North Wind",
+    "publisher": "Ultimate Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 1, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Motel Business Simulator",
     "id": "MBS",
     "urlPath": "motel-business-simulator",
