@@ -452,6 +452,18 @@
     "metacritic": 0
   },
   {
+    "name": "Graveyard Warden",
+    "id": "Graveyard Warden",
+    "genre": "Adventure, Simulation",
+    "developer": "Clockwork Origins",
+    "publisher": "Clockwork Origins",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Helicopter Rescue Simulator",
     "id": "HRS",
     "genre": "Simulation, Action",
