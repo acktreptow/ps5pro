@@ -252,6 +252,18 @@
     "metacritic": 0
   },
   {
+    "name": "Samson",
+    "id": "Samson",
+    "genre": "Action-Adventure",
+    "developer": "Liquid Swords",
+    "publisher": "Liquid Swords",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Silent Hill: Townfall",
     "id": "SH: Townfall",
     "genre": "Survival Horror",
