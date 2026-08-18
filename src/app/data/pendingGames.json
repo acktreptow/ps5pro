@@ -543,6 +543,18 @@
     "metacritic": 0
   },
   {
+    "name": "Into the Dead: Our Darkest Days",
+    "id": "Into the Dead",
+    "genre": "2.5D Survival, Horror",
+    "developer": "PikPok",
+    "publisher": "Prodigy Design",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Iridio",
     "id": "Iridio",
     "genre": "Action-Adventure, FPS",
