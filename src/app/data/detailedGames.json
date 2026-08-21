@@ -3700,7 +3700,7 @@
     "pageTitle": "Marvel Tōkon: Fighting Souls",
     "id": "Marvel Tōkon",
     "urlPath": "marvel-tokon-fighting-souls",
-    "genre": "2D Fighter",
+    "genre": "2D Tag Fighter",
     "developer": "Arc System Works",
     "publisher": "Sony Interactive",
     "psStudios": true,
@@ -3710,10 +3710,9 @@
     "metacritic": 86,
     "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K PSSR2",
-    "fps": "60fps (likely)",
-    "disclaimer": "Tech info is a mixture of confirmed features from Sony and educated speculation based off these features. It'll be updated once Tōkon can be tested in August.",
-    "extraInfo": "PlayStation's website confirms that Pro will use PSSR2 to upscale to 4K. Given PSSR2's performance in most titles, Pro should therefore resolve a sharper, cleaner (especially fine detail), and more stable image compared to whatever upscaler base PS5 uses. All improved further when in motion. Tōkon's Steam page also mentions being locked at 60fps. As there's cross-play support, it's likely that both Pro and base PS5 will also target 60fps to ensure no competitive advantage."
+    "resolution": "1800p to 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Visually, base PS5 is only 1260p-1440p DRS to 4K via FSR1. Pro's higher 1800p base resolution and superior PSSR2 upscaling therefore resolves a sharper, cleaner, and more stable image. These improvements are especially seen in motion, in fine detail such as character outlines where there is less edge breakup, and SSR where the reflections are noticeably cleaner. Fortunately, both consoles lock to 60fps in offline modes, though both can also briefly dip when playing online. This is due to Tōkon's rollback netcode and server latency, so it's recommended to stick within your server's region, prioritize connection speed, and reduce cross-play matches with PC (where there's far more technical problems) in matchmaking settings to mostly mitigate these issues."
   },
   {
     "name": "MechWarrior 5: Clans",
