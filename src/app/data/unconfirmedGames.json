@@ -72,6 +72,18 @@
     "metacritic": 0
   },
   {
+    "name": "Black Myth: Zhong Kui",
+    "id": "BM: ZK",
+    "genre": "Action RPG",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Civilization 7",
     "id": "Civ 7",
     "genre": "4X Turn-Based Strategy",
