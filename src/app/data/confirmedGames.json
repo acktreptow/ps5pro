@@ -48,18 +48,6 @@
     "metacritic": 0
   },
   {
-    "name": "Beast Of Reincarnation",
-    "id": "BoI",
-    "genre": "Action RPG",
-    "developer": "Game Freak",
-    "publisher": "Fictions",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 4, 2026",
-    "hasShipped": true,
-    "metacritic": 73
-  },
-  {
     "name": "BeastLink",
     "id": "BeastLink",
     "genre": "Kaiju Action, TPS",

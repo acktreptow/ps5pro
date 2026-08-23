@@ -665,6 +665,39 @@
     "extraInfo2": "While both Pro and base PS5 performance modes have worse visual settings, cutbacks are worse on base PS5. Menus are 30fps and cutscenes are capped at 60fps in all modes. In REDSEC, the DRS and performance mode framerate on both consoles are slightly lower than previously stated due to the increased BR scale."
   },
   {
+    "name": "Beast Of Reincarnation",
+    "id": "BoI",
+    "urlPath": "beast-of-reincarnation",
+    "genre": "Action RPG",
+    "developer": "Game Freak",
+    "publisher": "Fictions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 4, 2026",
+    "hasShipped": true,
+    "metacritic": 73,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "1620p to 4K FSR1",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "PS5 pro enhanced",
+        "description": "1080p-1512p DRS to 4K FSR1 at a slightly more stable 60fps than quality mode, with Lumen GI and reflections."
+      },
+      {
+        "name": "quality",
+        "description": "1080p-1620p DRS to 4K FSR1 at an unstable 60fps (lows of around 40fps) with Lumen GI and reflections."
+      },
+      {
+        "name": "performance",
+        "description": "1080p-1260p to 4K FSR1 at an unstable 60fps (lows of around 45fps). Lower quality ambient occlusion (also absent under foliage) and no Lumen reflections."
+      }
+    ],
+    "extraInfo": "Despite the name, PS5 Pro enhanced mode doesn't provide exclusive enhancements like superior PSSR2 upscaling. Instead, it caps its DRS to 1512p for a slightly more stable framerate than quality mode's 1620p, which consistently looks the sharpest of the 3 modes. However, no mode comes close to a stable 60fps, as they fall out of the VRR window in busier scenes and even fall to around 35fps in some cutscenes. Base PS5 shares these framerate issues, even though its quality and performance modes have lower internal resolutions at 1080p-1512p and around 1080p respectively."
+  },
+  {
     "name": "Beneath",
     "id": "Beneath",
     "urlPath": "beneath",
