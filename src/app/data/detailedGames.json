@@ -6032,6 +6032,35 @@
     "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image quality between the 2 modes are still very close. Base PS5 performs very similar to Pro, with the only difference being lower internal DRS bounds in each mode."
   },
   {
+    "name": "The Blood Of Dawnwalker",
+    "id": "Blood of Dawnwalker",
+    "urlPath": "the-blood-of-dawnwalker",
+    "genre": "Action RPG",
+    "developer": "Rebel Wolves",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 3, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Dynamic 4K",
+    "fps": "40fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Dynamic 4K at 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "Dynamic 4K at 40fps."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same modes that target the same framerates and dynamic 4K resolution, meaning there's no 60fps mode on console. Rebel Wolves have also confirmed that Pro will have 'enhanced visual quality' over the equivalent mode on base PS5. However, they haven't gone into detail about what these are. Hopefully, Pro will at least have higher internal dynamic resolution scaling to mitigate any potential Lumen fizzle/noise that has plagued many UE5 games on base PS5."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
