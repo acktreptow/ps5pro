@@ -695,7 +695,7 @@
         "description": "1080p-1260p to 4K FSR1 at an unstable 60fps (lows of around 45fps). Lower quality ambient occlusion (also absent under foliage) and no Lumen reflections."
       }
     ],
-    "extraInfo": "Despite the name, PS5 Pro enhanced mode doesn't provide exclusive enhancements like superior PSSR2 upscaling. Instead, it caps its DRS to 1512p for a slightly more stable framerate than quality mode's 1620p, which consistently looks the sharpest of the 3 modes. However, no mode comes close to a stable 60fps, as they fall out of the VRR window in busier scenes and even fall to around 35fps in some cutscenes. Base PS5 shares these framerate issues, even though its quality and performance modes have lower internal resolutions at 1080p-1512p and around 1080p respectively."
+    "extraInfo": "PS5 Pro enhanced mode doesn't actually have exclusive enhancements like superior PSSR2 upscaling. Instead, it caps its DRS to 1512p for a slightly more stable framerate than quality mode, which consistently looks the sharpest of the 3 modes due to its 1620p ceiling. However, no mode comes close to a stable 60fps, as they fall out of the VRR window in busier scenes and even fall to around 35fps in some cutscenes. Base PS5 shares these framerate issues, even though its quality and performance modes have lower internal resolutions at 1080p-1512p and around 1080p respectively."
   },
   {
     "name": "Beneath",
