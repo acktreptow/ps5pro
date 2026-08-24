@@ -3621,6 +3621,25 @@
     "extraInfo": "While Madden 26 had the same Pro upgrades as Madden 25, these 2 Pro-exclusive modes are new to Madden 27. The ability to go up to 120fps is particularly significant, as this marks the first Madden to go above 60fps on console. Even with a floor of 100fps, that's a substantial framerate increase over previous years. So far, this is all EA have confirmed these modes on their site. They'll hopefully go into more detail about each one closer to launch in August."
   },
   {
+    "name": "Mafia",
+    "pageTitle": "Mafia: Definitive Edition",
+    "id": "Mafia: DE",
+    "urlPath": "mafia-definitive-edition",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 14, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Pro's image is sharper, cleaner, and more stable than base PS5 due to its higher internal resolution before upscaling to 4K. This is most notable in motion, where there's far less edge breakup and shimmering on assets. Foliage in particular is also much sharper on Pro. Fortunately, both run at a basically locked 60fps and come with significant visual enhancements over the initial 2020 PS4 Pro release, which runs at 30fps."
+  },
+  {
     "name": "Mafia: The Old Country",
     "id": "Mafia: TOC",
     "urlPath": "mafia-the-old-country",
