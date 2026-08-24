@@ -3745,7 +3745,8 @@
     "rt": false,
     "resolution": "1800p to 4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Visually, base PS5 is only 1260p-1440p DRS to 4K via FSR1. Pro's higher 1800p base resolution and superior PSSR2 upscaling therefore resolves a sharper, cleaner, and more stable image. These improvements are especially seen in motion, in fine detail such as character outlines where there is less edge breakup, and SSR where the reflections are noticeably cleaner. Fortunately, both consoles lock to 60fps in offline modes, though both can also briefly dip when playing online. This is due to Tōkon's rollback netcode and server latency, so it's recommended to stick within your server's region, prioritize connection speed, and reduce cross-play matches with PC (where there's far more technical problems) in matchmaking settings to mostly mitigate these issues."
+    "extraInfo": "Visually, base PS5 is 1260p-1440p DRS to 4K via FSR1. Pro's higher 1800p internal resolution and superior PSSR2 upscaling therefore resolves a sharper, cleaner, and more stable image. Improvements are especially seen in motion and in fine detail like character outlines where there's noticeably less edge breakup, though base PS5's image quality is still very good.",
+    "extraInfo2": "Fortunately, both consoles lock to 60fps in offline modes. However, both can briefly dip online due to Tōkon's rollback netcode and server latency. Stick to your server's region, prioritize connection speed, and reduce cross-play matches with PC (which is currently unoptimized) in matchmaking to mostly mitigate any drops."
   },
   {
     "name": "MechWarrior 5: Clans",
