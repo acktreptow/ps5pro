@@ -6061,7 +6061,7 @@
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "Dynamic 4K",
-    "fps": "40fps",
+    "fps": "60fps",
     "modes": [
       {
         "name": "quality",
@@ -6070,9 +6070,13 @@
       {
         "name": "balanced",
         "description": "Dynamic 4K at 40fps."
+      },
+      {
+        "name": "performance",
+        "description": "Dynamic 4K at 60fps."
       }
     ],
-    "extraInfo": "Base PS5 has the same modes that target the same framerates and dynamic 4K resolution, meaning there's no 60fps mode on console. Rebel Wolves have also confirmed that Pro will have 'enhanced visual quality' over the equivalent mode on base PS5. However, they haven't gone into detail about what these are. Hopefully, Pro will at least have higher internal dynamic resolution scaling to mitigate any potential Lumen fizzle/noise that has plagued many UE5 games on base PS5."
+    "extraInfo": "Base PS5 has the same modes that target the same framerates and dynamic 4K resolution. However, Pro's modes will have 'enhanced visual quality' over the equivalent mode on base PS5. While Rebel Wolves haven't gone into detail about what these are, hopefully, Pro will at least have higher internal dynamic resolution scaling to mitigate any potential Lumen fizzle/noise that has plagued many UE5 games on base PS5."
   },
   {
     "name": "The Callisto Protocol",
