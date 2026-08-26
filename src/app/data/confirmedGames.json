@@ -272,8 +272,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 27, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 85
   },
   {
     "name": "State Of Decay 3",
