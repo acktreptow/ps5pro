@@ -212,8 +212,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 27, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 79
   },
   {
     "name": "RuneScape: Dragonwilds",
