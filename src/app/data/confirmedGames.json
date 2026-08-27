@@ -48,6 +48,18 @@
     "metacritic": 0
   },
   {
+    "name": "Ananta",
+    "id": "Ananta",
+    "genre": "Action-Adventure, RPG",
+    "developer": "Naked Rain Studio",
+    "publisher": "Netease Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 15, 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Anima: Song From Abyss",
     "id": "ASFTA",
     "genre": "Action RPG",
