@@ -624,6 +624,18 @@
     "metacritic": 80
   },
   {
+    "name": "Rainbow 6 Tactics",
+    "id": "R6 Tactics",
+    "genre": "Turn-Based Strategy, Action",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Reach",
     "id": "Reach",
     "genre": "VR Action-Adventure",
