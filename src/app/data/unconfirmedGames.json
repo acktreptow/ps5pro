@@ -876,18 +876,6 @@
     "metacritic": 72
   },
   {
-    "name": "The Witcher 3: Wild Hunt",
-    "id": "Witcher 3 Complete Edition",
-    "genre": "Action RPG",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 29, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "The Witcher 4",
     "id": "Witcher 4",
     "genre": "Action RPG",
