@@ -1000,6 +1000,18 @@
     "metacritic": 0
   },
   {
+    "name": "Silver Palace",
+    "id": "Silver Palace",
+    "genre": "Action-Adventure, RPG",
+    "developer": "Elementa Games",
+    "publisher": "Elementa Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Snoot Booper",
     "id": "Snoot Booper",
     "genre": "Action, Casual",
