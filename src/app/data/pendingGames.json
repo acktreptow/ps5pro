@@ -440,18 +440,6 @@
     "metacritic": 60
   },
   {
-    "name": "Genigods: Nezha",
-    "id": "Genigods",
-    "genre": "Action RPG",
-    "developer": "Genigods Lab",
-    "publisher": "Suzhou Pangu Soul Entertainment Technology",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2028",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Graveyard Warden",
     "id": "Graveyard Warden",
     "genre": "Adventure, Simulation",
