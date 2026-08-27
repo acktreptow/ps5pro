@@ -600,6 +600,18 @@
     "metacritic": 0
   },
   {
+    "name": "Ontos",
+    "id": "Ontos",
+    "genre": "Sci-Fi Adventure, Horror",
+    "developer": "Frictional Games",
+    "publisher": "Kepler Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Project Gummy Bears",
     "id": "Project Gummy Bears",
     "genre": "MOBA, Action",
