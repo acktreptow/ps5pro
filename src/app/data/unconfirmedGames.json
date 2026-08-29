@@ -84,6 +84,18 @@
     "metacritic": 78
   },
   {
+    "name": "Crazy Taxi: World Tour",
+    "id": "Crazy Taxi",
+    "genre": "Racing, Arcade",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Crossfire",
     "id": "Crossfire",
     "genre": "Third-Person Shooter",
