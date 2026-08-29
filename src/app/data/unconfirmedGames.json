@@ -828,6 +828,18 @@
     "metacritic": 64
   },
   {
+    "name": "The Defiant",
+    "id": "The Defiant",
+    "genre": "WW2 FPS",
+    "developer": "Hoothanes",
+    "publisher": "4Divinity",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Outer Worlds: SCE",
     "id": "ToW: SCE",
     "genre": "Western Action RPG",
