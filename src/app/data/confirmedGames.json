@@ -336,6 +336,18 @@
     "metacritic": 0
   },
   {
+    "name": "Stupid Never Dies",
+    "id": "SND",
+    "genre": "Action RPG",
+    "developer": "Gptrack50",
+    "publisher": "Gptrack50",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Oct 21, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Boys: Trigger Warning",
     "id": "The Boys: TW",
     "genre": "VR Action-Adventure",
