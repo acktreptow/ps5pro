@@ -1295,6 +1295,18 @@
     "metacritic": 0
   },
   {
+    "name": "Tokyo Xtreme Racer",
+    "id": "TXR",
+    "genre": "Racing, Arcade",
+    "developer": "Genki",
+    "publisher": "Genki",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 25, 2026",
+    "hasShipped": true,
+    "metacritic": 75
+  },
+  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
