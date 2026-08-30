@@ -849,6 +849,18 @@
     "extraInfo": "Both base PS5 and Pro likely have the same internal resolution. However, Pro upscales to 4K via PSSR which results in a far sharper image compared to base PS5. Especially with certain graphical effects like rain, which looks sub-1080p on the base console. Pro also improves texture resolution and other visual effects, although the PSSR implementation does cause strobing/instability on certain RT assets. Finally, Pro's 60fps is far more stable - only dipping on rare occasion to mid 50s, whereas base PS5 is constantly dipping from 60fps and can go as low as 45fps in the opening section."
   },
   {
+    "name": "PBA Pro Bowling 2027",
+    "id": "Pro Bowling 27",
+    "genre": "Sports, Bowling",
+    "developer": "FarSight Technologies",
+    "publisher": "FarSight Technologies",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 17, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Panic House: Awakening",
     "id": "PHA",
     "genre": "Horror",
