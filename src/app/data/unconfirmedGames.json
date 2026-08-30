@@ -732,6 +732,18 @@
     "metacritic": 72
   },
   {
+    "name": "Saw: Genesis",
+    "id": "Saw: Genesis",
+    "genre": "3v1 Multiplayer Horror",
+    "developer": "Broken Mirror & Anshar",
+    "publisher": "Bloober Team",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sea Of Thieves",
     "id": "SoT",
     "genre": "Action-Adventure, Pirates",
