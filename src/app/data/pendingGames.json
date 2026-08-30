@@ -913,8 +913,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 21, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 60
   },
   {
     "name": "Quantum Error",
