@@ -1174,7 +1174,7 @@
     "developer": "MS Games and Software UG",
     "publisher": "MS Games and Software UG",
     "psStudios": false,
-    "psvr2": false,
+    "psvr2": true,
     "release": "2027",
     "hasShipped": false,
     "metacritic": 0
@@ -1230,7 +1230,7 @@
     "publisher": "Bul Games",
     "psStudios": false,
     "psvr2": false,
-    "release": "2026",
+    "release": "2027",
     "hasShipped": false,
     "metacritic": 0
   },
