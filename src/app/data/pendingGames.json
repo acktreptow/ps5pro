@@ -19,6 +19,18 @@
     "extraInfo": "Both Pro and base PS5 run at a very stable 60fps and don't support HDR. While Pro renders at a slightly higher resolution, the difference in overall image quality is minimal. Shadows do however exhibit less flicker and certain assets (like workbenches) have more image stability on Pro."
   },
   {
+    "name": "A.O.T. 3",
+    "id": "A.O.T. 3",
+    "genre": "Action",
+    "developer": "Koei Tecmo Games",
+    "publisher": "Koei Tecmo Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 10, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "A Lovely Way To Burn",
     "id": "ALWTB",
     "genre": "Action RPG",
