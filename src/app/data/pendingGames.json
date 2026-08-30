@@ -147,18 +147,6 @@
     "metacritic": 0
   },
   {
-    "name": "Black Shard",
-    "id": "Black Shard",
-    "genre": "First-Person Exploration",
-    "developer": "Redlock Studio",
-    "publisher": "Desarrollo Bromio",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Black Desert",
     "id": "BD",
     "urlPath": "black-desert",
@@ -185,6 +173,18 @@
       }
     ],
     "extraInfo": "Black Desert (likely) doesn't have Pro enhancements yet despite confirmation that Pearl Abyss are working on it. At the very least, the fidelity mode's 60fps will be more stable on Pro due to the extra horsepower. However, both modes suffer from severe pop in that includes texture quality and actual assets. This makes the image rather poor regardless of mode and can't be fixed on console."
+  },
+  {
+    "name": "Black Shard",
+    "id": "Black Shard",
+    "genre": "First-Person Exploration",
+    "developer": "Redlock Studio",
+    "publisher": "Desarrollo Bromio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "Black Tides: The Curse of Blackbeard",
@@ -392,6 +392,18 @@
     "metacritic": 0
   },
   {
+    "name": "Farm Together 2",
+    "id": "FT2",
+    "genre": "Simulation, Farming",
+    "developer": "Milkstone Studios",
+    "publisher": "Milkstone Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 11, 2025",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Farmer's Dynasty 2",
     "id": "FD2",
     "genre": "Simulation, Farming",
@@ -404,15 +416,15 @@
     "metacritic": 0
   },
   {
-    "name": "Farm Together 2",
-    "id": "FT2",
+    "name": "Farming Life: Agriculture Simulator",
+    "id": "Farming Life",
     "genre": "Simulation, Farming",
-    "developer": "Milkstone Studios",
-    "publisher": "Milkstone Studios",
+    "developer": "Ovilex Software",
+    "publisher": "Ovilex Software",
     "psStudios": false,
     "psvr2": false,
-    "release": "July 11, 2025",
-    "hasShipped": true,
+    "release": "2026",
+    "hasShipped": false,
     "metacritic": 0
   },
   {
