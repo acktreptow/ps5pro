@@ -476,6 +476,18 @@
     "metacritic": 60
   },
   {
+    "name": "Gear.Club Unlimited 3",
+    "id": "Gear Club 3",
+    "genre": "Racing, Simulation",
+    "developer": "Eden Games",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 8, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Graveyard Warden",
     "id": "Graveyard Warden",
     "genre": "Adventure, Simulation",
