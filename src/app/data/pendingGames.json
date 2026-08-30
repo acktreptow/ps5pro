@@ -917,6 +917,18 @@
     "extraInfo": "While both base PS5 and Pro run at a locked 60fps, base PS5 renders at a lower internal resolution which results in a softer image. There's also more aliasing/shimmering/image breakup that's particularly noticeable in close-up shots of athletes (beards etc) and wide shots of stadiums (railings)."
   },
   {
+    "name": "Project Motor Racing",
+    "id": "PMR",
+    "genre": "Racing, Simulation",
+    "developer": "Straight4 Studios",
+    "publisher": "Giants Software",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 25, 2025",
+    "hasShipped": true,
+    "metacritic": 58
+  },
+  {
     "name": "Project Songbird",
     "id": "Songbird",
     "genre": "Psychological Horror",

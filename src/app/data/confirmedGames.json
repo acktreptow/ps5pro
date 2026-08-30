@@ -216,18 +216,6 @@
     "metacritic": 80
   },
   {
-    "name": "Project Motor Racing",
-    "id": "PMR",
-    "genre": "Racing, Simulation",
-    "developer": "Straight4 Studios",
-    "publisher": "Giants Software",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 25, 2025",
-    "hasShipped": true,
-    "metacritic": 58
-  },
-  {
     "name": "Rayman Legends Retold",
     "id": "Rayman Legends",
     "genre": "Platformer, Adventure",
