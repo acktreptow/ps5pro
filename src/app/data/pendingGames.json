@@ -1247,6 +1247,18 @@
     "metacritic": 70
   },
   {
+    "name": "Together: Moon Escape",
+    "id": "Moon Escape",
+    "genre": "Co-Op Adventure, Puzzle",
+    "developer": "CarlosGameDev",
+    "publisher": "Coro Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
