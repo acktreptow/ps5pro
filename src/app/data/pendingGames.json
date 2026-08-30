@@ -615,6 +615,18 @@
     "metacritic": 63
   },
   {
+    "name": "Kingdom III: Rising Realms",
+    "id": "Kingdom 3",
+    "genre": "Adventure, Strategy",
+    "developer": "Fury Studios",
+    "publisher": "Raw Fury",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lonely Hospital",
     "id": "Lonely Hospital",
     "urlPath": "lonely-hospital",
