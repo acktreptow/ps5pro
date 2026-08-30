@@ -147,6 +147,18 @@
     "metacritic": 0
   },
   {
+    "name": "Black Shard",
+    "id": "Black Shard",
+    "genre": "First-Person Exploration",
+    "developer": "Redlock Studio",
+    "publisher": "Desarrollo Bromio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Black Desert",
     "id": "BD",
     "urlPath": "black-desert",
