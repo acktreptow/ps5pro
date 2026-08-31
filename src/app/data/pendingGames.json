@@ -820,6 +820,36 @@
     "metacritic": 0
   },
   {
+    "name": "My Time At Sandrock",
+    "pageTitle": "My Time at Sandrock",
+    "id": "MTaS",
+    "urlPath": "my-time-at-sandrock",
+    "genre": "Simulation, Farming",
+    "developer": "Pathea Games",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 2, 2023",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity",
+        "description": "4K at a very stable 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "1440p at a locked 60fps."
+      }
+    ],
+    "disclaimer": "All tech information is based off figures taken from various message boards, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'Base PS5 has the same modes that target the same resolutions. However, the framerate is less stable (drops to 55fps in base PS5 fidelity mode etc).'"
+  },
+  {
     "name": "Nomad Drive",
     "id": "Nomad Drive",
     "genre": "Driving, Survival",
