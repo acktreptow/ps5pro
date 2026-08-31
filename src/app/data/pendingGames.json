@@ -442,6 +442,25 @@
     "metacritic": 70
   },
   {
+    "name": "Faraway Train",
+    "id": "Faraway Train",
+    "urlPath": "faraway-train",
+    "genre": "Adventure, Puzzle",
+    "developer": "Tatamibeya",
+    "publisher": "Amata Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 27, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Faraway Train, not from a primary source or established secondary source like Digital Foundry as none exist at the time of writing:",
+    "extraInfo": "'There's no 120fps support. There's a PC-style settings menu featuring low, medium, high, and highest presets for draw distance, antialiasing quality, shadow quality, internal render resolution, effects quality, and post processing quality. On Pro, this all defaulted to Highest, whereas certain settings are presumably lower on base PS5.'"
+  },
+  {
     "name": "Farm Together 2",
     "id": "FT2",
     "genre": "Simulation, Farming",
