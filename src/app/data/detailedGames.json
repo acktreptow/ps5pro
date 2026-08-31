@@ -4498,35 +4498,6 @@
     "extraInfo": "Base PS5 has the same modes that also use DRS to target the same framerates. However, its 60fps mode only renders up to 1800p, and its 120fps mode only renders up to 1440p. In practice, the lower bounds of base PS5's DRS can result in a blurry image in both modes, whereas both Pro modes maintain a much sharper/4K-like image (especially seen in foliage). Both consoles also lock to 60fps in resolution mode and achieve a stable 120fps in performance mode. Base PS5's 120fps is a little more stable, but Pro still maintains 120fps most of the time, only falling to around 100fps in more asset-dense areas of maps (forests etc) and/or large firefights."
   },
   {
-    "name": "Paladin's Passage",
-    "id": "Paladin's Passage",
-    "urlPath": "paladins-passage",
-    "genre": "Puzzle, Platformer",
-    "developer": "Bent Vector Studios",
-    "publisher": "Bent Vector Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "September 10, 2024",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": true,
-    "rt": false,
-    "resolution": "8K PSSR",
-    "fps": "60fps",
-    "modes": [
-      {
-        "name": "quality",
-        "description": "8K PSSR at 30fps."
-      },
-      {
-        "name": "performance",
-        "description": "4K at 60fps."
-      }
-    ],
-    "disclaimer": "As PP isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with PP yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
-    "extraInfo": "According to the game's website, 'advanced shaders' are now on Pro. PSSR is also used to render up to 8K."
-  },
-  {
     "name": "Party Animals",
     "id": "Party Animals",
     "urlPath": "party-animals",
