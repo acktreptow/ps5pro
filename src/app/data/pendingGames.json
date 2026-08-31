@@ -147,6 +147,24 @@
     "metacritic": 0
   },
   {
+    "name": "Bad Cheese",
+    "id": "Bad Cheese",
+    "urlPath": "bad-cheese",
+    "genre": "Psychological Horror",
+    "developer": "Simon Lukasik",
+    "publisher": "Feardemic",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 1, 2025",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K (likely)",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 have a singular mode that runs at a locked 60fps with no HDR support. Both consoles also render a very 4K-like image, with only certain assets (the huge cobwebs etc, which look the exact same on both consoles) looking more jagged. If there is a resolution increase on Pro, it's indistinguishable during general gameplay."
+  },
+  {
     "name": "Bench Simulator",
     "id": "Bench Simulator",
     "genre": "Simulation",
