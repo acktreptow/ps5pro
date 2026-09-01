@@ -2692,11 +2692,11 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Ray traced global illumination and reflections",
-    "resolution": "4K Upscaled (likely)",
-    "fps": "30fps (likely)",
-    "disclaimer": "All information is based on Digital Foundry's analysis of real-time base PS5 gameplay, making it a solid baseline for potential enhancements on Pro.",
-    "extraInfo": "GTA 6 was rendering at 1440p. It uses diffuse RTGI for direct/indirect lighting, and it's more stable than the software-based UE5 Lumen solution that's currently popular on consoles. RT reflections include dynamic objects like people, even on rough/opaque surfaces (like water), though SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) are top-tier. While there are no RT shadows, they still look great with accurate diffuse.",
-    "extraInfo2": "The trailer's most impressive aspect is the accurate and natural hair rendering, including body hair. Finally, even on Pro, a 60fps mode is unlikely, but 40fps could be possible - especially with the delay to November 2026. This gives Rockstar time to implement superior upscalers like PSSR2 and/or FSR4, as they would allow a larger drop in internal resolution while maintaining good image quality."
+    "resolution": "1440p",
+    "fps": "30fps",
+    "disclaimer": "All tech info is based on Digital Foundry's analysis of base PS5 gameplay in the initial trailers and Netflix showcase, which provides a solid baseline for potential Pro enhancements.",
+    "extraInfo": "Base PS5 renders at native 1440p, with diffuse RTGI for direct/indirect lighting and RT reflections for both rough/opaque surfaces, though SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) are top-tier and while there's no RT shadows, they still look great with accurate diffuse. While there's telltale signs of RT noise and a relatively soft image due to the 1440p res, DF believes PSSR2 on Pro could greatly alleviate these issues.",
+    "extraInfo2": "The most impressive aspect is the accurate and natural hair/skin rendering, including body hair. Unfortunately, DF believe a 60fps mode is unrealistic even on Pro, and even 40fps is unlikely due to the overall great RT implementation (aside from the noise primarily seen on some cars) that drastically transform the visuals, as well as the unmatched open-world simulation complexity and scale. The Netflix showcase was at least running at a basically locked, consistently-paced 30fps, though also with the usual camera-panning judder seen in all Rockstar games."
   },
   {
     "name": "Halo: Campaign Evolved",
