@@ -363,6 +363,18 @@
     "metacritic": 0
   },
   {
+    "name": "Crimson Moon",
+    "id": "CM",
+    "genre": "Action RPG",
+    "developer": "ProbablyMonsters",
+    "publisher": "ProbablyMonsters",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 1, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Crown Of Greed",
     "id": "CoG",
     "genre": "Fantasy RTS",
