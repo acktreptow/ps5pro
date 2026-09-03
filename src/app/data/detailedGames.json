@@ -5776,6 +5776,26 @@
     "extraInfo": "Due to multiple toggles (VSync, framerate etc), Pro has 24 modes - most of which are redundant. To keep it simple, for the highest framerate, use performance mode and uncap it. Otherwise, use Pro's exclusive enhanced mode and cap the framerate to either 30fps/40fps on 60/120 Hz screens for a stable experience, or visuals mode capped at 60fps for a middle ground. While visuals mode looks worse than enhanced, it's the recommended mode for base PS5 as its performance mode can still be poor in cities. Base PS5's FSR upscaling performs similarly to PSSR1, but this is improved on Pro with PSSR2 (check disclaimer)."
   },
   {
+    "name": "State Of Decay 3",
+    "id": "SoD3",
+    "urlPath": "state-of-decay-3",
+    "genre": "Survival, Action, Horror",
+    "developer": "Undead Labs",
+    "publisher": "Xbox Game Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "4K Upscaled (likely)",
+    "fps": "60fps (likely)",
+    "disclaimer": "All tech info is based on DF's time with the Gamescom demo. More tech info will be added once more becomes known.",
+    "extraInfo": "According to DF, the Gamescom demo showcases the use of UE5 Lumen GI. Despite some noise, it significantly transformed the visuals compared to previous entries in the series with a far darker and moodier atmosphere. This is however all the info that could be extrapolated to the Pro version, but it's at least positive news! Especially if PSSR2 is used to help alleviate any noise issues."
+  },
+  {
     "name": "Stellar Blade",
     "id": "Stellar Blade",
     "urlPath": "stellar-blade",
