@@ -5361,6 +5361,26 @@
     "extraInfo2": "With these many PSSR2 improvements resulting in a far sharper/more stable image, Pro now lives up to its marketing by being comparable to base PS5 quality mode's higher visuals and 1080p-1440p resolution (upscaled via TSR), but at 60fps seen in base PS5's performance mode (810p-1080p DRS to 1440p TSR). Finally, both Pro and base PS5 performance mode run at a stable 60fps except for mid 50s traversal stutters in open areas and base PS5 quality mode is a locked 30fps."
   },
   {
+    "name": "Silent Hill: Townfall",
+    "id": "SH: Townfall",
+    "urlPath": "silent-hill-townfall",
+    "genre": "Survival Horror",
+    "developer": "Screen Burn Interactive",
+    "publisher": "Konami & Annapurna",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "4K Upscaled (likely)",
+    "fps": "60fps (likely)",
+    "disclaimer": "All tech info is based on DF's time with the Gamescom demo that was running on base PS5. More tech info will be added once more becomes known.",
+    "extraInfo": "According to DF, the base PS5 Gamescom demo performed similarly to the previous 2 Silent Hill titles. Not only did it take advantage of UE5 features like Lumen, but base PS5 also had a quality mode and a performance mode which ran at a locked 60fps. Pro is therefore almost certainly going to run at 60fps, although a 30fps mode isn't guaranteed as Silent Hill f was 60fps only on Pro. DF also mentioned some of the typical UE5 noise in spots which can hopefully be cleaned up with PSSR2, though nothing is confirmed."
+  },
+  {
     "name": "Skull And Bones",
     "pageTitle": "Skull and Bones",
     "id": "S and B",
