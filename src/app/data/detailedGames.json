@@ -5018,6 +5018,40 @@
     "extraInfo": "There is only one difference between Pro and base PS5. Pro runs at 120 Hz whereas base PS5 runs at 90 Hz."
   },
   {
+    "name": "Resonance: A Plague Tale",
+    "pageTitle": "Resonance: A Plague Tale Legacy",
+    "id": "Resonance: APTL",
+    "urlPath": "resonance-a-plague-tale-legacy",
+    "genre": "Action-Adventure, Stealth",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 27, 2026",
+    "hasShipped": true,
+    "metacritic": 78,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1800p to 4K PSSR2",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality (60 hz screens)",
+        "description": "1800p to 4K PSSR2/TAA at a locked 30fps."
+      },
+      {
+        "name": "quality (120 hz screens)",
+        "description": "1440p to 4K PSSR2/TAA at a mostly stable 40fps."
+      },
+      {
+        "name": "performance",
+        "description": "1296p to 4K PSSR2/TAA at a mostly stable 60fps (occasional dips to low 50s) on 60 HZ screens, or averaging around 75fps on 120 Hz screens."
+      }
+    ],
+    "extraInfo": "For quality mode, ensure that the performance mode toggle isn't activated in the settings. The quality mode you receive (or if your performance mode caps to 60fps) will then be determined by the Hz your screen. Pro can use either PSSR2 or TAA to upscale to 4K. PSSR2 resolves a sharper, cleaner, and more stable image, especially in motion with noticeably less ghosting. However, TAA ensures a more stable 40/60fps, and averages around 6fps higher when the framerate is uncapped.",
+    "extraInfo2": "Base PS5 has the same modes, but at lower internal resolutions (1440p, 1296p, and 1080p respectively) and has to use TAA. This results in a noticeably blurrier image compared to the equivalent mode on Pro. Base PS5 also has a less stable 40/60fps and its uncapped framerate mirrors PSSR2 performance instead of TAA."
+  },
+  {
     "name": "Returnal",
     "id": "Returnal",
     "urlPath": "returnal",

@@ -216,18 +216,6 @@
     "metacritic": 0
   },
   {
-    "name": "Resonance: Plague Tale",
-    "id": "Resonance: APTL",
-    "genre": "Action-Adventure, Stealth",
-    "developer": "Asobo Studio",
-    "publisher": "Focus Entertainment",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 27, 2026",
-    "hasShipped": true,
-    "metacritic": 78
-  },
-  {
     "name": "RuneScape: Dragonwilds",
     "id": "Runescape",
     "genre": "Survival, Adventure",
