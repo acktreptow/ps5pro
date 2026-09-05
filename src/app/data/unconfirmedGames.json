@@ -312,6 +312,18 @@
     "metacritic": 0
   },
   {
+    "name": "Gundam Rogue Orbit",
+    "id": "Gundam",
+    "genre": "Mech Action",
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 5, 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Halloween",
     "id": "Halloween",
     "genre": "Asymmetric MP, Horror",
