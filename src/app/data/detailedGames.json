@@ -5033,23 +5033,23 @@
     "pssr": true,
     "rt": false,
     "resolution": "1800p to 4K PSSR2",
-    "fps": "120fps",
+    "fps": "100fps",
     "modes": [
       {
         "name": "quality (60 hz screens)",
-        "description": "1800p to 4K PSSR2/TAA at a locked 30fps."
+        "description": "1800p to 4K PSSR2/TAA at a basically locked 30fps."
       },
       {
         "name": "quality (120 hz screens)",
-        "description": "1440p to 4K PSSR2/TAA at a mostly stable 40fps."
+        "description": "1440p to 4K PSSR2/TAA at a mostly stable 40fps (dips to mid 30s in effect-heavy scenes)."
       },
       {
         "name": "performance",
-        "description": "1296p to 4K PSSR2/TAA at a mostly stable 60fps (occasional dips to low 50s) on 60 HZ screens, or averaging around 75fps on 120 Hz screens."
+        "description": "1260p to 4K PSSR2/TAA at a mostly stable 60fps (dips to low 50s in effect-heavy scenes) on 60 HZ screens. Usually around 75-85fps (depending on upscaler) on 120 Hz screens. Worse LoDs than other modes and distant enemies still update at 30fps."
       }
     ],
-    "extraInfo": "For quality mode, ensure that the performance mode toggle isn't activated in the settings. The quality mode you receive (or if your performance mode caps to 60fps) will then be determined by the Hz your screen. Pro can use either PSSR2 or TAA to upscale to 4K. PSSR2 resolves a sharper, cleaner, and more stable image, especially in motion with noticeably less ghosting. However, TAA ensures a more stable 40/60fps, and averages around 6fps higher when the framerate is uncapped.",
-    "extraInfo2": "Base PS5 has the same modes, but at lower internal resolutions (1440p, 1296p, and 1080p respectively) and has to use TAA. This results in a noticeably blurrier image compared to the equivalent mode on Pro. Base PS5 also has a less stable 40/60fps and its uncapped framerate mirrors PSSR2 performance instead of TAA."
+    "extraInfo": "For quality mode, ensure the performance mode toggle isn't activated in the settings. The quality mode (or if performance mode caps to 60fps) will then be determined by the Hz your screen. Pro uses PSSR2 or TAA to upscale to 4K. PSSR2 resolves a sharper, cleaner, and more stable image, especially in motion with less ghosting and has more detailed sub-pixel elements like stubble. However, TAA ensures a more stable 40/60fps and averages around 6fps higher when the framerate is uncapped.",
+    "extraInfo2": "Base PS5 has the same modes, but at lower internal res (1440p, 1260p, and 1080p respectively) and only upscales via TAA. This results in a blurrier image compared to the equivalent mode on Pro, especially between performance modes, as base PS5 only upscales to 1440p (more aliasing/breakup). Base PS5 also has a less stable 60fps, with dips to high 30s in effect-heavy scenes scenes and its uncapped mode is around 2fps worse than PSSR2. Though it has a more stable 40fps."
   },
   {
     "name": "Returnal",
