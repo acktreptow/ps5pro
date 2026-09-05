@@ -108,6 +108,18 @@
     "metacritic": 0
   },
   {
+    "name": "Daba: Land Of Water Scar",
+    "id": "Daba",
+    "genre": "Action RPG",
+    "developer": "Dark Star",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "Spring 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Dead Space",
     "id": "DS",
     "genre": "Survival Horror",
