@@ -1383,6 +1383,18 @@
     "metacritic": 0
   },
   {
+    "name": "The Eminence In Shadow: Phantom Echoes",
+    "id": "Eminence in Shadow",
+    "genre": "Action, Roguelite",
+    "developer": "Tesm Caravan",
+    "publisher": "NIS America",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "The Fox of Capistrano",
     "id": "Capistrano",
     "genre": "Adventure, Action",
