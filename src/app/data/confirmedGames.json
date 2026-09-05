@@ -168,6 +168,18 @@
     "metacritic": 80
   },
   {
+    "name": "Maneater 2",
+    "id": "M2",
+    "genre": "Action RPG",
+    "developer": "Tripwire & Demiurge",
+    "publisher": "Tripwire Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Mortal Shell 2",
     "id": "Mortal Shell 2",
     "genre": "Soulsborne",
