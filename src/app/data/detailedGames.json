@@ -4442,23 +4442,23 @@
     "psvr2": false,
     "release": "September 4, 2026",
     "hasShipped": true,
-    "metacritic": 86,
+    "metacritic": 85,
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced reflections",
     "resolution": "4K",
-    "fps": "90fps",
+    "fps": "100fps",
     "modes": [
       {
         "name": "prioritize quality",
-        "description": "4K at a locked 30fps/40fps for 60 Hz/120 Hz screens with RT."
+        "description": "4K at a locked 30fps with RT (ensure fixed framerate is on regardless of screen Hz, as Pro can't consistently stay above the 48fps VRR threshold)."
       },
       {
         "name": "prioritize performance",
-        "description": "1296p-4K DRS to 4K PSSR2 at a locked 60fps, or usually around 75fps with VRR/RT."
+        "description": "1296p-4K DRS to 4K PSSR2 at a basically locked 60fps with RT, or usually around 70-75fps on 120 Hz screens."
       }
     ],
-    "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 can only use inferior screen space reflections. Pro's RT also has no performance cost, so ensure the toggle is activated regardless of mode chosen, as it especially improves water rendering. Other than no RT, base PS5 has the same 2 modes with similar framerate performance. Its performance mode even has a higher 1440p DRS floor (quality mode is also 4K). However, Pro's superior PSSR2's upscaling still resolves a sharper, cleaner, and more stable image, despite its 1296p DRS floor. Pro performance mode is therefore vastly superior, with a 4K-like image that compares well to quality mode."
+    "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 can only use inferior screen space reflections. Pro's RT also has no performance cost, so ensure the toggle is activated regardless of mode chosen as it especially improves water rendering. Other than no RT, base PS5 has the same 2 modes with similar framerate performance. Its performance mode even has a higher 1440p DRS floor (quality mode is also 4K). However, Pro's superior PSSR2's upscaling still resolves a sharper, cleaner, and more stable image, despite its 1296p DRS floor. Pro performance mode is therefore vastly superior, with a 4K-like image that compares well to quality mode."
   },
   {
     "name": "Oniriam",
