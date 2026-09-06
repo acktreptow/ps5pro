@@ -3789,6 +3789,35 @@
     "extraInfo2": "However, PSSR has less GI flickering, less artifacting in hair/foliage, reduced ghosting/breakup and sharper motion clarity, making it the better upscaler overall. Both Pro modes also have a more stable framerate than base PS5 performance mode, though cutscenes are an unstable 60fps everywhere."
   },
   {
+    "name": "Metro 2039",
+    "id": "Metro 2039",
+    "urlPath": "metro-2039",
+    "genre": "Post-Apocalyptic FPS",
+    "developer": "4A Games",
+    "publisher": "Deep Silver",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 4, 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "TBD",
+    "resolution": "Upscaled 4K (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "TBD"
+      },
+      {
+        "name": "performance",
+        "description": "60fps with RT."
+      }
+    ],
+    "extraInfo": "The September 2026 State of Play demo was Pro's performance mode that runs at 60fps with RT. While the gameplay came with the caveat that it was 'not final quality', the mere fact that 4A were willing to get this granular 5 months before launch suggests it was at least very close to what we can expect in February. This was all that was shown, but this page will be updated with more info, such as quality mode and base PS5 metrics, once it's available."
+  },
+  {
     "name": "Microsoft Flight Sim 2024",
     "pageTitle": "Microsoft Flight Simulator 2024",
     "id": "MS Flight Simulator 24",
