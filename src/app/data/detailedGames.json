@@ -6781,7 +6781,7 @@
     "rt": false,
     "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "The only Pro enhancement seems to be a slightly higher internal resolution before upscaling to 4K, which leads to a slightly more 4K-like image compared to base PS5. Unfortunately, there's no PSSR support, no 120fps mode (gameplay is a basically locked 60fps on both consoles), and cutscenes such as entrance walks remain at 30fps, etc. Surprisingly, WWE 2K26 doesn't even natively support HDR."
+    "extraInfo": "The only Pro enhancement seems to be a slightly higher internal resolution before upscaling to 4K, which leads to a slightly less shimmery/aliased, more 4K-like image compared to base PS5, especially in motion. Unfortunately, there's no PSSR support, no 120fps mode (gameplay is a basically locked 60fps on both consoles), and cutscenes such as entrance walks remain at 30fps, etc. Surprisingly, WWE 2K26 doesn't even natively support HDR."
   },
   {
     "name": "War Thunder",
