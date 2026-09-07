@@ -5935,6 +5935,36 @@
     "extraInfo": "'While both base PS5 and Pro run at a basically locked 120fps, base PS5 is limited to 1440p. Pro renders at 4K, which is a 2.25x increase in resolution.'"
   },
   {
+    "name": "Stupid Never Dies",
+    "id": "SND",
+    "urlPath": "stupid-never-dies",
+    "genre": "Action RPG",
+    "developer": "Gptrack50",
+    "publisher": "Gptrack50",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Oct 21, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (higher internal resolution than performance mode) at a basically locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at a basically locked 60fps."
+      }
+    ],
+    "disclaimer": "All tech info is taken from the SND demo. However, the demo begins with its own disclaimer that the experience will be nearly identical to the final release. SND's demo therefore provides an excellent baseline of expectations.",
+    "extraInfo": "The only difference between Pro's modes seem to be a lower internal resolution to reach 60fps in performance mode. While this does lead to more shimmer, aliasing, and Lumen GI flickering, especially in motion, the framerate is a locked 60fps (at least in the early portions of the game). These image quality issues are also still present in quality mode, just less so. Base PS5 also has the same modes with the same framerate performance, but again, just seemingly with lower internal resolutions. This results in the base PS5 modes having the the same shimmering/GI flicker etc, but these issues are slightly exacerbated compared to the equivalent mode on Pro."
+  },
+  {
     "name": "Subside",
     "id": "Subside",
     "urlPath": "subside",
