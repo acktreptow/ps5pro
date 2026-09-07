@@ -4167,13 +4167,12 @@
     "psvr2": false,
     "release": "September 11, 2026",
     "hasShipped": true,
-    "metacritic": 64,
+    "metacritic": 65,
     "pssr": false,
     "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps (likely)",
-    "disclaimer": "All tech information is based on NHL 26, as none currently exists for NHL 27. However, given EA's track record with their yearly sports releases (especially the second installment to get a Pro update), NHL 26 still provides an excellent baseline of expectations until EA properly discuss this year's entry.",
-    "extraInfo": "'Base PS5 internally renders at 1440p before upscaling to 4K, whereas Pro renders at native 4K, which is a 2.25x resolution increase. This results in a sharper image on assets like handrails, goal nets, and jerseys. However, this is the only difference - both run at a locked 60fps with no option for 120fps, for example.'"
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "NHL 27 is very similar to last year's entry. Base PS5 internally renders at 1440p before upscaling to 4K, whereas Pro renders at native 4K (a 2.25x resolution increase). This results in a sharper image on assets like handrails, goal nets, and jerseys. However, this is the only difference - both run at a locked 60fps with no option for 120fps, for example. Fortunately, NHL 27 is still a noticable improvement over NHL 26 due to this year's emphasis on updating its presentation through re-built NHL arenas, authentic chants from the overhauled/more realistic crowds etc. It's just that these improvements are on both base PS5 and Pro."
   },
   {
     "name": "Naraka: Bladepoint",
