@@ -6766,6 +6766,24 @@
     "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
+    "name": "WWE 2K26",
+    "id": "WWE 26",
+    "urlPath": "wwe-2k26",
+    "genre": "Sports, Wrestling",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 13, 2026",
+    "hasShipped": true,
+    "metacritic": 78,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "The only Pro enhancement seems to be a slightly higher internal resolution before upscaling to 4K, which leads to a slightly more 4K-like image compared to base PS5. Unfortunately, there's no PSSR support, no 120fps mode (gameplay is a basically locked 60fps on both consoles), and cutscenes such as entrance walks remain at 30fps, etc. Surprisingly, WWE 2K26 doesn't even natively support HDR."
+  },
+  {
     "name": "War Thunder",
     "id": "War Thunder",
     "urlPath": "war-thunder",
