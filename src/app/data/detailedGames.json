@@ -2141,25 +2141,6 @@
     "extraInfo": "'Base PS5 has the same 2 modes that also both run at 4K. However, base PS5 standard mode is usually around 75-80fps.'"
   },
   {
-    "name": "Faraway Train",
-    "id": "Faraway Train",
-    "urlPath": "faraway-train",
-    "genre": "Adventure, Puzzle",
-    "developer": "Tatamibeya",
-    "publisher": "Amata Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 27, 2025",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "60fps",
-    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Faraway Train, not from a primary source or established secondary source like Digital Foundry as none exist at the time of writing:",
-    "extraInfo": "'There's no 120fps support. There's a PC-style settings menu featuring low, medium, high, and highest presets for draw distance, antialiasing quality, shadow quality, internal render resolution, effects quality, and post processing quality. On Pro, this all defaulted to Highest, whereas certain settings are presumably lower on base PS5.'"
-  },
-  {
     "name": "Farming Simulator 25",
     "id": "FS 25",
     "urlPath": "farming-simulator-25",
@@ -2256,6 +2237,36 @@
     "extraInfo": "Pro's versatility mode runs at 1224p-1440p DRS to 4K PSSR2 at a very stable 60fps. Pre-March 2026, Pro used PSSR1, which gave versatility mode a sharper image (especially distant detail) than base PS5's 30fps mode, with better SSR and less ghosting/artifacting. However, PSSR1 suffered from some extra noise, instability, and artifacting. Now with PSSR2, these issues have not only been fixed, but the image is even sharper and resolves more texture detail. With PSSR issues resolved, Revelation should therefore provide excellent image quality at launch."
   },
   {
+    "name": "Firmament",
+    "id": "Firmament",
+    "urlPath": "firmament",
+    "genre": "Puzzle, Adventure",
+    "developer": "Cyan Worlds",
+    "publisher": "Cyan Worlds",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "July 2, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections (likely)",
+    "resolution": "Upscaled 4K TSR (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K TSR (higher internal resolution than performance mode) at 30fps with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K TSR at a mostly stable 60fps (minor dips that stay well within VRR). No RT (uses screen space reflections)."
+      }
+    ],
+    "disclaimer": "All tech info is based off Riven/Myst. While Cyan re-released Firmament roughly a year prior to them, they've confirmed that they updated Firmament with the knowledge gained from remaking their original titles. Riven/Myst therefore provide a great baseline of expectations for the current version of Firmament until it's tested.",
+    "extraInfo": "'Pro has better view distance, foliage, textures, post-processing, and shading compared to base PS5, as well as a higher internal res in both its VR mode and performance mode. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps.'"
+  },
+  {
     "name": "Fortnite",
     "id": "Fortnite",
     "urlPath": "fortnite",
@@ -2341,36 +2352,6 @@
     ],
     "disclaimer": "All tech information is taken from the demo and is subject to change.",
     "extraInfo": "Base PS5 has the same 2 modes with the same target framerates and graphics settings breakdown. However, base PS5 only renders at 2070p."
-  },
-  {
-    "name": "Firmament",
-    "id": "Firmament",
-    "urlPath": "firmament",
-    "genre": "Puzzle, Adventure",
-    "developer": "Cyan Worlds",
-    "publisher": "Cyan Worlds",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "July 2, 2025",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": true,
-    "rtTypes": "Ray traced reflections (likely)",
-    "resolution": "Upscaled 4K TSR (likely)",
-    "fps": "60fps",
-    "modes": [
-      {
-        "name": "quality",
-        "description": "Upscaled 4K TSR (higher internal resolution than performance mode) at 30fps with RT."
-      },
-      {
-        "name": "performance",
-        "description": "Upscaled 4K TSR at a mostly stable 60fps (minor dips that stay well within VRR). No RT (uses screen space reflections)."
-      }
-    ],
-    "disclaimer": "All tech info is based off Riven/Myst. While Cyan re-released Firmament roughly a year prior to them, they've confirmed that they updated Firmament with the knowledge gained from remaking their original titles. Riven/Myst therefore provide a great baseline of expectations for the current version of Firmament until it's tested.",
-    "extraInfo": "'Pro has better view distance, foliage, textures, post-processing, and shading compared to base PS5, as well as a higher internal res in both its VR mode and performance mode. Despite being an Unreal Engine 5 title, there's no use of UE5 features likes Lumen, Nanite, or Virtual Shadow Maps.'"
   },
   {
     "name": "Frostpunk 2",
