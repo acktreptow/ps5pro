@@ -3764,7 +3764,7 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "TBD",
+    "rtTypes": "Ray traced global illumination",
     "resolution": "Upscaled 4K (likely)",
     "fps": "60fps",
     "modes": [
@@ -3774,10 +3774,10 @@
       },
       {
         "name": "performance",
-        "description": "60fps with RT."
+        "description": "60fps with RTGI."
       }
     ],
-    "extraInfo": "The September 2026 State of Play demo was Pro's performance mode that runs at 60fps with RT. While the gameplay came with the caveat that it was 'not final quality', the mere fact that 4A were willing to get this granular 5 months before launch suggests it was at least very close to what we can expect in February. This was all that was shown, but this page will be updated with more info, such as quality mode and base PS5 metrics, once it's available."
+    "extraInfo": "The September 2026 State of Play demo was Pro's performance mode, which was running at a very stable 60fps with RTGI (according to Digital Foundry's analysis). While the footage came with the caveat that it was 'not final quality', the fact that 4A were willing to get so granular 5 months before launch suggests it was at least very close to what we can expect in February. 4A also separately confirmed to DF that both base PS5 and Pro performance modes will run at 4K/60fps, though most likely upscaled to 4K from a lower internal resolution. Regardless, the page will be updated with more info like quality mode metrics once it's available."
   },
   {
     "name": "Microsoft Flight Sim 2024",
