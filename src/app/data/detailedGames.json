@@ -3500,10 +3500,11 @@
       },
       {
         "name": "performance pro",
-        "description": "Upscaled 4K at up to 120fps (check extra info). Visual settings of base PS5."
+        "description": "Upscaled 4K PSSR2 at up to 120fps (check extra info). Visual settings similar to base PS5's visual mode."
       }
     ],
-    "extraInfo": "Performance Pro mode consistently fluctuates between 80-120fps in general gameplay. It's however usually within 90-105fps unless playing in heavier weather effects, where it wil dip into the 80s slightly more often. Cutscenes (TD celebrations etc) then can dip the framerate lower into the mid 60s. Visual Pro mode is the standard mode we've seen in the past 2 Madden entries on Pro. It increases the graphical fidelity past base PS5's visual mode (3D grass etc) while retaining base PS5 performance mode's 60fps in replays/cutscenes (it's 30fps on base PS5 visual mode)."
+    "extraInfo": "Performance Pro mode consistently fluctuates between 80-120fps in general gameplay. It's however usually within 90-105fps unless playing in heavier weather effects, where it dips into the 80s slightly more often. Cutscenes (TD celebrations etc) then can dip the framerate lower into the mid 60s. Fortunately, despite not being native 4K like Visual Pro mode, its PSSR2 upscaling still helps resolve a sharp and stable image, especially in motion where fine detail is preserved.",
+    "extraInfo2": "Visual Pro mode is the standard mode we've seen in the past 2 Madden entries on Pro. It increases the graphical fidelity past base PS5's visual mode (3D grass etc) while retaining base PS5 performance mode's 60fps in replays/cutscenes (it's 30fps on base PS5 visual mode)."
   },
   {
     "name": "Mafia",
