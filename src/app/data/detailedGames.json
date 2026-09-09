@@ -4502,7 +4502,7 @@
     "rt": false,
     "resolution": "Upscaled 4K",
     "fps": "60fps",
-    "extraInfo": "Both Pro and base PS5 have a singular mode that runs at a stable 60fps (at least in the early sections of the game), suffer from severe pop-in, and have the same LoDs, etc. The only difference seems to be a slightly higher internal resolution on Pro, which leads to slightly sharper foliage and slightly less shimmer, aliasing, and flickering, though these issues are still there."
+    "extraInfo": "Both Pro and base PS5 have a singular mode that runs at a stable 60fps (at least in the early, less busy, and therefore less CPU-intensive sections of the game), suffer from severe pop-in, and have the same LoDs, etc. The only difference seems to be a slightly higher internal resolution on Pro, which leads to slightly sharper foliage and slightly less shimmer, aliasing, and flickering, though these issues are still there as Pro doesn't use PSSR2."
   },
   {
     "name": "Party Animals",
