@@ -936,19 +936,20 @@
     "metacritic": 0,
     "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K PSSR2",
+    "resolution": "1440p to 4K PSSR2",
     "fps": "120fps",
     "modes": [
       {
-        "name": "fidelity",
-        "description": "Upscaled 4K PSSR2 at 60+fps."
+        "name": "fidelity (120 Hz refresh rate toggled off)",
+        "description": "Usually around 1440p to 4K PSSR2 at a very stable 60fps (dips to high 50s) in campaign and a locked 60fps in MP. Better quality SSR, AO, foliage, LoDs, etc than performance mode."
       },
       {
-        "name": "120 Hz refresh rate",
-        "description": "Upscaled 4K PSSR2 at up to 120fps."
+        "name": "performance (120 Hz refresh rate toggled on)",
+        "description": "Usually around 1008p to 4K PSSR2 at mostly 70-90fps in campaign and a very stable 120fps (dips to around 100fps in larger maps) in MP. Visual settings of base PS5 fidelity mode."
       }
     ],
-    "extraInfo": "Infinity Ward has confirmed that Pro will use PSSR2 to upscale to 4K. Based on PSSR2's track record, this should result in Pro resolving a sharper, cleaner, and more stable image than base PS5's upscaler. Pro's modes will also have increased graphics quality than the equivalent modes on base PS5, though IW have yet to go into further detail. Finally, fidelity mode will push past 60fps on Pro, but is capped at 60fps on base PS5."
+    "disclaimer": "Most tech info is taken from the MW4 beta and is therefore subject to somewhat change for the October launch. It still, however, provides an excellent baseline of expectations for now.",
+    "extraInfo": "Base PS5 has the same 2 modes, but at lower internal resolutions (usually around 1260p and 864p respectively). Pro also uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image that base PS5's inferior FSR3 upscaling. This is especially seen in motion, where there can be significant ghosting on base PS5. Base PS5 performance mode also takes further quality reductions to SSR, AO, foliage, etc. Even then, it only averages around 100fps in MP, rarely goes above 110fps, and can even dip into the 80s in larger maps/Warzone. Fortunately, its fidelity mode's framerate performs similarly to Pro."
   },
   {
     "name": "Carmen Sandiego",
