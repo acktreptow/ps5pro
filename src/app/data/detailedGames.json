@@ -6964,21 +6964,21 @@
     "metacritic": 78,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Ray traced reflections, shadows and ambient occlusion (based off Spider-Man 2)",
-    "resolution": "4K (likely)",
-    "fps": "120fps (likely)",
+    "rtTypes": "Hardware-based ray traced reflections on all modes. Ray traced ambient occlusion and higher RT reflections with advanced RT toggle activated.",
+    "resolution": "",
+    "fps": "",
     "modes": [
       {
         "name": "fidelity pro",
-        "description": "4K PSSR at a locked 30fps/40fps for 60 Hz/120 Hz screens, or mid 50s with VRR. Highest quality RT (based off Spider-Man 2)."
+        "description": "1800p to 4K PSSR2 at a locked 30fps. 1440p-1800p DRS with advanced RT toggle activated. 1440p at a basically locked 40fps with 120 Hz and advanced RT toggles activated, or usually 45-55fps with VRR toggle also activated."
       },
       {
         "name": "performance pro",
-        "description": "1440p to 4K PSSR at a locked 60fps, or around 70fps with VRR. Base PS5 level of RT quality (based off Spider-Man 2)."
+        "description": "Around 1440p to 4K PSSR2 at a basically locked 60fps, or around 70-80fps with 120 Hz + VRR. Worse LoDs, shadow coverage, and foliage animation than fidelity mode."
       }
     ],
-    "disclaimer": "The above information from Spider-Man 2 provides a good baseline of expectations as its Insomniac's most recent game. The below extra info however provides more bespoke analysis of the Wolverine footage we've seen so far.",
-    "extraInfo": "The Sept 2025 State of Play demo ran at 30fps, with an internal resolution of 1440p in gameplay and 15120p-1600p in cutscenes, with RT reflections. DF stated while there was continuity from Spider-Man 2, there were already noticeable upgrades like facial models. The June 2026 State of Play demo then ran at 60fps with the same rendering features. Even with less RT than Spider-Man 2 however, DF believes the overall image looks better - likely due to the non open-world design, which allows Insomniac to be more deliberate and detailed. This all bodes well for the game's performance at launch in September, where this can all be finalized."
+    "extraInfo": "Only fidelity Pro can use the advanced RT toggle. However, the full render-resolution reflections, RTAO, and screen-space global illumination only slightly transform the image. In practice, even the uncapped performance mode still compares well to the best of fidelity mode, primarily due to excellent PSSR2 upscaling. Besides, SSR is still lightly used in combination on a few water surfaces, and planar reflections are used regardless of modes/toggles for some mirrors.",
+    "extraInfo2": "Base PS5 has the same modes, but its fidelity mode has no advanced RT toggle, its performance mode falls to 1296p with a slightly less stable 60fps, and framerates are generally around 5-10fps less when uncapped. Pro's superior upscaling PSSR2 resolves a sharper, cleaner, and more stable image, especially in motion. Though, some hair is more aliased than usually seen with the upscaler. This however makes fidelity mode more viable on base PS5 due to it using Insomniac's internal upscaler, as internal res then plays a bigger factor on image quality."
   },
   {
     "name": "World Of Tanks: Heat",
