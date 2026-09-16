@@ -6053,24 +6053,25 @@
     "metacritic": 83,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen",
-    "resolution": "Dynamic 4K",
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "1800p to 4K TSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Dynamic 4K at 30fps."
+        "description": "1440p-1800p DRS to 4K TSR at a mostly stable, but unevenly-paced 30fps (rare dips to high 20s). Lumen reflections on all water bodies."
       },
       {
         "name": "balanced",
-        "description": "Dynamic 4K at 40fps."
+        "description": "1440p-1620p DRS to 4K TSR at a mostly stable, but unevenly-paced 40fps (rare dips to high 30s). Lumen reflections on small bodies of water, SSR on large bodies."
       },
       {
         "name": "performance",
-        "description": "Dynamic 4K at 60fps."
+        "description": "1260p-1440p DRS to 4K TSR at a very stable 60fps (dips to low 50s in CPU-heavy scenes, such as NPC-dense crowds). SSR only, along with other graphics quality reductions (check extra info)."
       }
     ],
-    "extraInfo": "Base PS5 has the same modes that target the same framerates and dynamic 4K resolution. However, Pro's modes will have 'enhanced visual quality' over the equivalent mode on base PS5. While Rebel Wolves haven't gone into detail about what these are, hopefully, Pro will at least have higher internal dynamic resolution scaling to mitigate any potential Lumen fizzle/noise that has plagued many UE5 games on base PS5."
+    "extraInfo": "Performance mode reduces LoDs, draw distance, and removes volumetrics to achieve a very playable 60fps. Unfortunately, there is no PSSR2 support so internal resolutions play a big factor in final IQ.",
+    "extraInfo2": "Base PS5 has the same modes with the essentially the same graphics settings breakdown, aside from it quality mode not having Lumen reflections on large bodies of water. Its DRS is also lower at 1440p-1620p, 1080p-1620p, and 900p-1440p respectively. Unfortunately, its quality and balanced modes also suffer from uneven frame pacing, and its performance mode is significantly less stable. Even in scenes where Pro is maintaining 60fps, base PS5 is constantly in the mid 50s and is even regularly out of VRR range in cities/towns."
   },
   {
     "name": "The Callisto Protocol",
@@ -6982,7 +6983,7 @@
       }
     ],
     "extraInfo": "Only fidelity mode can activate advanced RT. However, the full render-resolution reflections, RTAO, and screen-space global illumination only slightly transform the image. In practice, even the uncapped performance mode still compares well due to excellent PSSR2 upscaling. Besides, SSR is still lightly used in combination on a few water surfaces, and planar reflections are used regardless of modes/toggles for some mirrors.",
-    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle, performance mode falls to around 1296p with a slightly less stable 60fps, and framerates are generally around 5-10fps lower when uncapped. Pro's superior PSSR2 upscaling also resolves a sharper, cleaner (aside from some aliased hair), and more stable image, especially in motion. Fidelity mode is therefore more viable on base PS5, which uses Insomniac's own upscaler, as internal res plays a bigger factor on IQ."
+    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle, performance mode falls to around 1296p with a slightly less stable 60fps, and framerates are generally around 5-10fps lower when uncapped. Pro's superior PSSR2 upscaling also resolves a sharper, cleaner (aside from some aliased hair), and more stable image, especially in motion. Fidelity mode is therefore more viable on base PS5 (which uses Insomniac's own upscaler), as internal res plays a bigger factor on IQ."
   },
   {
     "name": "World Of Tanks: Heat",
