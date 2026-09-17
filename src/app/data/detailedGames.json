@@ -6063,15 +6063,15 @@
       },
       {
         "name": "balanced",
-        "description": "1440p-1800p DRS to 4K TSR at a mostly stable, but unevenly-paced 40fps (rare dips to high 30s). Lumen reflections on small bodies of water, SSR on large bodies."
+        "description": "1440p-1800p DRS to 4K TSR at a mostly stable, but unevenly-paced 40fps (rare dips to high 30s). Lumen reflections on small water bodies, SSR on large."
       },
       {
         "name": "performance",
-        "description": "900p-1620p DRS to 4K TSR at a very stable 60fps (dips to low 50s in CPU-heavy scenes, such as NPC-dense crowds). SSR on small water bodies, no reflections on large bodies, along with other graphics quality reductions (check extra info)."
+        "description": "900p-1620p DRS to 4K TSR at a very stable 60fps (dips to low 50s in cities/some cutscenes). SSR on small water bodies, no reflections on large, plus other graphics reductions (check extra info)."
       }
     ],
-    "extraInfo": "Performance mode reduces removes shadow animation except for extremely close range and has decimated character animations at distance to achieve a very playable 60fps, especially in the open-world. Both it and balanced mode also reduce LoDs, draw distance, shadow resolution, and removes volumetrics for dust. Unfortunately, there's no PSSR2 support, so lower internal resolutions play a bigger factor in final IQ, especially in motion where noise is more visible, Lumen GI would have less flickering, and the overall image would be sharper with less breakup than would be with PSSR2. All modes suffer from cutscene hitching during camera cuts, with the usually 1-2fps drops being most but notable in quality mode due to its 30fps ceiling.",
-    "extraInfo2": "Base PS5 has the same modes with the essentially the same graphics settings aside from water reflections (quality mode has Lumen for only small bodies, balanced uses SSR throughout, and performance only has SSR for small ones/nothing for large ones). Its DRS is also lower at 1440p-1620p, 1080p-1620p, and 900p-1260p respectively. Unfortunately, its quality and balanced modes also suffer from uneven frame pacing, its quality mode is slightly less stable, and performance mode is significantly so. Even in scenes where Pro is maintaining 60fps like combat/tree-dense areas, base PS5 is constantly in the mid to low 50s and can easily fall out of VRR range in cities/towns (where its mainly 900p) and some cutscenes."
+    "extraInfo": "Performance mode removes shadows animation at normal distances and reduces distant NPC animation to achieve a stable 60fps, especially in the open-world. It and balanced mode also reduce LoDs, draw distance, shadow res, and remove dust volumetrics. There's also no PSSR2, which likely would alleviate TSR's Lumen GI flicker, while resolving a sharper image with less breakup, especially in motion. These issues are especially bad in performance mode due to a low DRS.",
+    "extraInfo2": "Base PS5 has the same modes with similar graphics presets aside from water reflections (quality mode has Lumen for only small bodies and balanced uses SSR throughout). DRS is also lower at 1440p-1620p, 1080p-1620p, and 900p-1260p respectively. Finally, base PS5's 60fps is far worse, as it's constantly in the mid/low 50s during combat/tree-dense areas (Pro maintains 60fps here) and falls out of VRR in cities/towns (where it's mostly 900p) and some cutscenes."
   },
   {
     "name": "The Callisto Protocol",
