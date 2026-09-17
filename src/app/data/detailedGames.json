@@ -6975,15 +6975,15 @@
       },
       {
         "name": "fidelity pro (with various toggles)",
-        "description": "1440p-1800p DRS to 4K PSSR2 at a locked 30fps with advanced RT on. 1440p to 4K PSSR2 at a basically locked 40fps with 120 Hz + adv RT, or usually 45-55fps with uncapped VRR also activated."
+        "description": "1440p-1800p DRS to 4K PSSR2 at a locked 30fps with advanced RT on. 1440p to 4K PSSR2 at a basically locked 40fps with 120 Hz + adv RT, or usually around 58fps with uncapped VRR also activated."
       },
       {
         "name": "performance pro",
-        "description": "Around 1440p to 4K PSSR2 at a basically locked 60fps with RT reflections only, or usually 70-80fps with 120 Hz + VRR. Worse LoDs, shadow coverage, and foliage animation than fidelity mode."
+        "description": "Around 1440p to 4K PSSR2 at a basically locked 60fps with RT reflections only, or usually around 90fps with 120 Hz + VRR. Worse LoDs, shadow coverage, and foliage animation than fidelity mode."
       }
     ],
     "extraInfo": "Only fidelity mode can activate advanced RT. However, the full render-resolution reflections, RTAO, and screen-space global illumination only slightly transform the image. In practice, even the uncapped performance mode still compares well due to excellent PSSR2 upscaling. Besides, SSR is still lightly used in combination on a few water surfaces, and planar reflections are used regardless of modes/toggles for some mirrors.",
-    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle, performance mode falls to around 1296p with a slightly less stable 60fps, and framerates are generally around 5-10fps lower when uncapped. Pro's superior PSSR2 upscaling also resolves a sharper, cleaner (aside from some aliased hair), and more stable image, especially in motion. Fidelity mode is therefore more viable on base PS5 (which uses Insomniac's own upscaler), as internal res plays a bigger factor on IQ."
+    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle, performance mode falls to around 1296p with a slightly less stable 60fps, and framerates are generally around 5ps lower when uncapped. Pro's superior PSSR2 upscaling also resolves a sharper, cleaner (aside from some aliased hair), and more stable image, especially in motion, compared to base PS5's ITGI. Fidelity mode at 30fps is therefore more viable on base PS5, as internal res plays a bigger factor on IQ."
   },
   {
     "name": "World Of Tanks: Heat",
