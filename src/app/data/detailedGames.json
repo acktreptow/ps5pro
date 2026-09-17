@@ -1118,6 +1118,41 @@
     "extraInfo2": "Both upscalers ensure a locked 30/60fps though and when unlocked, both run higher than base PS5 (around 70fps in performance mode and up to 40fps in graphics mode). Finally, Pro has better performance mode SSR, and improved texture/shadow filtering compared to base PS5 (which is also 1440p to 4K TAA in both modes)."
   },
   {
+    "name": "Control Resonant",
+    "pageTitle": "CONTROL Resonant",
+    "id": "Control 2",
+    "urlPath": "control-resonant",
+    "genre": "Action RPG",
+    "developer": "Remedy Entertainment",
+    "publisher": "Remedy Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 24, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "TBD",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K PSSR2 at 30fps with RT (most likely reflections)."
+      },
+      {
+        "name": "balanced",
+        "description": "Upscaled 4K PSSR2 at 40fps with RT (most likely reflections)."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 at 60fps."
+      }
+    ],
+    "disclaimer": "All info is taken directly from Remedy's analysis over at the PS Blog, along with a couple of educated guess based off Remedy's Pro enhancements for their previous PS5 titles. More granular details like the full array of RT types will be added once they become available.",
+    "extraInfo": "Base PS5 only includes a quality mode (4K at 30fps) and performance mode (1440p at 60fps). The base console will likely use FSR2 to upscale to these resolution targets, as that's what was used for AW2 and FBC: Firebreak (Control is a harder Remedy title to glean anything from as it was originally a PS4 title)."
+  },
+  {
     "name": "Crime Simulator",
     "id": "Crime Sim",
     "urlPath": "crime-simulator",
