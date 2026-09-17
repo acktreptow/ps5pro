@@ -2109,7 +2109,7 @@
     "rt": false,
     "resolution": "4K",
     "fps": "60fps",
-    "extraInfo": "While both Pro and base PS5 will target 60fps and support VRR, Pro will render at 4K, compared to 1440p on base PS5."
+    "extraInfo": "While both Pro and base PS5 target 60fps and support VRR, Pro renders at native 4K compared to 1440p on base PS5. Naturally, this results in a slightly softer, more aliased image on base PS5."
   },
   {
     "name": "Fantasy Life I: TGWST",
