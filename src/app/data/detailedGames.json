@@ -5415,11 +5415,11 @@
     "metacritic": 0,
     "pssr": false,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen",
-    "resolution": "4K Upscaled (likely)",
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "Upscaled 4K via TSR or PSSR2 (likely)",
     "fps": "60fps (likely)",
-    "disclaimer": "All tech info is based on DF's time with the Gamescom demo that was running on base PS5. More tech info will be added once more becomes known.",
-    "extraInfo": "According to DF, the base PS5 Gamescom demo performed similarly to the previous 2 Silent Hill titles. Not only did it take advantage of UE5 features like Lumen, but base PS5 also had a quality mode and a performance mode which ran at a locked 60fps. Pro is therefore almost certainly going to run at 60fps, although a 30fps mode isn't guaranteed as Silent Hill f was 60fps only on Pro. DF also mentioned some of the typical UE5 noise in spots which can hopefully be cleaned up with PSSR2, though nothing is confirmed."
+    "disclaimer": "All tech info is based on DF's time with the Gamescom demo that was running on base PS5 and information directly from Screen Burn over at the PS Blog. More tech info will be added once more becomes known.",
+    "extraInfo": "According to DF, the base PS5 Gamescom demo performed similarly to the previous 2 Silent Hill titles. Not only did it take advantage of UE5 features like Lumen GI, but base PS5 also had a quality mode and a performance mode which ran at a locked 60fps. Pro is therefore almost certainly going to run at 60fps, although a 30fps mode isn't guaranteed as Silent Hill f was 60fps only on Pro. DF also mentioned some of the typical UE5 noise in spots which can hopefully be cleaned up with PSSR2, though nothing is confirmed."
   },
   {
     "name": "Skull And Bones",
