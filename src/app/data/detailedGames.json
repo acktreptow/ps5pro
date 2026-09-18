@@ -5271,6 +5271,35 @@
     "extraInfo": "Despite having the Pro Enhanced badge on the PSN Store, Owlcat has confirmed to me that Rue Valley has no unique Pro upgrades - it's essentially the same experience as on PC. However, Pro will still have a more stable 60fps simply due to its extra horsepower."
   },
   {
+    "name": "RuneScape: Dragonwilds",
+    "id": "Runescape",
+    "urlPath": "runescape-dragonwilds",
+    "genre": "Survival, Adventure",
+    "developer": "Jagex",
+    "publisher": "Jagex",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K (lower internal resolution than quality) at a basically locked 60fps and slightly worse graphical presets (check extra info)."
+      }
+    ],
+    "extraInfo": "Performance mode has a lower internal resolution, which can lead to a slightly softer overall image, more breakup on reflections, and more stair stepping on shadows. Quality mode also has more dense foliage and improved volumetrics. Fortunately, performance mode maintains 60fps a vast majority of the time (at least in the early portions of the game) and many other graphical settings like draw distance are a match. Base PS5 has the same modes with seemingly the same graphical/framerate breakdown, aside from slightly lower internal resolutions compared to the equivalent mode on Pro."
+  },
+  {
     "name": "Rush: Apex",
     "pageTitle": "RUSH: Apex Edition",
     "id": "Rush",
