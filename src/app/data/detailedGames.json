@@ -5319,6 +5319,35 @@
     "extraInfo": "There is only one difference between Pro and base PS5. Pro runs at 120 Hz whereas base PS5 runs at 90 Hz."
   },
   {
+    "name": "Samson",
+    "pageTitle": "Samson: A Tyndalston Story",
+    "id": "Samson",
+    "urlPath": "samson-a-tyndalston-story",
+    "genre": "Action-Adventure, Brawler",
+    "developer": "Liquid Swords",
+    "publisher": "Liquid Swords",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 21, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": false,
+    "resolution": "1660p to 4K (at least)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at 60fps."
+      }
+    ],
+    "extraInfo": "Liquid Swords confirmed that both Pro and base PS5 will have a 30fps quality mode and 60fps performance mode. They've also confirmed that base PS5's modes will be 1080p-1660p DRS to 4K and 1080p to 4K respectively. However, even when pressed for further detail, all Liquid Swords confirmed was that Pro's modes will feature 'high-quality graphics'. Whether that's improved graphics settings presets, higher internal resolutions, or PSSR2/RT support, is therefore currently unknown, but this page will update as soon as this info becomes available."
+  },
+  {
     "name": "Saros",
     "pageTitle": "SAROS",
     "id": "Saros",
