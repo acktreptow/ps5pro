@@ -6535,6 +6535,37 @@
     "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image difference is mainly with the worse Lumen GI and missing reflections on assets like railings. Base PS5 performs very similar to Pro (also has Lumen/4K textures etc), with the only difference (likely) being lower internal DRS bounds in each mode."
   },
   {
+    "name": "The Witcher 3: Wild Hunt",
+    "pageTitle": "The Witcher 3: Wild Hunt - Remastered",
+    "id": "Witcher 3 Remastered",
+    "urlPath": "the-witcher-3-wild-hunt-remastered",
+    "genre": "Action RPG",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 29, 2026",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced global illumination and ambient occlusion",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "120fps (likely)",
+    "modes": [
+      {
+        "name": "ray tracing",
+        "description": "Upscaled 4K PSSR2 at 60fps with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 at 60fps, or up to 120fps with VRR."
+      }
+    ],
+    "disclaimer": "CDPR confirmed many Pro details during their Gamescom streams. More details will be added, like how Pro compares to the 2026 base PS5 re-release, as they become available.",
+    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Fortunately, CDPR also confirmed that they're using PSSR2. This means that even if the same DRS is used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling should resolve a sharper, cleaner, and more stable overall image than possible on base PS5."
+  },
+  {
     "name": "Thief: The Dark Project",
     "pageTitle": "Thief: The Dark Project Remastered",
     "id": "Thief",
