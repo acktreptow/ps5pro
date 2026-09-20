@@ -918,7 +918,7 @@
         "description": "1440p to 4K TAA at a relatively stable 120fps. Graphics settings the same as base PS5's fidelity mode that runs at 60fps."
       }
     ],
-    "disclaimer": "As B07 isn't whitelisted by Sony, it uses PSSR1 by default, so this page still displays PSSR1 metrics. While PSSR2 hasn't been tested with B07 yet, Mark Cerny (PS5 architect) said Sony's broader testing found no issues in most titles. Only a few suffered from instability in sub-pixel light sources, with 99%+ of the game still improved. Community PSSR2 testing supports this, where at the very least, games are more stable, sharper, and remove PSSR1's film grain-like noise. Therefore, enable PSSR2 by activating 'Enhance PSSR Image Quality' in PS5 system settings, and only revert back if there are major issues.",
+    "disclaimer": "B07 uses PSSR1 natively, so this page still displays PSSR1 metrics. However, as of September 26, the 'Enhance PSSR Image Quality' toggle (which forces PSSR2 upscaling) is activated by default. PSSR2 was made the default because it resolves a sharper, more stable image and removes PSSR1's film grain-like noise. If you experience image quality issues though, deactivate the toggle in PS5 system settings to see if PSSR1 produces better results.",
     "extraInfo": "'The anti-lag VRR implementation in Pro's fidelity mode (120 Hz refresh rate toggled off) means it actually has lower input latency than the 120 Hz mode, despite fewer frames. Splitscreen multiplayer is now a locked 60fps (mid 50s on base PS5). Base PS5 120 Hz mode is less stable than Pro's and also runs at a lower, more 1008p-1080p resolution. Base PS5 fidelity mode has a similar resolution, but still looks less stable due to Pro's good PSSR implementation.'"
   },
   {
