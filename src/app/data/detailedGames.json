@@ -112,6 +112,24 @@
     "extraInfo": "Both base PS5 and Pro run at 60fps and upscale to 4K. Pro however uses PSSR to upscale, whereas base PS5 (likely) uses TSR as it's a UE5 game. While the internal resolution before upscaling is unknown, the game is still very sharp on Pro which suggests that it's at least 1080p. Pro also has greater lighting/volumetric fog fidelity and more realistic reflections/surfacing."
   },
   {
+    "name": "Aliens: Fireteam Elite 2",
+    "id": "Aliens Fireteam 2",
+    "urlPath": "aliens-fireteam-elite-2",
+    "genre": "Co-Op TPS, Horror",
+    "developer": "Cold Iron Studios",
+    "publisher": "Daybreak Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 25, 2026",
+    "hasShipped": true,
+    "metacritic": 64,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "While both Pro and base PS5 target 60fps with dips, general stability has been somewhat improved with post-launch patches. Pro, however, renders at 4K compared to base PS5's 1440p. Fortunately for base PS5 players, A:FE2 is a UE4 title. This means that a lower resolution won't have as significant of an impact on image quality. If it were a UE5 title, the lowered resolution would've introduced a lot more instability and noise in Lumen reflections/GI, whereas the overall image for A:FE2 is actually quite clean regardless of console."
+  },
+  {
     "name": "Anger Foot",
     "id": "Anger Foot",
     "urlPath": "anger-foot",
