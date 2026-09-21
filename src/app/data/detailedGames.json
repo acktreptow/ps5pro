@@ -7006,6 +7006,37 @@
     "extraInfo": "There's no strict quality/performance modes, nor can you go above 60fps. Instead, Warframe's menus are very PC-like in UI. For example, you can toggle graphical settings of aspects like particle quality and volumetric fog. You can also toggle PSSR on/off. If PSSR is on and all graphical settings so to their highest, the framerate is a basically locked 60fps. If toggled off/no upscaler used, it will rarely maintain 60fps, but will stay above the 48fps VRR window for the vast majority of gameplay."
   },
   {
+    "name": "Warhammer 40,000: DH",
+    "pageTitle": "Warhammer 40,000: Dark Heresy",
+    "id": "40K: DH",
+    "urlPath": "warhammer-40000-dark-heresy",
+    "genre": "CRPG",
+    "developer": "Owlcat Games",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "graphics",
+        "description": "4K native at a nearly locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "1080p at a relatively stable 60fps."
+      }
+    ],
+    "disclaimer": "While Owlcat haven't discussed Pro enhancements for DH yet, please read below to see how we can still make educated guesses about what could be there.",
+    "extraInfo": "Firstly, all tech info on this page is based on Warhammer 40,000: Rogue Trader. However, as both are Pro Enhanced titles developed by Owlcat, use the Unity Engine, and are of similar genre, RT provides an excellent baseline of expectations.",
+    "extraInfo2": "Additionally, Owlcat are also shipping The Expanse: Osiris Reborn in 2027. Owlcat told Gaming Bolt that they're currently targeting 30fps, 40fps, and 60fps modes for Pro with PSSR2 and uncapped/VRR support. As TE:OS is an Action RPG on UE5, it's harder to extrapolate its current tentative Pro metrics onto DH. However, it does provide additional context as to where Owlcat's head is at regarding Pro support. Perhaps unlike RT, DH will also have a 40fps mode and PSSR2 support. These would make feasible additions over RT, which never had Pro in mind during development as it launched a year prior the console."
+  },
+  {
     "name": "Warhammer 40,000: DT",
     "pageTitle": "Warhammer 40,000: Darktide",
     "id": "Darktide",
