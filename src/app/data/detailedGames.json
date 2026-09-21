@@ -6283,6 +6283,40 @@
     "extraInfo": "Pro performance mode has slightly improved draw distance/lighting than the base PS5 modes. Resolution and framerate in Pro performance mode are slightly increased compared to base PS5 (internal res can drop to 900p). There's no HDR and quality mode is improperly paced everywhere. No matter the console, performance gets worse if booting up from rest mode, cycling through saves or a continuous playthrough due to memory leak and needs a fresh start of the app to fix. These issues are still present as of patch 1.2/Aug 2025."
   },
   {
+    "name": "The Expanse: Osiris Reborn",
+    "id": "TE: OR",
+    "urlPath": "the-expanse-osiris-reborn",
+    "genre": "Action RPG",
+    "developer": "Owlcat Games",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "Spring 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "DRS to 4K PSSR2 that targets 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "DRS to 4K PSSR2 that targets 40fps."
+      },
+      {
+        "name": "performance",
+        "description": "DRS to 4K PSSR2 that targets 60fps."
+      }
+    ],
+    "disclaimer": "All tech info comes from a Gaming Bolt interview, where Owlcat provided a surprising amount of detail. However, they also stressed that specifics could change and nothing is set in stone (a fair comment given the game is around 1 year away). Regardless, this page will be updated as more info is known, but it provides an excellent baselines of expectations for now.",
+    "extraInfo": "Owlcat confirmed that both Pro and base PS5 will have a quality, balanced, and performance mode that uses DRS (figure currently unknown) to upscale to 4K. Fortunately, Owlcat is planning to use PSSR2 on Pro, which means that regardless of DRS figures, Pro should resolve a sharper, cleaner, and more stable image that the equivalent mode on base PS5 (which will likely use TSR due to it being a UE5 title). Pro will also 'get additional options and no-frame-cap mode to support VRR displays'."
+  },
+  {
     "name": "The Finals",
     "id": "The Finals",
     "urlPath": "the-finals",
