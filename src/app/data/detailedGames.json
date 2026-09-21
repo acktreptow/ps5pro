@@ -6883,7 +6883,7 @@
     "rtTypes": "Ray traced ambient occlusion",
     "resolution": "4K PSSR2",
     "fps": "60fps",
-    "extraInfo": "Pro uses RTAO in both gameplay and replays for improved lighting. It also uses dynamic resolution scaling which can reach native 4K, with an average framerate that's generally higher than base PS5 (DRS floor currently unknown)."
+    "extraInfo": "Pro has a DRS of 1200p-4K (typically 1600p) which upscales to 4K. For base PS5, all figures are lower. It's 1080p-1800p (typically 1200p) to 1800p, then uses a bilinear upsample to render at 4K. Even if all figures were the same, however, Pro also uses PSSR2 to upscale, which resolves a sharper, cleaner, and more stable image than base PS5's inferior FSR3. Finally, Pro has improved shadow filtering and also uses RTAO in both gameplay and cinematics for improved lighting, though the latter (replays, ring walks, etc) are still capped at 30fps. Fortunately, actual gameplay is a solid 60fps on both consoles."
   },
   {
     "name": "UFL",
