@@ -3085,8 +3085,7 @@
     "rtTypes": "Unreal Engine 5 Lumen",
     "resolution": "Upscaled 4K PSSR2",
     "fps": "120fps",
-    "disclaimer": "Pro renders at 4K via PSSR2 and runs at up to 120fps. This falls in line with other Milestone games such as Screamer, MotoGP 26, etc, which are usually around 100fps in general gameplay. Hot Wheels is also the first Milestone title to use PSSR2 to upscale to 4K, which is a very welcome change. The aforementioned titles had mediocre IQ due to a low internal resolution that was upscaled via TSR (flickering, breakup, artifacts, etc). Even if HW still has a low internal res, its superior PSSR2 upscaling will resolve a sharper, cleaner, and more stable image than previous Milestone titles on Pro.",
-    "extraInfo": "Base PS5 continues to use TSR to upscale to 4K and its framerate is capped at 60fps. This is surprising, as the most recent Milestone titles didn't cap their framerate and would usually average around 75fps on the base console. Perhaps this is due to HW's more open-world design."
+    "extraInfo": "Pro uses PSSR2 to render at 4K and runs at up to 120fps. This is in line with other Milestone titles like Screamer/MotoGP 26, which are usually around 100fps in gameplay. Hot Wheels is also the first Milestone title to use PSSR2, which is a welcome change. The aforementioned titles had mediocre IQ due to a low internal res that was upscaled via TSR (flickering, breakup, artifacts, etc). Even if HW still has a low internal res, superior PSSR2 upscaling will resolve a sharper, cleaner, and more stable image than previous Milestone titles. Finally. Base PS5 continues to use TSR upscaling with a capped 60fps (like Screamer)."
   },
   {
     "name": "Hunt: Showdown 1896",
