@@ -60,6 +60,18 @@
     "metacritic": 0
   },
   {
+    "name": "Attack On Titan 3",
+    "id": "A.O.T. 3",
+    "genre": "Action",
+    "developer": "Koei Tecmo Games",
+    "publisher": "Koei Tecmo Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 10, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "BeastLink",
     "id": "BeastLink",
     "genre": "Kaiju Action, TPS",
