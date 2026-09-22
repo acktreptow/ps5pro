@@ -190,17 +190,5 @@
     "release": "January 15, 2027",
     "hasShipped": false,
     "metacritic": 0
-  },
-  {
-    "name": "The Boys: Trigger Warning",
-    "id": "The Boys: TW",
-    "genre": "VR Action-Adventure",
-    "developer": "Arvore Immersive Exp",
-    "publisher": "Sony Pictures VR",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "June 9, 2026",
-    "hasShipped": true,
-    "metacritic": 0
   }
 ]

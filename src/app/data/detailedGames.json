@@ -6230,6 +6230,24 @@
     "extraInfo2": "Base PS5 has the same modes with similar graphics presets aside from water reflections (quality only has Lumen for small bodies and balanced uses SSR throughout). DRS is also lower at 1440p-1620p, 1080p-1620p, and 900p-1260p respectively. Finally, base PS5's 60fps is far worse, as it's constantly in the mid/low 50s during combat/tree-dense areas (Pro maintains 60fps here) and falls out of VRR in cities/towns (where it's mostly 900p) and some cutscenes."
   },
   {
+    "name": "The Boys: Trigger Warning",
+    "id": "The Boys: TW",
+    "urlPath": "the-boys-trigger-warning",
+    "genre": "VR Action-Adventure",
+    "developer": "Arvore Immersive Exp",
+    "publisher": "Sony Pictures VR",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "June 9, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "120fps native",
+    "extraInfo": "While base PS5 and Pro utilize native resolution, Pro runs at a native 120fps, whereas base PS5 is only a native 90fps. Fortunately, both consoles see noticable increased visual fidelity (better shadows etc) over the initial Meta Quest 3 version."
+  },
+  {
     "name": "The Callisto Protocol",
     "id": "Callisto Protocol",
     "urlPath": "the-callisto-protocol",
