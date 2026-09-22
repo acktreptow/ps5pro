@@ -3410,6 +3410,36 @@
     "extraInfo": "While both Pro and base PS5 run at 60fps, Pro's framerate is basically locked at 60fps whereas base PS5 can dip below more often. Base PS5's lower 1080p internal resolution (compared to Pro's 1440p) also results in noticeably more fizzle in assets like hair."
   },
   {
+    "name": "Little Nightmares",
+    "pageTitle": "Little Nightmares Enhanced Edition",
+    "id": "LN1 EE",
+    "urlPath": "little-nightmares-enhanced-edition",
+    "genre": "Puzzle, Horror, Adventure",
+    "developer": "Tarsier & Supermassive",
+    "publisher": "Bandai Namco",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 10, 2025",
+    "hasShipped": true,
+    "metacritic": 80,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Ray traced reflections",
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "beauty",
+        "description": "Up to native 4K at a locked 30fps with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at 60fps with RT."
+      }
+    ],
+    "extraInfo": "Like LN3 and even LN2 (which only has a base PS5 version as it got a next-gen update in 2021), graphics settings (shadows, lighting, RT reflections, etc) are the same in both modes. While performance mode has a slightly lower internal res before upscaling to 4K, the heavy post-processing results in there being very little difference in image quality/sharpness between the 2 modes. By picking beauty mode, you're just halving the framerate for no graphical benefit, unless you can't stand rare, single frame drops below 60fps. The same is true for base PS5, which has the same modes and no significant downgrade in resolution compared to the equivalent mode on Pro."
+  },
+  {
     "name": "Little Nightmares 3",
     "pageTitle": "Little Nightmares III",
     "id": "LI3",
