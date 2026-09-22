@@ -406,18 +406,6 @@
     "extraInfo": "Pro combines base PS5's 'favor resolution' and 'enhanced visuals' modes into a singular mode. Although all modes look 4K-like due to high internal resolutions, Pro sometimes renders an even sharper image than base PS5 resolution mode, while maintaining enhanced visuals mode's RTAO on pitch lighting/kits etc. Pro's cutscenes are now also 60fps as opposed to 30fps on base PS5, though both consoles run at a locked 60fps during gameplay."
   },
   {
-    "name": "Enshrouded",
-    "id": "Enshrouded",
-    "genre": "Survival, Action RPG",
-    "developer": "Keen Games",
-    "publisher": "Keen Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 15, 2026",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Everspace 2",
     "id": "Everspace 2",
     "urlPath": "everspace-2",
