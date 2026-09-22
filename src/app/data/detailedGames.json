@@ -5882,6 +5882,35 @@
     "extraInfo": "Pro now uses the latest PSSR1 version. While far less noisy/unstable/shimmery than the original, objectively ugly/pulsing implementation seen during Pro's launch, these issues still remain and look worse than base PS5's FSR. Especially with foliage and RT reflections (check disclaimer to easily improve these PSSR1 issues with PSSR2). PSSR1 does beat FSR in motion clarity though, though looks softer in stills (again, fixed with PSSR2). Finally, Pro performance mode also brings back RT that's not in the base PS5 version, but the implementation is still worse than either PS5's quality mode."
   },
   {
+    "name": "Star Wars Zero Company",
+    "id": "SW: Zero Company",
+    "urlPath": "star-wars-zero-company",
+    "genre": "Turn-Based Tactics",
+    "developer": "Bit Reactor & Respawn",
+    "publisher": "Electronic Arts",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 27, 2026",
+    "hasShipped": true,
+    "metacritic": 82,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "Upscaled 4K TSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "upscaled 4K (much higher internal resolution than performance mode) at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at an unstable 60fps."
+      }
+    ],
+    "extraInfo": "Performance mode has a lower internal res to target 60fps, which can still dip. This results in more noise and instability (particularly Lumen GI), aliasing, pop-in, etc, as well as a softer overall image. PSSR2 upscaling should alleviate these issues, but unfortunately, both Pro and base PS5 use UE5's TSR. Hopefully, PSSR2 and other enhancements arrive in an update. Considering Bit Reactor's current turmoil though, it'll be a long wait (if it even happens). At the very least, quality mode is very 4K-like with great IQ. Even for gamers sensitive to 30fps, as a turn-based tactics game for most of gameplay, it's also not as big of downside compared to other genres."
+  },
+  {
     "name": "Star Wars Outlaws",
     "id": "SW: Outlaws",
     "urlPath": "star-wars-outlaws",

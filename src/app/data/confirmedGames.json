@@ -168,18 +168,6 @@
     "metacritic": 0
   },
   {
-    "name": "Star Wars Zero Company",
-    "id": "SW: Zero Company",
-    "genre": "Turn-Based Tactics",
-    "developer": "Bit Reactor & Respawn",
-    "publisher": "Electronic Arts",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "August 27, 2026",
-    "hasShipped": true,
-    "metacritic": 84
-  },
-  {
     "name": "Stranger Than Heaven",
     "id": "STH",
     "genre": "Action RPG",
