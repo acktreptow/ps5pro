@@ -120,18 +120,6 @@
     "metacritic": 0
   },
   {
-    "name": "Invincible VS",
-    "id": "Invincible",
-    "genre": "2D Tag Fighter",
-    "developer": "Quarter Up",
-    "publisher": "Skybound Games",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "April 30, 2026",
-    "hasShipped": true,
-    "metacritic": 77
-  },
-  {
     "name": "Little Nightmares",
     "id": "LI1",
     "genre": "Puzzle, Horror, Adventure",
