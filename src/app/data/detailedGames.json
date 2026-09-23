@@ -1167,7 +1167,7 @@
         "description": "864p to 4K PSSR2 at a basically locked 60fps. No hardware RT (SDFs used in combination with SSR for reflections)."
       }
     ],
-    "extraInfo": "Aside from 1 attack pattern on the first boss, all modes are very good at reaching their framerate targets. Excellent PSSR2 upscaling also makes any internal resolution differences only a minor factor to IQ (slightly softer, blockier effects, etc), as all modes resolve a 4K-like, stable image. However, RT reflections and shadows do significantly improve IQ due to a New York setting full of tall and/or glass buildings (no shadow pop-in, etc).",
+    "extraInfo": "Aside from 1 attack pattern on the first boss, all modes are very good at reaching their framerate targets. Excellent PSSR2 upscaling also makes any internal res differences only a minor factor to IQ (slightly softer/blockier smoke effects etc), as all modes resolve a 4K-like, stable image. However, RT reflections and shadows do significantly improve IQ due to a New York setting full of tall and/or glass buildings (much more reflections including cars too, no shadow pop-in, etc).",
     "extraInfo2": "Base PS5 only has quality/performance modes, with the same internal res. However, quality mode has no RT, and performance mode only upscales to 1440p with a slightly less stable 60fps. FSR is also used to upscale, which resolves a softer, noisier image that's full of shimmering and breakup (Pro performance mode actually has better IQ than base PS5 quality mode). Base PS5 IQ is also notably worse than Alan Wake 2, despite similar metrics, due to Resonant's more open-world design."
   },
   {
