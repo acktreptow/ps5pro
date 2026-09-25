@@ -880,6 +880,26 @@
     "extraInfo2": "Despite not having the Pro Enhanced label on the PSN store, BL4 is. Firstly, the HUD/menus are 4K in both modes on Pro, but only 1080p on base PS5. Base PS5's internal resolution is also around 746p-810p in performance mode and can dip below the 48fps VRR floor even with a fresh save, whereas Pro is 864p-900p at a stable 60fps in the same scenes. Pro also has boosted draw distance/shading in both modes, but that's only on base PS5's quality mode (that dips to as low as 720p). Finally, there's no motion blur options, which is fine for performance mode but unacceptable for a 30fps quality mode."
   },
   {
+    "name": "BrokenLore: Don't Lie",
+    "pageTitle": "BrokenLore: DON'T LIE",
+    "id": "BrokenLore: Don't Lie",
+    "urlPath": "brokenlore-dont-lie",
+    "genre": "Psychological Horror",
+    "developer": "Serafini Productions",
+    "publisher": "Wired Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 10, 2026",
+    "hasShipped": true,
+    "metacritic": 59,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "1080p",
+    "fps": "60fps",
+    "extraInfo": "While Pro runs at 60fps, base PS5 is capped to 30fps. Additionally, while both consoles use UE5's TSR and output at 1080p, Pro's internal resolution is around 20% higher, resulting in a sharper overall image. Finally, both consoles also utilize ray tracing."
+  },
+  {
     "name": "Call Of Duty: Black Ops 6",
     "pageTitle": "Call of Duty: Black Ops 6",
     "id": "COD: BO6",
