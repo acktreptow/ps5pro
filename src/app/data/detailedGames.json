@@ -6798,6 +6798,24 @@
     "extraInfo": "While base PS5 and Pro utilize native resolution, Pro runs at a native 120fps, whereas base PS5 is only a native 90fps."
   },
   {
+    "name": "Together: Moon Escape",
+    "id": "Moon Escape",
+    "urlPath": "together-moon-escape",
+    "genre": "Co-Op Adventure, Puzzle",
+    "developer": "Coro Games",
+    "publisher": "Coro Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 11, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p",
+    "fps": "60fps",
+    "extraInfo": "Pro has improved lighting and reflections over base PS5, which also runs at 60fps. However, even though T:ME is a UE5 title, it doesn't use Lumen or Nanite. Instead, Pro's graphical improvements are via more UE4 techniques like lightmaps."
+  },
+  {
     "name": "Tomb Raider: LOA",
     "pageTitle": "Tomb Raider: Legacy of Atlantis",
     "id": "Tomb Raider",
