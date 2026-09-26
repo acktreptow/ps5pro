@@ -142,6 +142,7 @@ const AboutPage = (): JSX.Element => {
           <li>34BigThings</li>
           <li>Anima Project</li>
           <li>BlackMill Games</li>
+          <li>Coro Games</li>
           <li>Free Lives</li>
           <li>Nacon</li>
           <li>My World</li>
