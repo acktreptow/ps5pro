@@ -5415,7 +5415,8 @@
     "hasShipped": true,
     "metacritic": 0,
     "pssr": true,
-    "rt": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
     "resolution": "1660p to 4K (at least)",
     "fps": "60fps",
     "modes": [
