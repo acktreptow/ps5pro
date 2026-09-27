@@ -7298,7 +7298,8 @@
     "extraInfo": "Only Pro can toggle on RT reflections (it should come to PC eventually) and it greatly improves reflections in areas like bodies of water. RT doesn't significantly impact either resolution or framerate, which is a 50-60fps on both consoles at the beginning of the game, but gets progressively worse (dips to 30s) in later, more built up/populated regions (especially on base PS5). Pro's 1440p internal resolution and great PSSR 4K upscale implementation results in a 4K-like image. Foliage (which can be all over the screen) is especially sharp and looks far more dithered on base PS5's 1080p to 4K upscale, although Pro also still suffers from pop in."
   },
   {
-    "name": "Wo Long 2: Wings Of Ember",
+    "name": "Wo Long 2 Wings Of Ember",
+    "pageTitle": "Wo Long 2: Wings of Ember",
     "id": "Wo Long 2",
     "urlPath": "wo-long-2-wings-of-ember",
     "genre": "Soulsborne",
