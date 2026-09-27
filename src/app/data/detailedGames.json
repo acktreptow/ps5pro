@@ -7298,6 +7298,35 @@
     "extraInfo": "Only Pro can toggle on RT reflections (it should come to PC eventually) and it greatly improves reflections in areas like bodies of water. RT doesn't significantly impact either resolution or framerate, which is a 50-60fps on both consoles at the beginning of the game, but gets progressively worse (dips to 30s) in later, more built up/populated regions (especially on base PS5). Pro's 1440p internal resolution and great PSSR 4K upscale implementation results in a 4K-like image. Foliage (which can be all over the screen) is especially sharp and looks far more dithered on base PS5's 1080p to 4K upscale, although Pro also still suffers from pop in."
   },
   {
+    "name": "Wo Long 2: Wings Of Ember",
+    "id": "Wo Long 2",
+    "urlPath": "wo-long-2-wings-of-ember",
+    "genre": "Soulsborne",
+    "developer": "Team Ninja",
+    "publisher": "Koei Tecmo Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "March 4, 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K FSR",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "prioritize resolution",
+        "description": "Upscaled 4K FSR (higher internal res than FPS mode) an unevenly paced 30fps. Potentially slightly higher graphical settings like draw distance."
+      },
+      {
+        "name": "prioritize FPS",
+        "description": "Upscaled 4K FSR at a somewhat stable 60fps (dips to low 50s when lots of effects are onscreen, such as fire)."
+      }
+    ],
+    "disclaimer": "All tech info is derived from testing Wo Long 2's September 2026 Alpha demo and is therefore subject to change for the final release.",
+    "extraInfo": "While both modes use FSR to upscale to 4K, FPS mode has a much lower internal res. This leads to significantly more breakup in foliage/hair, shimmering, a softer overall image, etc. PSSR2 would almost certainly alleviate these IQ issues, and fortunately, there's a very good chance it's present when Wo Long 2 ships in March. This is because Team Ninja's other Soulslike games on Pro (Rise of the Rōnin and Nioh 3) used PSSR at launch (technically PSSR1, as they were before PSSR2). Unfortunately, the unevenly paced 30fps is unlikely to be fixed, though again, based on RoTR/Nioh 3's FPS mode, the 60fps should at least be more stable."
+  },
+  {
     "name": "Wolverine",
     "pageTitle": "Marvel's Wolverine",
     "id": "Wolverine",
