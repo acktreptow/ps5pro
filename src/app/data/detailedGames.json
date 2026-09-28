@@ -6622,7 +6622,7 @@
         "description": "1620p to 4K at a basically locked 60fps. Lower quality graphics settings (check extra info)."
       }
     ],
-    "extraInfo": "Obsidian has removed the bad PSSR implementation seen at launch and reverted back to TSR, which results in better performance gains, less noisy RT and a sharper image on Pro. Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to a noticeably softer/less stable image. Base PS5 has slightly worse framerate stability and internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode."
+    "extraInfo": "Obsidian swiftly removed PSSR1 upscaling (this was months before PSSR2) and reverted back to TSR, which results in better performance gains, less noisy RT and a sharper image on Pro. Performance mode has less, more static foliage (at close distances) and lower quality (and therefore less realistic) UE5 Lumen/Virtual Shadow Maps. The lower internal resolution also leads to a noticeably softer/less stable image. Base PS5 has slightly worse framerate stability and internal resolutions compared to the equivalent mode on Pro, which leads to more instability/breakup - especially in performance mode."
   },
   {
     "name": "The Outlast Trials",
