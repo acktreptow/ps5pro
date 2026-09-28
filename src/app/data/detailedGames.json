@@ -1836,7 +1836,7 @@
     "release": "January 17, 2025",
     "hasShipped": true,
     "metacritic": 79,
-    "pssr": true,
+    "pssr": false,
     "rt": false,
     "resolution": "4K native",
     "fps": "60fps",
