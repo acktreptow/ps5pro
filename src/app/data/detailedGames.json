@@ -5416,20 +5416,20 @@
     "metacritic": 0,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen global illumination",
-    "resolution": "1660p to 4K (at least)",
+    "rtTypes": "Unreal Engine 5 hardware-based Lumen reflections. Lumen global illumination.",
+    "resolution": "1660p to 4K TSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Upscaled 4K at 30fps."
+        "description": "Around 1080p-1660p DRS to 4K TSR at a very stable 30fps with numerous graphics improvements (check extra info)."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K at 60fps."
+        "description": "Around 1080p to 4K TSR at a mostly stable 60fps (can have short-lived dips into the low 50s)."
       }
     ],
-    "extraInfo": "Liquid Swords confirmed that both Pro and base PS5 will have a 30fps quality mode and 60fps performance mode. They've also confirmed that base PS5's modes will be 1080p-1660p DRS to 4K and 1080p to 4K respectively. However, even when pressed for further detail, all Liquid Swords confirmed was that Pro's modes will feature 'high-quality graphics'. Whether that's improved graphics settings presets, higher internal resolutions, or PSSR2/RT support, is therefore currently unknown, but this page will update as soon as this info becomes available."
+    "extraInfo": "To maximize graphical fidelity, quality mode uses hardware Lumen for more accurate reflections than even regular Lumen, including on water, whereas performance mode uses SSR. Quality mode also runs Lumen GI at a higher setting (more detailed and updates more often), has full-res volumetric fog/skin shading/ambient occlusion, has higher quality shadow filtering, and more NPCs animate at full quality. Both modes, however, have the same draw distance, textures/foliage/materials quality, shadow res, and effects. Finally, while both modes upscale to 4K via TSR, quality mode's higher internal ceiling of around 1660p results in a sharper overall image."
   },
   {
     "name": "Saros",
