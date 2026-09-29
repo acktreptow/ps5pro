@@ -5590,23 +5590,23 @@
     "release": "September 24, 2026",
     "hasShipped": true,
     "metacritic": 81,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "rtTypes": "Unreal Engine 5 hardware-based Lumen reflections and global illumination",
     "resolution": "1440p to 4K PSSR2",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "1440p to 4K PSSR2 at a basically locked 30fps."
+        "description": "1440p to 4K PSSR2 or about 1620p to 4K TSR at a basically locked 30fps."
       },
       {
         "name": "performance",
-        "description": "1080p to 4K PSSR2 at a somewhat stable 60fps (dips to low 50s)."
+        "description": "864p to 4K PSSR2 or about 1215p tp 4K TSR at a somewhat stable 60fps (dips to low 50s)."
       }
     ],
-    "extraInfo": "While performance mode's lower 1080p internal resolution can lead to a little more Lumen GI noise, the overall image in both modes is great. This is primarily due to the excellent PSSR2 upscaling, which consistently resolves a sharp, clean, and stable image. Performance mode can, however, regularly dip into the low 50s in fog-heavy scenes (though these are short-lived), whereas quality mode has rare, single-frame drops.",
-    "extraInfo2": "Base PS5 has the same modes with the same internal res and similar framerate performance. However, base PS5 uses UE5's TSR to upscale to 4K, so internal res is more of a factor in IQ. Base PS5 performance mode is therefore softer, with more aliased shadows, noisier reflections, shimmering, etc. Though, outside of the now noticeably bad Lumen GI noise, the overall image is still good."
+    "extraInfo": "While TSR has a higher internal res, PSSR2's superior upscaling still resolves a sharper, cleaner, and more stable image, with great IQ in both modes. Ghosting within volumetric fog is a particular improvement, so don't use TSR. Performance mode does, however, see a little more Lumen GI noise (again, worse with TSR). It also regularly has short dips into the low 50s in fog-heavy scenes/some cutscenes and suffers from minor traversal stutter. Whereas quality mode has rare, single-frame drops. Finally, the stylistic letterboxing has little impact on framerate, so you can switch to 16:9 in gameplay with no drawbacks.",
+    "extraInfo2": "Base PS5 has the same modes/framerate performance, but at a lower internal res (1080p-1152p and 792p-864p respectively). Base PS5 also only uses UE5's TSR to upscale to 4K, so internal res is more of a factor in IQ. Base PS5 performance mode is therefore softer, has more breakup, shimmering, aliased shadows, etc. Though, outside of the now noticeably bad Lumen noise, its overall image is still good."
   },
   {
     "name": "Skull And Bones",
