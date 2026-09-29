@@ -144,8 +144,9 @@ const AboutPage = (): JSX.Element => {
           <li>BlackMill Games</li>
           <li>Coro Games</li>
           <li>Free Lives</li>
-          <li>Nacon</li>
+          <li>Liquid Swords</li>
           <li>My World</li>
+          <li>Nacon</li>
           <li>Owlcat Games</li>
           <li>Pearl Abyss</li>
           <li>Ripstone Games</li>
