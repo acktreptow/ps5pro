@@ -912,18 +912,6 @@
     "metacritic": 0
   },
   {
-    "name": "Tomb Raider: Catalyst",
-    "id": "Tomb Raider",
-    "genre": "Action-Adventure",
-    "developer": "Crystal Dynamics",
-    "publisher": "Amazon Game Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2028",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Turok: Origins",
     "id": "Turok",
     "genre": "Third-Person Shooter",
