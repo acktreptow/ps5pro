@@ -1123,6 +1123,26 @@
     "metacritic": 0
   },
   {
+    "name": "Pipistrello & Cursed Yoyo",
+    "pageTitle": "Pipistrello and the Cursed Yoyo",
+    "id": "Pipistrello",
+    "urlPath": "pipistrello-and-the-cursed-yoyo",
+    "genre": "Top-Down Action-Adventure",
+    "developer": "Pocket Trap",
+    "publisher": "PM Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2025",
+    "hasShipped": true,
+    "metacritic": 86,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Pipistrello, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
+    "extraInfo": "'Both base PS5 and Pro run at a locked 60fps and upscale 160p assets in a 4K image. Both consoles also have some cutscenes in a creator-intended 24fps. If there are actually any graphical improvements for Pro, the difference is so minor that it's difficult to tell even when comparing base PS5 and Pro side by side. Especially in gameplay due to the retro art style.'"
+  },
+  {
     "name": "Pro Baseball Spirits 24-25",
     "pageTitle": "Professional Baseball Spirits 2024-2025",
     "id": "Pro Baseball Spirits 24-25",

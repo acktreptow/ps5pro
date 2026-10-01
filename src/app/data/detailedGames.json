@@ -4709,26 +4709,6 @@
     "extraInfo2": "Instead, it used traditional RT reflections (only in bodies of water like puddles) and shadows, as well as baked (non-RT) GI. This targeted RT approach should allow Pro to include multiple RT implementations (to a higher quality base PS5 can't reach) with a stable, non-frame generated 60fps. Unlike other UE5 games such as Black Myth: Wukong. This is currently just speculation though and we'll find out more closer to launch."
   },
   {
-    "name": "Pipistrello & Cursed Yoyo",
-    "pageTitle": "Pipistrello and the Cursed Yoyo",
-    "id": "Pipistrello",
-    "urlPath": "pipistrello-and-the-cursed-yoyo",
-    "genre": "Top-Down Action-Adventure",
-    "developer": "Pocket Trap",
-    "publisher": "PM Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 28, 2025",
-    "hasShipped": true,
-    "metacritic": 86,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Pipistrello, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
-    "extraInfo": "'Both base PS5 and Pro run at a locked 60fps and upscale 160p assets in a 4K image. Both consoles also have some cutscenes in a creator-intended 24fps. If there are actually any graphical improvements for Pro, the difference is so minor that it's difficult to tell even when comparing base PS5 and Pro side by side. Especially in gameplay due to the retro art style.'"
-  },
-  {
     "name": "Planet Coaster 2",
     "id": "PC 2",
     "urlPath": "planet-coaster-2",
