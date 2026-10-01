@@ -900,18 +900,6 @@
     "metacritic": 72
   },
   {
-    "name": "The Witcher 4",
-    "id": "Witcher 4",
-    "genre": "Action RPG",
-    "developer": "CD Projekt Red",
-    "publisher": "CD Projekt",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "2028",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Turok: Origins",
     "id": "Turok",
     "genre": "Third-Person Shooter",
