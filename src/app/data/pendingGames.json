@@ -177,6 +177,18 @@
     "metacritic": 0
   },
   {
+    "name": "Better Mart Simulator",
+    "id": "BMS",
+    "genre": "Simulation, Shop Keeper",
+    "developer": "Exanticx Studio",
+    "publisher": "Exanticx Studio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 9, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Black Desert",
     "id": "BD",
     "urlPath": "black-desert",
