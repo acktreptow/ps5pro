@@ -528,6 +528,35 @@
     "metacritic": 60
   },
   {
+    "name": "Fractal Space",
+    "id": "Fractal Space",
+    "urlPath": "fractal-space",
+    "genre": "Puzzle, Adventure",
+    "developer": "Haze Games",
+    "publisher": "Haze Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2028",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality pro",
+        "description": "4K at a locked 60fps with dynamic reflections and enhanced visuals."
+      },
+      {
+        "name": "performance pro",
+        "description": "4K at a locked 120fps with static reflections and other lower graphics settings."
+      }
+    ],
+    "disclaimer": "All tech information is taken from the demo and is subject to change.",
+    "extraInfo": "Base PS5 has the same 2 modes with the same target framerates and graphics settings breakdown. However, base PS5 only renders at 2070p."
+  },
+  {
     "name": "Gear.Club Unlimited 3",
     "id": "Gear Club 3",
     "genre": "Racing, Simulation",
