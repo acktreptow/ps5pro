@@ -723,6 +723,18 @@
     "metacritic": 0
   },
   {
+    "name": "John Wick",
+    "id": "John Wick",
+    "genre": "Gun-Fu Action",
+    "developer": "Saber Interactive",
+    "publisher": "Saber Interactive",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2028",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Jonah Lomu Rugby Challenge 4 Remastered",
     "id": "Jonah Lomu Rugby Challenge 4",
     "genre": "Sports, Rugby",
