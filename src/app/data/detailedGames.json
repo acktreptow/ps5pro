@@ -1825,6 +1825,26 @@
     "extraInfo2": "Before launch, Techland said The Beast will take Pro enhancements much further than Dying Light 2. However, it doesn't even have DL2's balanced mode or any of its 3 RT features. Hopefully, these come in a patch - resolution bumps are nice, but it's a far cry from what Techland promised. Unfortunately, their 11 week roadmap only mentions RT for PC which suggests the wait will be even longer for Pro."
   },
   {
+    "name": "Dynasty Warriors 3",
+    "pageTitle": "Dynasty Warriors 3: Complete Edition",
+    "id": "DW3:CE",
+    "urlPath": "dynasty-warriors-3-complete-edition",
+    "genre": "Musou, Hack & Slash",
+    "developer": "Omega Force",
+    "publisher": "Koei Tecmo Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 1, 2026",
+    "hasShipped": true,
+    "metacritic": 73,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections.",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 upscale to 4K. However, Pro's internal res is higher, and its superior PSSR2 upscaling resolves a sharper, cleaner, and more stable image than base PS5's TSR. Even compared to other Pro titles that use PSSR2 to clean up UE5's IQ issues, DW3's difference is bigger. Base PS5 suffers from breakup, shimmering, and general instability all over the image, but especially in Lumen reflections. Pro even has improved LoDs due to its higher Nanite mesh quality. Fortunately, both consoles run at a very stable 60fps (at least in early sections), with only short-lived 1-5fps drops that are no problem for VRR screens."
+  },
+  {
     "name": "Dynasty Warriors: Origins",
     "id": "DW: Origins",
     "urlPath": "dynasty-warriors-origins",
