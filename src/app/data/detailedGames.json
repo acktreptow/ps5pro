@@ -990,25 +990,6 @@
     "extraInfo": "Base PS5 has the same 2 modes, but at lower internal resolutions (usually around 1260p and 864p respectively). Pro also uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image that base PS5's inferior FSR3 upscaling. This is especially seen in motion, where there can be significant ghosting on base PS5. Base PS5 performance mode also takes further quality reductions to SSR, AO, foliage, etc. Even then, it only averages around 100fps in MP, rarely goes above 110fps, and can even dip into the 80s in larger maps/Warzone. Fortunately, its fidelity mode's framerate performs similarly to Pro."
   },
   {
-    "name": "Carmen Sandiego",
-    "id": "CS",
-    "urlPath": "carmen-sandiego",
-    "genre": "Puzzle, Adventure",
-    "developer": "Gameloft Brisbane",
-    "publisher": "Gameloft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "March 4, 2025",
-    "hasShipped": true,
-    "metacritic": 68,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K (likely)",
-    "fps": "120fps",
-    "disclaimer": "Technical information is from anecdotal message board remarks by gamers who purchased Carmen Sandiego, not from a primary source or established secondary source like Digital Foundry as none exist at time of writing:",
-    "extraInfo": "'The only difference between base PS5 and Pro is framerate - base PS5 is 60fps whereas Pro is 120fps.'"
-  },
-  {
     "name": "Chess Infinity",
     "id": "CI",
     "urlPath": "chess-infinity",
