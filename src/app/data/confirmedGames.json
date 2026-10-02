@@ -190,5 +190,17 @@
     "release": "January 15, 2027",
     "hasShipped": false,
     "metacritic": 0
+  },
+  {
+    "name": "Valheim",
+    "id": "Valheim",
+    "genre": "Survival, Crafting",
+    "developer": "Iron Gate Studio",
+    "publisher": "Coffee Stain Publishing",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 9, 2026",
+    "hasShipped": true,
+    "metacritic": 92
   }
 ]
