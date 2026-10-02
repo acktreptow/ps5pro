@@ -406,6 +406,18 @@
     "metacritic": 0
   },
   {
+    "name": "Desolus",
+    "id": "Desolus",
+    "genre": "First-Person Puzzle",
+    "developer": "Mark J. Mayers",
+    "publisher": "Quantum Astrophysicists Guild",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Dodo Duckie",
     "id": "DD",
     "genre": "Puzzle, Adventure",
