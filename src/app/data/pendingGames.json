@@ -866,6 +866,18 @@
     "metacritic": 0
   },
   {
+    "name": "JDM: Japanese Drift Master",
+    "id": "JDM",
+    "genre": "Racing, Arcade",
+    "developer": "Gaming Factory",
+    "publisher": "Gaming Factory",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 6, 2026",
+    "hasShipped": true,
+    "metacritic": 69
+  },
+  {
     "name": "John Wick",
     "id": "John Wick",
     "genre": "Gun-Fu Action",
