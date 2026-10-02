@@ -156,6 +156,18 @@
     "metacritic": 0
   },
   {
+    "name": "Romancing SaGa 3: DU",
+    "id": "Romancing SaGa 3",
+    "genre": "JRPG",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 16, 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Spine - This Is Gun Fu",
     "id": "SPINE",
     "genre": "Action, Beat'em Up",
