@@ -1780,6 +1780,18 @@
     "metacritic": 0
   },
   {
+    "name": "Toro 2",
+    "id": "Toro 2",
+    "genre": "Simulation, Bullfighting",
+    "developer": "Recotechnology",
+    "publisher": "Recotechnology",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 9, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Towers Of Aghasba",
     "id": "ToA",
     "genre": "Action-Adventure",
