@@ -695,6 +695,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hela: Of Mice & Magic",
+    "id": "Hela",
+    "genre": "Adventure, Puzzle",
+    "developer": "Windup",
+    "publisher": "Knights Peak",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 1, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Hellblade 3: Senua",
     "pageTitle": "Senua",
     "id": "Hellblade 3",
