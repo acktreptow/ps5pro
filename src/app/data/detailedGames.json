@@ -5170,14 +5170,14 @@
     "modes": [
       {
         "name": "quality",
-        "description": "1080p-4K native DRS to 4K FSR3 at 30fps."
+        "description": "1080p-4K DRS to 4K FSR3 at 30fps."
       },
       {
         "name": "performance",
         "description": "1080p-1440p DRS to 4K FSR3 at 60fps."
       }
     ],
-    "extraInfo": "Base PS5 also uses dynamic resolution scaling. However, its lowest internal resolution is 720p in base PS5 performance mode and it can only reach up to 1440p in its quality mode. Pro is therefore much sharper as its rendering 2x the pixels when both PS5 consoles max out their resolution, but this is the only difference between them."
+    "extraInfo": "Base PS5 has the same 2 modes that target the same framerates. However, its DRS is much lower, at only 1080p-1440p and 720p-1080p respectively. Pro, therefore, resolves a much sharper image as internal res plays a large factor in IQ when FSR3 is used for upscaling."
   },
   {
     "name": "Rogue Flight",
