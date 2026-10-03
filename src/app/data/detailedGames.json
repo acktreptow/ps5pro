@@ -5084,9 +5084,9 @@
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen",
-    "resolution": "Upscaled 4K TSR (low internal resolution)",
+    "resolution": "Upscaled 4K TSR",
     "fps": "120fps",
-    "extraInfo": "During gameplay, Pro runs between 100-120fps (it regularly hits 120fps) depending on track/weather, but dips to around 90fps for brief moments on rare occasions. Base PS5 is only 75-95fps, with rare, brief times at 65fps and 100fps. Unfortunately, both consoles can look soft, with background assets like trees, railings, and stands exhibiting a lot of temporal instability and shimmer. This suggest a low internal resolution before upscaling to 4K, which makes sense considering the high framerates."
+    "extraInfo": "During gameplay, Pro runs between 100-120fps (it regularly hits 120fps) depending on track/weather, but dips to around 90fps for brief moments on rare occasions. Base PS5 is only 75-95fps, with rare, brief times at 65fps and 100fps. Unfortunately, both consoles can look soft, with background assets like trees, railings, and stands exhibiting a lot of temporal instability and shimmer. This suggest a low internal res before upscaling to 4K, which makes sense considering the high framerates."
   },
   {
     "name": "Rise Of The Rōnin",
