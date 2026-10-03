@@ -253,6 +253,18 @@
     "metacritic": 0
   },
   {
+    "name": "Bombanana",
+    "id": "Bombanana",
+    "genre": "Co-Op Puzzle",
+    "developer": "Lefto Studio & Naisu",
+    "publisher": "Tark",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Car Simulator: Driving School",
     "id": "CS:DS",
     "genre": "Simulation, Driving",
