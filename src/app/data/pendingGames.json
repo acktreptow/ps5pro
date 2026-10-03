@@ -1309,6 +1309,18 @@
     "metacritic": 0
   },
   {
+    "name": "PGA Tour 2K25",
+    "id": "PGA 2K25",
+    "genre": "Sports, Golf",
+    "developer": "HB Studios",
+    "publisher": "2K",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "February 28, 2025",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Paladin's Passage",
     "id": "Paladin's Passage",
     "urlPath": "paladins-passage",
