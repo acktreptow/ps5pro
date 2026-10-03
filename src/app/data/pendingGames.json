@@ -1761,6 +1761,18 @@
     "metacritic": 0
   },
   {
+    "name": "The House Of The Dead 2: Remake",
+    "id": "HOTD2",
+    "genre": "On-Rails Shooter",
+    "developer": "MegaPixel Studio",
+    "publisher": "Forever Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 24, 2025",
+    "hasShipped": true,
+    "metacritic": 50
+  },
+  {
     "name": "The Rogue Prince Of Persia",
     "id": "Rogue Prince of Persia",
     "urlPath": "the-rogue-prince-of-persia",
