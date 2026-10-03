@@ -630,6 +630,18 @@
     "metacritic": 0
   },
   {
+    "name": "Forastero",
+    "id": "Forastero",
+    "genre": "Action, Brawler",
+    "developer": "Neoane Games",
+    "publisher": "Neoane Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Forever Skies",
     "id": "Forever Skies",
     "genre": "Survival, Action",
