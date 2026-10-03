@@ -1617,6 +1617,18 @@
     "metacritic": 0
   },
   {
+    "name": "Solid Void - Halloween Nonograms",
+    "id": "Solid Void",
+    "genre": "Puzzle",
+    "developer": "Infinite Zone",
+    "publisher": "Infinite Zone",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 15, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Sports Card Shop Simulator",
     "id": "Sports Card Shop Sim",
     "genre": "Simulation",
