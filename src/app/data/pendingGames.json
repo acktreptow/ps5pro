@@ -1350,6 +1350,18 @@
     "metacritic": 0
   },
   {
+    "name": "Penguin Lifter",
+    "id": "Penguin Lifter",
+    "genre": "Survival, Exploration",
+    "developer": "Peace Studio",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Pipistrello & Cursed Yoyo",
     "pageTitle": "Pipistrello and the Cursed Yoyo",
     "id": "Pipistrello",
