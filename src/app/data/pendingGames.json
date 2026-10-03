@@ -1489,6 +1489,18 @@
     "metacritic": 0
   },
   {
+    "name": "Ranger's Path: National Park Simulator",
+    "id": "Ranger's Path",
+    "genre": "Simulation, Adventure",
+    "developer": "Astrogen Development",
+    "publisher": "Astrogen Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 17, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Retrieval",
     "id": "Retrieval",
     "urlPath": "retrieval",
