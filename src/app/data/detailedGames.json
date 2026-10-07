@@ -5863,13 +5863,12 @@
     "release": "October 6, 2026",
     "hasShipped": true,
     "metacritic": 88,
-    "pssr": true,
+    "pssr": false,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 hardware-based Lumen global illumination.",
-    "resolution": "Upscaled 4K PSSR2",
+    "rtTypes": "Unreal Engine 5 hardware-based Lumen diffuse global illumination.",
+    "resolution": "1728p to 4K TSR",
     "fps": "60fps",
-    "disclaimer": "All tech info is taken from Digital Foundry's analysis of a preview build and their subsequent interview with Fuse Games. Some performance metrics are therefore likely to slightly change before the October release.",
-    "extraInfo": "While both base PS5 and Pro target 60fps and use the superior/more accurate hardware version of Lumen GI, Pro has many image quality improvements. Base PS5 internally renders between 1440p-1690p, but Pro targets a higher internal resolution. Pro also uses PSSR2 to upscale, which resolves a sharper, cleaner, and more stable image than base PS5's TSR, especially in motion. Finally, Pro has improved graphics settings like effects quality and higher particle density, which Fuse Games state will be particularly noticable during more explosive slow-mo crashes."
+    "extraInfo": "Both Pro and base PS5 run at a locked 60fps, use the superior/more accurate hardware version of Lumen GI, and upscale to 4K via TSR. In fact, the only difference seems to be internal res, where Pro's 1728p is a substantial jump over base PS5's 1296p. This leads to a noticeably sharper and cleaner image on Pro, especially in motion, as internal res plays a large factor on IQ when TSR is used to upscale. However, even with a high 1728p internal res, typical UE5 boiling/noise can still be seen when looking far down the track. Though overall, it's still much better than most Pro UE5 games that use TSR."
   },
   {
     "name": "Starfield",
