@@ -3538,6 +3538,25 @@
     "extraInfo": "Pro's image is sharper, cleaner, and more stable than base PS5 due to its higher internal resolution before upscaling to 4K. This is most notable in motion, where there's far less edge breakup and shimmering on assets. Foliage in particular is also much sharper on Pro. Fortunately, both run at a basically locked 60fps and come with significant visual enhancements over the initial 2020 PS4 Pro release, which runs at 30fps."
   },
   {
+    "name": "Mafia 3",
+    "pageTitle": "Mafia III: Definitive Edition",
+    "id": "Mafia 3: DE",
+    "urlPath": "mafia-3-definitive-edition",
+    "genre": "Action-Adventure",
+    "developer": "Hangar 13",
+    "publisher": "2K Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 8, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "Pro has a higher internal res before upscaling to 4K than base PS5. This leads to a slightly sharper overall image, with slightly less shimmering and more stability in sub-pixel elements. However, despite these slight improvements, Pro's soft image is still not 4K-like and issues like shimmering, aliasing, and general instability are still very noticable. Mafia 1, which is also a next-gen port of a PS4 title, has higher IQ. Fortunately, both consoles run at a basically locked 60fps (at least in the early sections) and provide significant upgrades over the 30fps PS4 version such as a better draw distance, textures, etc."
+  },
+  {
     "name": "Mafia: The Old Country",
     "id": "Mafia: TOC",
     "urlPath": "mafia-the-old-country",
