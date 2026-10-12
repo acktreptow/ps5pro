@@ -2568,8 +2568,8 @@
         "description": "Legacy base PS5 performance mode capped at 60fps. Now redundant."
       }
     ],
-    "disclaimer": "As GoW:R uses PSSR1 by default, this page displays PSSR1 metrics. Fortunately, PSSR2 has been tested - it resolves a sharper, more stable image free of PSSR1's film grain-like noise, at a slightly higher framerate.  PSSR2 is therefore recommended (activate 'Enhance PSSR Image Quality' in PS5 system settings).",
-    "extraInfo": "Pro can toggle between TAA and PSSR1 for upscaling. PSSR1 is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20fps fewer in HFR mode (all improved further with PSSR2 - check disclaimer). Both upscalers use 1440p as the base resolution but PS5 Pro Enhanced mode can regularly have an internal resolution of around 1800p. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
+    "disclaimer": "GoW:R uses PSSR1 natively, so this page still displays PSSR1 metrics. However, as of September 26, the 'Enhance PSSR Image Quality' toggle (which forces PSSR2 upscaling) is activated by default. PSSR2 was made the default because it resolves a sharper, more stable image and removes PSSR1's film grain-like noise. Digital Foundry also tested GoW:R with PSSR2 and confirmed these improvements in addition to a slightly higher framerate, so PSSR2 is therefore recommended.",
+    "extraInfo": "Pro can toggle between TAA and PSSR1 for upscaling. PSSR1 is sharper and clearer (especially distant assets) with less fizzle in motion, but less stable with around 10-20fps fewer in HFR mode (all improved further with PSSR2). Both upscalers use 1440p as the base resolution but PS5 Pro Enhanced mode can regularly have an internal resolution of around 1800p. No need to bother with the legacy base PS5 modes as there are no advantages to do so."
   },
   {
     "name": "Gran Turismo 7",
