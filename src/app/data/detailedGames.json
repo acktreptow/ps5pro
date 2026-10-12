@@ -6621,6 +6621,35 @@
     "extraInfo": "Performance mode's lower internal resolution can lead to things like slightly more ghosting and more edge instability. However, the image difference is mainly with the worse Lumen GI and missing reflections on assets like railings. Base PS5 performs very similar to Pro (also has Lumen/4K textures etc), with the only difference (likely) being lower internal DRS bounds in each mode."
   },
   {
+    "name": "The Sinking City 2",
+    "id": "The Sinking City 2",
+    "urlPath": "the-sinking-city-2",
+    "genre": "Survival Action Horror",
+    "developer": "Frogwares",
+    "publisher": "Frogwares",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "August 18, 2026",
+    "hasShipped": true,
+    "metacritic": 78,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K PSSR2 (higher internal res than performance mode) at a locked 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 at a very stable 60fps (some short-lived 1-3fps dips)."
+      }
+    ],
+    "extraInfo": "While performance mode's lower internal res results in a slightly softer image and a bit more Lumen noise, in practice, the IQ gap between the modes is minimal. Base PS5 has the same 2 modes with the same framerate performance. However, Pro's superior PSSR2 upscaling resolves a sharper, cleaner, and more stable image than base PS5's TSR upscaling. This is to the point that Pro performance mode has slightly better IQ than base PS5 quality mode. Base PS5 performance mode IQ is noticeably the worst, as it doesn't use Lumen reflections, can look very soft, and has the high amount of UE5 boiling/flickering that turn off many gamers from the engine."
+  },
+  {
     "name": "The Witcher 3: Wild Hunt",
     "pageTitle": "The Witcher 3: Wild Hunt - Remastered",
     "id": "Witcher 3 Remastered",
