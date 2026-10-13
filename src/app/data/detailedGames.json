@@ -6692,12 +6692,12 @@
     "psvr2": false,
     "release": "September 29, 2026",
     "hasShipped": true,
-    "metacritic": 91,
+    "metacritic": 92,
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination and ambient occlusion",
     "resolution": "Upscaled 4K PSSR2",
-    "fps": "120fps (likely)",
+    "fps": "120fps",
     "modes": [
       {
         "name": "ray tracing",
@@ -6705,11 +6705,10 @@
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K PSSR2 at 60fps, or up to 120fps with VRR."
+        "description": "Upscaled 4K PSSR2 at 60fps, or up to 120fps with VRR (usually around 90fps)."
       }
     ],
-    "disclaimer": "CDPR confirmed many Pro details during their Gamescom streams. More details will be added, like how Pro compares to the 2026 base PS5 re-release, as they become available.",
-    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Fortunately, CDPR also confirmed that they're using PSSR2. This means that even if the same DRS is used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling should resolve a sharper, cleaner, and more stable overall image than possible on base PS5."
+    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Pro also uses PSSR2, so even at the DRS used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling resolves a sharper, cleaner, and more stable overall image than possible on base PS5."
   },
   {
     "name": "Thief: The Dark Project",
