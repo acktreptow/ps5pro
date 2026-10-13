@@ -6701,14 +6701,14 @@
     "modes": [
       {
         "name": "ray tracing",
-        "description": "Upscaled 4K PSSR2 at 60fps with RT."
+        "description": "Upscaled 4K PSSR2 at 60fps with RT, or up to 65fps with VRR."
       },
       {
         "name": "performance",
         "description": "Upscaled 4K PSSR2 at 60fps, or up to 120fps with VRR (usually around 90fps)."
       }
     ],
-    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Pro also uses PSSR2, so even at the DRS used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling resolves a sharper, cleaner, and more stable overall image than possible on base PS5."
+    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Pro also uses PSSR2, so even at the DRS used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling resolves a sharper, cleaner, and more stable overall image than possible on base PS5. This is especially seen when comparing the ray tracing mode, where base PS5 exhibits more instability in the RTGI."
   },
   {
     "name": "Thief: The Dark Project",
