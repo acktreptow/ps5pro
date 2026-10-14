@@ -7023,6 +7023,34 @@
     "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
+    "name": "Valor Mortis",
+    "id": "VM",
+    "urlPath": "valor-mortis",
+    "genre": "First-Person Soulsborne",
+    "developer": "One More Level",
+    "publisher": "Lyrical Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 13, 2026",
+    "hasShipped": true,
+    "metacritic": 81,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Dynamic 4K at 30fps."
+      },
+      {
+        "name": "performance",
+        "description": "Dynamic 4K at 60fps."
+      }
+    ],
+    "extraInfo": "Base PS5 has the same 2 modes, but at lower internal resolutions and worse visual settings."
+  },
+  {
     "name": "WWE 2K26",
     "id": "WWE 26",
     "urlPath": "wwe-2k26",
