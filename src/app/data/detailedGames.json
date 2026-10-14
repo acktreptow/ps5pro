@@ -6696,19 +6696,20 @@
     "pssr": true,
     "rt": true,
     "rtTypes": "Ray traced global illumination and ambient occlusion",
-    "resolution": "Upscaled 4K PSSR2",
-    "fps": "120fps",
+    "resolution": "1440p to 4K PSSR2",
+    "fps": "100fps",
     "modes": [
       {
         "name": "ray tracing",
-        "description": "Upscaled 4K PSSR2 at 60fps with RT, or up to 65fps with VRR."
+        "description": "1026p to 4K PSSR2 at a solid 60fps (short-lived dips to mid 50s, more frequent in cpu-heavy cities) with RT & improved SSR on water."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K PSSR2 at 60fps, or up to 120fps with VRR (usually around 90fps)."
+        "description": "1440p to 4K PSSR2 at a solid 60fps (some short-lived dips to high 50s) with no RT. Generally around 80-95fps with VRR, or around 65-75fps in cities."
       }
     ],
-    "extraInfo": "Essentially, Pro has the same modes seen in the 2022's initial base PS5 version (a 30fps RT mode and 60fps performance mode), but now at 60fps and up to 120fps respectively. There's no extra RT features like reflections/shadows, for example, even though they were in the 2022 PC re-release. Pro also uses PSSR2, so even at the DRS used from the 2022 release (1080p-1440p in RT mode and 1080p-4K in performance), superior PSSR2 upscaling resolves a sharper, cleaner, and more stable overall image than possible on base PS5. This is especially seen when comparing the ray tracing mode, where base PS5 exhibits more instability in the RTGI."
+    "extraInfo": "For the 2026 remaster, base PS5 retains the 30fps RT mode and 60fps performance mode from 2022's 'complete edition'. Internal res is however dropped from 1080p-1440p (RT mode) and 1080p-4K (performance) to around 1350p and 1296p respectively. Despite a potentially slightly softer image, more accurate lighting/foliage, sharper textures, etc, still results in improved overall IQ. Finally, there's some 1-7fps dips below 60fps and rarer 1-3fps dips below 30fps (especially areas like Novigrad).",
+    "extraInfo2": "Pro also has these 2 modes, but significantly increases the framerate to 60fps with RT and usually around 90fps in performance mode. Pro also uses superior PSSR2 upscaling, which resolves a sharper, cleaner, and more stable image than the equivalent mode on base PS5 (even when base PS5 has a higher internal res). This is especially seen in motion, in sub-pixel elements like Geralt's hair and chainmail, and around RTGI. Unfortunately, there's no new RT features like reflections/shadows, even though they were in the 2022 PC re-release."
   },
   {
     "name": "Thief: The Dark Project",
