@@ -92,8 +92,8 @@
     "psStudios": false,
     "psvr2": false,
     "release": "October 15, 2026",
-    "hasShipped": false,
-    "metacritic": 0
+    "hasShipped": true,
+    "metacritic": 88
   },
   {
     "name": "Exodus",
