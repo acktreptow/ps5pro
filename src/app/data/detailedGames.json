@@ -58,15 +58,15 @@
     "modes": [
       {
         "name": "prioritize quality",
-        "description": "Upscaled 4K TSR (noticeably higher internal res than performance mode's 1080p) at a basically locked 30fps."
+        "description": "Upscaled 4K TSR (noticeably higher internal res than performance mode) at an unlocked, unstable framerate (easily can fall below 48fps VRR window)."
       },
       {
         "name": "framerate priority",
         "description": "Around 1080p to 4K TSR at a very stable 60fps during aerial combat (rare, short-lived 1-2fps dips). A very unstable 60fps in some real-time cutscenes (hovers around 45fps). Online lobby has relatively frequent, but short lived-dips into the 50s."
       }
     ],
-    "extraInfo": "Performance mode's lower internal res results in a softer overall image, as well as more edge breakup and instability. Fortunately, quality mode's IQ is high for a UE5 title using TSR upscaling (internal res plays a large factor in IQ with TSR). It's however a shame that PSSR2 upscaling isn't used, as it would likely greatly alleviate the breakup, artifacting, and shimmering, as well as the Lumen GI noise that's very noticable in cutscenes regardless of mode.",
-    "extraInfo2": "Base PS5 has the same 2 modes, but have a lower internal res than the equivalent mode on Pro (performance mode is 720p-1080p, for example). This results in the aforementioned IQ issues being exacerbated to the level expected from a base PS5 UE5 title running at 30/60fps. Base PS5's 60fps also dips slightly more often, cutscenes run at 5-15fps fewer, and the online lobby seems to run at 30fps in both modes."
+    "extraInfo": "Performance mode's lower internal res results in a softer overall image, as well as more edge breakup and instability. Fortunately, despite quality mode's erratic framerate in gameplay and cutscenes, IQ is high for a UE5 title upscaling via TSR (when internal res plays a large factor in IQ). It's however a shame that PSSR2 isn't used, as it would likely greatly alleviate the breakup, artifacting, and shimmering, as well as the Lumen GI noise that's noticable in cutscenes regardless of mode.",
+    "extraInfo2": "Base PS5 has the same modes, but at a lower internal res than the equivalent mode on Pro (e.g. performance mode is 720p-1080p). This exacerbates the aforementioned IQ issues to the level expected from a base PS5 UE5 title. Base PS5 performance mode's 60fps also dips slightly more often and cutscenes run at 5-15fps fewer."
   },
   {
     "name": "Alan Wake 2",
