@@ -7034,22 +7034,24 @@
     "psvr2": false,
     "release": "October 13, 2026",
     "hasShipped": true,
-    "metacritic": 81,
+    "metacritic": 79,
     "pssr": false,
-    "rt": false,
-    "resolution": "4K",
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination",
+    "resolution": "Upscaled 4K TSR",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Dynamic 4K at 30fps."
+        "description": "Upscaled 4K TSR (slightly higher internal res/DRS than performance mode) at 30fps."
       },
       {
         "name": "performance",
-        "description": "Dynamic 4K at 60fps."
+        "description": "Upscaled 4K TSR at a very stable 60fps."
       }
     ],
-    "extraInfo": "Base PS5 has the same 2 modes, but at lower internal resolutions and worse visual settings."
+    "extraInfo": "While Pro's slightly higher internal res results in a overall sharper image, in practice, the IQ difference between the modes is minimal. Unfortunately, both modes suffer significant ghosting (especially particle trails), breakup, aliasing, etc. Take the noisy reflections, for example. They're still very noticable in quality mode, just ever so slightly less so compared to performance mode. Fortunately, both modes are able to maintain 30fps/60fps very well (at least in the early sections of the game, 60fps could likely dip more often in later stages).",
+    "extraInfo2": "Base PS5 has the same 2 modes that target the same framerate, but exacerbate the IQ issues slightly more than the equivalent mode on Pro. This is much less of an upgrade than many other 2026 Pro UE5 titles, especially ones that utilize PSSR2 such as Silent Hill: Townfall. Its 60fps is also slightly less stable early on."
   },
   {
     "name": "WWE 2K26",
