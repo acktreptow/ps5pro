@@ -7024,6 +7024,38 @@
     "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
+    "name": "Valheim",
+    "id": "Valheim",
+    "urlPath": "valheim",
+    "genre": "Survival, Crafting",
+    "developer": "Iron Gate Studio",
+    "publisher": "Coffee Stain Publishing",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 9, 2026",
+    "hasShipped": true,
+    "metacritic": 94,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (higher internal resolution than performance mode) at a basically locked 30fps."
+      },
+      {
+        "name": "balanced",
+        "description": "120 Hz screens only. Upscaled 4K (middle ground of internal resolution) at a very stable 40fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K (lowest internal resolution) at a very stable 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode is the only mode to produce a suitably 4K-like image due to its higher internal resolution. For performance mode in particular, the overall image, but especially foliage which is all over the screen, is softer with visibly more noise, aliasing, and breakup. Fortunately, other visual settings like LoDs, shadows, etc are the same (or at least incredibly similar) across modes. All modes also manage to hit their target framerate a majority of the time (at least in the early sections). Base PS5 has the same modes with similar framerate performance, though its performance mode is even blurrier, making balanced mode much more viable on the base console."
+  },
+  {
     "name": "Valor Mortis",
     "id": "VM",
     "urlPath": "valor-mortis",
