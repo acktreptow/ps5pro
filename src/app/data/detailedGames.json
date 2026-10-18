@@ -7037,23 +7037,24 @@
     "metacritic": 94,
     "pssr": false,
     "rt": false,
-    "resolution": "Upscaled 4K",
+    "resolution": "1800p",
     "fps": "60fps",
     "modes": [
       {
         "name": "quality",
-        "description": "Upscaled 4K (higher internal resolution than performance mode) at a basically locked 30fps."
+        "description": "1800p at 30fps."
       },
       {
         "name": "balanced",
-        "description": "120 Hz screens only. Upscaled 4K (middle ground of internal resolution) at a very stable 40fps."
+        "description": "1620p at 40fps. 120 Hz screens only."
       },
       {
         "name": "performance",
-        "description": "Upscaled 4K (lowest internal resolution) at a very stable 60fps."
+        "description": "1332p at 60fps."
       }
     ],
-    "extraInfo": "Quality mode is the only mode to produce a suitably 4K-like image due to its higher internal resolution. For performance mode in particular, the overall image, but especially foliage which is all over the screen, is softer with visibly more noise, aliasing, and breakup. Fortunately, other visual settings like LoDs, shadows, etc are the same (or at least incredibly similar) across modes. All modes also manage to hit their target framerate a majority of the time (at least in the early sections). Base PS5 has the same modes with similar framerate performance, though its performance mode is even blurrier, making balanced mode much more viable on the base console."
+    "extraInfo": "Despite not being 4K, both quality and balanced modes still produce a sharp image that's mostly without significant IQ issues. Whereas performance mode's overall image, but especially foliage which can be all over the screen, is softer with visibly more noise, aliasing, and breakup. Fortunately, other visual settings like LoDs, shadows, etc are the same (or at least incredibly similar) across modes. All modes also manage to hit their target framerate a majority of the time. At least, in the early sections, though it's likely there will be dips below 60fps/more stutters later on with more CPU-heavy biomes/built bases.",
+    "extraInfo2": "Base PS5 has the same modes with similar framerate performance, but at 1620p, 1332p, and 1125p respectively. This makes the quality mode more viable for the base machine, as games generally need to be 1440p or above to have good IQ on a large 4K screen."
   },
   {
     "name": "Valor Mortis",
