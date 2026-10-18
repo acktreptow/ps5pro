@@ -5811,6 +5811,25 @@
     "extraInfo": "While Pro renders at native 4K, base PS5 has dynamic resolution scaling that's internally 1523p-1800p, before upscaling to 4K. Fortunately, both consoles run at a locked 60fps. Finally, despite being on Unreal Engine 5, Pro (and even PC) doesn't use any form of RT, including UE5's Lumen."
   },
   {
+    "name": "Squad",
+    "id": "Squad",
+    "urlPath": "squad",
+    "genre": "Tactical FPS",
+    "developer": "Offworld Industries",
+    "publisher": "Secret Mode",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Dynamic 4K",
+    "fps": "60fps",
+    "disclaimer": "All tech information is based off the October 2026 Alpha and is subject to change for Squad's 2027 launch.",
+    "extraInfo": "Both Pro and base PS5 render at a dynamic 4K and target 60fps. However, Pro's image a little sharper with slightly less noise inside vehicles. Base PS5 also tends to exhibit more aliasing on the ground (especially far away) and it can suffer short-lived 1-5fps dips more often during intense firefights."
+  },
+  {
     "name": "Stalker 2: Heart Chornobyl",
     "pageTitle": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "id": "Stalker 2",
