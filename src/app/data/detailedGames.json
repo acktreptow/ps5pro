@@ -2046,6 +2046,24 @@
     "extraInfo": "Pro's high performance mode now hits a solid 120fps, whereas base PS5's version is usually around 90fps with a lower 1440p internal resolution. Pro also has higher quality shadows, improved Global Illumination and due to PSSR, the overall image quality/clarity has improved."
   },
   {
+    "name": "Enshrouded",
+    "id": "Enshrouded",
+    "urlPath": "enshrouded",
+    "genre": "Survival, Action RPG",
+    "developer": "Keen Games",
+    "publisher": "Keen Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 15, 2026",
+    "hasShipped": true,
+    "metacritic": 88,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Pro has a singular mode that utilizes excellent PSSR2 upscaling to resolve a sharp, stable, and clean image at 60fps. For base PS5, great IQ is only seen in its 30fps quality mode and not in its 60fps performance mode. Unfortunately, the lower internal res combined with the (likely) FSR upscaling resolves a much softer image that's full of aliasing and breakup, especially in foliage which can cover the screen. Fortunately, at least for the early sections of the game, all modes have relatively stable framerates. However, as a crafting/base builder title, later sections are likely to stress the CPU more which will cause dips below 60fps more often."
+  },
+  {
     "name": "F1 24",
     "id": "F1 24",
     "urlPath": "f1-24",
