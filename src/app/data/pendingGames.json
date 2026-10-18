@@ -1532,6 +1532,18 @@
     "extraInfo": "The Pro version will have more detailed environments, higher quality RT reflections and a sharper resolution compared to the base PS5 version. All at a more stable 60fps."
   },
   {
+    "name": "Revenge Savage Planet",
+    "id": "ROTSP",
+    "genre": "Action-Adventure",
+    "developer": "Raccoon Logic Studios",
+    "publisher": "Raccoon Logic Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 8, 2025",
+    "hasShipped": true,
+    "metacritic": 80
+  },
+  {
     "name": "Rin: The Last Child",
     "id": "Rin",
     "genre": "Metroidvania",

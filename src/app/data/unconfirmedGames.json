@@ -672,18 +672,6 @@
     "metacritic": 80
   },
   {
-    "name": "Revenge Savage Planet",
-    "id": "ROTSP",
-    "genre": "Action-Adventure",
-    "developer": "Raccoon Logic Studios",
-    "publisher": "Raccoon Logic Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 8, 2025",
-    "hasShipped": true,
-    "metacritic": 80
-  },
-  {
     "name": "RoboCop: RC Collection",
     "id": "RoboCop: RC",
     "genre": "FPS",
