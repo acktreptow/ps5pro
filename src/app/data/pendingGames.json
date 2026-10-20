@@ -1191,6 +1191,18 @@
     "extraInfo": "Removes the resolution, performance and visual quality modes seen in base PS5 for just one Pro mode. PSSR renders a sharper image than even base PS5 resolution mode (especially grass, which is now 3D during gameplay in more zoomed in cameras), but it causes certain assets like crowd handrails to be more shimmery/unstable. All cutscenes/instant replays are now also 60fps like in base PS5 performance mode and gameplay is a locked 60fps."
   },
   {
+    "name": "Mercenary Corps",
+    "id": "MC",
+    "genre": "First-Person Shooter",
+    "developer": "Daniel Wengenroth",
+    "publisher": "Daniel Wengenroth",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 30, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Midnight Town Stories",
     "id": "Midnight Town Stories",
     "genre": "FPS, Horror, Visual Novel",
