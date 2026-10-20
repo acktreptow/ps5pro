@@ -338,6 +338,18 @@
     "metacritic": 0
   },
   {
+    "name": "Catch To Fish",
+    "id": "CTF",
+    "genre": "Adventure, Fishing",
+    "developer": "Kanuni Games",
+    "publisher": "Kanuni Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Citizen Vigilante",
     "id": "Citizen Vigilante",
     "genre": "First-Person Shooter",
