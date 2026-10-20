@@ -454,6 +454,18 @@
     "metacritic": 0
   },
   {
+    "name": "Dreadway",
+    "id": "Dreadway",
+    "genre": "Co-Op Horror, Action",
+    "developer": "Take It Studio",
+    "publisher": "Take It Studio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 8, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "EA Sports FC 25",
     "id": "Fifa 25",
     "urlPath": "ea-sports-fc-25",
