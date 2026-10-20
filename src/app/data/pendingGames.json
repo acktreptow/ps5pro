@@ -779,6 +779,18 @@
     "metacritic": 0
   },
   {
+    "name": "Gospodar's Tales",
+    "id": "Gospodar's Tales",
+    "genre": "Horror, Puzzle",
+    "developer": "Street Art Studios & Gospodar Games",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Graveyard Warden",
     "id": "Graveyard Warden",
     "genre": "Adventure, Simulation",
