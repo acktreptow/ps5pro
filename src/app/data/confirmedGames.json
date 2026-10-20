@@ -84,6 +84,18 @@
     "metacritic": 0
   },
   {
+    "name": "Escape Academy 2: B2S",
+    "id": "Escape Academy 2",
+    "genre": "Puzzle, Adventure",
+    "developer": "Coin Crew Games",
+    "publisher": "Iam8bit Presents",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 5, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Exodus",
     "id": "Exodus",
     "genre": "Sci-Fi, Action RPG",
