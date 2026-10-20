@@ -2223,6 +2223,18 @@
     "extraInfo": "A Gamespot article states that Poncle claims the Pro is capable of 9000p resolution (compared to 4K on base PS5) and even more vampires. However, Gamespot doesn't cite any source for this claim, nor could I source Poncle's words myself. At the very least, Pro maintains 60fps more consistently - a framerate target that isn't always achieved on base PS5 in later stages/weapon combinations."
   },
   {
+    "name": "Vexmorn",
+    "id": "Vexmorn",
+    "genre": "First-Person Shooter",
+    "developer": "Klovako",
+    "publisher": "Klovako",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "January 2027",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "WPCA: World Phasebound Control Authority",
     "id": "WPCA",
     "genre": "Action RPG",
