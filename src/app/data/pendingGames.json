@@ -62,6 +62,18 @@
     "metacritic": 0
   },
   {
+    "name": "Aethus",
+    "id": "Aethus",
+    "genre": "Survival, Crafting",
+    "developer": "Pawsmonaut Games",
+    "publisher": "Making Port",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Alaska Gold Fever",
     "id": "AGF",
     "genre": "Simulation, Adventure",
