@@ -815,6 +815,18 @@
     "metacritic": 0
   },
   {
+    "name": "Haul Yeah!",
+    "id": "HY!",
+    "genre": "Simulation, Driving",
+    "developer": "Moonjump",
+    "publisher": "Moonjump",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 16, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Hela: Of Mice & Magic",
     "id": "Hela",
     "genre": "Adventure, Puzzle",
