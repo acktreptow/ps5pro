@@ -1773,6 +1773,18 @@
     "metacritic": 0
   },
   {
+    "name": "Sector Unknown",
+    "id": "SU",
+    "genre": "Isometric Sci-Fi RPG",
+    "developer": "Creative Storm Entertainment",
+    "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Seven Chambers: Zodiac Mystery",
     "id": "Seven Chambers: Zodiac Mystery",
     "genre": "Adventure, Puzzle",
