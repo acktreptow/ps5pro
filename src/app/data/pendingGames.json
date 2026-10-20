@@ -442,6 +442,18 @@
     "metacritic": 0
   },
   {
+    "name": "Death Park",
+    "id": "Death Park",
+    "genre": "Horror, Puzzle",
+    "developer": "Euphoria Games",
+    "publisher": "Onevision Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 30, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Desolus",
     "id": "Desolus",
     "genre": "First-Person Puzzle",
