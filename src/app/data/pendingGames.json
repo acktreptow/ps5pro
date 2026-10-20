@@ -731,6 +731,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hail To The Rainbow",
+    "id": "HTTR",
+    "genre": "Adventure, Action",
+    "developer": "Sergey Noskov",
+    "publisher": "Sometimes You",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 21, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Hela: Of Mice & Magic",
     "id": "Hela",
     "genre": "Adventure, Puzzle",
