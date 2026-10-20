@@ -1893,6 +1893,18 @@
     "metacritic": 0
   },
   {
+    "name": "Swiftness",
+    "id": "Swiftness",
+    "genre": "Arcade, Action, Rhythm",
+    "developer": "Source Byte",
+    "publisher": "Source Byte",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December 22, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Tailbreak",
     "id": "Tailbreak",
     "genre": "On-Rails Shooter",
