@@ -6118,7 +6118,7 @@
     "psvr2": false,
     "release": "October 21, 2026",
     "hasShipped": true,
-    "metacritic": 65,
+    "metacritic": 66,
     "pssr": false,
     "rt": true,
     "rtTypes": "Unreal Engine 5 Lumen",
@@ -6134,7 +6134,7 @@
         "description": "Upscaled 4K at a basically locked 60fps."
       }
     ],
-    "disclaimer": "All tech info is taken from the SND demo. However, the demo begins with its own disclaimer that the experience will be nearly identical to the final release. SND's demo therefore provides an excellent baseline of expectations.",
+    "disclaimer": "All tech info is taken from the Stupid Never Dies 'First Bite' demo. However, the demo begins with its own disclaimer that the experience will be nearly identical to the final release. SND's demo therefore provides an excellent baseline of expectations until the full release can be tested.",
     "extraInfo": "The only difference between Pro's modes seem to be a lower internal resolution to reach 60fps in performance mode. While this does lead to more shimmer, aliasing, and Lumen GI flickering, especially in motion, the framerate is a locked 60fps (at least in the early portions of the game). These image quality issues are also still present in quality mode, just less so. Base PS5 also has the same modes with the same framerate performance, but again, just seemingly with lower internal resolutions. This results in the base PS5 modes having the the same shimmering/GI flicker etc, but these issues are slightly exacerbated compared to the equivalent mode on Pro."
   },
   {
