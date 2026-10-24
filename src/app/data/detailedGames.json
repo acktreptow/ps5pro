@@ -1002,7 +1002,7 @@
     "psvr2": false,
     "release": "October 23, 2026",
     "hasShipped": true,
-    "metacritic": 91,
+    "metacritic": 89,
     "pssr": true,
     "rt": false,
     "resolution": "1440p to 4K PSSR2",
@@ -1335,7 +1335,7 @@
         "description": "DRS up to 4K PSSR2 (often near 4K) at a basically locked 60fps (minor 1-2fps dips), or up to 95fps with VRR (targets 90fps, avg approx 75fps). No RT."
       }
     ],
-    "extraInfo": "FSR2 can be toggled on, but don't. It's much worse than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity/more ghosting. As base PS5 uses FSR2, its overall image in all modes is downgraded and has much less RT support (local shadows only and only at 30fps). RT mode is CD Projekt's recommended mode, but the extra RT features in RT Pro mode (roughly equivalent to PC's Ultra RT settings) significantly improves image quality/realism if you don't mind 30/40fps."
+    "extraInfo": "FSR2.1 can be toggled on, but don't. It's much worse than PSSR2 at upscaling a sharp, stable and clean image that's free of artifacts/edge breakup, and has worse motion clarity/more ghosting. As base PS5 uses FSR2, its overall image in all modes is downgraded and has much less RT support (local shadows only and only at 30fps). RT mode is CD Projekt's recommended mode, but the extra RT features in RT Pro mode (roughly equivalent to PC's Ultra RT settings) significantly improves image quality/realism if you don't mind 30/40fps."
   },
   {
     "name": "CyubeVR",
@@ -6134,7 +6134,7 @@
         "description": "Upscaled 4K at a basically locked 60fps."
       }
     ],
-    "disclaimer": "All tech info is taken from the Stupid Never Dies 'First Bite' demo. However, the demo begins with its own disclaimer that the experience will be nearly identical to the final release. SND's demo therefore provides an excellent baseline of expectations until the full release can be tested.",
+    "disclaimer": "All tech info is taken from the Stupid Never Dies 'First Bite' demo. However, the demo begins with its own disclaimer that the experience will be nearly identical to the final release. SND's demo therefore provides an excellent baseline of expectations until the launch version can be tested.",
     "extraInfo": "The only difference between Pro's modes seem to be a lower internal resolution to reach 60fps in performance mode. While this does lead to more shimmer, aliasing, and Lumen GI flickering, especially in motion, the framerate is a locked 60fps (at least in the early portions of the game). These image quality issues are also still present in quality mode, just less so. Base PS5 also has the same modes with the same framerate performance, but again, just seemingly with lower internal resolutions. This results in the base PS5 modes having the the same shimmering/GI flicker etc, but these issues are slightly exacerbated compared to the equivalent mode on Pro."
   },
   {
