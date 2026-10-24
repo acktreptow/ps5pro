@@ -563,6 +563,35 @@
     "extraInfo": "Visually, Pro and base PS5 look very similar - both look 4K-like and have the same amount of foliage density, but suffer from excessive flickering in shadows, shimmering and low-poly textures on tree leaves etc. If there are visual upgrades on Pro, they're very small. Both consoles also run at 60fps, however, Pro is far more stable. This is especially seen on certain, more grassy maps, where there is a night and day difference. Base PS5 is constantly stuttering/falling below the 48fps VRR window, whereas Pro is maintaining 60fps the vast majority of the time regardless of how zoomed in the camera is."
   },
   {
+    "name": "Empulse",
+    "id": "Empulse",
+    "urlPath": "empulse",
+    "genre": "First-Person Shooter",
+    "developer": "1047 Games",
+    "publisher": "1047 Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "July 1, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "Upscaled 4K",
+    "fps": "120fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (higher internal resolution than performance mode) at a locked 60fps."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K at a basically locked 120fps. Toggle on 'High Frame Rate' in settings for this mode."
+      }
+    ],
+    "disclaimer": "Empulse is currently in early access. Any performance metrics are therefore subject to change when it launches into 1.0 (there's no timeframe for this).",
+    "extraInfo": "Quality mode is noticeably sharper, more stable, and cleaner than performance mode, which can look very soft/non-4K like. Quality mode also locks to 60fps in all modes, whereas performance mode can sometimes dip to around 100fps in matches where everyone is in mechs. Base PS5 has the same 2 modes with the same framerate targets. However, its performance mode has more intense frame drops that occur more often in all-mech matches, and its quality mode now also drops frames here. Base PS5 modes also have lower internal resolutions than their Pro equivalent, though base PS5 quality mode is still sharper than Pro performance mode."
+  },
+  {
     "name": "Entropy Survivors",
     "id": "ES",
     "urlPath": "entropy-survivors",
