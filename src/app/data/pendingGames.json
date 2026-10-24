@@ -201,6 +201,18 @@
     "metacritic": 0
   },
   {
+    "name": "Better Chaos",
+    "id": "BC",
+    "genre": "Simulation, Shop Keeper",
+    "developer": "Exanticx Studio",
+    "publisher": "Exanticx Studio",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Better Mart Simulator",
     "id": "BMS",
     "genre": "Simulation, Shop Keeper",
