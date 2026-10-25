@@ -1510,6 +1510,24 @@
     "extraInfo": "Both base PS5 and Pro run at a locked 60fps. However, both render a soft 1080p-looking SDR image with noticeable shimmering/jaggies etc. If there are Pro enhancements, they're essentially imperceptible in general gameplay. Again, like the disclaimer states, a lack of meaningful enhancements could be down to it just being a demo of an unreleased game. However, considering the Pro enhancements (or lack thereof) in many other Mad Hook titles, anything meaningful is far from a guarantee."
   },
   {
+    "name": "Oppidum",
+    "id": "Oppidum",
+    "urlPath": "oppidum",
+    "genre": "Co-Op Survival, Adventure",
+    "developer": "EP Games",
+    "publisher": "EP Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "April 23, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Pro is a native 4K at 60fps. This combines the best of base PS5's performance (1440p/60fps) and quality (4K/30fps) modes."
+  },
+  {
     "name": "Outbreak: SOH",
     "pageTitle": "Outbreak: Shades of Horror",
     "id": "Outbreak MP",

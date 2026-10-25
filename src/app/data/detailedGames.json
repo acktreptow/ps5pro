@@ -4453,24 +4453,6 @@
     "extraInfo": "Both Pro and base PS5 use reprojection, but Pro has more than a 20% increase in resolution and a more stable framerate."
   },
   {
-    "name": "Oppidum",
-    "id": "Oppidum",
-    "urlPath": "oppidum",
-    "genre": "Co-Op Survival, Adventure",
-    "developer": "EP Games",
-    "publisher": "EP Games",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "April 23, 2025",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "4K",
-    "fps": "60fps",
-    "extraInfo": "Pro is a native 4K at 60fps. This combines the best of base PS5's performance (1440p/60fps) and quality (4K/30fps) modes."
-  },
-  {
     "name": "PUBG: Battlegrounds",
     "id": "PUBG",
     "urlPath": "pubg-battlegrounds",
