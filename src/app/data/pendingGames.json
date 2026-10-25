@@ -1306,6 +1306,24 @@
     "metacritic": 0
   },
   {
+    "name": "Mind Labyrinth VR Dreams",
+    "id": "Mind Labyrinth",
+    "urlPath": "mind-labyrinth-vr-dreams",
+    "genre": "VR Adventure",
+    "developer": "Frost Earth Studio",
+    "publisher": "My World",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "September 1, 2025",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "90fps Native (likely)",
+    "extraInfo": "Technical information outside of framerate is based off My World's other PSVR2 title, Oniriam, which had more than a 20% increase in resolution and a more stable framerate on Pro. This provides a good baseline of expectations as My World hasn't commented on MLVD's Pro support. However, anecdotal message board remarks claim MLVD has no signs of reprojection, unlike Oniriam which was definitively 60 Hz to 120 Hz reprojection. This is potentially due to MLVD being a remake of a smaller-scoped PSVR1 title and is therefore not necessarily going for the top of the range graphics that would need to use reprojection to achieve this."
+  },
+  {
     "name": "Monuments Renovator",
     "id": "Monuments",
     "genre": "Simulation, Building",
