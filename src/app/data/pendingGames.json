@@ -1360,6 +1360,26 @@
     "extraInfo": "The biggest difference between Pro and base PS5 is the addition of RT reflections in The City mode. Pro also uses PSSR to upscale to 4K, creating a slightly sharper image compared to base PS5. However, it can also cause certain assets, like handrails in the stands, to appear a bit more unstable. Fortunately, both consoles run at a basically locked 60fps."
   },
   {
+    "name": "Necrophosis: FC",
+    "pageTitle": "Necrophosis: Full Consciousness",
+    "id": "Necrophosis",
+    "urlPath": "necrophosis-full-consciousness",
+    "genre": "Horror, Adventure, Puzzle",
+    "developer": "Dragonis Games",
+    "publisher": "PQube",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "May 28, 2026",
+    "hasShipped": true,
+    "metacritic": 67,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K",
+    "fps": "60fps",
+    "extraInfo": "The framerate is a locked 60fps."
+  },
+  {
     "name": "Neo Berlin 2087",
     "id": "Neo Berlin",
     "genre": "Action RPG, TPS",

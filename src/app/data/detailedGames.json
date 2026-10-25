@@ -4239,26 +4239,6 @@
     "extraInfo": "60fps at native 4K isn't possible on base PS5. Although high frames mode has toggles for 240fps and unlimited fps, Pro isn't capable of running above 120fps. So in practice, high frames mode has the same 60/120fps cap toggles as balanced mode. It'll just maintain the target framerate more often due to the lower resolution, which it locks to at 60fps."
   },
   {
-    "name": "Necrophosis: FC",
-    "pageTitle": "Necrophosis: Full Consciousness",
-    "id": "Necrophosis",
-    "urlPath": "necrophosis-full-consciousness",
-    "genre": "Horror, Adventure, Puzzle",
-    "developer": "Dragonis Games",
-    "publisher": "PQube",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "May 28, 2026",
-    "hasShipped": true,
-    "metacritic": 67,
-    "pssr": false,
-    "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen",
-    "resolution": "Upscaled 4K",
-    "fps": "60fps",
-    "extraInfo": "The framerate is a locked 60fps."
-  },
-  {
     "name": "Neverness To Everness",
     "pageTitle": "Neverness to Everness",
     "id": "NTE",
