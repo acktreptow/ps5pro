@@ -244,6 +244,25 @@
     "metacritic": 0
   },
   {
+    "name": "Biped 2",
+    "id": "Biped 2",
+    "urlPath": "biped-2",
+    "genre": "Adventure, Co-Op",
+    "developer": "Next Studios",
+    "publisher": "Postmeta Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 5, 2025",
+    "hasShipped": true,
+    "metacritic": 53,
+    "pssr": false,
+    "rt": false,
+    "resolution": "1440p (based off Biped 1)",
+    "fps": "60fps (based off Biped 1)",
+    "disclaimer": "Biped 2 doesn't have any tech info out there yet, but the following Biped 1 information provides a good baseline of expectations:",
+    "extraInfo": "'Biped has no display options, so features like an 120fps mode aren't available. However, Pro at least maintains a locked 60fps. Pro also renders a 1440p image compared to base PS5's more 1080p-like image. The resolution difference can be quite noticeable on assets like railings, where there's more jaggies on base PS5.'"
+  },
+  {
     "name": "Black Desert",
     "id": "BD",
     "urlPath": "black-desert",
