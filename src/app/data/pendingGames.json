@@ -1768,6 +1768,25 @@
     "metacritic": 0
   },
   {
+    "name": "Rennsport",
+    "pageTitle": "RENNSPORT",
+    "id": "rennsport",
+    "urlPath": "rennsport",
+    "genre": "Racing, Simulation",
+    "developer": "Teyon",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 13, 2025",
+    "hasShipped": true,
+    "metacritic": 53,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K",
+    "fps": "60fps",
+    "extraInfo": "Both Pro and base PS5 run at 60fps. However, Pro renders at a native 4K whereas base PS5 renders at upscaled 4K (internal res before upscaled 4K output unknown)."
+  },
+  {
     "name": "Retrieval",
     "id": "Retrieval",
     "urlPath": "retrieval",
