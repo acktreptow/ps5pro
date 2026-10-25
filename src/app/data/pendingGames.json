@@ -1073,7 +1073,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "TBD",
-    "hasShipped": true,
+    "hasShipped": false,
     "metacritic": 0
   },
   {
@@ -1121,7 +1121,7 @@
     "psStudios": false,
     "psvr2": false,
     "release": "August 28, 2026",
-    "hasShipped": false,
+    "hasShipped": true,
     "metacritic": 70
   },
   {
