@@ -177,6 +177,18 @@
     "extraInfo": "Both Pro and base PS5 have a singular mode that runs at a locked 60fps with no HDR support. Both consoles also render a very 4K-like image, with only certain assets (the huge cobwebs etc, which look the exact same on both consoles) looking more jagged. If there is a resolution increase on Pro, it's indistinguishable during general gameplay."
   },
   {
+    "name": "BeamNG.drive",
+    "id": "BeamNG",
+    "genre": "Driving, Simulation",
+    "developer": "BeamNG",
+    "publisher": "BeamNG",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 19, 2026",
+    "hasShipped": true,
+    "metacritic": 50
+  },
+  {
     "name": "BeastLink",
     "id": "BeastLink",
     "genre": "Kaiju Action, TPS",
