@@ -729,25 +729,6 @@
     "extraInfo": "PS5 Pro enhanced mode doesn't actually have exclusive enhancements like superior PSSR2 upscaling. Instead, it caps its DRS to 1512p for a slightly more stable framerate than quality mode, which consistently looks the sharpest of the 3 modes due to its 1620p ceiling. However, no mode comes close to a stable 60fps, as they fall out of the VRR window in busier scenes and even fall to around 35fps in some cutscenes. Base PS5 shares these framerate issues, even though its quality and performance modes have lower internal resolutions at 1080p-1512p and around 1080p respectively."
   },
   {
-    "name": "Beneath",
-    "id": "Beneath",
-    "urlPath": "beneath",
-    "genre": "Survival Horror, FPS",
-    "developer": "Camel 101",
-    "publisher": "Wired Productions",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 28, 2025",
-    "hasShipped": true,
-    "metacritic": 50,
-    "pssr": true,
-    "rt": false,
-    "resolution": "4K PSSR",
-    "fps": "60fps",
-    "disclaimer": "Beneath uses PSSR1 natively, so this page still displays PSSR1 metrics. However, as of September 26, the 'Enhance PSSR Image Quality' toggle (which forces PSSR2 upscaling) is activated by default. PSSR2 was made the default because it resolves a sharper, more stable image and removes PSSR1's film grain-like noise. If you experience image quality issues though, deactivate the toggle in PS5 system settings to see if PSSR1 produces better results.",
-    "extraInfo": "Camel 101 have confirmed that they're targeting 4K and 60fps on both base PS5 and Pro. They've also confirmed that Pro will utilize PSSR for 'enhanced visuals'. This potentially means that PSSR is doing a better job of creating a 4K-like image than base PS5's upscaler, or could simply mean that PSSR is using a higher internal resolution than what's on base PS5 due to Pro's extra power. We'll find out closer to the game's late 2025 launch."
-  },
-  {
     "name": "Biped",
     "id": "Biped",
     "urlPath": "biped",

@@ -189,6 +189,25 @@
     "metacritic": 0
   },
   {
+    "name": "Beneath",
+    "id": "Beneath",
+    "urlPath": "beneath",
+    "genre": "Survival Horror, FPS",
+    "developer": "Camel 101",
+    "publisher": "Wired Productions",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 28, 2025",
+    "hasShipped": true,
+    "metacritic": 50,
+    "pssr": true,
+    "rt": false,
+    "resolution": "4K PSSR",
+    "fps": "60fps",
+    "disclaimer": "Beneath uses PSSR1 natively, so this page still displays PSSR1 metrics. However, as of September 26, the 'Enhance PSSR Image Quality' toggle (which forces PSSR2 upscaling) is activated by default. PSSR2 was made the default because it resolves a sharper, more stable image and removes PSSR1's film grain-like noise. If you experience image quality issues though, deactivate the toggle in PS5 system settings to see if PSSR1 produces better results.",
+    "extraInfo": "Camel 101 have confirmed that they're targeting 4K and 60fps on both base PS5 and Pro. They've also confirmed that Pro will utilize PSSR for 'enhanced visuals'. This potentially means that PSSR is doing a better job of creating a 4K-like image than base PS5's upscaler, or could simply mean that PSSR is using a higher internal resolution than what's on base PS5 due to Pro's extra power. We'll find out closer to the game's late 2025 launch."
+  },
+  {
     "name": "Bench Simulator",
     "id": "Bench Simulator",
     "genre": "Simulation",
