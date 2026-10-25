@@ -1849,6 +1849,25 @@
     "extraInfo": "'Both the Pro and base PS5 version are the same for all intents and purposes. For example, the framerate is a locked 60fps, with no HDR support, and there's excessive shimmer on both consoles. At best, Pro has a negligible increase in resolution that you'd find hard to notice even when looking at both versions side by side. Non-Pro enhanced games like Metaphor: ReFantazio showcase more significant improvements simply due to Pro's increased horsepower.'"
   },
   {
+    "name": "Rue Valley",
+    "id": "Rue Valley",
+    "urlPath": "rue-valley",
+    "genre": "Adventure, RPG",
+    "developer": "Emotion Spark Studio",
+    "publisher": "Owlcat Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 11, 2025",
+    "hasShipped": true,
+    "metacritic": 60,
+    "notEnhanced": true,
+    "pssr": false,
+    "rt": false,
+    "resolution": "4K Upscaled (likely)",
+    "fps": "60fps",
+    "extraInfo": "Despite having the Pro Enhanced badge on the PSN Store, Owlcat has confirmed to me that Rue Valley has no unique Pro upgrades - it's essentially the same experience as on PC. However, Pro will still have a more stable 60fps simply due to its extra horsepower."
+  },
+  {
     "name": "S.O.N",
     "id": "S.O.N",
     "genre": "Horror",
