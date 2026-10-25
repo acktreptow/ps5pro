@@ -4416,25 +4416,6 @@
     "extraInfo": "The RT reflections toggle is exclusive to Pro, whereas base PS5 can only use inferior screen space reflections. Pro's RT also has no performance cost, so ensure the toggle is activated regardless of mode chosen as it especially improves water rendering. Other than no RT, base PS5 has the same 2 modes with similar framerate performance. Its performance mode even has a higher 1440p DRS floor (quality mode is also 4K). However, Pro's superior PSSR2's upscaling still resolves a sharper, cleaner, and more stable image, despite its 1296p DRS floor. Pro performance mode is therefore vastly superior, with a 4K-like image that compares well to quality mode."
   },
   {
-    "name": "Oniriam",
-    "pageTitle": "ONIRIAM",
-    "id": "Oniriam",
-    "urlPath": "oniriam",
-    "genre": "VR Puzzle, Adventure",
-    "developer": "My World",
-    "publisher": "My World",
-    "psStudios": false,
-    "psvr2": true,
-    "release": "November 22, 2024",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "2000 x 2040 per eye (likely)",
-    "fps": "60 Hz to 120 Hz reprojection",
-    "extraInfo": "Both Pro and base PS5 use reprojection, but Pro has more than a 20% increase in resolution and a more stable framerate."
-  },
-  {
     "name": "PUBG: Battlegrounds",
     "id": "PUBG",
     "urlPath": "pubg-battlegrounds",

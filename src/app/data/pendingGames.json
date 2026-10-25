@@ -1503,6 +1503,25 @@
     "extraInfo": "'Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Graphical settings such as lighting and some shadows are improved over Domynyo's previous game (Sanguis Luna). However, the differences in these graphical settings between the base PS5 and Pro version seem minimal.'"
   },
   {
+    "name": "Oniriam",
+    "pageTitle": "ONIRIAM",
+    "id": "Oniriam",
+    "urlPath": "oniriam",
+    "genre": "VR Puzzle, Adventure",
+    "developer": "My World",
+    "publisher": "My World",
+    "psStudios": false,
+    "psvr2": true,
+    "release": "November 22, 2024",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": false,
+    "resolution": "2000 x 2040 per eye (likely)",
+    "fps": "60 Hz to 120 Hz reprojection",
+    "extraInfo": "Both Pro and base PS5 use reprojection, but Pro has more than a 20% increase in resolution and a more stable framerate."
+  },
+  {
     "name": "Only Up Rush",
     "id": "Only Up Rush",
     "urlPath": "only-up-rush",
