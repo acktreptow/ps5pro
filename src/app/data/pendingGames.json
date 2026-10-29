@@ -31,6 +31,18 @@
     "metacritic": 0
   },
   {
+    "name": "A Plague Tale: Requiem",
+    "id": "A Plague Tale 2",
+    "genre": "Action-Adventure, Stealth",
+    "developer": "Asobo Studio",
+    "publisher": "Focus Entertainment",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 18, 2022",
+    "hasShipped": true,
+    "metacritic": 82
+  },
+  {
     "name": "ActionCam: SC",
     "pageTitle": "ActionCam: Supernatural Case",
     "id": "ActionCam",
