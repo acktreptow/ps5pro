@@ -384,6 +384,18 @@
     "metacritic": 0
   },
   {
+    "name": "Hunting Simulator 3",
+    "id": "HS3",
+    "genre": "Simulation, Shooter",
+    "developer": "Nacon Studio Ghent",
+    "publisher": "Nacon",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 29, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "Immortals Of Aveum",
     "id": "IoA",
     "genre": "Magic FPS",

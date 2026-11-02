@@ -3003,24 +3003,6 @@
     "extraInfo": "According to Crytek, Pro has 'increased graphical settings' compared to base PS5 and Pro's 60fps is more stable. PSSR also creates a sharper image than the 1260p to 4K FSR2 on base PS5. However, Pro's PSSR implementation results in a lot more shimmering/flickering than FSR2. To the point that many feel Pro's image looks worse despite the sharper render."
   },
   {
-    "name": "Hunting Simulator 3",
-    "id": "HS 3",
-    "urlPath": "hunting-simulator-3",
-    "genre": "Simulation, Shooter",
-    "developer": "Nacon Studio Ghent",
-    "publisher": "Nacon",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "October 29, 2026",
-    "hasShipped": true,
-    "metacritic": 0,
-    "pssr": false,
-    "rt": false,
-    "resolution": "Upscaled 4K (placeholder - see extra info)",
-    "fps": "60fps (placeholder - see extra info)",
-    "extraInfo": "Nacon Studio Ghent has confirmed to me that they have nothing to share regarding the technical specifications of Hunting Simulator 3 at this time. This is understandable, as HS3 doesn't even have a release window yet, let alone a firm date. Hopefully, we get a close approximation of Hunting Simulator 2's performance (dynamic 4K and 60fps). However, as a 5+ year-old title that never received a Pro update, was originally a PS4 game, and runs on UE4 (HS3 is UE5), we can't reliably use HS2 as a baseline to fairly speculate on HS3's performance."
-  },
-  {
     "name": "ILL",
     "id": "ILL",
     "urlPath": "ill",
