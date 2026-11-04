@@ -1989,6 +1989,18 @@
     "extraInfo": "Pro renders at 4K/60fps. However, there's (seemingly) no aliasing solution implemented, so edges of assets like doors/windows etc are still very jagged. Other graphical settings are also mediocre, such as missing shadows on basic assets like books. Therefore, the impact of any potential upgrades from base PS5 to Pro is minimal."
   },
   {
+    "name": "Saw: Genesis",
+    "id": "Saw: Genesis",
+    "genre": "3v1 Multiplayer Horror",
+    "developer": "Broken Mirror & Anshar",
+    "publisher": "Bloober Team",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Seafarer: The Ship Sim",
     "id": "Seafarer",
     "genre": "Simulation, Shipping",
