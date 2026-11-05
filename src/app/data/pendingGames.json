@@ -1318,18 +1318,6 @@
     "metacritic": 0
   },
   {
-    "name": "Midnight Town Stories",
-    "id": "Midnight Town Stories",
-    "genre": "FPS, Horror, Visual Novel",
-    "developer": "Dark Ocean Games",
-    "publisher": "GoGo Games Studios",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Mind Labyrinth VR Dreams",
     "id": "Mind Labyrinth",
     "urlPath": "mind-labyrinth-vr-dreams",
@@ -2239,6 +2227,18 @@
     "release": "October 24, 2025",
     "hasShipped": true,
     "metacritic": 50
+  },
+  {
+    "name": "The Midnight Town Stories: Adam's Forgotten Secrets",
+    "id": "Midnight Town Stories",
+    "genre": "FPS, Horror, Visual Novel",
+    "developer": "Dark Ocean Games",
+    "publisher": "GoGo Games Studios",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
   },
   {
     "name": "The Rogue Prince Of Persia",
