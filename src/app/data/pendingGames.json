@@ -1224,7 +1224,7 @@
     "publisher": "Cowcat",
     "psStudios": false,
     "psvr2": false,
-    "release": "December, 2026",
+    "release": "December 2026",
     "hasShipped": false,
     "metacritic": 0
   },
@@ -1725,6 +1725,18 @@
     "genre": "Survival, Exploration",
     "developer": "Peace Studio",
     "publisher": "Axyos Games",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "TBD",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
+    "name": "Phantom Cell",
+    "id": "PC",
+    "genre": "Tactical Action, Strategy",
+    "developer": "Daniel Wengenroth",
+    "publisher": "Daniel Wengenroth",
     "psStudios": false,
     "psvr2": false,
     "release": "TBD",
