@@ -144,18 +144,6 @@
     "metacritic": 0
   },
   {
-    "name": "Spine - This Is Gun Fu",
-    "id": "SPINE",
-    "genre": "Action, Beat'em Up",
-    "developer": "Nekki",
-    "publisher": "Nekki",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "Summer 2027",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Stranger Than Heaven",
     "id": "STH",
     "genre": "Action RPG",
