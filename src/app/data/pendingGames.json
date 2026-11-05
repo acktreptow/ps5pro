@@ -1217,6 +1217,18 @@
     "extraInfo": "'While you can manually change the resolution to 1080p/1440p/4K and framerate to 30fps/60fps, KSAB comes with recommended settings. This is 1440p/60fps on Pro and 1080p/60fps on base PS5. Considering the graphics of KSAB, 4K at a very stable 60fps should still be possible on Pro (at least with a VRR screen).'"
   },
   {
+    "name": "LarsGadiel",
+    "id": "LarsGadiel",
+    "genre": "2D Action",
+    "developer": "Diabolical Mind",
+    "publisher": "Cowcat",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "December, 2026",
+    "hasShipped": false,
+    "metacritic": 0
+  },
+  {
     "name": "Lego Batman: LOTDK",
     "id": "Lego Batman",
     "genre": "Action-Adventure",
