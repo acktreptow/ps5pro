@@ -2574,6 +2574,18 @@
     "metacritic": 0
   },
   {
+    "name": "Void Breaker",
+    "id": "Void Breaker",
+    "genre": "Roguelite, Bullet Hell FPS",
+    "developer": "Stubby Games",
+    "publisher": "Playstack",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 4, 2026",
+    "hasShipped": true,
+    "metacritic": 0
+  },
+  {
     "name": "WPCA: World Phasebound Control Authority",
     "id": "WPCA",
     "genre": "Action RPG",
