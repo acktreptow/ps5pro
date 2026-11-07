@@ -973,15 +973,15 @@
     "modes": [
       {
         "name": "fidelity (120 Hz refresh rate toggled off)",
-        "description": "Usually around 1440p to 4K PSSR2 at a very stable 60fps (dips to high 50s) in campaign and a locked 60fps in MP. Better quality SSR, AO, foliage, LoDs, etc than performance mode."
+        "description": "1440p to 4K PSSR2 at a basically locked 60fps in all modes. Better visual settings (check extra info)."
       },
       {
         "name": "performance (120 Hz refresh rate toggled on)",
-        "description": "Usually around 1008p to 4K PSSR2 at mostly 70-90fps in campaign and a very stable 120fps (dips to around 100fps in larger maps) in MP. Visual settings of base PS5 fidelity mode."
+        "description": "Upscaled 4K SMAA at 80-120fps in campaign (usually around 105fps) and a basically locked 120fps (brief, minor 1-2fps dips) in MP. Visual settings of base PS5 fidelity mode."
       }
     ],
-    "disclaimer": "Most tech info is taken from the MW4 beta and is therefore subject to somewhat change for the October launch. It still, however, provides an excellent baseline of expectations for now.",
-    "extraInfo": "Base PS5 has the same 2 modes, but at lower internal resolutions (usually around 1260p and 864p respectively). Pro also uses PSSR2 to upscale to 4K, which resolves a sharper, cleaner, and more stable image that base PS5's inferior FSR3 upscaling. This is especially seen in motion, where there can be significant ghosting on base PS5. Base PS5 performance mode also takes further quality reductions to SSR, AO, foliage, etc. Even then, it only averages around 100fps in MP, rarely goes above 110fps, and can even dip into the 80s in larger maps/Warzone. Fortunately, its fidelity mode's framerate performs similarly to Pro."
+    "extraInfo": "PSSR2 provides a more stable image (e.g. sub-pixel elements like railings), that's mostly cleaner (especially in motion), with far less ghosting than performance mode's SMAA. However, it can display significant artifacting/noise on a few reflections. This is only on semi-rare occasion though. Fidelity mode still provides more accurate SSR/SSAO, better quality foliage, increased volume of particles etc, along with the aforementioned PSSR2 benefits, leading to an overall superior image.",
+    "extraInfo2": "Base PS5 has the same 2 modes. While its fidelity mode can render a slightly sharper image in stills compared to Pro due its higher 1080p-4K DRS, overall IQ is worse as it has the same visual settings of Pro's performance mode and uses SMAA upscaling (ghosting, flickering, breakup, etc). Its performance mode then makes slightly further visual quality reductions, while also only averaging around 80fps in campaign and dips below 120fps more often in multiplayer."
   },
   {
     "name": "Chess Infinity",
