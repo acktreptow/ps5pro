@@ -7150,7 +7150,7 @@
       }
     ],
     "extraInfo": "Only fidelity mode can activate advanced RT. However, the 4K RT reflections, RTAO, and screen-space global illumination only slightly transform the image. In practice, even the uncapped performance mode still compares well due to excellent PSSR2 upscaling. Besides, SSR is still lightly used in combination on a few water surfaces, and planar reflections are used regardless of modes/toggles for some mirrors.",
-    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle and performance mode falls to 1080p-1440p with a slightly less stable 60fps. When uncapped, framerates are also generally around 5-10fps lower, with new internal res floors of 1260p and 1008p respectively. Pro's superior PSSR2 upscaling also resolves a sharper and cleaner image, especially in motion, than either base PS5's ITGI or QSSR upscaling (QSSR/PSSR both provide a stable image, unlike ITGI)."
+    "extraInfo2": "Base PS5 has the same modes, but fidelity mode has no advanced RT toggle and performance mode falls to 1080p-1440p with a slightly less stable 60fps. When uncapped, framerates are also around 10fps (ITGI) or 20fps (QSSR) lower, with internal res floors of 1260p and 864p respectively. Pro's superior PSSR2 upscaling also resolves a sharper and cleaner image, especially in motion, than base PS5's ITGI or QSSR upscaling (QSSR/PSSR2 provide a stable image and clean RT)."
   },
   {
     "name": "World Of Tanks: Heat",
