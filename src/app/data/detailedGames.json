@@ -972,12 +972,12 @@
     "fps": "120fps",
     "modes": [
       {
-        "name": "fidelity (120 Hz refresh rate toggled off)",
+        "name": "fidelity (60 Hz+ toggled off)",
         "description": "1440p to 4K PSSR2 at a basically locked 60fps in all modes. Better visual settings (check extra info)."
       },
       {
-        "name": "performance (120 Hz refresh rate toggled on)",
-        "description": "Upscaled 4K SMAA at 80-120fps in campaign (usually around 105fps) and a basically locked 120fps (brief, minor 1-2fps dips) in MP. Visual settings of base PS5 fidelity mode."
+        "name": "performance (60 Hz+ toggled on)",
+        "description": "Upscaled 4K SMAA at 80-120fps in campaign (usually around 105fps) and a basically locked 120fps in MP (brief 1-2fps dips)."
       }
     ],
     "extraInfo": "PSSR2 provides a more stable image (e.g. sub-pixel elements like railings), that's mostly cleaner (especially in motion), with far less ghosting than performance mode's SMAA. However, it can display significant artifacting/noise on a few reflections. This is only on semi-rare occasion though. Fidelity mode still provides more accurate SSR/SSAO, better quality foliage, increased volume of particles etc, along with the aforementioned PSSR2 benefits, leading to an overall superior image.",
