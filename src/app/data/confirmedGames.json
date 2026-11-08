@@ -48,18 +48,6 @@
     "metacritic": 0
   },
   {
-    "name": "Assassin's Creed Valhalla",
-    "id": "AC Valhalla",
-    "genre": "Action RPG",
-    "developer": "Ubisoft Montreal",
-    "publisher": "Ubisoft",
-    "psStudios": false,
-    "psvr2": false,
-    "release": "November 12, 2020",
-    "hasShipped": true,
-    "metacritic": 84
-  },
-  {
     "name": "Attack On Titan 3",
     "id": "A.O.T. 3",
     "genre": "Action",

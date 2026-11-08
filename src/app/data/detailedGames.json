@@ -498,6 +498,24 @@
     "extraInfo": "Don't use TAAU. PSSR2 resolves a more stable, sharper image, with clearer texture detail (especially at distance), greater motion clarity and less aliasing/shimmer. TAAU's foliage/SSR/particles are especially grainy. While PSSR2 can fail to hit 60fps in performance mode as often as TAAU (usually 4-8fps fewer when it does drop), it still remains in VRR range. RTGI is far more important to image quality than RT reflections, which isn't on base PS5. Base PS5's performance mode only has RTGI in the hideout, making Pro's performance mode a generational leap due to the improved lighting in general gameplay."
   },
   {
+    "name": "Assassin's Creed Valhalla",
+    "id": "AC Valhalla",
+    "urlPath": "assassins-creed-valhalla",
+    "genre": "Action RPG",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 12, 2020",
+    "hasShipped": true,
+    "metacritic": 84,
+    "pssr": true,
+    "rt": false,
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "extraInfo": "Due to excellent PSSR2 upscaling, Pro's 1 mode has the sharp, stable, and clean image seen in base PS5's quality mode (native 4K at 30fps), but with the basically locked 60fps of base PS5 performance mode (1440p-1728p DRS to 4K TAAU). While base PS5 performance mode still has great IQ due to its high internal res, it can look notably worse than the other 2 modes when assets are in the mid to long distance (more pixelated smoke/water effects, more aliasing on buildings, etc)."
+  },
+  {
     "name": "Astro Bot",
     "id": "Astro Bot",
     "urlPath": "astro-bot",
