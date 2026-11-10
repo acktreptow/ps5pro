@@ -3811,7 +3811,7 @@
     "resolution": "Upscaled 4K PSSR2",
     "fps": "120fps",
     "extraInfo": "For 2033, both Pro and base PS5 render a very sharp, 4K-like image. However, Pro's superior PSSR2 upscaling resolves a much cleaner and more stable image than base PS5, which can exhibit noticable ghosting around your gun, instability in sub-pixel elements like wired fences, and moire patterns on cloth (none of this is on Pro). While both consoles have a very stable 120fps though (lowest count was a brief 97fps in early sections), base PS5's 120fps is slightly better. Both consoles will dip in the same sections, but Pro's will dip more significantly and for a few seconds longer (e.g. 114fps vs 106fps).",
-    "extraInfo2": "For Last Light, base PS5 IQ issues still apply (sub-pixel instability, moire patterns, etc). Compared to 2033, base PS5's image is also noticeably softer, which makes sense as LL was a very late PS3-era game that amibitously pushed the console to its limits. Pro, however, retains a sharp 4K-like image, due to PSSR2. Fortunately, both consoles also run LL at an even more stable 120fps (at least in the early sections)."
+    "extraInfo2": "For Last Light, base PS5 IQ issues still apply (sub-pixel instability, moire patterns, etc). Compared to 2033, base PS5's image is also noticeably softer (especially areas like foliage), which makes sense as LL was a very late PS3-era game that amibitously pushed the console to its limits. Pro, however, retains a sharp 4K-like image, due to PSSR2. Fortunately, both consoles also run LL at an even more stable 120fps (at least in the early sections)."
   },
   {
     "name": "Microsoft Flight Sim 2024",
