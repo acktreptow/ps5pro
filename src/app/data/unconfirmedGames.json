@@ -168,18 +168,6 @@
     "metacritic": 0
   },
   {
-    "name": "Fairgames",
-    "id": "Fairgames",
-    "genre": "PvP Heist Shooter",
-    "developer": "Haven Studios",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "TBD",
-    "hasShipped": false,
-    "metacritic": 0
-  },
-  {
     "name": "Final Fantasy 14",
     "id": "FF14",
     "genre": "MMORPG",
