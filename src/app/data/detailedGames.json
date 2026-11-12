@@ -4006,7 +4006,7 @@
     "metacritic": 84,
     "pssr": true,
     "rt": true,
-    "rtTypes": "Unreal Engine 5 Lumen",
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
     "resolution": "Upscaled PSSR2",
     "fps": "60fps",
     "modes": [
@@ -4023,8 +4023,8 @@
         "description": "Upscaled 4K PSSR2 at a very stable 60fps. Rare, brief 1-3fps dips in gameplay, whereas some cutscenes can dip into the low-mid 50s for extended periods."
       }
     ],
-    "extraInfo": "While there can be a little more noticable Lumen noise and softer sub-pixel elements like foliage in performance mode, in practice, the IQ across all 3 modes are very similar as these issues aren't prevalent. All modes resolve a very 4K-like image with excellent motion clarity, for example. Considering the genre, performance is therefore the best mode for most players due to its very good 60fps.",
-    "extraInfo2": "Base PS5 has the same 3 modes with similar framerate performance. However, Pro's superior PSSR2 upscaling resolves a far sharper, cleaner, and more stable image than base PS5's TSR, which can resolve a noticable amount of breakup/flickering, as well ghosting trails that aren't on Pro. This is to the point that Pro's performance mode looks better than base PS5's quality mode. The IQ gap between base PS5's modes is also much more noticable, with its performance mode clearly showing the most of the aforementioned TSR issues. This makes quality mode far more viable on base PS5 compared to Pro."
+    "extraInfo": "While there can be a little more noticable Lumen noise and softer sub-pixel elements like foliage in performance mode, in practice, the IQ across all 3 modes are very similar as these issues aren't prevalent. All modes resolve a very 4K-like image with excellent motion clarity, for example. Considering the genre, performance is therefore the best mode for most players due to its very good 60fps (at least in early sections).",
+    "extraInfo2": "Base PS5 has the same 3 modes with similar framerate performance. However, Pro's superior PSSR2 upscaling resolves a far sharper, cleaner, and more stable image than base PS5's TSR, which can resolve a noticable amount of breakup, flickering, and ghosting trails that's barely on Pro. This is to the point that Pro's performance mode looks better than base PS5's quality mode. The IQ gap between base PS5's modes is also much more noticable, with its performance mode clearly showing the most of the aforementioned TSR issues. This makes quality mode far more viable on base PS5 compared to Pro."
   },
   {
     "name": "MotoGP 25",
