@@ -7002,7 +7002,7 @@
         "description": "Upscaled 4K (slightly higher internal res) at basically locked 60fps."
       }
     ],
-    "extraInfo": "Quality mode can regularly dip into the low-mid 50s during combat, which still makes the game perfectly playable on VRR screens. Regarding image quality, both modes offer a very sharp, 4K-like image once upscaled (likely via TSR), but both suffer from edge breakup, ghosting, Lumen noise, etc. These issues are just slightly more prevalent in performance mode due to the lower internal res. Base PS5 has the same 2 modes with similar IQ, however its quality mode only runs at 30fps."
+    "extraInfo": "Quality mode can regularly dip into the low-mid 50s during combat, which still makes the game perfectly playable on VRR screens (at least in early sections/runs). Regarding image quality, both modes offer a very sharp, 4K-like image once upscaled (likely via TSR). However, both suffer from edge breakup, ghosting, Lumen noise, etc. These issues are just slightly more prevalent in performance mode due to the lower internal resolution. Base PS5 has the same 2 modes with similar IQ, but its quality mode only runs at 30fps."
   },
   {
     "name": "WWE 2K26",
