@@ -6975,6 +6975,36 @@
     "extraInfo2": "Base PS5 has the same 2 modes that target the same framerate, but exacerbate the IQ issues slightly more than the equivalent mode on Pro. This is much less of an upgrade than many other 2026 Pro UE5 titles, especially ones that utilize PSSR2 such as Silent Hill: Townfall. Its 60fps is also slightly less stable early on."
   },
   {
+    "name": "Void Breaker",
+    "pageTitle": "VOID/BREAKER",
+    "id": "VB",
+    "urlPath": "void-breaker",
+    "genre": "Roguelite, Bullet Hell FPS",
+    "developer": "Stubby Games",
+    "publisher": "Playstack",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "November 4, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": false,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen",
+    "resolution": "Upscaled 4K TSR (likely)",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "quality",
+        "description": "Upscaled 4K (slightly higher internal res) at an unstable 60fps (dips well within VRR threshold)."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K (slightly higher internal res) at basically locked 60fps."
+      }
+    ],
+    "extraInfo": "Quality mode can regularly dip into the low-mid 50s during combat, which still makes the game perfectly playable on VRR screens. Regarding image quality, both modes offer a very sharp, 4K-like image once upscaled (likely via TSR), but both suffer from edge breakup, ghosting, Lumen noise, etc. These issues are just slightly more prevalent in performance mode due to the lower internal res. Base PS5 has the same 2 modes with similar IQ, however its quality mode only runs at 30fps."
+  },
+  {
     "name": "WWE 2K26",
     "id": "WWE 26",
     "urlPath": "wwe-2k26",
