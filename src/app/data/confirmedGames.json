@@ -60,6 +60,18 @@
     "metacritic": 0
   },
   {
+    "name": "BeamNG.drive",
+    "id": "BeamNG",
+    "genre": "Driving, Simulation",
+    "developer": "BeamNG",
+    "publisher": "BeamNG",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "October 19, 2026",
+    "hasShipped": true,
+    "metacritic": 50
+  },
+  {
     "name": "Clutch",
     "id": "Clutch",
     "genre": "Driving, Action",
