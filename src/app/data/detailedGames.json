@@ -69,6 +69,35 @@
     "extraInfo2": "Base PS5 has the same modes, but at a lower internal res than the equivalent mode on Pro (e.g. performance mode is 720p-1080p). This exacerbates the aforementioned IQ issues to the level expected from a base PS5 UE5 title. Base PS5 performance mode's 60fps also dips slightly more often and cutscenes run at 5-15fps fewer."
   },
   {
+    "name": "Active Matter",
+    "id": "AM",
+    "urlPath": "active-matter",
+    "genre": "Extraction Shooter",
+    "developer": "Matter Team",
+    "publisher": "Gaijin Distribution",
+    "psStudios": false,
+    "psvr2": false,
+    "release": "September 15, 2026",
+    "hasShipped": true,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Ray traced shadows, ambient occlusion, and reflections",
+    "resolution": "Upscaled 4K PSSR2",
+    "fps": "60fps",
+    "modes": [
+      {
+        "name": "fidelity RT",
+        "description": "Upscaled 4K PSSR2 at 30fps with RT."
+      },
+      {
+        "name": "performance",
+        "description": "Upscaled 4K PSSR2 at 60fps, but with no RT."
+      }
+    ],
+    "extraInfo": "Base PS5 only has a performance mode that also upscales to 4K and runs at 60fps with no RT. However, due to Pro's PSSR2 upscaling, its performance mode will still resolve a sharper, cleaner, and more stable image than possible on base PS5."
+  },
+  {
     "name": "Alan Wake 2",
     "id": "AW2",
     "urlPath": "alan-wake-2",
