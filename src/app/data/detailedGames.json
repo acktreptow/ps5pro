@@ -2699,14 +2699,14 @@
     "release": "November 19, 2026",
     "hasShipped": false,
     "metacritic": 0,
-    "pssr": false,
+    "pssr": true,
     "rt": true,
-    "rtTypes": "Ray traced global illumination and reflections",
-    "resolution": "1440p",
+    "rtTypes": "Ray traced global illumination, reflections, and shadows",
+    "resolution": "1440p PSSR2",
     "fps": "30fps",
-    "disclaimer": "All tech info is based on Digital Foundry's analysis of base PS5 gameplay in the initial trailers and Netflix showcase, which provides a solid baseline for potential Pro enhancements.",
-    "extraInfo": "Base PS5 renders at native 1440p, with diffuse RTGI for direct/indirect lighting and RT reflections for both rough/opaque surfaces, though SSR is still sometimes used in combination. RT reflections on transparent surfaces (glass) are top-tier and while there's no RT shadows, they still look great with accurate diffuse. While there's telltale signs of RT noise and a relatively soft image due to the 1440p res, DF believes PSSR2 on Pro could greatly alleviate these issues. The most impressive aspect is the realistic hair/skin rendering, including body hair.",
-    "extraInfo2": "Unfortunately, DF believe a 60fps mode is unrealistic even on Pro, and even 40fps is unlikely due to the overall great RT implementation (aside from the noise mostly seen on some cars) that drastically transform the visuals, as well as the unmatched open-world simulation complexity and scale. Rockstar might have to remove RTGI and/or reflections, reduce car/npc density and complexity, and lower resolution to maintain above 30fps, which may be too many cuts against artistic intent. The Netflix showcase was at least running at a basically locked, consistently-paced 30fps (with the usual camera-panning judder seen in all Rockstar games)."
+    "disclaimer": "Unfortunately, Rockstar has confirmed that GTA6 is targeting 30fps on all consoles. While this is incredibly disappointing to Pro owners who were hoping for at least a 40fps mode, at the very least, Pro should still provide a more stable 30fps.",
+    "extraInfo": "Rockstar has confirmed that Pro will receive 2 enhancements over the base PS5 version. The first is the use of PSSR2, which Rockstar states will 'improve clarity'.  Given PSSR2's ability to resolve a sharper, clearer, and more stable image over other upscalers like FSR/TSR (seen among a plethora of 2026 releases), this should translate to GTA6 too. Furthermore, DF analysis of recent GTA6 gameplay demos running on base PS5 showed telltale signs of RT noise and a relatively soft image due to the 1440 resolution.",
+    "extraInfo2": "The second Pro enhancement is the use of RT shadows, whereas base PS5 will only have diffuse RTGI for direct/indirect lighting and RT reflections for both rough/opaque surfaces (which were top-tier in the aforementioned gameplay outside of noise in some instances like on a few cars). Again, the recent GTA6 demos show base pS5 having great, but ultimately less accurate shadows than possible with RT. This will likely be a less obvious enhancement, but still one that helps widen the IQ gap between consoles."
   },
   {
     "name": "Halo: Campaign Evolved",
@@ -3869,7 +3869,7 @@
       }
     ],
     "disclaimer": "While both Pro and base PS5 have 60 Hz and 120 Hz modes, you can't switch between them in game. Instead, the mode given to you depends on if your screen can output at 120 Hz (or if you force 60 Hz in PS5 system settings).",
-    "extraInfo": "Pro runs at a locked 60fps in both games, whereas base PS5 can dip into the 50's during some combat sections (especially when lots of effects are onscreen). Pro's PSSR2 resolving advantages (mentioned below) also still apply. Though, the IQ gap between consoles in 60 Hz is smaller compared to the 120 Hz mode as both consoles render at native 4K, so PSSR2 isn't used for upscaling.",
+    "extraInfo": "Pro runs at a locked 60fps in both games, whereas base PS5 can dip into the 50's during some combat sections (especially when lots of effects are onscreen). Pro's PSSR2 resolving advantages (mentioned below) also still apply. Though, the IQ gap between consoles in 60 Hz is smaller compared to the 120 Hz mode, as both consoles render at native 4K, so PSSR2 isn't used for upscaling.",
     "extraInfo2": "For the 120 Hz mode, base PS5 drops its internal res down to 1152p (Pro is 1440p). Pro's superior PSSR2 upscaling also resolves a sharper, cleaner, and more stable image than base PS5, which can exhibit noticeable ghosting around your gun, instability in sub-pixel elements like wired fences, and moire patterns on cloth (none of this is on Pro), as well as softer foliage. However, Pro's 120fps is less stable (lowest count was 97fps in an early section). Both consoles will dip in the same area, but Pro's will dip more significantly and for a few seconds longer (e.g. 114fps vs 106fps). Fortunately, both consoles still maintain 120fps a majority of the time."
   },
   {
