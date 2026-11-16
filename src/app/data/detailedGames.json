@@ -3856,9 +3856,20 @@
     "metacritic": 83,
     "pssr": true,
     "rt": false,
-    "resolution": "Upscaled 4K PSSR2",
+    "resolution": "4K PSSR2",
     "fps": "120fps",
-    "extraInfo": "For 2033, both Pro and base PS5 render a very sharp, 4K-like image. However, Pro's superior PSSR2 upscaling resolves a much cleaner and more stable image than base PS5, which can exhibit noticable ghosting around your gun, instability in sub-pixel elements like wired fences, and moire patterns on cloth (none of this is on Pro). While both consoles have a very stable 120fps though (lowest count was a brief 97fps in early sections), base PS5's 120fps is slightly better. Both consoles will dip in the same sections, but Pro's will dip more significantly and for a few seconds longer (e.g. 114fps vs 106fps).",
+    "modes": [
+      {
+        "name": "60 Hz",
+        "description": "4K PSSR2 at a locked 60fps."
+      },
+      {
+        "name": "120 Hz",
+        "description": "1440p to 4K PSSR at a mostly stable 120fps."
+      }
+    ],
+    "disclaimer": "Both games also have a native 4K/60fps mode on both Pro and base PS5. However, you can't switch between 60/120fps modes in the game. Instead, it depends on if your screen can output at 120 Hz (or if you force 60 Hz in PS5 system settings). While Pro is a locked 60fps in both games, base PS5 can dip into the 50's in combat. Pro's PSSR2 resolving advantages (mentioned below) also still apply. The IQ gap is just slightly less so as it's already a native 4K image, so PSSR2 isn't used for upscaling.",
+    "extraInfo": "Base PS5 is only 1152p to 4K. However, Pro's superior PSSR2 upscaling resolves a much cleaner and more stable image than base PS5, which can exhibit noticable ghosting around your gun, instability in sub-pixel elements like wired fences, and moire patterns on cloth (none of this is on Pro). While both consoles have a very stable 120fps though (lowest count was a brief 97fps in early sections), base PS5's 120fps is slightly better. Both consoles will dip in the same sections, but Pro's will dip more significantly and for a few seconds longer (e.g. 114fps vs 106fps).",
     "extraInfo2": "For Last Light, base PS5 IQ issues still apply (sub-pixel instability, moire patterns, etc). Compared to 2033, base PS5's image is also noticeably softer (especially areas like foliage), which makes sense as LL was a very late PS3-era game that amibitously pushed the console to its limits. Pro, however, retains a sharp 4K-like image, due to PSSR2. Fortunately, both consoles also run LL at an even more stable 120fps (at least in the early sections)."
   },
   {
