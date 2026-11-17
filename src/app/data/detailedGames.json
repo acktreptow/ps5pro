@@ -6952,6 +6952,26 @@
     "extraInfo": "Until Dawn allows you to render at 2.39:1 ratio for a more cinematic look with black bars but a wider viewing angle, or the usual 16:9. This doesn't affect resolution or framerate. Base PS5 also has a fidelity and performance mode that targets the same framerate but at lower resolutions."
   },
   {
+    "name": "Until Dawn 2",
+    "id": "UD2",
+    "urlPath": "until-dawn-2",
+    "genre": "Horror, Interactive Drama",
+    "developer": "Firesprite",
+    "publisher": "Sony Interactive",
+    "psStudios": true,
+    "psvr2": false,
+    "release": "January 28, 2027",
+    "hasShipped": false,
+    "metacritic": 0,
+    "pssr": true,
+    "rt": true,
+    "rtTypes": "Unreal Engine 5 Lumen global illumination and reflections",
+    "resolution": "Upscaled 4K PSSR2 (likely)",
+    "fps": "60fps (likely)",
+    "disclaimer": "Technical details comes Sony's advertising on the PlayStation website and will be updated once further information is known.",
+    "extraInfo": "PlayStation has confirmed via their site (not the PSN object, the actual website) that Pro's enhancements will come in the form of PSSR2 upscaling, increased post-processing fidelity, and advanced RT lighting effects and reflections. These are much more significant enhancements than the 2024 remake of the original received. Despite also being on Unreal Engine 5, the remake didn't utilize Lumen RT, didn't use PSSR1 (which likely would have been good as it would've upscaled from a high internal res), and didn't even launch with a 60fps mode."
+  },
+  {
     "name": "Valheim",
     "id": "Valheim",
     "urlPath": "valheim",

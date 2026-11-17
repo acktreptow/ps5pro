@@ -142,17 +142,5 @@
     "release": "January 15, 2027",
     "hasShipped": false,
     "metacritic": 0
-  },
-    {
-    "name": "Until Dawn 2",
-    "id": "UD2",
-    "genre": "Horror, Interactive Drama",
-    "developer": "Firesprite",
-    "publisher": "Sony Interactive",
-    "psStudios": true,
-    "psvr2": false,
-    "release": "January 28, 2027",
-    "hasShipped": false,
-    "metacritic": 0
   }
 ]
